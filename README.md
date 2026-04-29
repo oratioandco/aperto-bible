@@ -13,36 +13,39 @@ Aperto (Latin: "open") is a modern Bible translation project released under [CC 
 
 ## Current Coverage
 
-### Complete Books
+### Full Coverage
 
 | Book | Languages |
 |------|-----------|
-| **Luke (Lukas)** | 🇩🇪 German (24 chapters), 🇬🇧 English (24 chapters), 🇵🇱 Polish (24 chapters) |
-| **Psalms** | 🇩🇪 German (Ps 1–8, 23) |
+| **Luke (Lukas)** | 🇩🇪 German (24 ch.), 🇬🇧 English (24 ch.), 🇵🇱 Polish (24 ch.) |
+| **Psalms** | 🇩🇪 German (Ps 1–8, 23), 🇬🇧 English (Ps 1–8, 23), 🇵🇱 Polish (Ps 1–8, 23) |
 
-### Luke Chapter 1 — 28 Languages
+### Luke Chapter 1 — 28 Additional Languages
 
-Arabic, Bulgarian, Catalan, Czech, Danish, Dutch, English, Estononian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Croatian, Latvian, Lithuanian, Maltese, Norwegian (Bokmål), Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Albanian, Spanish, Swedish, Turkish, Ukrainian
+Arabic, Bulgarian, Catalan, Czech, Danish, Greek, Spanish, Estonian, Finnish, French, Irish, Croatian, Hungarian, Italian, Lithuanian, Latvian, Maltese, Norwegian (Bokmål), Dutch, Portuguese, Romanian, Russian, Slovak, Slovenian, Albanian, Swedish, Turkish, Ukrainian
 
 ## Repository Structure
 
 ```
 aperto-bible/
 ├── texts/
-│   ├── de/42-LUK/          ← German Luke (per-chapter USFM files)
-│   ├── en/42-LUK/          ← English Luke
-│   ├── pl/42-LUK/          ← Polish Luke
-│   ├── de/19-PSA/          ← German Psalms
-│   └── luke-01/            ← Luke chapter 1 in 28 languages
-│       ├── ar/             ← Arabic
-│       ├── bg/             ← Bulgarian
-│       └── ...
-├── commentary/             ← Supplementary commentary (optional)
+│   ├── de/                  ← German (full Luke + Psalms)
+│   │   ├── 42-LUK/          ← Luke (24 chapters)
+│   │   └── 19-PSA/          ← Psalms 1–8, 23
+│   ├── en/                  ← English (full Luke + Psalms)
+│   │   ├── 42-LUK/
+│   │   └── 19-PSA/
+│   ├── pl/                  ← Polish (full Luke + Psalms)
+│   │   ├── 42-LUK/
+│   │   └── 19-PSA/
+│   ├── ar/42-LUK/           ← Arabic (Luke 1)
+│   ├── bg/42-LUK/           ← Bulgarian (Luke 1)
+│   └── ...                  ← 25 more languages (Luke 1)
 ├── scripts/
-│   ├── merge-to-book.sh    ← Merge chapters into single-book USFM
-│   └── validate.sh         ← Basic USFM syntax validation
-├── .github/workflows/      ← CI validation on PRs
-└── metadata/               ← Book metadata and translation info
+│   ├── merge-to-book.sh     ← Merge chapters into single-book USFM
+│   └── validate.sh          ← USFM syntax validation
+├── .github/workflows/       ← CI validation on PRs
+└── metadata/                ← Book metadata and translation info
 ```
 
 ## File Naming Convention

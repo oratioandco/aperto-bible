@@ -6,6 +6,8 @@ Aperto (Latin: "open") is a modern Bible translation project released under [CC 
 
 ## What Makes Aperto Different
 
+- **Literary equivalence** — Aperto translates for literary impact, not word-by-word accuracy. The goal: a modern reader should feel what the original audience felt — the rhythm, the tension, the surprise.
+- **Woven-in amplifications** — Ancient readers understood things modern readers miss: social codes, power dynamics, religious rituals, everyday assumptions. Aperto weaves brief contextual clues directly into the text (marked in *italics*), so you don't need a commentary to follow what's happening — you get it as you read.
 - **Footnotes that explain, not just reference** — Every translation decision is documented inline. Cultural context, textual variants, apologetic notes, and reader helps are woven into the text via USFM footnotes.
 - **Chapter-by-chapter structure** — Each chapter is its own file. Small diffs, easy reviews, accessible contributions.
 - **31 languages from day one** — Full Luke in German, English, and Polish. Luke chapter 1 in 28 additional languages — a showcase and an invitation to help expand.

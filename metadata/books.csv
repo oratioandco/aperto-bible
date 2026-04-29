@@ -1,0 +1,34 @@
+book_code,book_name_de,book_name_en,chapters,testament
+01-GEN,1. Mose,Genesis,50,OT
+02-EXO,2. Mose,Exodus,40,OT
+03-LEV,3. Mose,Leviticus,27,OT
+04-NUM,4. Mose,Numbers,36,OT
+05-DEU,5. Mose,Deuteronomy,34,OT
+19-PSA,Psalmen,Psalms,150,OT
+40-MAT,Matthäus,Matthew,28,NT
+41-MRK,Markus,Mark,16,NT
+42-LUK,Lukas,Luke,24,NT
+43-JHN,Johannes,John,21,NT
+44-ACT,Apostelgeschichte,Acts,28,NT
+45-ROM,Römer,Romans,16,NT
+46-1CO,1. Korinther,1 Corinthians,16,NT
+47-2CO,2. Korinther,2 Corinthians,13,NT
+48-GAL,Galater,Galatians,6,NT
+49-EPH,Epheser,Ephesians,6,NT
+50-PHP,Philipper,Philippians,4,NT
+51-COL,Kolosser,Colossians,4,NT
+52-1TH,1. Thessalonicher,1 Thessalonians,5,NT
+53-2TH,2. Thessalonicher,2 Thessalonians,3,NT
+54-1TI,1. Timotheus,1 Timothy,6,NT
+55-2TI,2. Timotheus,2 Timothy,4,NT
+56-TIT,Titus,Titus,3,NT
+57-PHM,Philemon,Philemon,1,NT
+58-HEB,Hebräer,Hebrews,13,NT
+59-JAS,Jakobus,James,5,NT
+60-1PE,1. Petrus,1 Peter,5,NT
+61-2PE,2. Petrus,2 Peter,3,NT
+62-1JN,1. Johannes,1 John,5,NT
+63-2JN,2. Johannes,2 John,1,NT
+64-3JN,3. Johannes,3 John,1,NT
+65-JUD,Judas,Jude,1,NT
+66-REV,Offenbarung,Revelation,22,NT

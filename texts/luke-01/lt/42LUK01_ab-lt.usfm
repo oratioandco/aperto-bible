@@ -1,0 +1,242 @@
+\id LUK - Aperto Biblija (Lietuvių) v4.3 (2026-03-22)
+\usfm 3.0
+\ide UTF-8
+\h Lukas
+\toc1 Evangelija pagal Luką
+\toc2 Lukas
+\toc3 Lk
+\mt1 Lukas
+
+\c 1
+\s1 Kodėl rašau
+
+\p
+\v 1 Kadangi daugelis jau ėmėsi surašyti nuoseklų pasakojimą apie tai, kas tarp mūsų išsipildė —
+\v 2 taip, kaip mums perdavė žmonės, kurie nuo pradžių visa tai matė savo akimis ir tapo žodžio tarnais, —
+\v 3 nusprendžiau ir aš, viską nuo pat pradžių kruopščiai ištyręs, surašyti tau, gerbiamasis Teofiliau,\f + \fr 1:3 \fk KULTUR \fq gerbiamasis Teofiliau \ft κράτιστε (kratiste) — garbės titulas, skirtas aukšto rango romėnams arba įtakingiems viešiesiems asmenims. Teofilius (gr. „Dievo mylėtojas") gali būti tikras vardas, simbolinis kreipinys arba abu. Antikinėje kultūroje kūrinio dedikavimas mecenatui buvo socialinis sandoris — garbė abiem pusėms.\f* visa iš eilės,
+\v 4 kad turėtum tvirtą pagrindą\f + \fr 1:4 \fk TEXT \fq tvirtą pagrindą \ft Graikiškai ἀσφάλεια (aspháleia). Tradiciniai vertimai: „tikrumas", „patikimumas". Lukas nežada agresyvaus įrodymo — jis siūlo pamatą, ant kurio galima stovėti. Skirtumas tarp žinojimo ir stovėjimo.\f*\f + \fr 1:1-4 \fk APOLOGETICS \fq kruopščiai ištyręs \ft Lukas aprašo savo metodą: apklausė liudininkus, išrinko šaltinius, surašė tvarkingai. Tai atitinka antikinės istoriografijos standartus (plg. Tukididas, Polibijus). Naujojo Testamento rankraščių bazė — virš 5 800 graikų kopijų — gerokai pralenkia bet kurį kitą antikos tekstą (Homero Iliada: ~1 900 kopijų). Teksto kritikos metodai rodo aukštą perdavimo patikimumą. Lukas rašo ne kaip mitų kūrėjas, o kaip tyrėjas.\f* viskam, ko buvai mokytas.
+
+\s1 Senas kunigas ir neįmanomas pažadas
+
+\p
+\v 5 Erodo,\f + \fr 1:5 \fk KULTUR \fq Erodas \ft Erodas Didysis (valdė 37–4 m. pr. Kr.), Romos paskirtas Judėjos karalius. Idumėjas kilme, žydų daugumos nemylimas, žinomas dėl paranoidinio žiaurumo. „Erodo laikais" — politinės priespaudos ir neramumų metas.\f* Judėjos karaliaus, laikais gyveno kunigas vardu Zacharijas. Jis priklausė Abijo pamainai.\f + \fr 1:5 \fk KULTUR \fq Abijo pamainai \ft Šventyklos kunigai buvo suskirstyti į 24 pamainas (1 Met 24). Kiekviena pamaina tarnavo po savaitę du kartus per metus ir per didžiąsias šventes. Likusį laiką kunigai grįždavo prie savo žemės ar amato.\f* Jo žmona Elizabieta irgi buvo iš kunigų giminės\add  — abu iš geriausių šeimų, abu Dievo turėję būti ypač palaiminti. Taip ir turėjo būti.\add*
+\v 6 Abu gyveno teisiai Dievo akivaizdoje, laikėsi kiekvieno įsakymo\add , niekam nebuvo už ką priekaištauti\add*.
+\v 7 \add Bet\add* vaikų neturėjo. Elizabieta buvo bevaikė.\f + \fr 1:7 \fk KULTUR \fq bevaikė \ft Senovės pasaulyje bevaikystė nebuvo privati nelaimė — tai buvo viešoji gėda. Bendruomenė kalbėdavo: ką jie padarė, kad Dievas juos taip baudžia? Elizabietos atvejis ypač skaudus — ji buvo nepriekaištinga, o vis tiek nešė šią gėdą.\f*\f + \fr 1:7 \fk LEBEN \fq vaikų neturėjo \ft Laukimas, kai niekas nevyksta. Malda, į kurią neatsakoma. Elizabieta ir Zacharijas gyveno ištikimai — ir vis tiek negavo to, ko labiausiai norėjo. Tai pažįstama patirtis: kai gyvenimas nesusidėlioja pagal planą, o priežasties nematyti. Biblinė perspektyva nepateikia lengvo atsakymo — bet rodo, kad neišsipildę lūkesčiai nebūtinai reiškia pamiršimą.\f* \add Jų pasaulyje tai reiškė ne privačią nelaimę — tai buvo gėda. Klausimas, kurio niekas garsiai neuždavė: ką jie padarė, kad Dievas juos taip baudžia? O jie nieko nebuvo padarę.\add* \add Dabar\add* abu jau seni.\x + \xo 1:7 \xt Žr. šoninį straipsnį: Garbės ir gėdos kultūra pirmajame amžiuje\x*
+
+\p
+\v 8 Kartą, kai jo pamaina ėjo tarnystę Dievo akivaizdoje,
+\v 9 burtai krito Zacharijui — deginti smilkalus Viešpaties šventykloje.\f + \fr 1:9 \fk KULTUR \fq burtai krito \ft Smilkalų deginimas buvo vienintelio karto per visą gyvenimą garbė. Burtai buvo ne atsitiktinumas, o būdas sužinoti Dievo valią. Kunigas įeidavo į Šventąją vietą vienas — arčiausiai Dievo, kur paprastas kunigas galėjo patekti.\f* \add Tai buvo vienintelis kartas per visą gyvenimą.\add*
+\v 10 Minia laukė lauke, meldėsi. \add Zacharijas įėjo vidun vienas. Prieblanda. Žvakidės šviesa. Smilkalų dūmai kylantys nuo altoriaus.\add*
+
+\p
+\v 11 Ir tada — Viešpaties angelas\add , stovintis dešinėje altoriaus pusėje, ten, iš kur ateina geroji žinia\add*.\f + \fr 1:11 \fk UNGLAUBLICH \fq angelas \ft Angelų pasirodymai — viena sunkiausiai priimamų Biblijos dalių šiuolaikiniam skaitytojui. Tekstas kuria pasaulį, kuriame Dievas komunikuoja per pasiuntinius. Interpretacijos: simbolinė (literatūrinis pasakojimo būdas, kaip antikiniame epe), psichologinė (vidinė patirtis, išreikšta vaizdiniu), tiesioginė (realios dvasinės būtybės). Pats Jėzus kalbėjo apie angelus kaip apie tikrus (Mt 18:10). Lukas pateikia Gabrielių kaip konkretų pasiuntinį su konkrečia žinia — ne abstrakciją, o susitikimą.\f*
+\v 12 Jį sukrėtė. Baimė užgriuvo jį.
+
+\p
+\v 13 Angelas pasakė:
+\p „Nebijok, Zacharijau. Tavo malda išgirsta. Tavo žmona Elizabieta pagimdys tau sūnų, ir tu jį pavadinsi Jonu.\f + \fr 1:13 \fk TEXT \fq Jonu \ft Hebrajiškai Yohanan (יוֹחָנָן) — „YHWH parodė malonę" arba „YHWH yra gailestingas." Vardas nėra atsitiktinis: jis apibendrina visą pasakojimą. Po dešimtmečių laukimo — malonė. Po tylos — atsakymas. Vardas yra žinia.\f*
+\v 14 Jis bus tavo džiaugsmas, ir daugelis džiaugsis jo gimimu.
+\v 15 Jis bus didis Dievo akivaizdoje. \add Gyvens pasišventęs —\add* nevalgys vyno nei jokio stipraus gėrimo.\f + \fr 1:15 \fk KONTEXT \fq nevalgys vyno \ft Naziriečių įžado aidas (Sk 6:1-21) — pašventimas Dievui nuo gimimo, kaip Samsonas ir Samuelis. Jonas pašvęstas dar prieš gimdamas.\f* Dar prieš gimdamas bus pripildytas Šventosios Dvasios.
+\v 16 Daugelį Izraelio vaikų jis atgręš atgal pas Viešpatį, jų Dievą,
+\v 17 ir eis pirma jo su Elijo dvasia ir galia — grąžinti tėvų širdis vaikams, o neklusniuosius — prie teisiųjų išminties. Jis paruoš tautą Viešpačiui."
+
+\p
+\v 18 Zacharijas paklausė: „Iš kur man tai žinoti? Aš jau senas, ir mano žmona — taip pat."\f + \fr 1:18 \fk KONTEXT \fq Iš kur man tai žinoti? \ft Zacharijo klausimas atspindi Abraomo žodžius (Pr 15:8): „Iš ko aš tai pažinsiu?" Abraomas gavo ženklą. Zacharijas gauna tylą. Kodėl skirtinga reakcija? Galbūt todėl, kad Zacharijui duota daugiau — Šventykla, pranašai, visa Izraelio istorija.\f*\f + \fr 1:18 \fk LEBEN \fq Aš jau senas \ft Abejonė nėra priešingybė tikėjimui — ji dažnai yra jo palydovė. Zacharijas ne atmeta Dievą — jis tiesiog nebegali patikėti gera žinia, nes per ilgai laukė. Nusivylimas sukuria šarvą: geriau netikėti, nei vėl nusivilti. Tai žmogiška. Tekste Dievas į abejonę reaguoja ne atmesdamas Zachariją, o duodamas jam laiko — devynis mėnesius tylos.\f*
+
+\p
+\v 19 Angelas atsakė: „Aš esu Gabrielius.\f + \fr 1:19 \fk KONTEXT \fq Gabrielius \ft Gabrielius pasirodė Danieliui (Dan 8-9) prieš kelis šimtmečius. Tas pats angelas grįžta. Jo vardas reiškia „Dievo galingasis" — tai ne šiaip pasiuntinys, bet tas, kuris stovi Dievo akivaizdoje.\f* Aš stoviu Dievo akivaizdoje. Buvau siųstas tau kalbėti ir pranešti šią gerąją žinią.
+\v 20 Bet dabar tylėsi. Negalėsi prabilti iki tos dienos, kai visa tai išsipildys — nes nepatikėjai mano žodžiais, kurie savo metu išsipildys."\f + \fr 1:20 \fk UNGLAUBLICH \fq tylėsi ir negalėsi kalbėti \ft Staigi fizinė negalia kaip dieviškas ženklas — šiuolaikinis protas ieško paaiškinimo. Psichologinė interpretacija: konversinė afazija (streso sukeltas kalbos praradimas — medicinoje žinomas reiškinys). Simbolinė: tyla kaip pasakojimo metafora — kas negali kalbėti, turi klausytis. Tikėjimo perspektyva: Dievas veikia ir per kūną, ne tik per mintis. Lukas pateikia tylą ne kaip bausmę, o kaip formavimą — po devynių mėnesių Zacharijas prabyla pranašyste, ne skundu.\f*
+
+\p
+\v 21 Minia lauke laukė. \add Zacharijas nesirodė. Žmonės pradėjo nerimauti — per ilgai.\add*
+\v 22 Kai pagaliau išėjo, negalėjo jiems nieko pasakyti. Tik rodė rankomis. Jie suprato: jis matė regėjimą.
+
+\p
+\v 23 Baigęs savo tarnystės dienas, Zacharijas grįžo namo.
+\v 24 Netrukus Elizabieta pastojo. Penketą mėnesių ji niekur nėjo\add , nesirodė\add*.
+\v 25 Ji sakė: „Viešpats tai padarė. Jis pažvelgė į mane ir nuėmė nuo manęs gėdą žmonių akyse."\f + \fr 1:24-25 \fk UNGLAUBLICH \fq pastojo \ft Nėštumas senatvėje — ar tai įmanoma? Mediciniškai retai, bet ne neįmanoma (šiuolaikinė medicina fiksuoja nėštumus ir po 50-ies). Biblinė tradicija pabrėžia šį motyvą: Sara (Pr 21), Rachelė (Pr 30), Hana (1 Sam 1) — visos pagimdė, kai tai atrodė nebeįmanoma. Lukas stato šį įvykį kaip paruošimą dar didesniam stebuklui (1:35). Elizabietos istorija yra tilttas: jei Dievas gali tai, galbūt gali ir daugiau.\f*
+
+\s1 Marija sako „taip"
+
+\p
+\v 26 Praėjo šeši mėnesiai. Dievas vėl siuntė Gabrielių — tik šį kartą ne į Jeruzalę, ne į šventyklą. Į kaimą Galilėjoje, vardu Nazaretas. \add Mažą vietą, apie kurią niekas nežinojo.\add*
+\v 27 Ten gyveno jauna moteris — Marija. Susižadėjusi su Juozapu. Jis buvo dailidė iš Dovydo giminės. \add Jos gyvenimas buvo nuspręstas, ateitis aiški.\add*
+
+\p
+\v 28 Angelas atėjo pas ją. „Džiaukis, malonės apdovanotoji,"\f + \fr 1:28 \fk TEXT \fq malonės apdovanotoji \ft Graikiškai κεχαριτωμένη (kecharitōmenē) — esamojo laiko neveikiamoji dalyvinė forma, reiškianti „ta, kuriai suteikta malonė ir kuri toje malonėje pasilieka." Origenas: „Šis kreipinys skirtas tik Marijai — niekur kitur Rašte nerastas." Katalikų tradicijoje: „pilna malonės." Protestantų: „apdovanotoji."\f* pasakė. „Viešpats su tavimi."
+
+\p
+\v 29 Žodžiai ją sudrebino. \add Niekas niekada taip jos nebuvo vadinęs.\add* Ji svarstė — ką tai reiškia?
+
+\p
+\v 30 „Nebijok, Marija," pasakė angelas. „Radai malonę Dievo akyse. Tu pradėsi ir pagimdysi sūnų.
+\v 31 Pavadinsi jį Jėzumi.
+\p
+\v 32 Jis bus didis.
+Jis bus vadinamas Aukščiausiojo Sūnumi.
+Viešpats Dievas duos jam \add jo protėvio\add* Dovydo sostą.
+\v 33 Jis valdys Jokūbo namus per amžius.
+Jo karalystei nebus galo."
+
+\p
+\v 34 „Kaip tai gali būti?" paklausė Marija. „Aš nepažįstu vyro."\x + \xo 1:34-35 \xt Žr. šoninį straipsnį: Mergelės gimimas — istorija, tikėjimas ir klausimai\x*\f + \fr 1:34-35 \fk UNGLAUBLICH \fq Kaip tai gali būti? \ft Mergelės pradėjimas — bene didžiausias iššūkis šiuolaikiniam skaitytojui. Marijos klausimas yra ir mūsų klausimas. Interpretacijos: (1) Tiesioginė — Dievas veikia anapus biologinių dėsnių, kaip ir kurdamas pasaulį. (2) Simbolinė — pasakojimas perteikia teologinę tiesą apie Jėzaus unikalią kilmę, ne biologinį mechanizmą. (3) Istorinė-kritinė — mergelės gimimo motyvai antikiniame pasaulyje buvo žinomi (Augustas, Platonas), bet Luko pasakojimas radikaliai skiriasi: čia nėra dievų ir mirtingųjų sąjungos, o Dvasios kūrybinis veiksmas. Pats Lukas pateikia tai ne kaip mitą, o kaip konkretų įvykį konkrečios moters gyvenime.\f*
+
+\p
+\v 35 „Šventoji Dvasia nužengs ant tavęs," atsakė angelas. „Aukščiausiojo galia tave apgaubs.\f + \fr 1:35 \fk KONTEXT \fq apgaubs \ft Graikiškai ἐπισκιάσει (episkiasei) — tas pats žodis, kuriuo aprašomas Dievo debesis, nusileisdavęs ant Padangtės (Iš 40:35). Marija tampa nauja vieta, kur gyvena Dievo artumas. Tai ne metafora — tai inkarnacija.\f* Todėl šventasis, kuris gims, bus vadinamas Dievo Sūnumi.
+\v 36 Ir tavo giminaitė Elizabieta, kurią visi laikė bevaise — ji \add irgi\add* laukiasi sūnaus. Jau šeštas mėnuo.
+\v 37 Dievui nėra nieko neįmanomo."\f + \fr 1:37 \fk KONTEXT \fq Dievui nėra nieko neįmanomo \ft Aidas iš Pradžios knygos 18:14 — Dievo žodžiai Surai, kuri nusijuokė išgirdusi apie sūnų senatvėje. Ta pati frazė, tas pats neįmanomumas, ta pati Dievo galia.\f*
+
+\p
+\v 38 Marija atsakė: „Aš — Viešpaties tarnaitė.\f + \fr 1:38 \fk LEBEN \fq Viešpaties tarnaitė \ft Marijos „taip" kainavo viską. Nėštumas prieš vestuves reiškė gėdą, galimą skyrybų, viešą pasmerkimą. Ji žinojo riziką — ir vis tiek sutiko. Tai ne pasyvus paklusnumas, o drąsus sprendimas. Optativinė nuosaka (γένοιτό μοι) graikų kalboje reiškia aktyvų pritarimą: „tegul man taip būna."\f* Tebūnie man pagal tavo žodį."
+\p Angelas pasitraukė.
+
+\s1 Dvi moterys, du stebuklai
+
+\p
+\v 39 Marija pakilo ir skubėdama leidosi į Judėjos kalnyną.
+\v 40 Atėjusi įėjo į Zacharijo namus ir pasveikino Elizabietą. \add Dvi moterys. Abi laukėsi — viena sena, kita jauna.\add*
+
+\p
+\v 41 Kai Elizabieta išgirdo Marijos pasveikinimą, kūdikis jos įsčiose šoktelėjo.\f + \fr 1:41 \fk UNGLAUBLICH \fq kūdikis šoktelėjo \ft Kūdikio judėjimas motinos įsčiose — įprastas fiziologinis reiškinys. Bet Lukas pateikia tai kaip atpažinimą: negimusysis Jonas reaguoja į Jėzaus artumą. Natūralistinė interpretacija: embrionas reagavo į motinos emocinį sujaudimą (kortizolio ir adrenalino pokytis pereina per placentą). Tikėjimo perspektyva: Dievas veikia per kūniškus procesus, suteikdamas jiems gilesnę prasmę. Panašu į Dovydą, šokantį prieš Sandoros skrynią (2 Sam 6:14-16) — spontaniškas kūno atsakas į šventumą.\f* Šventoji Dvasia pripildė Elizabietą,
+\v 42 ir ji sušuko garsiai:\f + \fr 1:42 \fk KONTEXT \fq sušuko garsiai \ft Graikiškai ἀνεφώνησεν κραυγῇ μεγάλῃ — ne mandagus pasveikinimas, o pranašiškas šauksmas. Elizabietos žodžiai „Tu labiausiai laiminga tarp moterų" atkartoja Deborą apie Jaelę (Ts 5:24) ir Juditą (Jdt 13:18) — Marija prisijungia prie Izraelio didvyrių moterų.\f*
+\p „Tu labiausiai laiminga tarp moterų, ir laimingas vaisius tavo įsčių!
+\v 43 Iš kur man tokia garbė — kad mano Viešpaties motina ateitų pas mane?
+\v 44 Vos tik tavo pasveikinimas pasiekė mano ausis, kūdikis mano įsčiose šoktelėjo iš džiaugsmo.
+\v 45 Laiminga, kuri patikėjo, nes išsipildys, ką jai pasakė Viešpats."
+
+\s1 Marijos giesmė
+
+\q1
+\v 46 Viskas manyje šlovina Dievą.\x + \xo 1:46-55 \xt Žr. šoninį straipsnį: Magnificat ir didysis apvertimas\x*\f + \fr 1:46 \fk KONTEXT \fq Viskas manyje šlovina Dievą \ft Magnificat — Marijos giesmė, atspindinti Hanos giesmę (1 Sam 2:1-10). Hana buvo bevaikė moteris, pagimdžiusi Samuelį. Marija perima Hanos žodžius, bet suteikia jiems kosminio masto — nuo asmeninio dėkingumo iki politinės vizijos. Krikščionių tradicijoje Magnificat giedamas kasdien per Vakaro maldą (Vakarinę).\f*\f + \fr 1:46-48 \fk LEBEN \fq Jis pažvelgė į mane \ft Būti pastebėtam — viena giliausių žmogiškų reikmių. Marija gieda apie Dievą, kuris pažvelgė į nepastebimą, nereikšmingą mergaitę. Šiuolaikiniame pasaulyje, kur vertė matuojama pasiekimais ir matomumu, ši idėja veikia priešinga kryptimi: verta ne todėl, kad pastebėta — pastebėta todėl, kad verta. Tai ne pasyvus laukimas dėmesio, o atradimas: kažkas jau žiūri.\f*
+\q1
+\v 47 Visa mano dvasia džiūgauja
+\q2 dėl to, kuris mane gelbsti.
+
+\q1
+\v 48 Jis pažvelgė į mane —
+\q2 į nematytą, nepastebėtą.\f + \fr 1:48 \fk TEXT \fq nematytą, nepastebėtą \ft Graikiškai ταπείνωσις (tapeinōsis) — žemas socialinis statusas, ne dorybė. Marija nebuvo kilmingoji, ne iš garsios šeimos — ji buvo nereikšminga jauna moteris iš provincijos miestelio. Dievo žvilgsnis keičia ne jos padėtį, bet tai, kas matoma.\f*
+\q2 Nuo šiol visos kartos
+\q2 vadins mane laimingą.
+
+\q1
+\v 49 Galingasis padarė man didžių dalykų.
+\q2 Jo vardas — šventas.
+
+\q1
+\v 50 Jo gerumas siekia kartą po kartos —
+\q2 tiems, kurie jo bijo.
+
+\b
+
+\q1
+\v 51 Jis rodo rankos galią:\f + \fr 1:51-53 \fk TEXT \fq išblaško... nuveria... pripildo... paleidžia \ft Graikų kalboje šie veiksmažodžiai stovi praeities laiku (aoristai), bet čia jie vadinami gnominiais aoristais — aprašo tai, ką Dievas VISADA daro, ne vienkartinį istorinį veiksmą. Verčiame esamuoju laiku. Tai Dievo būdas — nuolatinis.\f*\f + \fr 1:51-53 \fk UNGLAUBLICH \fq Nuveria valdovus nuo sostų \ft Ar Magnificat — politinė programa? Lotynų Amerikos diktatūros (Gvatemala, Argentina) draudė viešai skaityti šias eilutes. Sovietinė sistema irgi nemėgo tokių tekstų. Tai nėra atsitiktinumas: jauna moteris iš periferijos skelbia, kad Dievas verčia pasaulį aukštyn kojomis — galingieji krenta, silpnieji keliami. Interpretacijos: (1) Dvasinė — vidinė revoliucija, ne politinė. (2) Socialinė — Dievas iš tiesų keičia struktūras per istoriją. (3) Eschatologinė — galutinis teisingumo įgyvendinimas dar ateityje. Daugelis mokslininkų (N. T. Wright, G. Gutiérrez) laiko, kad visos trys dimensijos veikia vienu metu.\f*
+\q2 išdidžiuosius išblaško su jų planais.
+
+\q1
+\v 52 Nuveria valdovus nuo sostų,
+\q2 o mažuosius pakelia.
+
+\q1
+\v 53 Alkanus pripildo gėrybių,
+\q2 o turtinguosius paleidžia tuščiomis.
+
+\b
+
+\q1
+\v 54 Prisiminė Izraelį, savo tarną —
+\q2 prisiminė savo gerumą,
+\q1
+\v 55 kaip žadėjo mūsų protėviams:
+\q2 Abraomui ir jo palikuonims — per amžius.
+
+\p
+\v 56 Marija pasiliko pas Elizabietą apie tris mėnesius, o paskui grįžo namo.
+
+\s1 Jo vardas — Jonas
+
+\p
+\v 57 Elizabietai atėjo laikas gimdyti, ir ji pagimdė sūnų.
+\v 58 Kaimynai ir giminaičiai išgirdo, kad Dievas jai parodė \add didį\add* gerumą, ir džiaugėsi kartu su ja.
+
+\p
+\v 59 Aštuntą dieną\f + \fr 1:59 \fk KULTUR \fq Aštuntą dieną \ft Apipjaustymas aštuntąją dieną — Toros reikalavimas (Kun 12:3), sandoros ženklas. Tą dieną vaikas gaudavo vardą. Visa giminė susirinkdavo — tai buvo viešas įvykis, ne privati šeimos šventė.\f* jie susirinko apipjaustyti kūdikio ir norėjo pavadinti jį tėvo vardu — Zachariju.
+\v 60 Bet jo motina pasakė: „Ne. Jis vadinsis Jonas."
+
+\p
+\v 61 Giminės jai atsakė: „\add Juk\add* tavo giminėje niekas taip nesivadina."
+
+\p
+\v 62 Tada ženklais paklausė tėvo, kokiu vardu jis norėtų pavadinti vaiką.
+\v 63 Zacharijas paprašė lentelės ir užrašė: „Jo vardas yra Jonas."\f + \fr 1:63 \fk TEXT \fq Jo vardas yra Jonas \ft Graikiškai ἐστίν — esamasis laikas. Ne „turėtų būti" ar „norėčiau, kad būtų", o „YRA." Deklaracija, ne pasiūlymas. Jonas (hebr. Yohanan) reiškia „YHWH parodė malonę." Abu tėvai nepriklausomai patvirtina tą patį vardą — giminė supranta: čia vyksta kažkas daugiau.\f*
+\p Visi apstulbo.
+
+\p
+\v 64 Ir tą pačią akimirką burna jam atsivėrė, liežuvis atsirišo — ir jis prabilo šlovindamas Dievą.\f + \fr 1:64 \fk UNGLAUBLICH \fq burna jam atsivėrė \ft Staigus kalbos sugrįžimas — stebuklas ar psichosomatinis reiškinys? Konversinė afazija (streso sukeltas kalbos praradimas) gali praeiti taip pat staigiai, kaip ir atsiranda — dažnai po stipraus emocinio įvykio. Lukas pabrėžia akimirkos tikslumą: būtent tada, kai Zacharijas patvirtina angelui duotą vardą. Pirmieji jo žodžiai — ne skundas ir ne pasiaiškinimas, o šlovinimas. Devynių mėnesių tyla kažką jame suformavo.\f*
+
+\p
+\v 65 Baimė apėmė visus aplinkinius. Kalnus ir kalveles apkeliavo žinia apie visa tai.
+\v 66 Kiekvienas, kas išgirdo, svarstė širdyje: „Kas gi iš šito vaiko išaugs?" Nes Dievo ranka buvo su juo.
+
+\s1 Zacharijo pranašystė
+
+\p
+\v 67 Šventoji Dvasia pripildė Zachariją, ir jis pranašavo:
+
+\q1
+\v 68 Šlovė Viešpačiui, Izraelio Dievui —\f + \fr 1:68 \fk KONTEXT \fq Šlovė Viešpačiui \ft Benedictus — žydų berakah (palaiminimo) malda: „Palaimintas Viešpats..." Tai liturginė forma, kurią Zacharijas, kaip kunigas, žinojo mintinai. Po devynių mėnesių tylos pirmieji jo žodžiai — ne skundas, ne pasakojimas apie tai, ką patyrė, o šlovinimas. Tyla kažką jame pertvarkė.\f*
+\q2 aplankė ir išlaisvino savo tautą.
+
+\q1
+\v 69 Dovydo, savo tarno, namuose
+\q2 iškėlė galią, kuri gelbsti.\f + \fr 1:69 \fk TEXT \fq galią, kuri gelbsti \ft Graikiškai κέρας σωτηρίας — pažodžiui „išgelbėjimo ragas." Senovės simbolika: ragas reiškė galią, stiprybę, karališkumą (plg. Ps 18:3; 1 Sam 2:1). Mirusi metafora lietuvių kalboje — verčiame prasmę: galia, kuri gelbsti.\f*
+
+\q1
+\v 70 Taip žadėjo per savo šventų pranašų lūpas
+\q2 nuo seniausių laikų:
+
+\q1
+\v 71 išgelbėjimą nuo priešų,
+\q2 nuo visų, kurie mūsų nekenčia.
+
+\q1
+\v 72 Parodė gerumą mūsų protėviams,
+\q2 prisiminė šventą sandorą, kurią sudarė —
+\q1
+\v 73 priesaiką, duotą
+\q2 mūsų tėvui Abraomui:
+
+\q1
+\v 74 išvaduoti iš priešų rankų —
+\q2 tarnauti jam be baimės,
+\q1
+\v 75 gyventi šventai ir teisiai jo akivaizdoje
+\q2 per visas savo dienas.
+
+\b
+
+\q1
+\v 76 O tu, vaike —\f + \fr 1:76-77 \fk KONTEXT \fq O tu, vaike \ft Zacharijas posūkyje kreipiasi tiesiai į naujagimį Joną. Jis kalba apie Jėzų (eil. 68–75), o dabar — apie savo sūnų. Jono vaidmuo: paruošti kelią. Tai ne garbė sau — tai tarnystė kitam, didesniam.\f*
+\q2 būsi vadinamas Aukščiausiojo pranašu.
+\q1 Eisi pirma —
+\q2 paruošti kelio.
+
+\q1
+\v 77 Jo tautai — pažinti išgelbėjimą:\f + \fr 1:77 \fk UNGLAUBLICH \fq pažinti išgelbėjimą — atleidžiant nuodėmes \ft Zacharijas redefiniuoja, ką reiškia „išgelbėjimas." Ankstesnėse eilutėse kalbėjo apie priešus, karines grėsmes — ir klausytojai tikėjosi karinės pergalės. Bet čia posūkis: išgelbėjimas ateina per nuodėmių atleidimą, ne per karinę galią. Tai nustebintų pirmojo amžiaus klausytoją po Romos priespaudos.\f*
+\q2 atleidžiamos nuodėmės.
+
+\q1
+\v 78 Iš pačių Dievo gelmių —\f + \fr 1:78 \fk TEXT \fq Iš pačių Dievo gelmių \ft Graikiškai σπλάγχνα ἐλέους — pažodžiui „gailestingumo viduriai." Ne abstrakti „švelni malonė", o kūniškas, visceralinis Dievo atjautos patyrimas — užuojauta, jaučiama pačiose gelmėse. ἀνατολή (aušra) turi dvigubą prasmę: „tekanti saulė" IR mesijinis „atžala" (plg. Jer 23:5).\f*
+\q2 iš jo gerumo —
+\q1 aušra iš aukštybių mus aplankys.
+
+\q1
+\v 79 Nušvis tiems,
+\q2 kas sėdi tamsoje
+\q2 ir mirties šešėlyje.\f + \fr 1:79 \fk KONTEXT \fq tamsoje ir mirties šešėlyje \ft Psalmės 23:4 aidas: „Nors eičiau per mirties šešėlio slėnį..." Zacharijas baigia pranašystę ne pergalės vaizdiniu, o šviesos ir ramybės vaizdiniu. Kelias veda ne į karą, o į šalom — visapusišką gerovę.\f*
+\q1 Nukreips mūsų žingsnius
+\q2 ramybės keliu.\f + \fr 1:79 \fk LEBEN \fq ramybės keliu \ft Zacharijo pranašystė prasideda karine kalba — priešai, išlaisvinimas, gelbėjimas. Klausytojas tikisi karo šūkio. Bet pabaigoje — ramybė. Hebrajiškai שָׁלוֹם (šalom): ne tik karo nebuvimas, o visapusiška gerovė — santykių, vidinė, socialinė. Kelias, kuriuo veda Dievas, baigiasi ne pergalės aikštėje, o ten, kur galima ramiai kvėpuoti. Tai aktualus skirtumas kiekvienoje epochoje, kai griebiamasi jėgos kaip pirmojo sprendimo.\f*
+
+\s1 Augimas dykumoje
+
+\p
+\v 80 Vaikas augo ir stiprėjo dvasia. Jis gyveno dykumose — kol atėjo diena pasirodyti Izraeliui.

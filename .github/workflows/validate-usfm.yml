@@ -1,0 +1,48 @@
+name: Validate USFM
+
+on:
+  pull_request:
+    paths:
+      - '**.usfm'
+  push:
+    branches: [main]
+    paths:
+      - '**.usfm'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Make scripts executable
+        run: chmod +x scripts/*.sh
+      
+      - name: Validate USFM files
+        run: ./scripts/validate.sh texts/
+      
+      - name: Check for common issues
+        run: |
+          ERRORS=0
+          # Check for tabs (should use spaces in USFM)
+          if find texts/ -name "*.usfm" -exec grep -l $'\t' {} \; | grep -q .; then
+            echo "⚠️  Files contain tabs (use spaces instead):"
+            find texts/ -name "*.usfm" -exec grep -l $'\t' {} \;
+          fi
+          
+          # Check for Windows line endings
+          if find texts/ -name "*.usfm" -exec grep -Pl '\r$' {} \; | grep -q .; then
+            echo "⚠️  Files have Windows line endings (CRLF):"
+            find texts/ -name "*.usfm" -exec grep -Pl '\r$' {} \;
+            ERRORS=1
+          fi
+          
+          # Check UTF-8 encoding
+          for file in $(find texts/ -name "*.usfm"); do
+            if ! file "$file" | grep -q "UTF-8"; then
+              echo "❌ $file is not UTF-8 encoded"
+              ERRORS=1
+            fi
+          done
+          
+          exit $ERRORS

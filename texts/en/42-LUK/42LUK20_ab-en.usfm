@@ -1,0 +1,157 @@
+\id LUK - Aperto Bible (English) v4.3
+\usfm 3.0
+\ide UTF-8
+\h Luke
+\toc1 The Gospel of Luke
+\toc2 Luke
+\toc3 Lk
+\mt1 Luke
+
+\c 20
+\s1 The Question about Jesus' Authority
+
+\p
+\v 1 He had been teaching in the temple courts every day that week, and every day the crowds grew. He was not just teaching — he was proclaiming\add , and the people pressed close to hear it\add*.
+\p
+\v 2 Then the delegation arrived. \add Chief priests. Legal scholars. Elders. Together, they formed the highest authority in the land, and they came with a single demand.\add*
+\p "Tell us — what kind of authority are you operating under? And who gave it to you?"
+\f + \fr 20:2 \fk TEXT \fq authority (ἐξουσία) \ft The leaders ask two distinct questions: what KIND of authority (institutional? prophetic? divine?) and WHO authorized it. In the ancient world, legitimate authority required institutional delegation — ordination, appointment, lineage. Jesus operated entirely outside these channels. His authority claim was prophetic and messianic, categories the priestly aristocracy had every institutional reason to resist.\f*
+\p
+\v 3 "I have a question for you first," Jesus said. "John's baptism. Was it from heaven, or from a human source?"
+\f + \fr 20:3 \fk APOLOGETICS \fq a question for you first \ft Jesus' counter-question was a recognized rabbinic technique — meeting a challenge with a counter-question that exposes the questioner's position. This was not evasion. It was an argument: if you cannot evaluate the evident credentials of John — a man whose ministry was public, whose fruits were obvious — you have demonstrated that you are not asking mine in good faith.\f*
+\p
+\v 4 They pulled aside\add . But this was not a theological discussion. It was arithmetic.\add*
+\v 5 If they acknowledged John's authority as divine, Jesus would ask why they had refused to follow him. If they dismissed it as merely human, the crowd — who still believed John was a prophet\add , who still mourned him\add* — would stone them.
+\f + \fr 20:5 \fk TEXT \fq they calculated (συνελογίσαντο) \ft Luke's unique word — a hapax legomenon — reveals political arithmetic, not theological inquiry. The leaders are not seeking truth; they are managing outcomes. Each option is weighed for its political consequence, not its truthfulness.\f*
+\f + \fr 20:6 \fk TEXT \fq stone us (καταλιθάσει) \ft Luke alone sharpens the crowd's potential response to stoning — a lynching threat. Matthew and Mark say only "we fear the crowd." Luke names the physical danger, raising the stakes of the leaders' cowardice.\f*
+\p
+\v 7 "We can't say," they answered.
+\p
+\v 8 "Then I can't say either," said Jesus.
+
+\s1 Parable of the Wicked Tenants
+
+\p
+\v 9 Then he turned from the leaders and spoke directly to the crowd.
+\p "A man planted a vineyard. He leased it to tenant farmers and went abroad for a long time. At harvest, he sent a servant to collect his share.
+\f + \fr 20:9 \fk KONTEXT \fq a vineyard \ft The moment Jesus says "vineyard," any biblically literate listener hears Isaiah 5:1-7 — the Song of the Vineyard, Israel's most famous judgment poem: "The vineyard of the LORD of hosts is the house of Israel." But Jesus shifts the allegory. In Isaiah, the vineyard itself is unfaithful. In Jesus' parable, the vineyard is not the problem — the tenants are. The critique targets specific stewards of God's trust, not the people as a whole.\f*
+\f + \fr 20:9b \fk KULTUR \fq tenant farmers (γεωργοί) \ft Not a fantasy scenario. Herodian land concentration had created a class of absentee landlords extracting from peasant tenant farmers across Palestine. Rent strikes and violence against owners' agents were real. The parable's economic realism grounds its theological freight: the listeners knew this world.\f*
+\p
+\v 10 "They beat the servant. Sent him back with nothing.
+\p
+\v 11 "He sent a second servant. They beat him too, shamed him, and sent him back empty-handed.
+\p
+\v 12 "A third. They wounded him and threw him out.
+\p
+\v 13 "The owner thought, 'What can I do now?' And then: 'I will send the son I love. Perhaps they will respect him.'
+\f + \fr 20:13 \fk TEXT \fq the son I love (τὸν υἱόν μου τὸν ἀγαπητόν) \ft The word ἀγαπητόν ("beloved") is the same word used at Jesus' baptism: "You are my beloved Son" (Luke 3:22). The christological identification is embedded in the vocabulary. The owner's vulnerable hope — "perhaps they will respect him" — is presented as almost foolishly generous, the extravagance of divine patience extending beyond rational expectation.\f*
+\f + \fr 20:13b \fk LEBEN \fq perhaps they will respect him \ft The owner knows the track record — three servants beaten, wounded, thrown out. The rational response is force. Instead he sends his son, unarmed, on the strength of a "perhaps." This is not naivety; it is the logic of a love that risks everything on the possibility of a changed response. The same pattern operates in every relationship where someone chooses vulnerability after being hurt — not because they are foolish, but because they refuse to let violence have the last word.\f*
+\p
+\v 14 "But the tenants recognized the son. They saw the heir, and they saw their chance. 'If we kill him,' they said, 'the estate becomes ours.'
+\v 15 They dragged him outside the vineyard. And killed him.
+\p
+\v 16 "So what will the owner of the vineyard do? He will come back. He will destroy those tenants. And he will give the vineyard to others."
+\f + \fr 20:16 \fk KULTUR \fq give the vineyard to others \ft CRITICAL: "Others" (ἄλλοις) is deliberately unidentified in Luke's text. It does NOT mean "the Gentiles" or "the church." The vineyard (God's covenant community) is not destroyed — only the unfaithful tenants are replaced. The 2,000-year history of reading this parable as God's rejection of the Jewish people in favor of the Gentile church is a hermeneutical disaster: Luke 20:19 explicitly identifies the parable's targets as the chief priests and scribes — the Jerusalem leadership, not the Jewish people.\f*
+\p The people cried out: "God forbid!"
+\f + \fr 20:16b \fk TEXT \fq God forbid! (Μὴ γένοιτο) \ft The strongest possible rejection in Greek — an idiom characteristic of Paul (Romans 3:4, 6, 31; Galatians 2:17) appearing uniquely here in Gospel narrative. The crowd hears the parable's implication — judgment on them — and recoils with visceral horror. This is not a polite objection. It is a cry of refusal.\f*
+\p
+\v 17 Jesus looked straight at them and said, "Then what is this that was written — \qt The stone the builders rejected has become the cornerstone\qt*?"
+\f + \fr 20:17 \fk KONTEXT \fq Psalm 118:22 \ft The crowd had just sung this very psalm at Jesus' triumphal entry days earlier (Luke 19:38 quotes Psalm 118:26). Now Jesus turns their own song back on them: the stone the builders rejected — after inspection, after deliberate evaluation — has become the structural foundation of the entire building. The reversal is architectural: from waste to cornerstone.\f*
+\p
+\v 18 He let that sit. Then: "Everyone who falls on that stone will be shattered. And when that stone falls on someone — it will crush them to dust."
+\f + \fr 20:18 \fk TEXT \fq shattered ... crushed to dust \ft Two distinct fates using two different Greek verbs. The first (συνθλασθήσεται, "shattered") describes stumbling against the stone — resistance that breaks the resistor. The second (λικμήσει, "winnowed/scattered like chaff") draws on Daniel 2:34 — the divine stone that pulverizes the statue of empires. Two degrees of judgment: those who oppose the stone are broken; those whom the stone actively falls upon are annihilated.\f*
+\p
+\v 19 The chief priests and the legal scholars wanted to arrest him on the spot. They knew exactly who the parable was about. But they were afraid of the crowd.
+
+\s1 Taxes to Caesar
+
+\p
+\v 20 After that, they watched him and waited. Then they sent in spies — men pretending to be sincere — with a single purpose: to catch Jesus in a statement that would justify handing him over to the Roman governor.
+\f + \fr 20:20 \fk TEXT \fq spies (ἐγκαθέτους) \ft A New Testament hapax — "people planted secretly in an audience." Luke uniquely names this as a covert entrapment operation, not sincere inquiry. The spies' mandate was explicitly legal: to catch a statement that could be reported to the Roman governor (ἡγεμών) as sedition.\f*
+\p
+\v 21 The spies approached\add with flattery\add*. "Teacher, we know you speak and teach what is right. You don't defer to anyone. You teach the way of God honestly. So — is it lawful for us to pay the tax to Caesar, or not?"
+\f + \fr 20:22 \fk KULTUR \fq the tax (φόρον) \ft Specifically the Roman poll tax (tributum capitis) — a flat per-person levy on all provincial subjects as a mark of subjugation. Judas the Galilean had launched a violent revolt over this tax a generation earlier (6 CE; Acts 5:37). Asking "is it lawful to pay?" was not theology — it was a politically lethal binary. Say yes: you validate Roman occupation, lose the crowd. Say no: you commit sedition, Rome arrests you.\f*
+\p
+\v 22 Jesus saw through them immediately.
+\v 23 "Show me a denarius."
+\p They handed him one. \add He held it up.\add*
+\f + \fr 20:24 \fk KULTUR \fq a denarius (δηνάριον) \ft The Tiberian denarius bore the inscription Ti. Caesar Divi Aug. F. Augustus ("Tiberius Caesar, son of the divine Augustus") with the emperor's portrait, and on the reverse Pontif. Maxim. ("chief priest") with a seated figure. The coin made three theological claims — Caesar was emperor, son of a god, and supreme priest. Carrying it into the temple precincts was itself theologically fraught. Jesus did not carry one. The spies produced one from their own pockets — a self-indictment.\f*
+\p
+\v 24 "Whose image is this? And whose inscription?"
+\f + \fr 20:24b \fk TEXT \fq image (εἰκών) \ft THE KEY WORD. The Greek εἰκών is the same word used in the Septuagint of Genesis 1:26-27: κατ' εἰκόνα θεοῦ — "in the image of God." The coin bears Caesar's image; give it back. Human beings bear God's image; give yourself back. As Tertullian wrote around 200 CE: "Render the image of Caesar, which is the coin, to Caesar; and the image of God, which is the human person, to God." Caesar gets a coin. God gets everything that bears God's image.\f*
+\p
+\v 25 "Caesar's."
+\p "Then give back to Caesar what belongs to Caesar. And give back to God what belongs to God."
+\f + \fr 20:25 \fk TEXT \fq give back (ἀπόδοτε) \ft CRITICAL DECISION: Not "give" (neutral transfer) or "render" (KJV archaism). The Greek ἀποδίδωμι means "return to the rightful owner." The coin belongs to Caesar — give it back. What bears God's image belongs to God — give that back. The asymmetry is staggering: Caesar's domain is a metal coin; God's domain is every human being.\f*
+\f + \fr 20:25b \fk LEBEN \fq give back to God what belongs to God \ft The asymmetry is the point: Caesar's domain is a metal coin; God's domain is every human being who bears God's image. The text does not divide life into sacred and secular compartments — it subordinates the entire secular order to a prior claim. The question it leaves is not "how much do I owe the government?" but "what does it mean that I belong to God?" Career, relationships, ambition, rest — nothing falls outside the scope of that belonging. This is not a demand for more religious activity. It is an invitation to see all of life as already God's.\f*
+\f + \fr 20:25c \fk UNGLAUBLICH \fq give back to Caesar \ft Does this text support paying taxes to oppressive regimes? Three readings: (1) The political quietism reading — "Two legitimate spheres; pay your taxes" — was used to justify compliance with Nazi Germany (by the Deutsche Christen), apartheid South Africa (by white Dutch Reformed theology), and colonial extraction globally. The 1985 South African Kairos Document explicitly named this as heresy. (2) The subversive reading (N.T. Wright, Warren Carter, Richard Horsley): if you give God everything that bears God's image, Caesar gets very little — just the coins. This is a restriction on imperial claims, not an endorsement. (3) The practical reading: Jesus refuses the binary (collaborate or revolt) and offers a third way — a statement about ultimate belonging that neither validates nor incites. The text does not settle church-state relations. It exposes a trap and points to a claim that dwarfs any empire.\f*
+\p
+\v 26 They fell silent. \add They couldn't find a single word to use against him.\add* They just stood there, amazed.
+
+\s1 The Question about the Resurrection
+
+\p
+\v 27 Then the Sadducees came forward\add  — the priestly aristocracy who denied that the dead would ever rise\add*. \add If God's justice was exhausted in the present arrangement, then the present arrangement could not be challenged, and the families who profited from it were safe.\add* They had a question for him.
+\f + \fr 20:27 \fk KULTUR \fq Sadducees (Σαδδουκαῖοι) \ft The party of the priestly aristocracy — high-priestly families, wealthy merchants, and landowners who collaborated with Rome. They accepted only the Torah (Pentateuch) as authoritative Scripture and rejected the oral tradition. As N.T. Wright argues, their denial of resurrection was politically functional: people who believe God will raise the dead and vindicate the faithful are far more dangerous to a political establishment than those who believe the present order is final.\f*
+\p
+\v 28 "Teacher," they said, "Moses wrote that if a man dies without children, his brother must marry the widow and raise up offspring for the dead man.
+\f + \fr 20:28 \fk KULTUR \fq brother must marry the widow \ft The levirate obligation (from Latin levir, "husband's brother") — Deuteronomy 25:5-10 required a surviving brother to marry his deceased brother's childless widow, preserving the dead man's lineage and keeping property within the family. This was compulsory, not voluntary. The Mishnah tractate Yevamot devotes extensive discussion to its application. The institution treated women as instruments of male lineage preservation.\f*
+\v 29 Now there were seven brothers. The first married a woman and died childless. The second married her. Then the third. One after another, all seven married her and died without children.
+\v 30 Finally the woman herself died.
+\v 31 So — in the resurrection — whose wife does she become? All seven had her."
+\p
+\v 32 \add Seven marriages. Seven brothers. And at the center of their puzzle, one woman — unnamed, unasked, passed from household to household like a deed of land.\add*
+\p
+\v 33 Jesus said, "People of this age marry and are given in marriage.
+\v 34 But those counted worthy to share in that age and in the resurrection from the dead neither marry nor are given in marriage.
+\v 35 They cannot die anymore. They are like the angels. They are God's children — because they share in the resurrection."
+\f + \fr 20:35 \fk TEXT \fq like the angels (ἰσάγγελοι) \ft A New Testament hapax: "equal to angels" — describing participation in deathless divine existence, not disembodiment or celibacy. The point is about mortality: in the resurrection age, death no longer occurs, so the lineage-preservation function of marriage is moot. Women are no longer "given in marriage" (passive voice: transferred as property). The passage is a resurrection text, not a sexuality text — the patristic reading that elevated present-age celibacy from this verse misapplies it.\f*
+\f + \fr 20:35b \fk LEBEN \fq neither marry nor are given in marriage \ft The Sadducees constructed a puzzle in which one woman was passed through seven compulsory marriages with no name, no voice, no choice. Jesus' answer does not merely solve the puzzle — it abolishes the system that created it. In the resurrection age, no one is "given in marriage" (the passive voice names a property transfer, not a love relationship). The text invites honest reflection: what structures in our own world treat people as means to someone else's ends?\f*
+\p
+\v 36 \add He paused.\add* Then he went further — \add straight to Moses, the only authority they accepted.\add*
+\f + \fr 20:37 \fk APOLOGETICS \fq Moses showed this, at the bush \ft Jesus defeats the Sadducees on their own canonical territory. He does not appeal to Isaiah or Daniel, where resurrection hope is more explicit. He finds resurrection implied in the Pentateuch — the Torah, the only Scripture the Sadducees accepted. The argument from Exodus 3:6 depends on God's present-tense self-identification: "I AM the God of Abraham" — not "I was." If God currently identifies with the patriarchs, they must currently exist. God's ongoing relationship with them implies their ongoing life.\f*
+\p
+\v 37 "Even Moses showed this, at the burning bush, when he calls the Lord 'the God of Abraham, the God of Isaac, and the God of Jacob.'
+\v 38 He does not say 'I was their God.' He says 'I am.' God is not God of the dead. He is God of the living. To God, all are alive."
+\f + \fr 20:38 \fk TEXT \fq to God, all are alive (πάντες γὰρ αὐτῷ ζῶσιν) \ft The dative αὐτῷ is not "from God's perspective, everyone looks alive." It is a dative of relation: all live in relationship to God. The patriarchs' life consists in their ongoing relational existence with God. Resurrection is not resuscitation — returning a dead body to biological function — but participation in the life of the living God. This is the deepest New Testament statement about the nature of resurrection.\f*
+\f + \fr 20:38b \fk UNGLAUBLICH \fq to God, all are alive \ft Resurrection is among the most difficult claims for modern readers. Three frameworks: (1) The materialist view holds that consciousness ends at death — resurrection is wishful thinking. (2) The symbolic reading sees resurrection as a metaphor for renewed purpose or social transformation, not literal survival. (3) The relational reading (N.T. Wright, Wolfhart Pannenberg) argues that resurrection is grounded not in human capacity for survival but in God's faithfulness — if God's covenant relationship with Abraham is real, it cannot be annulled by death, because God is not diminished by death. Jesus' argument here does not appeal to philosophy or near-death experiences. It appeals to the character of God: a God who says "I am" — not "I was" — the God of Abraham. The claim is that death does not have the final word because God does.\f*
+\p
+\v 39 \add Silence.\add*
+\p Then\add , from an unlikely quarter:\add* some of the legal scholars spoke up. "Well said, Teacher!"
+\p
+\v 40 After that, no one dared ask him anything.
+
+\s1 The Question about David's Son
+
+\p
+\v 41 Then Jesus put a question to them.
+\p "How is it that people call the Messiah David's son?" he asked.
+\f + \fr 20:41 \fk TEXT \fq the Messiah (τὸν χριστόν) \ft "Christ" has become a surname to modern ears — "Jesus Christ" sounds like a first and last name. But χριστός is a title meaning "the anointed one" (Greek translation of Hebrew mashiach). The popular expectation was specific: a Davidic warrior-king who would drive out Rome and restore Israel's sovereignty. Jesus does not deny Davidic descent — Luke's genealogy (3:23-38) affirms it. He complicates it: the Messiah is David's son AND David's Lord.\f*
+\v 42 "David himself wrote in the Book of Psalms:
+\q1 'The LORD said to my Lord:
+\q2 Sit at my right hand
+\q1 until I make your enemies
+\q2 a footstool for your feet.'
+\f + \fr 20:42 \fk KONTEXT \fq Psalm 110:1 \ft The most quoted Old Testament verse in the New Testament — cited or alluded to over twenty times (Acts 2:34-35; Romans 8:34; 1 Corinthians 15:25; Ephesians 1:20; Colossians 3:1; Hebrews 1:3, 13; 8:1; 10:12-13; 12:2). The early church's use of this psalm to articulate Jesus' identity — exalted to God's right hand, ruling until all opposition is subdued — became the foundational christological proof text. Jesus' riddle here plants the seed that the entire apostolic movement would cultivate.\f*
+\f + \fr 20:42b \fk TEXT \fq The LORD said to my Lord \ft Psalm 110:1 — the double use of "Lord" is the riddle. The first "LORD" (κύριος without article) represents YHWH, the divine name. The second "my Lord" (τῷ κυρίῳ μου) is the one David addresses — whom the early church identified as the Messiah. In the ancient honor system, an ancestor is always superior to a descendant. David calling his own offspring "Lord" violates the deepest social hierarchy. The paradox is deliberate: the Messiah must be both human (from David's line) and something more (worthy of David's worship).\f*
+\p
+\v 43 "David calls him 'Lord.' So how can the Messiah be his son?"
+\p
+\v 44 \add Everyone agreed the Messiah would come from David's line — a son. But in their world, a father did not call his own son "Lord." Yet that is what David did.\add*
+\p Jesus let the question stand. \add He did not answer it. The riddle was the teaching.\add*
+\p No one spoke.
+
+\s1 Warning against the Scribes
+
+\p
+\v 45 Then Jesus turned to his disciples\add  — though he made no effort to lower his voice\add*.
+\p
+\v 46 "Watch out for the legal scholars," he said. "The ones who love their long robes, who love being greeted with deference in the marketplace, who claim the best seats in the synagogue and the best places at every banquet."
+\p \add His voice dropped.\add*
+\p
+\v 47 "They devour widows' estates, and they do it under cover of long prayers."
+\f + \fr 20:47 \fk KULTUR \fq devour widows' estates (κατεσθίουσιν τὰς οἰκίας τῶν χηρῶν) \ft Not generic greed — a specific mechanism of structural exploitation. The scribal class served as legal interpreters, estate trustees, and inheritance administrators. Widows, lacking direct access to legal protection and property rights, depended on exactly these men. The authority that made scribes essential to widows was the same authority that gave them access to widows' wealth. The Greek verb κατεσθίω (devour, eat up entirely) names consumption, not theft — a slower, more devastating process.\f*
+\f + \fr 20:47b \fk TEXT \fq under cover of long prayers (προφάσει μακρὰ προσεύχονται) \ft The key word is πρόφασις — "pretext, cover." The long prayers are not a separate charge alongside the exploitation. They ARE the mechanism: visible piety that makes invisible extraction unchallengeable. Religion as economic cover — this is the prophetic tradition's oldest and deepest complaint (cf. Isaiah 1:10-17; Amos 5:21-24; Micah 6:6-8).\f*
+\p \add The crowd knew what he meant. The scribal class were the legal experts — the men who managed inheritances, interpreted property law, served as trustees for women who had no other advocate. The authority that made them essential to widows was the same authority that gave them access to widows' wealth. And the long prayers? They were not a separate charge. They were the mechanism — the visible piety that made the invisible extraction impossible to challenge.\add*
+\p "These men," Jesus said, "will receive the heaviest sentence."
+\f + \fr 20:47c \fk LEBEN \fq the heaviest sentence (περισσότερον κρίμα) \ft The sentence is heavier BECAUSE the religious cover made the exploitation worse. Piety does not mitigate the crime — it aggravates it. This is Jesus speaking as an internal prophetic critic of his own tradition, exactly as Isaiah, Amos, and Micah did before him. The text asks: where in our own communities does religious authority provide cover for the exploitation of the vulnerable? The question is not comfortable. It is not meant to be.\f*

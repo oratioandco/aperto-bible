@@ -1,0 +1,11 @@
+# Text files in this repo are USFM (Unified Standard Format Markers)
+*.usfm text eol=lf encoding=UTF-8
+
+# Scripts
+*.sh text eol=lf
+
+# Markdown
+*.md text eol=lf
+
+# CSV
+*.csv text eol=lf

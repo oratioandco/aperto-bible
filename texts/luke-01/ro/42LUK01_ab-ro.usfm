@@ -1,0 +1,170 @@
+\id LUK - Biblia Aperto (Română) v4.3 (2026-03-22)
+\usfm 3.0
+\ide UTF-8
+\h Luca
+\toc1 Evanghelia după Luca
+\toc2 Luca
+\toc3 Lc
+\mt1 Luca
+
+\c 1
+\s1 De ce scriu
+
+\p
+\v 1 Fiindcă mulți au încercat deja să redacteze o relatare ordonată a lucrurilor care s-au împlinit printre noi — așa cum ni le-au transmis cei care le-au văzut cu ochii lor de la început și au devenit slujitori ai cuvântului —,\f + \fr 1:1-4 \fk APOLOGETICS \fq am cercetat totul cu atenție \ft Luca scrie după metoda istoricilor antici — adună mărturii, verifică sursele, aranjează evenimentele într-o ordine coerentă. Nu e o povestire naivă; este o cercetare sistematică, comparabilă cu metoda lui Tucidide sau Iosephus. Din Noul Testament s-au păstrat mai mult de 5.800 de manuscrise grecești — mai multe decât din orice alt text antic.\f* \v 2 \v 3 mi s-a părut potrivit și mie, după ce am cercetat totul cu atenție, de la început, să ți le scriu în ordine, stimate Teofile:\f + \fr 1:3 \fk TEXT \fq stimate Teofile \ft Grecescul κράτιστε (kratiste) = un titlu onorific pentru romani de rang înalt sau persoane influente. „Teofile" (din greacă: prieten al lui Dumnezeu) poate fi un nume propriu, o dedicație simbolică sau ambele. Titlul semnalează: acest text se adresează unor cititori educați, cu poziție socială.\f* \v 4 ca să ai un temei solid pentru lucrurile pe care le-ai învățat deja.\f + \fr 1:4 \fk TEXT \fq temei solid \ft Grecescul ἀσφάλεια (asfaleia) nu înseamnă „dovadă" sau „certitudine absolută" — înseamnă un fundament pe care poți sta. Luca nu oferă argumente juridice; oferă o relatare atent cercetată care dă cititorului un loc sigur pe care să stea.\f*
+
+\s1 Un preot bătrân și o promisiune imposibilă
+
+\p
+\v 5 Pe vremea regelui Irod al Iudeii,\f + \fr 1:5 \fk KULTUR \fq Irod al Iudeii \ft Irod cel Mare (a domnit 37–4 î.Hr.), rege pus de Roma. Iudumeu de origine, nu evreu. Vestit pentru proiecte de construcție (inclusiv reconstrucția Templului) dar și pentru paranoia și violență — și-a executat soția și trei dintre fii.\f* trăia un preot pe nume Zaharia,\f + \fr 1:5 \fk NAME \fq Zaharia \ft Ebraicul Zekharyah = „Dumnezeu și-a adus aminte." Numele rezumă povestea înainte ca ea să înceapă: un om al cărui Dumnezeu nu a uitat — chiar dacă Zaharia, la momentul acesta, probabil nu mai credea.\f* din rânduiala preoțească a lui Abia.\f + \fr 1:5 \fk KULTUR \fq rânduiala preoțească a lui Abia \ft Templul din Ierusalim avea 24 de grupuri de preoți care se roteau — câte o săptămână de slujire de două ori pe an. Abia era al optulea grup (1 Cronici 24:10). A fi preot era o onoare ereditară, nu o alegere personală.\f* Soția lui, Elisabeta,\f + \fr 1:5 \fk NAME \fq Elisabeta \ft Ebraicul Elisheva = „Dumnezeu e jurământul meu" sau „Dumnezeu al abundenței." Elisabeta, descendentă a lui Aaron — linia sacerdotală — poartă un nume care vorbește despre fidelitatea lui Dumnezeu. Ironia: ea a trăit cea mai mare parte a vieții fără dovada vizibilă a acelei fidelități.\f* era tot din neamul lui Aaron. \v 6 Amândoi trăiau drept înaintea lui Dumnezeu — respectau fiecare poruncă, fiecare regulă, și nimeni nu avea ce să le reproșeze.
+\v 7 Dar nu aveau copii. Elisabeta era sterilă.\add  Sterilitatea — în lumea lor — nu era o problemă medicală. Era rușine publică. Era întrebarea pe care nimeni nu o punea cu voce tare: cu ce i-a pedepsit Dumnezeu? Deși nu făcuseră nimic.\add* Și erau bătrâni.\f + \fr 1:7 \fk KONTEXT \fq sterilă... și erau bătrâni \ft Elisabeta se înscrie într-un tipar biblic: Sara (Geneza 18), Rebeca (Geneza 25), Rahela (Geneza 30), Ana (1 Samuel 1) — toate sterile, toate „vizitate" de Dumnezeu la momentul ales de el. Ascultătorul antic ar fi recunoscut tiparul și ar fi așteptat: „Dumnezeu va acționa." Dar incertitudinea rămâne: când?\f*
+
+\p
+\v 8 Când a venit rândul grupului lui Zaharia să slujească la Templu, \v 9 sortul a căzut pe el — să intre în sanctuarul interior și să ardă tămâia.\add  Era momentul pe care l-ar fi așteptat o viață întreagă.\add*\f + \fr 1:9 \fk KULTUR \fq sortul a căzut pe el \ft Aruncarea sorților nu era „noroc" — era metoda prin care se discernea voința lui Dumnezeu. Arderea tămâii era cel mai înalt privilegiu preoțesc. Cei mai mulți preoți așteptau o viață întreagă fără să-l primească. Unii nu-l primeau niciodată. Pentru Zaharia, acesta era momentul definitoriu al carierei sale.\f* \v 10 Afară, mulțimea se ruga.
+\v 11 Și atunci l-a văzut: un înger\add , stând\add* în dreapta altarului tămâierii\add  — acolo unde vine binecuvântarea\add*.\f + \fr 1:11 \fk UNGLAUBLICH \fq un înger \ft Apariția unui înger în Templu e unul dintre momentele cele mai greu de acceptat pentru un cititor modern. Textul presupune o lume în care Dumnezeu comunică prin mesageri vizibili — nu ca metaforă, ci ca realitate. Trei lecturi posibile: (1) Literală: Gabriel e o ființă reală, un mesager al lui Dumnezeu cu identitate și misiune concretă. Isus însuși vorbește despre îngeri ca despre ființe reale (Matei 18:10). (2) Simbolică: „îngerul" e un procedeu literar prin care autorul semnalează intervenția divină — un mod de a spune: Dumnezeu a acționat. (3) Experiențială: Zaharia a avut o experiență care l-a copleșit — ceva real, chiar dacă nu poate fi descris în categorii moderne. Indiferent de interpretare, textul afirmă: Dumnezeu nu a tăcut.\f* \v 12 S-a cutremurat. Frica s-a năpustit peste el.
+
+\p
+\v 13 Îngerul i-a spus:
+\p „Nu te teme, Zaharia. Rugăciunea ta a fost ascultată. Elisabeta, soția ta, va naște un fiu, și îl vei numi Ioan.\f + \fr 1:13 \fk TEXT \fq Ioan \ft În ebraică, Yohanan = „YHWH a arătat har" sau „Dumnezeu e milostiv." Numele rezumă întreaga povestire: un copil care n-ar fi trebuit să existe, dăruit de un Dumnezeu care nu a uitat.\f* \v 14 Va fi bucuria ta — și mulți se vor bucura de nașterea lui. \v 15 Va fi mare în ochii lui Dumnezeu. Nu va bea vin sau băutură tare.\f + \fr 1:15 \fk KULTUR \fq nu va bea vin sau băutură tare \ft Ecou al votului de nazireu (Numeri 6:1-21) — o consacrare totală lui Dumnezeu. Samuel (1 Samuel 1:11) și Samson (Judecători 13:4-5) au avut restricții similare. Renunțarea la alcool semnaliza: această persoană aparține lui Dumnezeu în mod special.\f* Din pântecul mamei lui va fi plin de Duhul Sfânt.\f + \fr 1:15 \fk UNGLAUBLICH \fq plin de Duhul Sfânt din pântecul mamei \ft Un copil umplut de Duhul lui Dumnezeu înainte de naștere — o afirmație care depășește orice categorie biologică sau psihologică modernă. Textul nu oferă o explicație mecanică; afirmă că Dumnezeu acționează înainte ca omul să poată răspunde. În tradiția biblică, aceasta semnalează o consacrare totală: persoana aparține lui Dumnezeu încă de la început. Ieremia (1:5) și Psalmul 139:13-16 exprimă aceeași idee — Dumnezeu lucrează înainte ca noi să fim conștienți de el.\f* \v 16 Pe mulți din Israel îi va întoarce la Dumnezeu. \v 17 Va merge înaintea lui cu puterea și duhul lui Ilie — ca să-i împace pe părinți cu copiii lor și pe cei nesupuși să gândească iar ca oamenii drepți. Va pregăti un popor gata pentru Dumnezeu."
+
+\p
+\v 18 Zaharia a spus: „Cum să știu că e adevărat? Sunt bătrân. Și soția mea la fel."\f + \fr 1:18 \fk KONTEXT \fq Cum să știu? \ft Întrebarea lui Zaharia e aproape identică cu cea a lui Avraam: „Cum voi ști?" (Geneza 15:8). Dar Avraam a primit un semn, nu o pedeapsă. De ce e Zaharia mustrat? Posibil fiindcă Avraam era la începutul relației cu Dumnezeu, în timp ce Zaharia — preot, în Templu, în fața unui înger — avea toate motivele să creadă. Contextul face diferența.\f*
+
+\p
+\v 19 Îngerul a răspuns: „Eu sunt Gabriel — cel care stă în fața lui Dumnezeu.\f + \fr 1:19 \fk KONTEXT \fq Gabriel \ft Același înger care i-a explicat lui Daniel viziuni profetice (Daniel 8:16; 9:21). „Cel care stă în fața lui Dumnezeu" = un rang angelic de acces direct la prezența divină. Când Gabriel spune cine este, nu se prezintă — dă greutate cuvintelor sale.\f* Am fost trimis să-ți vorbesc și să-ți aduc vestea asta. \v 20 Dar fiindcă n-ai crezut, vei fi mut. Nu vei putea vorbi până în ziua în care se vor împlini toate."\f + \fr 1:20 \fk LEBEN \fq vei fi mut \ft Tăcerea lui Zaharia nu e doar pedeapsă — e formare. Nouă luni de tăcere forțată, în care singurul lucru pe care îl poate face este să asculte. Când gura i se deschide din nou, primele lui cuvinte sunt de laudă (v.64). Uneori, tăcerea pregătește un alt fel de vorbire.\f*\f + \fr 1:20 \fk UNGLAUBLICH \fq vei fi mut \ft Un preot care pierde capacitatea de a vorbi — instantaneu, ca semn divin. Perspectivele diferă: (1) Lectura supranaturală: Dumnezeu intervine fizic, confirmând mesajul prin imposibilitatea de a-l contesta verbal. (2) Lectura psihosomatică: experiența copleșitoare a provocat o amuțire reală — medicina cunoaște cazuri de mutism funcțional după șoc. (3) Lectura narativă: Luca construiește o poveste în care tăcerea forțată pregătește explozia de laudă din v.64. Oricare ar fi mecanismul, textul afirmă: cuvântul lui Dumnezeu are consecințe concrete.\f*
+
+\p
+\v 21 Afară, oamenii așteptau.\add  Întârziere neobișnuită.\add* Când Zaharia a ieșit, nu putea vorbi. \v 22 Le făcea semne cu mâinile. Au înțeles: văzuse ceva.
+\v 23 Și-a terminat perioada de slujire și s-a întors acasă. \v 24 Elisabeta a rămas însărcinată. Cinci luni s-a retras din viața publică.\f + \fr 1:24 \fk LEBEN \fq s-a retras din viața publică \ft Elisabeta nu anunță, nu celebrează, nu postează. Se retrage. Cinci luni de tăcere și procesare, în care vestea bună se maturizează înainte de a fi expusă. Într-o cultură a vizibilității permanente, retragerea ei e un contrapunct: unele lucruri au nevoie de timp și de spațiu protejat înainte de a deveni publice. Nu toată bucuria trebuie partajată imediat.\f* \v 25 Și a spus: „Dumnezeu s-a uitat la mine. Mi-a luat rușinea pe care o purtam în fața tuturor."
+
+\s1 Maria spune da
+
+\p
+\v 26 Au trecut șase luni. Dumnezeu l-a trimis pe același înger — Gabriel — dar de data asta nu la Templu. Ci într-un sat în nord: Nazaret, în Galileea.\f + \fr 1:26 \fk UNGLAUBLICH \fq Dumnezeu l-a trimis pe același înger \ft A doua apariție a lui Gabriel în același capitol ridică aceeași întrebare: Dumnezeu trimite mesageri vizibili? De data aceasta, contrastul e și mai puternic: nu în Templu, ci într-un sat de 200 de locuitori. Nu unui preot, ci unei tinere necunoscute. Dacă prima apariție (v.11) putea fi citită ca experiență mistică într-un spațiu sacru, aceasta o face mai greu: Dumnezeu vine acolo unde nimeni nu se așteaptă.\f*\f + \fr 1:26 \fk KULTUR \fq Nazaret, în Galileea \ft Nazaret: un sat de 200–400 de locuitori, necunoscut în textele antice din afara Bibliei. Galileea era periferie — departe de centrul religios (Ierusalim) și marginal din punct de vedere politic. Dumnezeu nu trimite un înger la Templu, ci la un sat de care Roma nici nu știa.\f* \v 27 Acolo locuia o tânără pe nume Maria. Era logodită cu Iosif, un om din neamul lui David.\f + \fr 1:27 \fk KULTUR \fq logodită cu Iosif \ft Logodna (ebraică: erusin) era un angajament juridic obligatoriu — mai puternic decât logodna modernă. Se putea anula doar prin divorț formal. O sarcină în timpul logodnei, fără explicație, putea duce la divorț public, rușine pentru întreaga familie, și — în teorie — la pedeapsa cu pietre. „Da"-ul Mariei nu e un act de pietate; e un risc existențial.\f*
+\v 28 Îngerul a intrat și i-a spus:
+\p „Bucură-te, tu, cea aleasă de har.\f + \fr 1:28 \fk TEXT \fq cea aleasă de har \ft Grecescul κεχαριτωμένη (kecharitomene) e un participiu perfect pasiv: „cea care a fost acoperită de har." Nu e un titlu acumulat — e un dar primit. Nu e „plină de har" (formulă liturgică) și nici „favorizată" (prea plat). Luca spune: harul lui Dumnezeu a venit peste ea — nu pentru merit, ci pentru alegere.\f* Dumnezeu e cu tine."
+\v 29 Cuvintele au zguduit-o. Se întreba ce ar putea să însemne un astfel de salut.
+
+\p
+\v 30 Îngerul a continuat: „Nu te teme, Maria. Ai găsit har la Dumnezeu. \v 31 Vei rămâne însărcinată și vei naște un fiu, și îi vei pune numele Isus. \v 32 Va fi mare. Va fi numit Fiul Celui Preaînalt. Dumnezeu îi va da tronul lui David. \v 33 Va domni peste casa lui Iacob pentru totdeauna. Împărăția lui nu va avea sfârșit."
+
+\p
+\v 34 Maria a spus: „Cum e posibil? Nu am fost cu niciun bărbat."
+
+\p
+\v 35 Îngerul a răspuns: „Duhul Sfânt va veni peste tine și puterea lui Dumnezeu te va umbri.\f + \fr 1:35 \fk KONTEXT \fq te va umbri \ft Verbul „a umbri" (ἐπισκιάσει / episkiasei) trimite la Exod 40:35, unde norul slavei lui Dumnezeu „a acoperit" cortul întâlnirii. Aceeași prezență care umplea Templul acum vine peste Maria. Luca sugerează: Maria devine noul loc al prezenței divine — nu un templu de piatră, ci o persoană.\f* De aceea copilul care se va naște va fi sfânt — va fi numit Fiul lui Dumnezeu.\f + \fr 1:35 \fk UNGLAUBLICH \fq va fi sfânt — va fi numit Fiul lui Dumnezeu \ft Conceperea feciorelnică este unul dintre cele mai contestate elemente ale narațiunii. Trei perspective: (1) Lectura naturalistă: Luca folosește un motiv literar comun în Antichitate pentru a semnala importanța divină a lui Isus — nașterea miraculoasă ca metaforă teologică, nu ca biologie. (2) Lectura simbolic-teologică: textul afirmă că Isus nu e produsul unui proiect uman, ci al inițiativei lui Dumnezeu — mesajul e despre origine, nu despre mecanismul biologic. (3) Lectura istorico-credincioasă: Luca, care se prezintă ca cercetător atent, relatează evenimentul ca fapt — Maria e martoră directă, iar narațiunea presupune realitatea conceperii prin Duhul Sfânt. Textul însuși nu oferă o explicație — oferă o mărturie.\f* \v 36 Și mai e ceva: Elisabeta, ruda ta — cea despre care toți spuneau că nu poate avea copii — e însărcinată. În luna a șasea. \v 37 Fiindcă nimic din ce spune Dumnezeu nu rămâne fără putere."
+
+\p
+\v 38 Maria a spus: „Sunt slujitoarea lui Dumnezeu. Fie cum ai spus."\f + \fr 1:38 \fk LEBEN \fq Fie cum ai spus \ft Maria consimte. Trei cuvinte. Dar gândește-te la ce acceptă: o sarcină inexplicabilă pentru o fată logodită, cu tot ce vine la pachet — bârfă, rușine, posibil divorț. „Da"-ul ei nu e naiv; e curajos. Și nu e un „da" vag la viață — e un „da" concret, cu consecințe imediate și vizibile. Ce ar fi însemnat pentru tine un „da" care te-ar fi costat totul?\f*
+\p Și îngerul a plecat.
+
+\s1 Două femei, două minuni
+
+\p
+\v 39 Maria nu a stat să aștepte. S-a ridicat și a plecat — în grabă, spre sud, în ținutul muntos al Iudeii.\add  A mers zile întregi.\add* \v 40 Când a ajuns într-un sat de acolo și a intrat în casa lui Zaharia, a salutat-o pe Elisabeta.
+\v 41 În clipa aceea, copilul din pântecul Elisabetei a săltat.\f + \fr 1:41 \fk UNGLAUBLICH \fq copilul a săltat \ft Un copil nenăscut care reacționează la un salut — recunoaștere prenatală? Mișcări fetale sunt fenomene normale, dar textul afirmă mai mult: copilul răspunde la prezența lui Isus (încă în pântecul Mariei). Trei lecturi: (1) Supranaturală: Duhul Sfânt lucrează în ambii copii nenăscuți — Ioan îl recunoaște pe Isus dincolo de percepția umană. (2) Coincidență interpretată teologic: o mișcare fetală normală, citită de Elisabeta ca semn divin. (3) Narativă: Luca construiește o scenă în care și trupurile confirmă ceea ce îngerul a anunțat. Textul nu explică mecanismul — doar afirmă: recunoașterea a avut loc.\f* Elisabeta s-a umplut de Duhul Sfânt \v 42 și a strigat — \add nu a vorbit, a strigat\add* cu toată puterea glasului:
+\p „Binecuvântată ești tu, mai mult decât orice femeie!\f + \fr 1:42 \fk KONTEXT \fq binecuvântată... mai mult decât orice femeie \ft Formulare care trimite la Iaela (Judecători 5:24) și Iudita (Iudita 13:18) — femeile din istoria lui Israel care au acționat decisiv în momente de criză. Elisabeta o plasează pe Maria în acest șir de femei curajoase.\f* Și binecuvântat e copilul pe care-l porți! \v 43 Cine sunt eu ca mama Domnului meu să vină până la mine? \v 44 În clipa în care am auzit ce-ai spus, copilul din mine a săltat de fericire. \v 45 Ești fericită fiindcă ai crezut — fiindcă tot ce ți-a spus Dumnezeu se va împlini."
+
+\s1 Cântecul Mariei
+
+\q1
+\v 46 Tot ce e în mine îl sărbătorește pe Dumnezeu.\f + \fr 1:46 \fk LEBEN \fq Tot ce e în mine îl sărbătorește \ft Maria răspunde la haosul din viața ei nu cu plângere, ci cu un cântec. Nu ignoră realitatea — o reinterpretează radical: Dumnezeu e de partea celor mici, ordinea lumii se va schimba. Magnificatul arată un mod de a sta în fața incertitudinii: nu cu resemnare, nu cu negare, ci cu o viziune care depășește situația imediată. A găsi cuvinte pentru recunoștință în mijlocul confuziei nu e naivitate — e un act de curaj.\f*\f + \fr 1:46-55 \fk KONTEXT \fq Cântecul Mariei (Magnificat) \ft Ecoul cel mai puternic e cântecul Anei din 1 Samuel 2:1-10 — o altă femeie fără copii care primește un fiu și cântă despre răsturnări: „Arcul celor puternici se frânge, dar cei slabi se încartierează cu putere." Maria preia și radicalizează tema: nu doar soarta personală se schimbă, ci ordinea lumii.\f*
+\q1
+\v 47 Spiritul meu tresare de bucurie
+\q2 pentru cel care mă salvează.
+\b
+\q1
+\v 48 S-a uitat la mine.
+\q2 La mine —
+\q2 cea fără de însemnătate, cea mică.\f + \fr 1:48 \fk TEXT \fq neînsemnătatea mea \ft Grecescul ταπείνωσις (tapeinosis) NU înseamnă „smerenie" ca virtute — înseamnă statut social scăzut, insignifianță. Maria nu se laudă cu modestia; ea descrie realitatea: e o nimeni într-un sat pe care nimeni nu-l cunoaște. Și tocmai pe ea s-a uitat Dumnezeu.\f*
+\q1 De acum, toată lumea va spune:
+\q2 ce fericită e.
+\q1
+\v 49 Cel Puternic a făcut lucruri mari cu mine.
+\q2 Numele lui e sfânt.
+\q1
+\v 50 Mila lui — din generație în generație —
+\q2 peste cei care se tem de el.
+\b
+\q1
+\v 51 Și-a arătat puterea brațului.
+\q1 I-a risipit pe cei mândri — pe cei care se credeau cineva.\f + \fr 1:51-53 \fk KULTUR \fq I-a risipit... i-a dat jos... i-a trimis cu mâinile goale \ft Verbele la aorist (timpul trecut) descriu acțiunea caracteristică a lui Dumnezeu — ceea ce el face mereu, nu un eveniment punctual. Sub ocupația romană, aceste versete sună ca un manifest politic: conducătorii dați jos de pe tronuri, cei flămânzi hrăniți, cei bogați trimiși cu mâinile goale. Magnificatul a fost interzis de dictatura militară din Guatemala (anii 1980) tocmai pentru această dimensiune concretă.\f*
+\q1
+\v 52 I-a dat jos pe cei puternici de pe tronuri
+\q2 și i-a ridicat pe cei de jos.
+\q1
+\v 53 Pe cei flămânzi i-a săturat cu tot ce e bun,
+\q2 iar pe cei bogați i-a trimis cu mâinile goale.
+\b
+\q1
+\v 54 L-a ajutat pe Israel, slujitorul său —
+\q2 s-a ținut de promisiune.
+\q1
+\v 55 Așa cum le-a spus strămoșilor noștri:
+\q2 lui Avraam și urmașilor lui, pentru totdeauna.
+
+\p
+\v 56 Maria a rămas la Elisabeta cam trei luni, apoi s-a întors acasă.
+
+\s1 Numele lui e Ioan
+
+\p
+\v 57 A venit momentul. Elisabeta a născut un fiu. \v 58 Vestea s-a răspândit — Dumnezeu fusese bun cu ea — și vecinii și rudele au venit să sărbătorească.
+\v 59 La opt zile, când i s-a făcut tăierea împrejur — \add semnul legământului —\add*\f + \fr 1:59 \fk KULTUR \fq tăierea împrejur \ft Circumcizia pe a opta zi era semnul fizic al legământului dintre Dumnezeu și Israel (Geneza 17:12). Nu era opțional; era identitate. Ceremonia de numire avea loc în același moment — numele devenea parte din identitatea legământului.\f* și urma să primească un nume, toți voiau să-l numească Zaharia, ca pe tatăl lui. \v 60 Elisabeta a spus: „Nu. Se va numi Ioan."
+\v 61 Au rămas surprinși. „Nimeni din familia ta nu poartă acest nume."\f + \fr 1:61 \fk KULTUR \fq nimeni din familia ta \ft Numirea copilului după un bărbat din familie — tată, bunic, unchi — era normă. Numele erau purtătoare de onoare familială. A numi copilul după un necunoscut era o ruptură de tradiție atât de neobișnuită încât rudele au simțit nevoia să apeleze la tatăl — peste capul mamei — pentru confirmare.\f* \v 62 S-au întors spre Zaharia și l-au întrebat prin semne cum vrea să-l numească pe copil. \v 63 A cerut o tăbliță. Și a scris: „Numele lui ESTE Ioan."
+\v 64 Toți au rămas uimiți. Iar în aceeași clipă — gura i s-a deschis. Pe loc. Și a început să vorbească. Primele lui cuvinte au fost de laudă lui Dumnezeu.\f + \fr 1:64 \fk UNGLAUBLICH \fq gura i s-a deschis. Pe loc. \ft Vindecarea instantanee a muțeniei lui Zaharia — exact în momentul în care confirmă numele ales de Dumnezeu — completează ciclul deschis în v.20. Dacă mutismul poate fi explicat psihologic (șoc, conversie funcțională), vindecarea bruscă este mai greu de încadrat: apare nu gradual, ci „pe loc", legată direct de actul de ascultare. Textul sugerează: conformarea cu cuvântul lui Dumnezeu restaurează ceea ce necredința a blocat. Primele cuvinte ale lui Zaharia — laudă, nu plângere — indică o transformare interioară, nu doar o vindecare fizică.\f*
+\v 65 Frica a cuprins tot ținutul. În toate satele din zona muntoasă a Iudeii, oamenii vorbeau despre ce se întâmplase. \v 66 Și toți cei care auzeau își puneau aceleași întrebări: „Ce va ajunge copilul ăsta?" Fiindcă era clar — mâna lui Dumnezeu era cu el.
+
+\s1 Profeția lui Zaharia
+
+\p
+\v 67 Zaharia, tatăl lui, s-a umplut de Duhul Sfânt și a profețit:
+
+\q1
+\v 68 Lăudat fie Dumnezeu, Dumnezeul lui Israel —
+\q1 a venit să-și vadă poporul
+\q2 și să-i dea eliberare.
+\q1
+\v 69 A ridicat un salvator puternic\f + \fr 1:69 \fk TEXT \fq un salvator puternic \ft Grecescul κέρας σωτηρίας (keras soterias) = literal „corn al salvării." „Cornul" era simbol de forță în lumea antică — cornul animalului puternic, cornul de ungere al regilor. Imaginea spune: Dumnezeu nu trimite un ajutor slab; trimite o forță de eliberare. Am tradus sensul, nu metafora moartă.\f*
+\q2 în casa lui David, slujitorul său —
+\q1
+\v 70 așa cum a promis demult,
+\q2 prin gura profeților.
+\b
+\q1
+\v 71 Salvare de dușmani,\f + \fr 1:71 \fk KULTUR \fq salvare de dușmani \ft Sub ocupația romană, „dușmani" și „cei care ne urăsc" aveau un referent concret: Roma. Ascultătorii lui Zaharia ar fi auzit o promisiune de eliberare politică. Dar poema nu se termină cu victoria militară — se termină cu „pace" (v.79). Tensiunea este deliberată: eliberarea duce la o viață nouă de slujire, nu la răzbunare.\f*
+\q2 din mâna tuturor celor care ne urăsc.
+\q1
+\v 72 A arătat milă față de cei dinaintea noastră
+\q2 și s-a ținut de legământul său —
+\q1
+\v 73 de jurământul pe care l-a făcut lui Avraam:
+\q1
+\v 74 că ne va scoate din mâna dușmanilor
+\q2 și vom putea să-i slujim fără frică,
+\q1
+\v 75 în curăție și dreptate,
+\q2 în fiecare zi din viața noastră.
+\b
+\q1
+\v 76 Iar tu, copile,
+\q2 vei fi numit profetul Celui Preaînalt.
+\q1 Vei merge înaintea lui
+\q2 ca să-i pregătești drumul —
+\q1
+\v 77 să-i spui poporului ce înseamnă salvarea:
+\q2 iertarea.
+\b
+\q1
+\v 78 Pentru că din mila care vine din adâncul lui Dumnezeu,\f + \fr 1:78 \fk TEXT \fq mila care vine din adâncul lui Dumnezeu \ft Grecescul σπλάγχνα ἐλέους (splanchna eleous) = literal „măruntaiele milei" sau „viscerele compasiunii." Compasiunea lui Dumnezeu nu e abstractă — e localizată în corp, în adâncul fizic. Am tradus sursa fizică a milei, nu doar efectul ei.\f*
+\q1 Răsăritul de sus ne va cerceta —\f + \fr 1:78 \fk TEXT \fq Răsăritul de sus \ft Grecescul ἀνατολή (anatole) are dublu sens: (1) „răsărit" — soarele care se ridică; (2) „vlăstar" — titlu mesianic din Ieremia 23:5 și Zaharia 3:8 în versiunea greacă (Septuaginta). Luca suprapune cele două imagini: Mesia vine ca o zorii zilei peste cei din întuneric. În tradiția ortodoxă, altarul e orientat spre est — arhitectura însăși poartă teologia.\f*
+\q1
+\v 79 ca să strălucească peste cei care stau în întuneric
+\q2 și în umbra morții
+\q1 și să ne călăuzească pașii
+\q2 pe drumul păcii.\f + \fr 1:79 \fk LEBEN \fq pe drumul păcii \ft Benedictusul se termină cu un singur cuvânt: pace. Nu victoria, nu triumful, nu răzbunarea — pace. Zaharia, care a început prin a nu crede (v.18), a trecut prin nouă luni de tăcere, și acum ultima sa viziune e una de lumină și reconciliere. Profeția lui nu se termină cu „vom învinge" ci cu „vom fi călăuziți pe drumul păcii." Poate că tăcerea l-a schimbat mai mult decât și-ar fi imaginat.\f*
+
+\s1 În pustie
+
+\p
+\v 80 Copilul creștea și se întărea în duh. A trăit prin locuri pustii,\add  departe de oameni,\add*\f + \fr 1:80 \fk KONTEXT \fq prin locuri pustii \ft Pustia (eremos) în tradiția biblică nu e o pedeapsă — e un spațiu de formare. Moise, Ilie, Israel însuși au fost formați în pustie. Ioan crește departe de instituții, departe de Templu, departe de structurile de putere. Când va apărea în capitolul 3, va vorbi de acolo — din afara sistemului.\f* până în ziua în care avea să se arate lui Israel.

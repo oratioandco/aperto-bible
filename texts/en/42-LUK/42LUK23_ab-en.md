@@ -1,0 +1,247 @@
+
+# Luke
+
+
+# Luke
+
+
+---
+
+## Kapitel 23
+
+
+### Jesus Before Pilate
+
+
+**1** The whole council rose as one and brought Jesus before Pilate.
+[^1]
+
+**2** *The charges came in a rush:* He was corrupting the nation. He was forbidding tribute to Caesar. He was claiming to be the Messiah — a king.
+[^2]
+[^3]
+
+**3** Pilate studied him. "Are you the king of the Jews?"
+
+[^4]
+
+**4** Pilate turned to the chief priests and the crowd. "I find no grounds for a charge against this man."
+[^5]
+
+**5** They pressed harder. "He stirs up the people with his teaching throughout Judea — started in Galilee and now he's here."
+[^6]
+
+### Jesus Before Herod
+
+
+**6** *The word "Galilee" gave Pilate an idea.* He asked if Jesus was a Galilean and, finding he fell under Herod's jurisdiction, sent him over.
+**7** Herod happened to be in Jerusalem for the festival.
+[^7]
+
+**8** Herod was delighted. He had wanted to see Jesus for a long time — had heard the stories, hoped to watch him perform a miracle.
+[^8]
+**9** He asked question after question. Jesus said nothing.
+
+[^9]
+
+**10** The chief priests and scribes pressed their case, shouting accusations.
+**11** But Herod had already made up his mind. He and his soldiers treated Jesus with contempt, mocked him, *wrapped him in a royal robe —* and sent him back to Pilate.
+[^10]
+
+**12** That day, Herod and Pilate became friends. Until then, they had been enemies.
+[^11]
+
+### Pilate Sentences Jesus
+
+
+**13** Pilate called the chief priests, the leaders, and the people together.
+**14** "You brought this man before me as someone corrupting the people. I examined him myself. I found nothing — no grounds for any of your charges.
+**15** Neither did Herod. He sent him back. This man has done nothing to deserve death.
+**16** I'll have him flogged. Then I'll let him go."
+[^12]
+[^13]
+
+**18** The whole crowd roared as one: "Away with him! Release Barabbas to us!"
+
+**19** Barabbas was in prison for insurrection and murder.
+[^14]
+
+**20** Pilate appealed again, wanting to release Jesus.
+**21** They shouted over him: "Crucify him! Crucify him!"
+
+**22** *For the third time:* "Why? What crime has this man committed? I've found nothing deserving death. I'll have him flogged and let him go."
+[^15]
+
+**23** But their voices won out.
+[^16]
+
+**24** Pilate gave in.
+**25** He released the man imprisoned for insurrection and murder — *the very crimes Jesus had been accused of.* And Jesus he handed over to their will.
+[^17]
+[^18]
+
+### The Road to the Cross
+
+
+**26** As they led him away, soldiers seized a man coming in from the countryside — Simon, from Cyrene — and forced the cross onto his shoulders. He carried it behind Jesus.
+[^19]
+[^20]
+
+**27** A large crowd followed. Women were mourning and wailing for him. Jesus turned to them.
+[^21]
+
+**28** "Daughters of Jerusalem, don't weep for me. Weep for yourselves. Weep for your children.
+**29** The days are coming when people will say: Blessed are the barren. Blessed the wombs that never bore. Blessed the breasts that never nursed.
+[^22]
+[^23]
+
+**30** "Then they'll beg the mountains: Fall on us. And the hills: Cover us.
+[^24]
+**31** Because if they do this when the wood is green, what will happen when it's dry?"
+[^25]
+
+**32** Two others were led out with him — criminals, to be executed at his side.
+[^26]
+
+### The Crucifixion
+
+
+**33** When they came to the place called the Skull, they crucified him there, along with the criminals — one on his right, one on his left.
+[^27]
+[^28]
+
+**34** And Jesus kept saying: "Father, forgive them. They don't know what they're doing."
+[^29]
+[^30]
+[^31]
+
+[^32]
+
+**35** The people stood and watched. But the rulers sneered. "He saved others — let him save himself, if he's really God's Chosen One, the Messiah."
+[^33]
+\v 36-37 The soldiers mocked him too, offering sour wine: "If you're the King of the Jews — save yourself."
+**38** There was also an inscription above him: THIS IS THE KING OF THE JEWS.
+[^34]
+
+**39** One of the criminals hanging there kept taunting him: "Aren't you the Messiah? Save yourself. *And us while you're at it.*"
+
+**40** But the other one spoke up. "Don't you fear God? We're under the same sentence he is.
+**41** And we deserve it — we're getting what we earned. But this man — he's done nothing wrong."
+[^35]
+
+**42** Then, to Jesus — *just his name, no title:* "Jesus. Remember me when you come into your kingdom."
+[^36]
+[^37]
+
+**43** And Jesus said to him: "Truly I tell you — today you will be with me in paradise."
+[^38]
+[^39]
+
+### The Death of Jesus
+
+
+**44** It was about noon. Darkness fell over the whole land — and held until three in the afternoon.
+**45** The sun's light failed. And the curtain of the Temple tore down the middle.
+[^40]
+[^41]
+[^42]
+
+**46** Then Jesus cried out in a loud voice: "Father — into your hands I commit my spirit."
+[^43]
+[^44]
+
+
+**47** The centurion saw what had happened. He glorified God. "This man," he said, "was righteous."
+[^45]
+[^46]
+[^47]
+
+**48** And the crowds — *the ones who had come for the spectacle* — when they saw what had taken place, they went home beating their chests.
+[^48]
+[^49]
+
+**49** All who knew Jesus stood at a distance, watching everything. Among them: the women who had followed him from Galilee.
+[^50]
+
+### The Burial
+
+
+**50** Then — *a surprise.* A man named Joseph, from Arimathea, came forward.
+**51** He was a member of the council — but he hadn't consented to any of it. A good man. A righteous man. He had been waiting for the kingdom of God.
+[^51]
+[^52]
+
+**52** He went to Pilate and asked for the body.
+**53** He took it down, wrapped it in linen cloth, and laid it in a rock-cut tomb where no one had ever been buried.
+[^53]
+
+**54** It was Friday. The Sabbath was about to begin.
+[^54]
+
+**55** The women who had followed Jesus from Galilee followed now too. They saw the tomb, saw how his body had been laid — *noting everything.*
+[^55]
+
+**56** Then they went home and prepared spices and ointments for the body.
+
+[^56]
+
+---
+
+
+## Anmerkungen
+
+[^1]: **KULTUR** — *the whole council*: The Greek ἅπαν τὸ πλῆθος refers to the Sanhedrin — the Jewish governing council of approximately 70 members, not the Jewish people as a whole. This specificity matters: it is a governing body's institutional decision, not a collective ethnic act. The Second Vatican Council's Nostra Aetate (1965) formally repudiated the charge that "the Jews" killed Jesus.
+[^2]: **KONTEXT** — *forbidding tribute to Caesar*: This charge is a demonstrable lie within Luke's own narrative. In Luke 20:22-25, the Pharisees and Herodians asked Jesus whether it was lawful to pay taxes to Caesar, and Jesus answered: "Give to Caesar what is Caesar's, and to God what is God's." The Sanhedrin leaders know their audience and repackage a religious dispute as a political threat — sedition, tax resistance, rival kingship — because these are the charges that will force a Roman prefect to act.
+[^3]: **TEXT** — *the Messiah — a king*: The Greek χριστὸν βασιλέα places two categories side by side: "Messiah" (a Jewish religious concept) and "king" (a Roman political category). The dash captures the Sanhedrin's translation work — they are repackaging a religious title as a political threat. For Pilate, the only word that matters is "king."
+[^4]: **TEXT** — *You say so*: The Greek Σὺ λέγεις is deliberately ambiguous — neither a denial nor a confession. Jesus transfers the definition back to the questioner. In Roman legal terms, it is a non-self-incriminating response. In theological terms, it implies: "You have said it — but what do you mean by 'king'?" The ambiguity is the answer.
+[^5]: **TEXT** — *no grounds for a charge*: The Greek αἴτιον is a formal legal term — an actionable fault, a legally sufficient ground for conviction. This is Pilate's first of three public declarations of innocence (23:4, 14, 22). He is not saying "I think he's a nice man." He is rendering a formal verdict: no legally actionable offense.
+[^6]: **KONTEXT** — *started in Galilee*: This geographical detail is Luke's narrative hinge for the next scene. By mentioning Galilee, the accusers inadvertently give Pilate an administrative escape: if Jesus is Galilean, he falls under Herod Antipas's jurisdiction. The word "Galilee" triggers Pilate's referral.
+[^7]: **KULTUR** — *Herod happened to be in Jerusalem*: Herod Antipas — son of Herod the Great, tetrarch of Galilee and Perea from 4 BC to AD 39 — would have stayed at the Hasmonean (Maccabean) palace during Passover. Philo (Embassy to Gaius 299-305) documents prior conflict between Pilate and Herod over votive shields in Jerusalem. The administrative referral (ἀνέπεμψεν) is a formal legal transfer between officials.
+[^8]: **KONTEXT** — *wanted to see Jesus for a long time*: Luke 9:9 records Herod's earlier reaction to reports about Jesus: "John I beheaded, but who is this?" Luke 13:31-32 records that Herod wanted to kill Jesus, and Jesus called him "that fox." Now the long-desired encounter arrives — and produces nothing. Herod wants a sign on demand; Jesus has refused this throughout the Gospel (4:9-12; 11:29).
+[^9]: **UNGLAUBLICH** — *Jesus said nothing*: Jesus' complete silence before Herod is the most total silence in the passion narrative. Before Pilate, Jesus speaks briefly; before Herod, not at all. Three readings: (1) Prophetic fulfillment: Isaiah 53:7 — "as a sheep before its shearers is silent." Jesus enacts the Suffering Servant pattern. (2) Strategic silence: Jesus recognizes that Herod wants entertainment, not truth, and refuses to perform. (3) Spiritual discernment: knowing when not to speak is itself a form of truthfulness. Ambrose: "By remaining silent, he does not confirm the accusation. By not refuting it, he despises it."
+[^10]: **KULTUR** — *a royal robe*: The Greek ἐσθῆτα λαμπράν describes a "splendid" or "gleaming" garment — probably a white or royal robe. This is mockery by costume: dressing the accused "king" in kingly garb to make the pretension ridiculous. Herod's verdict is contempt (ἐξουθενήσας), not condemnation. He finds Jesus harmless enough to mock, not dangerous enough to execute — which inadvertently serves as a second independent witness to Jesus' non-guilt.
+[^11]: **KONTEXT** — *Herod and Pilate became friends*: Acts 4:26-28 will later apply Psalm 2:1-2 to this reconciliation: "The kings of the earth took their stand, and the rulers gathered together against the Lord and against his Anointed One." Two authorities who were political enemies are reconciled through their shared treatment of Jesus. The irony is Luke's: friendship born from shared contempt.
+[^12]: **KULTUR** — *I'll have him flogged*: The Greek παιδεύσας refers to Roman flagellatio — corporal punishment as a non-capital penalty. Pilate proposes flogging as a compromise: punish but not execute. The grotesque logic — offering to torture a man he has just declared innocent — reveals the gap between legal verdict and political expediency. This is Pilate's first failed attempt to release Jesus.
+[^13]: **TEXT** — *verse 23:17*: Some manuscripts add here: "Now he was obligated to release one prisoner to them at the festival." This verse is absent from the earliest and most reliable manuscripts (P75, Codex Sinaiticus, Codex Vaticanus) and is almost certainly borrowed from Mark 15:6 and Matthew 27:15 by later scribes.
+[^14]: **KONTEXT** — *insurrection and murder*: Barabbas (Aramaic Bar-Abbas, "son of the father") was imprisoned for the very crimes Jesus was falsely accused of — sedition and violence. The structural irony is inescapable: the man guilty of insurrection goes free; the man innocent of it is condemned. The name itself creates an ironic echo: "son of the father" Barabbas is released while Jesus, the Son of the Father, is handed over.
+[^15]: **KONTEXT** — *the third time*: Pilate declares Jesus innocent three times (23:4, 14, 22) using identical legal vocabulary (αἴτιον — "actionable fault"). The threefold structure parallels Peter's threefold denial (22:54-62) — an irony Luke's audience would have felt: the Roman judge affirms Jesus' innocence three times while the leading disciple denies knowing him three times.
+[^16]: **TEXT** — *their voices won out*: The Greek κατίσχυον αἱ φωναί — "their voices overpowered." Volume defeats law. The verb κατισχύω means "to prevail over, overpower." Luke's point is precise: it was not evidence or argument that condemned Jesus, but accumulated vocal pressure. The voices physically overwhelm the verdict.
+[^17]: **TEXT** — *handed Jesus over to their will*: Luke deliberately avoids a formal sentencing formula. The Greek παρέδωκεν τῷ θελήματι αὐτῶν — "handed him over to their will" — is not a legal sentence but a moral abdication. The word θέλημα ("will") is the same word used for the Father's will in Gethsemane (22:42: "not my will but yours be done"). The contrast is devastating: in the garden, Jesus submitted to God's will; now Pilate submits to the crowd's will.
+[^18]: **LEBEN** — *handed over to their will*: This scene raises the question that follows every unjust conviction: how do systems produce injustice? Pilate's triple acquittal followed by capitulation shows that injustice is not always the work of villains — it is often the work of officials who know the right verdict and lack the courage to enforce it. The gap between knowing and doing is the moral landscape of this pericope.
+[^19]: **KULTUR** — *soldiers seized a man*: Roman soldiers had the legal right of angareia — compulsory impressment of civilians for state service (cf. Matthew 5:41: "if anyone forces you to go one mile"). Simon is not a follower; he is a passerby conscripted by force. Cyrene was in modern-day Libya, with a substantial Jewish diaspora community (Acts 6:9; 11:20). Mark 15:21 names Simon's sons Alexander and Rufus, suggesting they were known in early Christian communities.
+[^20]: **KONTEXT** — *He carried it behind Jesus*: The Greek ὄπισθεν τοῦ Ἰησοῦ — "behind Jesus" — deliberately echoes Luke 9:23: "Let him take up his cross and follow behind me (ὀπίσω μου)." An unknowing passerby, conscripted by force, inadvertently enacts the discipleship command — while the actual disciples are nowhere to be seen.
+[^21]: **KULTUR** — *mourning and wailing*: These women are performing formal public lament — not casual weeping but the communal mourning ritual recognized in the ancient world as an act of solidarity with the condemned (cf. Jeremiah 9:17-20). Later rabbinic tradition (b. Sanhedrin 43a) records that pious women of Jerusalem would go to mourn the executed, sometimes providing a narcotic drink to dull the pain. These are "Daughters of Jerusalem" — city residents, distinct from the Galilean women disciples who appear in 23:49 and 23:55.
+[^22]: **KULTUR** — *Blessed are the barren*: In the ancient world, barrenness was the deepest social shame — a mark that many interpreted as divine punishment (cf. Elizabeth's suffering in Luke 1:25). Jesus inverts this entirely: in the coming siege of Jerusalem (AD 70), childlessness will be mercy. Josephus (Jewish War 6) describes the siege's horror in graphic detail — famine so severe that a mother consumed her own child. Those without children will be spared the worst grief.
+[^23]: **LEBEN** — *Blessed the wombs that never bore*: Jesus' inverted beatitude is not a moral judgment on parenthood. It is a prophetic oracle about a specific historical catastrophe. Using this verse to shame or comfort childless people misapplies a text about the destruction of Jerusalem. The "blessing" of barrenness here is the blessing of being spared a particular horror — not a general teaching about fertility.
+[^24]: **KONTEXT** — *Fall on us... Cover us*: A direct citation of Hosea 10:8 — the language of eschatological terror, the preference for annihilation over witnessing what is coming. Revelation 6:16 reuses this exact text. The oracle belongs to the thread of Jerusalem destruction prophecies running through Luke: 13:34-35 (lament over Jerusalem), 19:41-44 (Jesus weeping over the city), 21:20-24 (the siege foretold). This is the final expression.
+[^25]: **TEXT** — *green wood... dry*: A Jewish proverb (cf. Ezekiel 20:47) about proportionality: if this is what happens to the innocent ("green wood" — full of life), what will happen to the guilty ("dry wood" — ready to burn)? "They" likely refers to the Romans: if Rome does this to a man Pilate declared innocent, what will Rome do to a city that actually rebels? The prophecy was fulfilled in AD 70.
+[^26]: **KONTEXT** — *criminals, to be executed at his side*: Isaiah 53:12: "He was numbered with the transgressors." The Greek κακοῦργοι ("evildoers, criminals") is a stronger term than Mark's λῃσταί ("robbers/bandits"). These two will matter enormously in the next scene — one will mock, one will confess.
+[^27]: **KULTUR** — *the place called the Skull*: The Greek Κρανίον translates the Aramaic Golgotha and the Latin Calvaria — all meaning "skull." The site is identified with high confidence as the location of the Church of the Holy Sepulchre, established by Emperor Constantine in AD 325-335 over a former limestone quarry. The only directly attested skeletal evidence of Roman crucifixion comes from the ossuary of Jehohanan (Giv'at ha-Mivtar, Jerusalem, first century CE), whose heel bone retains an iron nail — confirming the physical reality Luke narrates.
+[^28]: **APOLOGETICS** — *they crucified him*: The historicity of Jesus' crucifixion is one of the most secure facts in ancient history. It is attested by all four Gospels independently, by Paul (writing within 20 years of the event, 1 Corinthians 15:3-4), and by non-Christian sources: Tacitus (Annals 15.44, c. AD 116) states that "Christus" was "put to death by Pontius Pilate, procurator of Judea"; Josephus (Antiquities 18.3.3, c. AD 93) mentions "the tribe of Christians, so named from him" and his condemnation by Pilate. Even critics who dispute the resurrection accept the crucifixion as historical fact. The 1968 discovery of the Jehohanan ossuary — a crucified man's heel bone with an iron nail still embedded — provided the first direct archaeological confirmation of Roman crucifixion technique in first-century Jerusalem.
+[^29]: **TEXT** — *Father, forgive them*: This verse is absent from the earliest manuscripts, including P75 (c. AD 175-225) and Codex Vaticanus, and appears in double brackets in the standard Greek text (NA28). Its authenticity remains debated. Bart Ehrman proposes that scribes removed it because they could not accept Jesus praying for Jewish people — a theologically motivated excision driven by early anti-Judaism. A 2025 Puritan Reformed Journal essay argues for authenticity from internal criteria. Whether original or very early addition, the prayer reflects ancient Christian tradition. The imperfect ἔλεγεν ("he was saying") suggests ongoing, repeated prayer during the crucifixion — not a single heroic utterance.
+[^30]: **KONTEXT** — *They don't know what they're doing*: The referent of "them" is left deliberately open — the Roman soldiers casting lots (the immediate context), the Jewish leaders, or all participants. Acts 3:17 uses the same ignorance motif: "You acted in ignorance, as did your rulers." Luke frames the crucifixion as an act of ignorance rather than deliberate cosmic malice — which makes the prayer of forgiveness both generous and theologically precise.
+[^31]: **LEBEN** — *Father, forgive them*: Forgiving someone who is actively harming you — not after the fact, not from a safe distance — is the most radical act in this chapter. Jesus does not wait for an apology. He does not wait for understanding. He prays forgiveness into the violence while it is happening. The imperfect tense (ἔλεγεν — "he kept saying") means this was not a single heroic moment but a sustained practice. Forgiveness here is not a feeling; it is an action repeated under duress.
+[^32]: **KONTEXT** — *They cast lots for his clothing*: An echo of Psalm 22:18: "They divide my clothes among them and cast lots for my garment." Crucified prisoners were stripped; their clothing became the executioners' property. Luke's spare narration — one sentence, its own paragraph — lets the detail land without commentary. The reader who knows Psalm 22 hears the echo; the reader who doesn't still feels the casual brutality.
+[^33]: **TEXT** — *the people stood and watched... the rulers sneered*: Luke carefully distinguishes the people (ὁ λαός) from the rulers (οἱ ἄρχοντες). The people observe silently; only the rulers mock. This distinction matters: Luke does not portray the Jewish people as a whole participating in the mockery. The title "the Chosen One" (ὁ ἐκλεκτός) is Luke's distinctive messianic designation, drawn from Isaiah 42:1 and used at the Transfiguration (9:35: "This is my Son, my Chosen One"). The rulers unknowingly speak the truth: he is God's Chosen One.
+[^34]: **KULTUR** — *THIS IS THE KING OF THE JEWS*: The titulus crucis — a placard stating the charge — was standard Roman practice. The inscription is ironic on two levels: it states the charge as mockery, yet it is theologically true. All four Gospels preserve this inscription with minor variations, making it one of the most multiply attested details of the crucifixion.
+[^35]: **KONTEXT** — *this man — he's done nothing wrong*: The criminal's declaration is the fourth independent witness to Jesus' innocence in Luke 23: Pilate (23:4, 14, 22), Herod (by non-conviction, 23:15), the centurion (23:47), and now a dying criminal (23:41). The Greek ἄτοπον literally means "out of place, incongruous" — Jesus' punishment simply doesn't fit. A man dying for his own crimes recognizes justice in his own sentence and injustice in another's.
+[^36]: **TEXT** — *Jesus. Remember me*: This is the only time in Luke's Gospel that someone addresses Jesus by his bare personal name — no "Lord," no "Teacher," no "Master." The intimacy is the theology: a dying man addresses another dying man by name. "Remember me" (μνήσθητί μου) echoes the lament psalms' appeal to divine memory (Psalm 25:7: "Remember me according to your steadfast love"; Psalm 106:4). This is covenant language — the appeal to God's faithful remembrance — spoken by a man who has nothing to offer except need. The criminal confesses Jesus' kingship ("your kingdom") at the moment it appears most impossible to believe.
+[^37]: **LEBEN** — *Remember me... today you will be with me*: The criminal's prayer is the shortest and most desperate in the Gospels — no confession of faith, no theological argument, just a name and a request. And Jesus' response exceeds the request in every dimension: not "someday" but today; not "I'll remember" but "you'll be with me"; not a distant hope but paradise. This exchange has shaped Christian understanding of grace ever since: there is no minimum qualification for asking. No resume. No track record. The only requirement is honest need — and the willingness to voice it.
+[^38]: **TEXT** — *today you will be with me in paradise*: The Greek text has no punctuation. The placement of a comma before or after "today" determines the meaning: (1) "Truly I tell you, today you will be with me in paradise" — the majority scholarly reading, adopted by virtually all major translations (NIV, ESV, NRSV, NLT, KJV). (2) "Truly I tell you today, you will be with me in paradise" — a minority reading adopted by the New World Translation and some soul-sleep traditions. In Luke, σήμερον ("today") appears 17 times and consistently functions as a salvation-present adverb modifying the action described (2:11; 4:21; 19:9). Jesus' response exceeds the criminal's request in three dimensions: today (not someday), with me (not merely remembered), in paradise (not merely the kingdom).
+[^39]: **KULTUR** — *paradise*: "Paradise" is a Persian loanword (Old Persian pairidaêza, "an enclosed garden"), entering Hebrew as pardes and Greek as παράδεισος. In Jewish Second Temple literature (2 Enoch 8-9; 4 Ezra 7:36), paradise refers to the blessed realm of the righteous dead — the dwelling of the faithful with God. The same word appears only twice more in the New Testament: 2 Corinthians 12:4 and Revelation 2:7. It is not a generic synonym for "heaven" but carries specific imagery of a garden-sanctuary where the righteous dwell in God's presence.
+[^40]: **UNGLAUBLICH** — *Darkness fell... The sun's light failed*: Three hours of darkness from noon to 3 pm. A solar eclipse is astronomically impossible at Passover, which falls at full moon — and ancient readers knew this. The earliest manuscripts use the verb ἐκλείπω ("to fail, give out"), not "was darkened" (a later scribal change). Three readings: (1) Miraculous sign: a supernatural cosmic event — creation itself mourns, echoing the plague of darkness in Egypt (Exodus 10:21-23) and Amos 8:9 ("On that day I will make the sun go down at noon"). (2) Prophetic symbolism: conventional Old Testament language for divine judgment — the Day of the Lord (Joel 2:31), not a meteorological report. (3) Later interpolation or legendary accretion. The text presents it as a cosmic response to the crucifixion — whatever its nature, the narrative insists that the death of Jesus is not a local event but one with universal reverberations.
+[^41]: **KONTEXT** — *the curtain of the Temple tore*: The Temple curtain (καταπέτασμα) separated the Holy of Holies — the innermost sanctuary entered only by the high priest, once yearly — from the rest of the Temple. The divine passive (ἐσχίσθη, "was torn") implies God is the agent. Luke places the tearing before Jesus' death (Mark/Matthew place it after), suggesting that the opening of access to God begins with Jesus' prayer, not only with his final breath. Multiple meanings coexist: the end of mediated access to God, divine judgment on the Temple system, and the prophetic foreshadowing of the Temple's physical destruction in AD 70.
+[^42]: **UNGLAUBLICH** — *the curtain of the Temple tore*: The Temple curtain was massive — Josephus (War 5.5.4) describes it as 80 feet high, woven so thickly that horses tied to each side could not tear it apart. Three readings: (1) Supernatural event: God ripped the curtain as a visible sign that the barrier between humanity and the divine presence was abolished. (2) Earthquake damage: Matthew 27:51 mentions an earthquake; the curtain could have been physically torn by seismic activity. (3) Theological interpretation: the tearing is a narrative-theological statement, not a meteorological report — Luke uses a physical image to communicate a spiritual reality. Whatever its cause, all three Synoptic Gospels record it independently, and the early church consistently interpreted it as God acting: the Holy of Holies — sealed for centuries — is now open.
+[^43]: **TEXT** — *into your hands I commit my spirit*: A direct quotation of Psalm 31:5 (LXX 30:6) — a psalm of the righteous sufferer who trusts God in extremis. Luke deliberately substitutes this trust-prayer for Mark's cry of dereliction ("My God, my God, why have you forsaken me?" — Psalm 22:1). In Mark, Jesus dies abandoned; in Luke, Jesus dies trusting. Both are theologically true, but Luke's choice is deliberate: the prayer-life that has characterized Jesus throughout the entire Gospel does not break at the cross. It fulfills. Jewish tradition used Psalm 31:5 as an evening prayer — the prayer children said at bedtime. Jesus dies with a child's nighttime prayer on his lips.
+[^44]: **LEBEN** — *Into your hands I commit my spirit*: This prayer — Psalm 31:5 — was the Jewish bedtime prayer, the last words a child said before sleep. Jesus dies with a child's nighttime prayer on his lips. There is something profound here about the relationship between trust and death: the same posture that allows a child to fall asleep in the dark — releasing control, trusting presence — is the posture Jesus models at the end. The prayer has been used at Christian deathbeds for centuries. But it is not only for dying. It is the practice of releasing what cannot be held: outcomes, control, the need to fix everything before letting go.
+[^45]: **TEXT** — *righteous*: The Greek δίκαιος carries two simultaneous meanings that must both be heard: (1) Legal: "innocent" — a formal verdict from the Roman officer overseeing the execution, confirming Pilate's triple acquittal. (2) Messianic-theological: "the Righteous One" — a messianic title used in Acts 3:14 ("You disowned the Holy and Righteous One"), Acts 7:52, and Acts 22:14. Luke substitutes this for Mark's "Son of God" (Mark 15:39). The centurion — a Gentile soldier — unknowingly speaks in both registers at once.
+[^46]: **KONTEXT** — *He glorified God*: The phrase ἐδόξαζεν τὸν θεόν is Luke's characteristic marker of a human response to divine action — used for the shepherds at Jesus' birth (2:20), for those who witnessed healings (5:25-26; 7:16; 13:13; 17:15; 18:43). Its use by a Roman centurion at the cross places Jesus' death within the same pattern: God has acted, and a witness responds. The most unexpected voice in the chapter speaks the most theologically laden phrase.
+[^47]: **APOLOGETICS** — *This man was righteous*: The centurion's declaration is significant as independent testimony from an adversarial witness. A Roman officer supervising the execution — with no motive to sympathize — publicly acknowledges Jesus' innocence and righteousness. This fits a recognized pattern in ancient historiography: testimony from hostile or neutral witnesses carries greater evidential weight than testimony from sympathizers. Luke constructs a chain of five independent innocence declarations in this chapter: Pilate (three times), Herod (by non-conviction), the repentant criminal, and the centurion — a legal-apologetic structure designed to establish beyond reasonable doubt that the crucifixion was a miscarriage of justice.
+[^48]: **TEXT** — *for the spectacle... beating their chests*: The Greek θεωρίαν means "spectacle, entertainment" — these people came for a show. The verb τύπτοντες τὰ στήθη ("beating their breasts") is the gesture of grief and repentance (cf. 18:13: the tax collector "beating his breast"). The transformation is extraordinary: entertainment-seekers become mourners. No one preaches to them. No one explains. The cross itself is the sermon. Luke describes conversion without using the word.
+[^49]: **LEBEN** — *they went home beating their chests*: These people came to watch someone die — and something changed them. No sermon. No altar call. No explanation. They simply saw what happened and could not remain the same. Luke describes a transformation that happens before language: people who arrived as spectators left as mourners. The question this raises is uncomfortable: What are we spectators of? What suffering do we watch from a comfortable distance — and what would it mean to let it actually reach us?
+[^50]: **KONTEXT** — *the women who had followed him from Galilee*: The phrase "at a distance" (μακρόθεν) echoes Psalm 38:11: "My friends stand aloof from my plague; my neighbors stand far away." These women — named in 8:2-3 (Mary Magdalene, Joanna, Susanna, and others) — have followed Jesus through the entire ministry. They will observe the burial (23:55), prepare spices (23:56), and discover the empty tomb (24:1-3). They are Luke's unbroken witness chain connecting cross, tomb, and resurrection.
+[^51]: **TEXT** — *a member of the council — but he hadn't consented*: Luke uses the surprise particle ἰδοὺ to introduce Joseph — an insider who broke ranks. His description as ἀγαθὸς καὶ δίκαιος ("good and righteous") uses the same word (δίκαιος) just applied to Jesus in v.47, verbally linking the two men. His legal dissent — "he had not agreed to their decision and action" — is important: not all Sanhedrin members voted for condemnation. This detail counters any collective-guilt reading of the trial.
+[^52]: **APOLOGETICS** — *Joseph of Arimathea*: Joseph's existence is one of the most debated questions in passion scholarship. Arguments for historicity: (1) A member of the body that condemned Jesus asking for his body is an unlikely Christian invention — it serves no apologetic purpose and complicates the narrative. (2) The name "Arimathea" is not otherwise significant in Christian geography, suggesting it comes from memory, not symbolism. (3) All four Gospels include Joseph with remarkable consistency. Arguments against: (1) The story may serve a theological need — dignified burial was required before resurrection could be claimed. (2) Mark's version has been elaborated in different directions by each evangelist. The majority of scholars accept Joseph as historical.
+[^53]: **KULTUR** — *a rock-cut tomb where no one had ever been buried*: Rock-cut tombs were elite burial practice — hundreds have been identified from first-century Jerusalem. Joseph provides his own new tomb for a condemned criminal, an act of both piety and courage. Roman practice typically left crucified bodies on the cross as a deterrent or disposed of them in mass graves. Requesting the body of a crucified man from the Roman governor required both political influence and personal nerve.
+[^54]: **KULTUR** — *Friday. The Sabbath was about to begin*: The Greek παρασκευή ("Preparation Day") is the technical term for Friday — the day before the Sabbath, when all preparation for the day of rest had to be completed before sunset. The Sabbath began at sundown on Friday evening. The urgency of the burial — before sunset — is not about haste but about Torah observance.
+[^55]: **TEXT** — *noting everything*: The Greek verb ἐθεάσαντο is intensive — deliberate, careful observation, not a passing glance. Luke emphasizes the women's role as competent witnesses: they know exactly where the tomb is and exactly how the body was placed. This precise observation establishes the chain of testimony that makes the empty tomb discovery in 24:1-3 credible. When they return on Sunday morning, they will know what they are looking at — and what has changed.
+[^56]: **KONTEXT** — *they rested, as the law required*: Luke's final word before the resurrection: these women are devout, Torah-observant Jews. Even in grief, even with an incomplete burial to finish, they honor the Sabbath commandment (Exodus 20:8-11). The earliest followers of Jesus did not break with Judaism — they observed the law. The spices are ready. The Sabbath holds. Something is about to happen — but not yet. The coiled tension of waiting is entirely contained in the phrase "as the law required."

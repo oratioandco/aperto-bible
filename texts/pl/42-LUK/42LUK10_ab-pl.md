@@ -1,0 +1,119 @@
+
+# Łukasz
+
+
+# Łukasz
+
+
+---
+
+## Kapitel 10
+
+
+### Posłanie Siedemdziesięciu Dwóch
+
+
+**1** Po tym wszystkim Pan wyznaczył jeszcze siedemdziesięciu dwóch innych[^1] i posłał ich przed sobą parami do każdego miasta i miejsca, do których sam zamierzał pójść. *Mianował i posłał — jak oficjalnych wysłanników, upoważnionych, żeby mówić i działać w Jego imieniu.*
+**2** Powiedział do nich: „Żniwa są wielkie, robotników mało.[^2] *Żniwa nie czekają. Zboże stojące w polu zgnije.* Módlcie się do Pana żniw, żeby wysłał robotników na swoje żniwa.
+**3** Idźcie. Posyłam was jak jagnięta między wilki. *Bezbronne. Bez ochrony. W środku drapieżników.*
+**4** Nie bierzcie sakwy ani torby, ani sandałów.[^3] I nie zatrzymujcie się, żeby kogoś pozdrawiać w drodze. *Żadnych opóźnień. Całkowite zaufanie — bez zabezpieczeń, bez planu B.*
+**5** Do każdego domu, do którego wejdziecie, najpierw powiedzcie: 'Pokój temu domowi.'[^4]
+**6** Jeśli jest tam człowiek pokoju[^5] — *ktoś gotowy na Boże poselstwo —* wasz pokój na nim spocznie. Jeśli nie — wróci do was.
+**7** Zostańcie w tym domu. Jedzcie i pijcie, co wam dają — bo robotnik zasługuje na swoją zapłatę. Nie przenoście się z domu do domu.
+**8** Kiedy wejdziecie do miasta, które was przyjmie, jedzcie, co wam postawią na stół.[^6]
+**9** Uzdrawiajcie chorych, którzy tam są, i mówcie im: 'Królestwo Boże przybliżyło się do was.'[^7] *Nie kiedyś, nie gdzieś daleko — teraz, tu, blisko.*
+**10** Ale kiedy wejdziecie do miasta, które was nie przyjmie, wyjdźcie na jego place i powiedzcie:
+**11** 'Otrzepujemy z nóg nawet pył waszego miasta — *jak z pogańskiej ziemi — na świadectwo przeciwko wam.*[^8] Wiedzcie jednak, że Królestwo Boże jest blisko.'
+**12** Mówię wam: Sodomie[^9] będzie lżej w ten dzień niż temu miastu.
+**13** „Biada tobie, Chorazin! Biada tobie, Betsaido! Bo gdyby w Tyrze i Sydonie[^10] dokonały się cuda, które u was się stały, dawno by pokutowały, siedząc w worze i popiele.
+**14** Ale Tyrowi i Sydonowi będzie lżej na sądzie niż wam.
+**15** A ty, Kafarnaum — czy myślisz, że będziesz wywyższone do nieba? Zostaniesz strącone do Szeolu.[^11]
+**16** Kto was słucha, Mnie słucha. Kto wami gardzi, Mną gardzi. A kto Mną gardzi, gardzi Tym, który Mnie posłał.“[^12]
+
+### Powrót Siedemdziesięciu Dwóch
+
+
+**17** Siedemdziesięciu dwóch wróciło — pełni radości. „Panie, nawet demony nam ulegają w Twoim imieniu!“[^13]
+**18** Powiedział do nich: „Widziałem szatana spadającego z nieba jak błyskawica.[^14] *Nagłe. Nieodwracalne. Widziałem to podczas waszej misji.*
+**19** Daję wam władzę:[^15] będziecie deptać po wężach i skorpionach[^16][^17] i nad całą potęgą nieprzyjaciela. Nic wam nie zaszkodzi.
+**20** Jednak nie z tego się radujcie, że duchy są wam posłuszne. Radujcie się z tego — że wasze imiona zapisane są w niebie.[^18] *Na zawsze. Nikt wam ich stamtąd nie wymaże.*“
+
+### Modlitwa Dziękczynienia Jezusa
+
+
+**21** W tej samej chwili Jezus uniósł się radością w Duchu Świętym[^19] i powiedział: „Sławię Cię, Ojcze, Panie nieba i ziemi — bo ukryłeś to przed mędrcami i uczonymi, *tymi, którzy myśleli, że już wszystko rozumieją,* a objawiłeś prostaczkom.[^20] *Tym bez tytułów i uznania społecznego.* Tak jest, Ojcze — bo takie było Twoje upodobanie.
+**22** Wszystko zostało Mi przekazane przez Mojego Ojca. Nikt nie wie, kim jest Syn, tylko Ojciec. I nikt nie wie, kim jest Ojciec, tylko Syn — i ten, któremu Syn zechce objawić.“[^21]
+**23** Potem odwrócił się do uczniów — *tylko do nich —* i powiedział im na osobności: „Szczęśliwe oczy, które widzą to, co wy widzicie.[^22]
+**24** Bo powiadam wam: wielu proroków i królów[^23] pragnęło ujrzeć to, co wy widzicie — i nie ujrzeli. Pragnęło usłyszeć to, co wy słyszycie — i nie usłyszeli.“
+
+### Dobry Samarytanin
+
+
+**25** Pewien znawca Prawa[^24] podniósł się, żeby wystawić Jezusa na próbę. „Nauczycielu — co mam robić, żeby osiągnąć życie wieczne?“
+**26** Jezus odpowiedział pytaniem: „Co napisano w Prawie? Jak to czytasz?“
+**27** Odpowiedział: „Będziesz miłował Pana Boga swego z całego serca, z całej duszy, z całej siły i całym umysłem[^25] — i bliźniego swego jak siebie samego.“
+**28** „Dobrze odpowiedziałeś. To czyń — a będziesz żył.“
+**29** Ale on chciał się usprawiedliwić.[^26] *Chciał ocalić twarz — ustalić, że granice jego zobowiązań są rozsądne.* Zapytał więc: „A kto to jest mój bliźni?“
+
+**30** Jezus podjął: „Pewien człowiek schodził z Jerozolimy do Jerycha.[^27] Wpadł między zbójców. Ci go obdarli, pobili i odeszli, zostawiając na wpół martwego.
+**31** Trafem szedł tą samą drogą kapłan. Zobaczył go. I przeszedł dalej, po drugiej stronie.[^28] *Nie dlatego, że był bez serca — ale leżący mógł być trupem. Dotknięcie trupa czyniło kapłana nieczystym rytualnie na wiele dni, niezdolnym do służby w Świątyni. Nie wiedział, czy tamten żyje. Przeszedł.*
+**32** Podobnie Lewita: przyszedł, podszedł, spojrzał — i też przeszedł po drugiej stronie.
+**33** Jechał tamtędy pewien Samarytanin.[^29] *Samarytanin — dla każdego słuchacza tej historii: wróg. Pół-Żyd, schizmatyk, pogardzany — siedemset lat wrogości między jego ludem a Żydami.* Kiedy go zobaczył, coś go chwyciło za gardło.[^30]
+**34** Podszedł do niego, opatrzył jego rany oliwą i winem. *Lekarstwa tamtych czasów — oliwa kojąca, wino dezynfekujące.* Wsadził go na swoje juczne zwierzę, zawiózł do zajazdu i tam się nim opiekował.
+**35** Nazajutrz wyjął dwa denary[^31] *— dwa dni zarobku robotnika —* wcisnął karczmarzowi i powiedział: 'Zaopiekuj się nim. Cokolwiek wydasz ponad to, oddam ci, gdy wrócę.'
+**36** Który z tych trzech, jak myślisz, okazał się bliźnim dla tego, który wpadł między zbójców?“
+**37** „Ten, który okazał mu miłosierdzie.“[^32]
+
+
+### Maria i Marta
+
+
+**38** W dalszej drodze weszli do pewnej wioski.[^33] Kobieta imieniem Marta przyjęła Go do swojego domu. *To był jej dom. Ona tu rządziła.*
+**39** Jej siostra, Maria, usiadła u stóp Pana i słuchała Jego słów. *Usiadła jak uczeń siada przy swoim mistrzu — pozycja zarezerwowana dla mężczyzn. Kobiety nie miały dostępu do rabinicznego nauczania. Ale Maria usiadła.*[^34]
+**40** Marta tymczasem była pochłonięta krzątaniną wokół całej posługi.[^35] W końcu podeszła i powiedziała: „Panie, czy Ci to nie przeszkadza, że moja siostra zostawiła mnie samą przy całej posłudze? Powiedz jej, żeby mi pomogła!“
+**41** Pan odpowiedział jej: „Marto, Marto — niepokoisz się i trwożysz o wiele rzeczy.[^36]
+**42** Tymczasem potrzeba tylko jednego.[^37] Maria wybrała najlepszą cząstkę[^38] — i nikt jej jej nie odbierze.“
+
+---
+
+
+## Anmerkungen
+
+[^1]: **TEXT** — *siedemdziesięciu dwóch*: Rękopisy podzielone: P75 i Kodeks Watykański mają „siedemdziesięciu dwóch“, inne — „siedemdziesięciu“. Liczba 72 odpowiada liście narodów w Rdz 10 (LXX), zapowiadając misję do wszystkich ludów ziemi; 70 nawiązuje do siedemdziesięciu starszych Izraela (Lb 11:24–25).
+[^2]: **KULTUR** — *żniwa (θερισμός)*: Metafora ze świata rolnictwa. Zbiory zbóż na Bliskim Wschodzie trwały zaledwie kilka tygodni — jeśli zboże nie zostało ścięte na czas, gniło na polu. Pilność jest realna: nie chodzi o abstrakcyjne „głoszenie“, lecz o moment, który nie czeka.
+[^3]: **KULTUR** — *sakwy ani torby*: Podróżowanie bez sakwy (βαλλάντιον), torby (πήρα) i zapasowych sandałów było skrajnie niebezpieczne na drogach I wieku. Jezus żąda całkowitej zależności od gościnności — w kulturze, w której gościnność wobec podróżnych była świętym obowiązkiem (por. Rdz 18). Uczniowie mieli żyć z prowizji Boga, nie z własnych zapasów.
+[^4]: **KONTEXT** — *Pokój temu domowi (εἰρήνη)*: Nie zwykłe pozdrowienie — odpowiednik hebrajskiego szalom, obejmującego pełnię życia: zdrowie, bezpieczeństwo, harmonię z Bogiem i ludźmi. W tradycji biblijnej pokój jest darem mesjańskim (Iz 9:5–6; Mi 5:4). Uczniowie niosą coś, co zmienia atmosferę domu.
+[^5]: **TEXT** — *człowiek pokoju (υἱὸς εἰρήνης)*: Dosłownie „syn pokoju“ — hebrajski idiom oznaczający kogoś, kto jest otwarty na Boże poselstwo i przyjmuje tych, którzy je niosą. To nie cecha charakteru, lecz gotowość: są ludzie, w których pokój Boży może spocząć.
+[^6]: **LEBEN** — *jedzcie, co wam postawią*: Jezus uczy prostoty i wdzięczności: nie wybierać, nie negocjować, nie szukać lepszego. Przyjąć to, co jest. Współczesna kultura zachęca do optymalizowania każdego wyboru — ta instrukcja idzie w odwrotnym kierunku. Zaufanie wyrażone w jedzeniu tego, co podano, jest formą duchowej praktyki: otwartość na to, co przychodzi.
+[^7]: **TEXT** — *przybliżyło się (ἤγγικεν)*: Czas dokonany (perfektum) — Królestwo nie „nadchodzi kiedyś“, lecz „przyszło i trwa“. Grecki perfektum wskazuje na wydarzenie przeszłe z trwającymi skutkami. Uczniowie nie zapowiadają przyszłości — ogłaszają zmianę, która już nastąpiła.
+[^8]: **KULTUR** — *pył waszego miasta*: Żydzi wracający z pogańskich terenów ceremonialnie otrzepywali pył z sandałów przy granicy Izraela, żeby nie wnosić nieczystości do Ziemi Świętej. Uczniowie wykonują ten sam gest wobec żydowskiego miasta — traktują je jak pogańskie. Akt symboliczny o ogromnej sile: odrzucając posłańców Boga, miasto samo się wyklucza.
+[^9]: **KONTEXT** — *Sodomie*: Sodoma — archetypowe miasto zła i sądu (Rdz 19); jej grzech obejmował m.in. pogwałcenie świętości gościnności wobec Bożych wysłanników. Porównanie jest celowo prowokacyjne: miasta, które widziały cuda Jezusa i odrzuciły Jego posłańców, ponoszą większą odpowiedzialność niż Sodoma, która nie miała takiej szansy.
+[^10]: **KULTUR** — *Tyrze i Sydonie*: Fenickie miasta portowe, symbole pogańskiego bogactwa i niemoralności (por. Iz 23; Ez 26–28). Że pogańskie miasta zostałyby osądzone łagodniej niż żydowskie, które widziały cuda Jezusa, jest uderzającym paradoksem — Jezus odwraca oczekiwania swoich słuchaczy.
+[^11]: **TEXT** — *Szeolu (ᾅδης)*: Gr. Hades = kraina umarłych, odpowiednik hebrajskiego Szeolu — nie tyle „piekło“ w nowożytnym sensie, ile miejsce, gdzie odchodzą umarli. Nawiązanie do Iz 14:13–15 — proroctwa o upadku władcy, który chciał wznieść się ponad gwiazdy.
+[^12]: **KONTEXT** — *gardzi Tym, który Mnie posłał*: Zasada szaliach w judaizmie rabinicznym: wysłannik (szaliach) reprezentuje w pełni tego, kto go posłał. „Posłaniec jest jak sam wysyłający“ (Berakhot 5,5). Odrzucenie uczniów nie jest kwestią ludzkich stosunków — to odrzucenie samego Boga.
+[^13]: **UNGLAUBLICH** — *demony nam ulegają*: Dla współczesnych czytelników: demony? Naprawdę? Starożytny świat postrzegał choroby, zniewolenia i destrukcyjne siły jako działanie duchowych bytów. Nowożytna psychiatria i medycyna oferują inne wyjaśnienia wielu z tych zjawisk. Chrześcijańska tradycja — od ojców Kościoła po współczesnych teologów — podtrzymuje: istnieją siły zła przekraczające czysto materialne. Jak to rozumieć, pozostaje otwarte — ale uczniowie doświadczyli czegoś, co ich samych zaskoczyło.
+[^14]: **UNGLAUBLICH** — *szatana spadającego z nieba*: Jeden z najbardziej zagadkowych wersetów Nowego Testamentu. Jezus mówi w czasie przeszłym niedokonanym (ἐθεώρουν) — „obserwowałem“ — jakby widział kosmiczne wydarzenie rozgrywające się w realnym czasie. Nawiązanie do Iz 14:12 (upadek „gwiazdy porannej“) i Ap 12:7–9. Tradycja chrześcijańska widzi tu upadek Szatana z pozycji władzy — związany z misją uczniów. Tekst zakłada duchową rzeczywistość wykraczającą poza to, co widzialne.
+[^15]: **TEXT** — *władzę (ἐξουσία)*: Władza delegowana, prawo do działania w imieniu tego, który posyła — w odróżnieniu od δύναμις (dynamis) = siła lub moc sama w sobie. Uczniowie otrzymali nie własną siłę, lecz upoważnienie Jezusa. Jak pełnomocnictwo notarialne: nie twoja moc, ale twoje prawo.
+[^16]: **KONTEXT** — *wężach i skorpionach*: Nawiązanie do Ps 91:13 — obietnica ochrony przed śmiertelnym niebezpieczeństwem. Węże i skorpiony oznaczają zarówno dosłowne zagrożenia na drogach starożytnej Palestyny, jak i siły zła (por. Rdz 3:15 — obietnica, że potomek kobiety zmiażdży głowę węża).
+[^17]: **UNGLAUBLICH** — *deptać po wężach... potęgą nieprzyjaciela*: Obietnica nadprzyrodzonej ochrony i władzy nad siłami zła. Tekst łączy dwa poziomy: dosłowne niebezpieczeństwa podróży (węże, skorpiony) i duchową walkę (potęga nieprzyjaciela). Tradycja chrześcijańska rozumie to jako rzeczywistą duchową ochronę, nie metaforę. Tekst zakłada istnienie „nieprzyjaciela“ (ὁ ἐχθρός) — osobowego zła, z którym uczniowie mają do czynienia.
+[^18]: **LEBEN** — *imiona zapisane są w niebie*: Jezus koryguje źródło radości uczniów: nie moc nad demonami, nie duchowe doświadczenia, nie spektakularne rezultaty — ale relacja z Bogiem. Imiona „zapisane w niebie“ (por. Wj 32:32; Dn 12:1; Flp 4:3) oznaczają: należysz do Boga. Tożsamość nie opiera się na tym, co robimy, lecz na tym, kim jesteśmy dla Niego. W kulturze, która mierzy wartość osiągnięciami, to rewolucyjna zmiana perspektywy.
+[^19]: **TEXT** — *uniósł się radością (ἠγαλλιάσατο)*: Gr. ἠγαλλιάσατο τῷ πνεύματι τῷ ἁγίῳ — głęboka, widoczna, ożywiona radość napełniona Duchem Świętym, nie zwykła satysfakcja. Ten sam czasownik opisuje radość Marii w Magnificat (1:47). To jedyny raz, kiedy Ewangelie opisują Jezusa przeżywającego widoczną ekstazę.
+[^20]: **TEXT** — *prostaczkom (νήπιοι)*: Dosłownie „niemowlętom“ — osoby bez wykształcenia, bez społecznego statusu, bez tytułów. Nie chodzi o naiwność, lecz o otwartość: kto wie, że niewiele wie, może się jeszcze nauczyć. Mądrość Boga nie jest zarezerwowana dla elit intelektualnych.
+[^21]: **KONTEXT** — *Nikt nie wie, kim jest Syn*: Ten werset brzmi jak fragment Ewangelii Jana — wzajemne poznanie Ojca i Syna. Niektórzy uczeni (Harnack, Bultmann) podejrzewali późniejszą interpolację, ale werset jest poświadczony we wszystkich rękopisach. Jezus mówi tu o relacji, która nie ma analogii: wyłączne, wzajemne poznanie między Ojcem a Synem, do którego inni mają dostęp tylko przez objawienie.
+[^22]: **TEXT** — *Szczęśliwe (μακάριοι)*: Nie „błogosławieni“ w liturgicznym sensie, lecz „naprawdę szczęśliwi“, „godne pozazdroszczenia“ — beatitudo, stan pełni. W tradycji biblijnej makaryzm (błogosławieństwo) nie jest życzeniem, lecz stwierdzeniem faktu: ci ludzie są w stanie do pozazdroszczenia.
+[^23]: **KONTEXT** — *proroków i królów*: Cała historia Izraela — Prawo, Prorocy, Królestwa — tęskniła za tym, co uczniowie teraz oglądają. Abraham „pragnął ujrzeć“ ten dzień (J 8:56); prorocy wieszczyli, lecz nie doczekali. Dawid był królem, ale nie zobaczył Mesjasza. Izajasz prorokował, ale nie ujrzał spełnienia. Uczniowie — prości galilejscy rybacy — widzą to, czego nie widzieli wielcy.
+[^24]: **KULTUR** — *znawca Prawa (νομικός)*: Uczony w Prawie Mojżeszowym; w Polsce bliżej mu do teologa-biblisty niż do adwokata. Zadawanie pytań testujących nauczyciela było standardową metodą rabinicznej dyskusji — nie koniecznie wrogim aktem, lecz sprawdzaniem kompetencji (por. współczesną habilitację).
+[^25]: **KONTEXT** — *Szema Izrael (Pwt 6:4–5)*: Szema Izrael — „Słuchaj, Izraelu“ — to najważniejsza modlitwa judaizmu, odmawiana przez pobożnych Żydów dwa razy dziennie, rano i wieczorem. Połączenie Pwt 6:5 z Kpł 19:18 (miłość bliźniego) nie było oczywiste w I wieku — niektórzy rabini widzieli w tym istotę Tory, inni nie. Jezus nie podaje nowej odpowiedzi — potwierdza to, co znawca Prawa sam już wiedział.
+[^26]: **KULTUR** — *chciał się usprawiedliwić (δικαιῶσαι ἑαυτόν)*: W kulturze honoru i wstydu chodzi o zachowanie twarzy. Znawca Prawa zadał pytanie, na które sam znał odpowiedź — Jezus to pokazał publicznie. Teraz musi odzyskać pozycję: „A kto to jest mój bliźni?“ to nie pytanie z ciekawości, lecz próba ustalenia granic obowiązku. Ile dokładnie muszę robić, żeby być w porządku?
+[^27]: **KULTUR** — *z Jerozolimy do Jerycha*: Droga schodziła ze wzgórz jerozolimskich (ok. 760 m n.p.m.) na nizinę Morza Martwego (ok. 250 m p.p.m.) — stromy, osamotniony wąwóz, znany w starożytności jako „Droga Krwi“ (Adummim) z powodu częstych napadów zbójców. Ok. 27 km pustynnego terenu. Podróżowanie tędy samotnie było skrajnie ryzykowne.
+[^28]: **KULTUR** — *kapłan... przeszedł dalej*: Dlaczego kapłan nie pomógł? Amy-Jill Levine (Short Stories by Jesus) podkreśla: nie wolno automatycznie winić systemu czystości rytualnej. Tekst nie podaje przyczyny. Kapłan mógł się bać zasadzki, mógł się spieszyć, mógł nie chcieć ryzykować. Pointa jest w zachowaniu, nie w motywacji — a słuchacze mieli wyciągnąć wnioski sami.
+[^29]: **KULTUR** — *Samarytanin*: Dla żydowskiego słuchacza — wróg. Siedemset lat wrogości: od asyryjskiego podboju Królestwa Północnego (722 p.n.e.), przez zniszczenie samarytańskiej świątyni na Garizim przez Jana Hyrkana I (128 p.n.e.), po zbezczeszczenie Świątyni Jerozolimskiej przez Samarytan (ok. 6–9 n.e.). Jezus nie wybiera „obcego“ — wybiera wroga. To zmienia całą dynamikę przypowieści.
+[^30]: **TEXT** — *coś go chwyciło za gardło (ἐσπλαγχνίσθη)*: Dosłownie „poruszyły go jego trzewia“ (σπλάγχνα = wnętrzności). To nie łagodna litość, ale gwałtowne, fizyczne, mimowolne poruszenie w środku — wrażenie, które człowiek czuje, zanim zdąży pomyśleć. Ten sam czasownik opisuje Jezusa widzącego głodny tłum (Mk 6:34), opłakującą matkę (Łk 7:13), ojca widzącego syna marnotrawnego (Łk 15:20).
+[^31]: **KULTUR** — *dwa denary*: Jeden denar to dzienny zarobek robotnika (Mt 20:2). Dwa denary starczyłyby na ok. 24 dni pobytu w tanim zajeździe. Samarytanin nie daje symbolicznej jałmużny — pokrywa pełne koszty zdrowienia i obiecuje wrócić z resztą. Jego pomoc jest konkretna, kosztowna i długoterminowa.
+[^32]: **LEBEN** — *Ten, który okazał mu miłosierdzie*: Znawca Prawa nie potrafi powiedzieć „Samarytanin“ — mówi omownie: „ten, który okazał mu miłosierdzie“. Uprzedzenia nie znikają łatwo. Jezus odwraca pytanie: nie „kto jest moim bliźnim?“ (= kogo muszę kochać?), lecz „kto okazał się bliźnim?“ (= kto kochał?). Bliźnim nie jest się z definicji — bliźnim się staje przez czyn. To pytanie nie zestarzało się: Kto dzisiaj jest „Samarytaninem“ w moim świecie — osobą, od której najmniej oczekuję dobra?
+[^33]: **KULTUR** — *pewnej wioski*: Betania (por. J 11:1; 12:1–3), wioska ok. 3 km na wschód od Jerozolimy. Łukasz nie podaje nazwy — koncentruje się na spotkaniu, nie na geografii. Marta jest gospodynią domu (ὑπεδέξατο αὐτόν) — to ona przyjmuje gości, co w kulturze I wieku oznaczało władzę i odpowiedzialność za dom.
+[^34]: **TEXT** — *usiadła u stóp Pana (παρακαθεσθεῖσα πρὸς τοὺς πόδας)*: Techniczny termin oznaczający ucznia siedzącego przy mistrzu (por. Dz 22:3: Paweł „wychowany u stóp Gamaliela“). Kobiety były wykluczone z rabinicznego nauczania Tory. Rabbi Eliezer (I/II w.) powiedział: „Lepiej spalić słowa Tory, niż przekazać je kobiecie.“ Wybór Marii — i akceptacja Jezusa — był rewolucyjny.
+[^35]: **TEXT** — *posługi (διακονία)*: To samo słowo, które w Nowym Testamencie opisuje służbę diakonów i kościelną posługę miłości (por. Dz 6:1–4; Rz 12:7). Łukasz nie pomniejsza pracy Marty — pokazuje jej wartość i jej granicę. Ironicznie: Marta wykonuje „diakonię“ — a Kościół później nadał temu słowu rangę urzędu.
+[^36]: **LEBEN** — *niepokoisz się i trwożysz*: Dwa różne greckie słowa: μεριμνάω (martwić się, zamartwiać) i θορυβάζω (być w zamieszaniu, rozgorączkowanym). Jezus nie krytykuje pracy Marty — krytykuje wewnętrzny chaos, który ta praca wywołała. Pytanie nie brzmi: robić czy nie robić? Pytanie brzmi: czy w tym, co robisz, nadal jesteś obecny — czy już się w tym zgubiłeś? Rozróżnienie, które wiele współczesnych tradycji kontemplacyjnych (od benedyktyńskiej ora et labora po zen) uważa za kluczowe.
+[^37]: **TEXT** — *jednego (ἑνός)*: Warianty tekstowe: „jednej rzeczy“ (ἑνός) — trudniejszy odczyt, prawdopodobnie oryginalny — lub „niewielu rzeczy, a nawet jednej“. Sens w obu przypadkach jest podobny: Jezus skupia się na tym, co istotne, i odcina nadmiar.
+[^38]: **KONTEXT** — *cząstkę (μερίς)*: Gr. μερίς = udział, dziedzictwo, cząstka. Nawiązanie do Ps 16:5 i 73:26: „Pan jest cząstką moją i moim dziedzictwem.“ W tradycji biblijnej „cząstka“ to termin dziedziczeniowy — lewitom nie przydzielono ziemi, bo „Pan sam jest ich cząstką“ (Pwt 10:9). Maria wybrała Boga samego — najlepsze z możliwych dziedzictw.

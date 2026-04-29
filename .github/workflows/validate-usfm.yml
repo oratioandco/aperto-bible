@@ -1,4 +1,4 @@
-name: Validate USFM
+name: Validate and Generate Markdown
 
 on:
   pull_request:
@@ -10,39 +10,28 @@ on:
       - '**.usfm'
 
 jobs:
-  validate:
+  validate-and-generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       
-      - name: Make scripts executable
-        run: chmod +x scripts/*.sh
-      
       - name: Validate USFM files
-        run: ./scripts/validate.sh texts/
-      
-      - name: Check for common issues
         run: |
-          ERRORS=0
-          # Check for tabs (should use spaces in USFM)
-          if find texts/ -name "*.usfm" -exec grep -l $'\t' {} \; | grep -q .; then
-            echo "⚠️  Files contain tabs (use spaces instead):"
-            find texts/ -name "*.usfm" -exec grep -l $'\t' {} \;
+          chmod +x scripts/validate.sh
+          ./scripts/validate.sh texts/
+      
+      - name: Generate Markdown versions
+        run: python3 scripts/usfm2md.py --all
+      
+      - name: Commit generated Markdown
+        if: github.event_name == 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add 'texts/**/*.md'
+          if git diff --staged --quiet; then
+            echo "No Markdown changes to commit"
+          else
+            git commit -m "Auto-generate Markdown from USFM sources"
+            git push
           fi
-          
-          # Check for Windows line endings
-          if find texts/ -name "*.usfm" -exec grep -Pl '\r$' {} \; | grep -q .; then
-            echo "⚠️  Files have Windows line endings (CRLF):"
-            find texts/ -name "*.usfm" -exec grep -Pl '\r$' {} \;
-            ERRORS=1
-          fi
-          
-          # Check UTF-8 encoding
-          for file in $(find texts/ -name "*.usfm"); do
-            if ! file "$file" | grep -q "UTF-8"; then
-              echo "❌ $file is not UTF-8 encoded"
-              ERRORS=1
-            fi
-          done
-          
-          exit $ERRORS

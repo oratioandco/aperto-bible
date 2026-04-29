@@ -75,4 +75,4 @@ Be respectful. We're working on something that matters to people deeply. Disagre
 
 ## Questions?
 
-Open a [GitHub Discussion](https://github.com/oratioandco/aperto-bible/discussions) or email hello@treppmann.design.
+Open a [GitHub Discussion](https://github.com/oratioandco/aperto-bible/discussions) or [open an issue](https://github.com/oratioandco/aperto-bible/issues).

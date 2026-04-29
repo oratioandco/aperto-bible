@@ -8,7 +8,7 @@ Aperto (Latin: "open") is a modern Bible translation project released under [CC 
 
 - **Footnotes that explain, not just reference** — Every translation decision is documented inline. Cultural context, textual variants, apologetic notes, and reader helps are woven into the text via USFM footnotes.
 - **Chapter-by-chapter structure** — Each chapter is its own file. Small diffs, easy reviews, accessible contributions.
-- **Multi-language from day one** — Luke chapter 1 is available in 28 languages. Full Luke in German, English, and Polish.
+- **31 languages from day one** — Full Luke in German, English, and Polish. Luke chapter 1 in 28 additional languages — a showcase and an invitation to help expand.
 - **AI-assisted, human-governed** — We use AI tools for drafting, but every text goes through review. Pull requests welcome.
 
 ## Current Coverage
@@ -20,7 +20,9 @@ Aperto (Latin: "open") is a modern Bible translation project released under [CC 
 | **Luke (Lukas)** | 🇩🇪 German (24 ch.), 🇬🇧 English (24 ch.), 🇵🇱 Polish (24 ch.) |
 | **Psalms** | 🇩🇪 German (Ps 1–8, 23), 🇬🇧 English (Ps 1–8, 23), 🇵🇱 Polish (Ps 1–8, 23) |
 
-### Luke Chapter 1 — 28 Additional Languages
+### Luke Chapter 1 — 28 Additional Languages (Showcase)
+
+These single-chapter translations demonstrate what's possible. We invite native speakers to review, improve, and expand them into full books.
 
 Arabic, Bulgarian, Catalan, Czech, Danish, Greek, Spanish, Estonian, Finnish, French, Irish, Croatian, Hungarian, Italian, Lithuanian, Latvian, Maltese, Norwegian (Bokmål), Dutch, Portuguese, Romanian, Russian, Slovak, Slovenian, Albanian, Swedish, Turkish, Ukrainian
 
@@ -40,7 +42,7 @@ aperto-bible/
 │   │   └── 19-PSA/
 │   ├── ar/42-LUK/           ← Arabic (Luke 1)
 │   ├── bg/42-LUK/           ← Bulgarian (Luke 1)
-│   └── ...                  ← 25 more languages (Luke 1)
+│   └── ...                  ← 25 more languages (Luke 1 showcase)
 ├── scripts/
 │   ├── merge-to-book.sh     ← Merge chapters into single-book USFM
 │   └── validate.sh          ← USFM syntax validation
@@ -81,6 +83,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - 🐛 **Fix a translation** — Spot an error? Open a PR.
 - 📝 **Improve a footnote** — Add cultural context, clarify a decision.
 - 🌍 **Add a language** — Translate Luke 1 into a new language.
+- 📖 **Expand a showcase language** — Pick a language with only Luke 1 and translate more chapters.
 - 📖 **Expand coverage** — Help translate more chapters or books.
 
 ## Quick Start
@@ -113,7 +116,7 @@ Under the following terms:
 
 - 🌐 [aperto.bible](https://aperto.bible) — Project website
 - 💬 [GitHub Discussions](https://github.com/oratioandco/aperto-bible/discussions) — Questions and conversation
-- 📧 hello@treppmann.design — Contact
+- 🐛 [Open an Issue](https://github.com/oratioandco/aperto-bible/issues) — Bug reports and suggestions
 
 ---
 

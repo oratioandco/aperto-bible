@@ -2,7 +2,7 @@
 
 **An open-source Bible translation for everyone.**
 
-Aperto (Latin: "open") is a modern Bible translation project released under [CC BY-SA 4.0](LICENSE). Our goal: make Scripture accessible, understandable, and alive — in every language, with cultural context built in.
+Aperto (Latin: "open") is a modern Bible translation project released under [CC BY-NC-ND 4.0](LICENSE). Our goal: make Scripture accessible, understandable, and alive — in every language, with cultural context built in.
 
 ## What Makes Aperto Different
 
@@ -104,15 +104,17 @@ bash scripts/merge-to-book.sh de 42-LUK
 
 ## License
 
-[Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE)
+[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](LICENSE)
 
 You are free to:
 - **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
 
 Under the following terms:
 - **Attribution** — Credit "Aperto Bible" and link to this repository
-- **ShareAlike** — Derivatives must use the same license
+- **NonCommercial** — You may not use the material for commercial purposes
+- **NoDerivatives** — You may not distribute modified versions of the material
+
+See [LEGAL.md](LEGAL.md) for plain-language explanations in English, German, and Polish.
 
 ## Links
 

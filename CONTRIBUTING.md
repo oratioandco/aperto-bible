@@ -2,6 +2,19 @@
 
 Thank you for your interest in contributing! This document explains how.
 
+## License Notice
+
+All texts in this repository are licensed under **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
+
+This means:
+- **NonCommercial** — Contributions are accepted with the understanding that the texts will not be used for commercial purposes.
+- **NoDerivatives** — You may not distribute modified versions. Contributions are incorporated into the official Aperto text and distributed under the same license.
+- **Attribution** — Contributors are credited.
+
+By submitting a pull request, you agree that your contribution will be licensed under CC BY-NC-ND 4.0.
+
+---
+
 ## Ways to Contribute
 
 ### 1. Fix a Translation Error

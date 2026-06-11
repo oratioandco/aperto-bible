@@ -1,0 +1,53 @@
+
+# Psalms
+
+
+# Psalms
+
+
+---
+
+## Kapitel 137
+
+
+### By the Rivers of Babylon
+
+
+**1** There — by the rivers of Babylon[^1] —
+> we sat down and wept,
+> when we remembered Zion.
+**2** On the poplars there
+> we hung up our lyres.\f + \fr 137:2 \fk KULTUR \fq our lyres \ft The lyre was not just any instrument. It belonged to the Temple; it carried the songs of praise; it sounded at Jerusalem's festivals. To hang it up, unused, in the branches was not a practical act of storage but a public statement: there will be no more praise here. The silenced instrument is the psalm's first image of a faith that no longer works the way it used to. The liberation theologian Elsa Tamez has pointed out that oppression takes from people not only wages, clothing, and shelter but also the ability to "sing as before" — the silenced song is itself a symptom. And they are poplars, not willows: the Euphrates poplar lined the canals of the Babylonian plain.\f*
+**3** For there our captors asked us for songs,[^2]
+> our tormentors wanted us cheerful:
+> "Sing us one of the songs of Zion."
+**4** How can we sing the song of the Eternal[^3]
+> on foreign soil?
+
+**5** If I forget you, Jerusalem,
+> may my right hand forget.\f + \fr 137:5 \fk UEBERSETZUNG \fq may my right hand forget \ft The Hebrew is puzzling here. Literally it says "may my right hand forget" — with no object, never saying what the hand should forget. A small reversal of the consonants would instead give "may my right hand wither," which fits the next line, where the tongue sticks to the roof of the mouth. This translation keeps the Masoretic "forget," because that way the keyword of the whole psalm stays audible: remember and forget. The punishment for forgetting is that the hand itself forgets. This is not a wish for self-harm. The right hand is the hand that strikes the lyre; the tongue is the singing voice. It is the most extreme oath a musician, of all people, could swear: if I forget Jerusalem, let the very skills I sing with be taken from me. An oath-form, not a body-image — and not a word about disability.\f*
+**6** May my tongue stick to the roof of my mouth
+> if I do not remember you,
+> if I do not set Jerusalem
+> above my highest joy.
+
+**7** Remember the Edomites[^4], O Eternal.
+> Remember the day of Jerusalem —
+> how they shouted, "Tear it down,
+> tear it down to its foundations."
+**8** Daughter Babylon[^5], you who are laid waste —
+> happy the one who pays you back
+> for what you did to us.
+**9** Happy the one who seizes your little ones
+> and dashes them against the rock.\f + \fr 137:9 \fk HARM \fq against the rock \ft This is the most notorious line in the Psalms, and it is meant to hurt. To soften it would be the first mistake — every commentary says so: these words cannot be toned down, and they should not be. What can be said is where they come from. First: this is the speech of survivors. It is spoken by a community whose own children had been killed (2 Kings 25:7), whose city lay in rubble, whose people had been marched into captivity — and who were then ordered to sing cheerful songs. The verse is the sound of that outrage. Second: it does not invent the cruelty. Dashing children to death was a documented practice of ancient Near Eastern warfare — exactly what Babylon and Assyria did to the peoples they conquered (Isaiah 13:16; Hosea 10:14; Nahum 3:10). The verse throws the empire's own act back at it. Third, and this is decisive: the psalm does not act. It prays the wish — in Hebrew, which the guards could not understand — and then lets it go. The theologian Erich Zenger read it this way: handing the rage to God is the alternative to carrying it out. These verses have been misused — as a warrant for violence against "enemy" children, as proof of a supposedly vengeful God — and they have been cut: in 1971 the Catholic Church removed verses 7–9 from the daily Liturgy of the Hours. Aperto presents the whole psalm, uncut. A sanitized psalm abandons exactly the people it was written for.\f*\f + \fr 137:9 \fk LEBEN \fq Happy the one who seizes your little ones \ft The psalm ends here, on its hardest line, with no resolution. No "and yet I will trust," no return to praise. That is deliberate. For anyone who distrusts religion because they sense a forced cheerfulness in it: this text is the opposite. It asks no one to forgive on schedule, or to talk their own pain into something prettier. If something in your life will not resolve, you do not have to resolve it here; you are allowed to say it as large as it actually is. For anyone inside faith, the psalm models honest prayer — bringing God the real version, not the smoothed-over one. And notice what the exiles do with their rage: they hand it to God instead of carrying it out. That is the movement the psalm trains — name the worst thing, say it aloud, put it into other hands. Psalm 137 has been, for centuries, the prayer of the displaced: the deported, the refugee, the one with no way home. To read it now is to be asked whether you can hear the lament of the uprooted at all — the neighbor who fled, the people who arrive and are not allowed to arrive. Honest lament is not only something you do for yourself; it is something you make room for in others. Maybe one small thing today: don't console, once. Sit with someone who is grieving without telling them too soon that it will be all right — sit down beside them, by the river, and stay.\f*
+
+---
+
+
+## Anmerkungen
+
+[^1]: **KULTUR** — *the rivers of Babylon*: The Hebrew opens with a single word — \fq šām\fq*, "there" — placed first in the line as a pointer, not a setting. It is geographical accusation: we are *here*, not *there*. The whole poem holds that distance open. Babylon sat on a flat plain laced with water — a dense network of canals carried the wealth of the empire. "The waters of Babylon" was almost a proper name for that irrigation system. Jerusalem, by contrast, stood in the hills and had no river at all. So the opening line is geography and contrast at once: water everywhere, and all of it the water of a foreign land. The psalm names its own historical moment more openly than any other in the book — the Babylonian deportation after Jerusalem fell in 587/6 BCE, the forced removal of a real people roughly 900 miles from home. Read as a timeless symbol of melancholy, the psalm loses exactly what it is about: a specific catastrophe inside history. Aperto reads it first as a Jewish text, the prayer of the deported.
+[^2]: **KULTUR** — *asked us for songs*: The Hebrew uses two different words for the captors inside a single verse — first the more neutral \fq šôḇênû\fq*, "those who took us captive," then the sharper \fq tôlālênû\fq*, our tormentors. English renders both with the harder edge because the line itself escalates: the demand is not a request for entertainment; it is a humiliation. Conquerors in the ancient Near East collected skilled temple musicians as plunder — a relief from the palace of the Assyrian king Sennacherib shows prisoners of war led away carrying their lyres. "Sing us one of the songs of Zion" means: perform your sacred music as our dinner entertainment — the music of the very people whose Temple the conquerors had burned down. The Hebrew sharpens it further: the captors demand not only a song but \fq śimḥâ\fq*, joy — audible, performed gladness. To be cheerful on command would be to bless one's own conquest. The biblical scholar Hulisani Ramantswana, who reads Psalm 137 alongside the struggle-songs of apartheid-era South Africa, hears in it the imperial demand for harmless, defanged songs — and the exiles' refusal as an act of resistance.
+[^3]: **UEBERSETZUNG** — *song of the Eternal*: The Hebrew here is the divine name itself — *YHWH*, God's personal name, not a title. English Bibles have traditionally printed it "LORD" in small capitals; this translation renders it *the Eternal* (Moffatt; the French *l'Éternel*), so the name stays a name rather than vanishing into a churchly title. For this psalm there is a specific reason. The captors demand a song "of Zion" (verse 3) — a national, ethnic song, a piece of folklore. The exiles rephrase it and speak of the song "of YHWH" (*šîr-YHWH*). What the conquerors want as entertainment is, for the captives, bound to a specific name, a specific covenant. That one exchanged word — Zion for the Name — is the whole psalm's quiet theological resistance. To replace the name with a mere title would erase the swap the exiles are making.
+[^4]: **KULTUR** — *the Edomites*: Edom was not a foreign nation. In the biblical story the Edomites descended from Esau, the brother of Jacob; Edom and Israel were reckoned as kindred peoples, brother-nations. When Babylon destroyed Jerusalem, Edom stood by and cheered it on: "Tear it down, tear it down!" The Hebrew repeats the imperative \fq ʿārû ʿārû\fq* — a doubled shout, the enthusiastic voice of onlookers urging the demolition further, not the act of the soldiers themselves. The prophet Obadiah (verses 10–14) lays exactly this betrayal at Edom's feet — not Babylon's, but the relatives who could have helped and instead rejoiced. That is why verse 7 turns first against Edom: it is the pain of a betrayal inside one's own family. "The day of Jerusalem" is a terse, bitter phrase for the day the city fell.
+[^5]: **KONTEXT** — *Daughter Babylon*: "Daughter Babylon" is not a possessive — it does not mean someone's daughter, but Babylon itself, the empire, imagined as a woman. The Bible personifies cities and nations this way throughout: Daughter Zion, Daughter Edom, Daughter Babylon. This translation deliberately keeps the image gendered; smoothing it to "Babylon" would erase one of the poem's load-bearing figures. The phrase "you who are laid waste" translates a Hebrew passive participle (\fq haššǝdûdâ\fq*) that the prophets used for a future destruction so certain it could already be spoken of as accomplished — what grammarians call the prophetic perfect. In the speaker's mouth Babylon has already fallen; history simply has not caught up yet. It is also worth noticing where this language leads. The wish that Babylon be repaid "what you did to us" returns almost word for word in the New Testament: Revelation 18 exults over the fall of Babylon — there, the Rome of the empire — and calls for her to be paid back as she has done. Anyone who plays Psalm 137 off against a supposedly vengeful Old Testament misses that the same language runs straight through the New. The tension lies inside the whole Bible, not between a bad testament and a good one.

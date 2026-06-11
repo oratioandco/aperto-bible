@@ -22,8 +22,8 @@
 
 
 **5** Diabeł zabrał go wysoko. Pokazał wszystkie królestwa świata w ułamku sekundy.*Rzym. Partię. Każde imperium, o które ludzie walczą.*
-**6** „Dam ci władzę nad tym wszystkim“ — powiedział. „Cały ten blask. Bo mnie to przekazano. Mogę dać, komu chcę.
-**7** Oddaj mi pokłon — i wszystko będzie twoje.“
+**6** „Dam ci władzę nad tym wszystkim” — powiedział. „Cały ten blask. Bo mnie to przekazano. Mogę dać, komu chcę.
+**7** Oddaj mi pokłon — i wszystko będzie twoje.”
 
 **8** Jezus odpowiedział:
 
@@ -33,7 +33,7 @@
 **10** \w Swoim aniołom przykaże o tobie,
 > \w żeby cię strzegli,\w*
 **11** \w i na rękach cię poniosą,
-> \w żebyś nie zranił swojej stopy o kamień.\w*“\f + \fr 4,10-11 \fk TEXT \fq aniołom przykaże \ft Ps 91,11-12. Diabeł cytuje Pismo jako broń — najtrudniejsza odmiana kuszenia, bo przybiera świętą postać. Pomija kluczowy fragment psalmu: „na wszystkich drogach twoich“ — obietnica dotyczy posłusznego chodzenia, nie spektakularnych skoków.\f*
+> \w żebyś nie zranił swojej stopy o kamień.\w*”\f + \fr 4,10-11 \fk TEXT \fq aniołom przykaże \ft Ps 91,11-12. Diabeł cytuje Pismo jako broń — najtrudniejsza odmiana kuszenia, bo przybiera świętą postać. Pomija kluczowy fragment psalmu: „na wszystkich drogach twoich“ — obietnica dotyczy posłusznego chodzenia, nie spektakularnych skoków.\f*
 
 **12** Jezus odpowiedział:
 
@@ -55,12 +55,12 @@
 > \w niewidomym przejrzenie,\w*
 > \w uciśnionych posłać na wolność,\w*
 **19** \q1 \w ogłosić rok łaski Pańskiej —
-> \add Jubileusz: długi anulowane, niewolnicy wyzwoleni.\add*\f + \fr 4,18-19 \fk TEXT \fq ubogim... uwolnienie... rok łaski \ft Łukasz cytuje kompozycję Iz 61,1-2a i 58,6 — nie dosłownie, ale jako celową kompilację. Greckie πτωχοῖς oznacza ludzi zgnębionych, żebrzących — nie „biednych duchem“. Ἄφεσις to termin Jubileuszu: uwolnienie z więzienia i z długów (Kpł 25). Jezus celowo pomija kontynuację Izajasza: „dzień pomsty naszego Boga“ (Iz 61,2b). Łaska — bez zemsty.\f*\f + \fr 4,18-19 \fk KULTUR \fq rok łaski Pańskiej \ft Jubileusz (Kpł 25) to instytucja społeczna starożytnego Izraela: co czterdzieści dziewięć lat anulowano długi, wyzwalano niewolników za długi, zwracano ziemię pierwotnym właścicielom. Nie wiemy, czy kiedykolwiek w pełni przestrzegano tego prawa. Ale prorocy — zwłaszcza Izajasz — uczynili z niego obraz przyszłego Bożego działania: świat przywrócony do sprawiedliwości. Gdy Jezus ogłasza „rok łaski“, słuchacze słyszą: Bóg naprawia świat. Teraz.\f*
+> \add Jubileusz: długi anulowane, niewolnicy wyzwoleni.\add*\f + \fr 4,18-19 \fk TEXT \fq ubogim... uwolnienie... rok łaski \ft Łukasz cytuje kompozycję Iz 61,1-2a i 58,6 — nie dosłownie, ale jako celową kompilację. Greckie \fq πτωχοῖς\fq* oznacza ludzi zgnębionych, żebrzących — nie „biednych duchem“. \fq Ἄφεσις\fq* to termin Jubileuszu: uwolnienie z więzienia i z długów (Kpł 25). Jezus celowo pomija kontynuację Izajasza: „dzień pomsty naszego Boga“ (Iz 61,2b). Łaska — bez zemsty.\f*\f + \fr 4,18-19 \fk KULTUR \fq rok łaski Pańskiej \ft Jubileusz (Kpł 25) to instytucja społeczna starożytnego Izraela: co czterdzieści dziewięć lat anulowano długi, wyzwalano niewolników za długi, zwracano ziemię pierwotnym właścicielom. Nie wiemy, czy kiedykolwiek w pełni przestrzegano tego prawa. Ale prorocy — zwłaszcza Izajasz — uczynili z niego obraz przyszłego Bożego działania: świat przywrócony do sprawiedliwości. Gdy Jezus ogłasza „rok łaski“, słuchacze słyszą: Bóg naprawia świat. Teraz.\f*
 
 **20** Zwinął zwój. Oddał służącemu. Usiadł.
 
 Wszyscy wpatrzeni w niego. Napięcie.
-**21** „Dzisiaj“ — powiedział. „Nie kiedyś. Teraz. To Pismo się wypełniło. W waszych uszach.“[^7]
+**21** „Dzisiaj” — powiedział. „Nie kiedyś. Teraz. To Pismo się wypełniło. W waszych uszach.”[^7]
 
 **22** Wszyscy o nim mówili. Dziwili się. Słowa pełne łaski — to mówili.*Ale zaraz pojawiło się pytanie:*
 
@@ -72,7 +72,7 @@ Wszyscy wpatrzeni w niego. Napięcie.
 
 **25** Bo mówię wam prawdę: Za czasów Eliasza było wiele wdów w Izraelu, gdy niebo było zamknięte przez trzy lata i sześć miesięcy*— wielki głód na całej ziemi.*
 **26** Ale Eliasz nie został posłany do żadnej z nich — tylko do wdowy w Sarepcie Sydońskiej*, do cudzoziemki*.[^10]
-**27** I za proroka Elizeusza było wielu trędowatych w Izraelu. Żaden z nich nie został oczyszczony — tylko Naaman Syryjczyk.“[^11]
+**27** I za proroka Elizeusza było wielu trędowatych w Izraelu. Żaden z nich nie został oczyszczony — tylko Naaman Syryjczyk.”[^11]
 
 **28** Wszyscy w synagodze — nagle przepełnieni furią*gdy to słyszeli*.
 **29** Zerwali się. Wyrzucili go z miasta. Zaprowadzili na krawędź urwiska, na którym zbudowane było Nazaret. Chcieli go strącić.
@@ -85,9 +85,9 @@ Wszyscy wpatrzeni w niego. Napięcie.
 **32** Byli wstrząśnięci jego słowami — mówił z władzą.*Nie jak ktoś, kto cytuje i komentuje — jego słowa stały za siebie.*
 **33** W synagodze był człowiek — miał ducha nieczystego.*Skalającego. Wykluczającego.*[^13][^14] Nagle — wrzask:
 
-**34** „Zostaw nas! Co chcesz od nas, Jezusie Nazarejczyku? Przyszedłeś nas zniszczyć? Wiem, kim jesteś! Święty Boży!“
+**34** „Zostaw nas! Co chcesz od nas, Jezusie Nazarejczyku? Przyszedłeś nas zniszczyć? Wiem, kim jesteś! Święty Boży!”
 
-**35** Jezus powiedział: „Umilknij. Wyjdź.“
+**35** Jezus powiedział: „Umilknij. Wyjdź.”
 
 Demon cisnął człowiekiem na środek. Ale wyszedł — bez szkody.
 **36** Przerażenie wszystkich.
@@ -104,7 +104,7 @@ Demon cisnął człowiekiem na środek. Ale wyszedł — bez szkody.
 Wstała. Zaraz zaczęła im usługiwać.
 
 **40** Gdy słońce zachodziło*— szabat dobiegał końca —* wszyscy przynosili do niego chorych na różne choroby. On kładł ręce na każdego z osobna. I uzdrawiał.[^17]
-**41** Demony wychodziły z wielu, krzycząc: „Ty jesteś Syn Boży!“
+**41** Demony wychodziły z wielu, krzycząc: „Ty jesteś Syn Boży!”
 
 *Ale On ich nie zostawił przy głosie.* Zgromił je. Nie pozwalał im mówić.*Wiedziały, kim jest.*
 
@@ -124,19 +124,19 @@ Wstała. Zaraz zaczęła im usługiwać.
 
 [^1]: **KONTEXT** — *czterdzieści dni*: Echo czterdziestu lat Izraela na pustyni (Lb 14,33-34), czterdziestu dni Mojżesza na Synaju (Wj 34,28) i czterdziestu dni drogi Eliasza do Boga (1 Krl 19,8). Jezus przechodzi próbę, której Izrael nie zdał.
 [^2]: **UNGLAUBLICH** — *kuszony przez diabła*: Osobowy diabeł prowadzący rozmowę z Jezusem budzi pytania współczesnych czytelników. Interpretacje: (1) Symboliczne — literacki sposób przedstawienia wewnętrznej walki z pokusą władzy i prestiżu; (2) Psychologiczne — intensywne doświadczenie duchowe w warunkach skrajnego postu i izolacji; (3) Realistyczne — starożytny świat zakładał istnienie duchowych bytów działających w historii. Tekst Łukasza opisuje kuszenie jako realną konfrontację — nie wewnętrzny monolog, ale dialog dwóch osób. Sam Jezus mówił o szatanie jako rzeczywistej postaci (Łk 10,18; 22,31).
-[^3]: **KONTEXT** — *na razie*: Greckie ἄχρι καιροῦ — „aż do stosownego czasu“. Łukasz zapowiada powrót: Łk 22,3 (szatan wchodzi w Judasza) i 22,53 („to wasza godzina i władza ciemności“). Walka nie była skończona.
-[^4]: **LEBEN** — *kuszenie*: Trzy pokusy Jezusa trafiają w trzy uniwersalne słabości: natychmiastowe zaspokojenie (chleb), kontrola nad innymi (władza), spektakularne potwierdzenie siebie (podziw). Tradycja monastyczna (Jan Kasjan, V w.) rozwinęła na tej podstawie klasyfikację pokus, którą współczesna psychologia potwierdza badaniami nad impulsywnością i uzależnieniami behawioralnymi. Kluczem w tekście jest odpowiedź: nie siła woli, ale zakorzenienie w czymś większym niż pokusa.
-[^5]: **APOLOGETICS** — *uczył w synagogach*: Łukasz umieszcza działalność Jezusa w weryfikowalnym kontekście: synagogi galilejskie I wieku, publiczne nauczanie, powszechna sława. Archeologia potwierdza istnienie synagog w Galilei z tego okresu (np. Magdala, odkryta 2009). Łukasz jako historyk (zob. Łk 1,1-4) osadza swoją narrację w konkretnej rzeczywistości — nie w mitycznej przestrzeni.
-[^6]: **TEXT** — *znalazł miejsce*: Greckie εὗρεν τὸν τόπον oznacza celowe szukanie — nie przypadkowy wybór. Jezus wie, co chce przeczytać.
-[^7]: **TEXT** — *Dzisiaj*: Łukańskie σήμερον (dzisiaj) to termin teologiczny pojawiający się w kluczowych momentach: 2,11 (narodziny); 5,26 (uzdrowienie); 19,9 (Zacheusz); 23,43 (krzyż). Dla Łukasza zbawienie nie jest obietnicą przyszłości — dzieje się teraz.
-[^8]: **TEXT** — *przyjęty*: Greckie δεκτός — to samo słowo co w w. 19 przy „roku łaski“ (ἐνιαυτὸν δεκτόν). Ironia: Jubileusz jest przyjęty; prorok — nie.
+[^3]: **KONTEXT** — *na razie*: Greckie \fq ἄχρι καιροῦ\fq* — „aż do stosownego czasu“. Łukasz zapowiada powrót: Łk 22,3 (szatan wchodzi w Judasza) i 22,53 („to wasza godzina i władza ciemności“). Walka nie była skończona.
+[^4]: **LEBEN** — *kuszenie*: Trzy pokusy Jezusa trafiają w trzy strukturalne słabości człowieka, nie tylko w pojedyncze grzechy: natychmiastowe zaspokojenie (kamień w chleb), kontrolę nad innymi (wszystkie królestwa świata), spektakularne potwierdzenie siebie (skok ze szczytu świątyni). Nie są to przypadkowe pokusy — to mapa głównych dróg, którymi ucieka się od rzeczywistości własnego życia. Tekst nie pokazuje Jezusa jako kogoś, kto pokusy nie czuje. Pokazuje kogoś, kto wie, skąd ona przychodzi. — Pytanie, z którym można usiąść bez teologicznego wstępu: która z trzech twoja? Chleb (kup, zjedz, włącz, sprawdź telefon — natychmiast) — władza (skup się na tym, kogo kontrolujesz, nie na tym, kim jesteś) — spektakl (sprawdź, ile ktoś polubił, kogo zaimponowałeś, kto cię zauważył). U większości ludzi jest jedna dominująca; pozostałe dwie usługują tej pierwszej. Sam akt nazwania — bez wstydu, bez analizy — jest pierwszym ruchem tekstu. — Dla wierzących: tradycja monastyczna (Jan Kasjan, V w.) na podstawie tego tekstu rozwinęła klasyfikację ośmiu \it logismoi\it* — ośmiu strukturalnych pokus — z której zachodnia tradycja siedmiu grzechów głównych wzięła swoją formę. Praktyka monastyczna nie polegała na zwalczaniu pokus siłą woli — to nie działa. Polegała na rozpoznaniu wzorca, nazwaniu go, oddaniu w modlitwie. Ignacjański *examen* działa identycznie: wieczorem zauważyć, gdzie dziś \it kamień stawał się chlebem\it* w mojej głowie. Współczesna psychologia uzależnień behawioralnych (gry, media społecznościowe, kompulsywne zakupy) potwierdza tę intuicję — bez nazwania nie ma wyjścia. — Tekst ma też wymiar polityczny, który łatwo pominąć. Druga pokusa — „wszystkie królestwa świata, jeśli mi się pokłonisz“ — to dokładny opis tego, jak działa władza w każdym pokoleniu. Reżimy autorytarne XX wieku, korporacyjne kompromisy XXI — wszystkie zaczynają się od pokusy „złóż jeden mały pokłon, dostaniesz coś dużego“. Tekst pokazuje, że ta pokusa nie jest abstrakcyjna; jest najczęstszą formą zła politycznego. — Relacyjnie, każda z trzech pokus zatruwa konkretne więzi: chleb (nigdy nie wystarczająco obecny, bo zawsze gdzieś sięgam), władza (ludzie wokół ciebie zaczynają być figurami), spektakl (każda rozmowa staje się audytorium). — Ten tydzień: nazwij którą z trzech najbardziej dziś czujesz. Bez dodawania, co z tym zrobić. Samo nazwanie wystarczy.
+[^5]: **KULTUR** — *uczył w synagogach*: Łukasz umieszcza działalność Jezusa w weryfikowalnym kontekście: synagogi galilejskie I wieku, publiczne nauczanie, powszechna sława. Archeologia potwierdza istnienie synagog w Galilei z tego okresu (np. Magdala, odkryta 2009). Łukasz jako historyk (zob. Łk 1,1-4) osadza swoją narrację w konkretnej rzeczywistości — nie w mitycznej przestrzeni.
+[^6]: **TEXT** — *znalazł miejsce*: Greckie \fq εὗρεν τὸν τόπον\fq* oznacza celowe szukanie — nie przypadkowy wybór. Jezus wie, co chce przeczytać.
+[^7]: **TEXT** — *Dzisiaj*: Łukańskie \fq σήμερον\fq* (dzisiaj) to termin teologiczny pojawiający się w kluczowych momentach: 2,11 (narodziny); 5,26 (uzdrowienie); 19,9 (Zacheusz); 23,43 (krzyż). Dla Łukasza zbawienie nie jest obietnicą przyszłości — dzieje się teraz.
+[^8]: **TEXT** — *przyjęty*: Greckie \fq δεκτός\fq* — to samo słowo co w w. 19 przy „roku łaski“ (\fq ἐνιαυτὸν δεκτόν\fq*). Ironia: Jubileusz jest przyjęty; prorok — nie.
 [^9]: **KULTUR** — *syn Józefa*: W kulturze honoru-wstydu I wieku znajomość czyjejś rodziny wyznaczała granice oczekiwań. „Znamy go“ = „wiemy, na co go stać — i na co nie“. Roszczenie do prorockiej autorytetu ze strony miejscowego cieśli naruszało ustaloną hierarchię społeczną. Reakcja tłumu — od zachwytu do próby zabójstwa w kilku wersetach — to typowa dynamika grupy egzekwującej normy honoru: kto próbuje wznieść się ponad swoje miejsce, musi zostać przywrócony na siłę.
 [^10]: **KONTEXT** — *wdowa w Sarepcie*: 1 Krl 17,1-16. Sarepta leży na terytorium fenickiego Sydonu — ziemia pogan. Gdy Izrael odrzucał proroków, Bóg kierował ich do obcych.
 [^11]: **KONTEXT** — *Naaman Syryjczyk*: 2 Krl 5,1-14. Naaman był syryjskim dowódcą wojska — wrogiem Izraela. To, co Jezus mówi, jest prowokacją: gdy insiderzy odrzucają Boże działanie, outsiderzy je otrzymują. To zapowiedź głównego tematu Dziejów Apostolskich: Ewangelia do pogan.
 [^12]: **UNGLAUBLICH** — *przeszedł pośród nich*: Tłum prowadzi Jezusa na krawędź urwiska — a On po prostu przechodzi przez nich i odchodzi. Tekst nie wyjaśnia jak. Interpretacje: (1) Literackie — Łukasz sygnalizuje, że „godzina“ Jezusa jeszcze nie nadeszła (por. J 7,30; 8,20); (2) Charyzmatyczne — nadprzyrodzona ochrona; (3) Teologiczne — Jezus umrze, ale na swoich warunkach i w swoim czasie. Narracyjnie kluczowe jest to, że Nazaret Jezusa nie zatrzymał.
-[^13]: **KULTUR** — *duch nieczysty*: Greckie πνεῦμα δαιμονίου ἀκαθάρτου — „duch nieczystego demona“. „Nieczystość“ to kategoria rytualna: kontakt z takim człowiekiem skalał, wykluczał ze wspólnoty i kultu. Demon w synagodze to więcej niż choroba — to inwazja nieczystości w przestrzeń świętą.
+[^13]: **KULTUR** — *duch nieczysty*: Greckie \fq πνεῦμα δαιμονίου ἀκαθάρτου\fq* — „duch nieczystego demona“. „Nieczystość“ to kategoria rytualna: kontakt z takim człowiekiem skalał, wykluczał ze wspólnoty i kultu. Demon w synagodze to więcej niż choroba — to inwazja nieczystości w przestrzeń świętą.
 [^14]: **UNGLAUBLICH** — *duch nieczysty*: Egzorcyzm w synagodze: Jezus rozkazuje duchowi nieczystemu, a ten posłusznie wychodzi. Interpretacje: (1) Racjonalistyczna — przednaukowy opis zaburzeń psychicznych; demon jako metafora dla tego, co niszczy człowieka; (2) Symboliczna — siła zła ustępuje wobec dobra; (3) Realistyczna — starożytny świat (żydowski, grecki, rzymski) zakładał realność sił duchowych. Sam tekst jest jednoznaczny: demon mówi, rozpoznaje Jezusa, rzuca ofiarą i odchodzi na rozkaz. Co wyróżnia Jezusa od ówczesnych egzorcystów: brak rytuału, zaklęć, smrodliwych korzeni — jedno słowo wystarczy.
-[^15]: **TEXT** — *Z władzą i mocą*: Greckie ἐν ἐξουσίᾳ καὶ δυνάμει — „z autorytetem i mocą“. Dwa terminy razem: ἐξουσία to prawo do rozkazywania, δύναμις to skuteczność rozkazu. Jezus nie tylko ma prawo — jego słowo działa.
-[^16]: **TEXT** — *zgromił gorączkę*: Ten sam czasownik (ἐπιτιμάω) co przy demonie w w. 35. Łukasz celowo zrównuje chorobę z siłą wrogą — Jezus ma tę samą władzę nad obiema.
+[^15]: **TEXT** — *Z władzą i mocą*: Greckie \fq ἐν ἐξουσίᾳ καὶ δυνάμει\fq* — „z autorytetem i mocą“. Dwa terminy razem: \fq ἐξουσία\fq* to prawo do rozkazywania, \fq δύναμις\fq* to skuteczność rozkazu. Jezus nie tylko ma prawo — jego słowo działa.
+[^16]: **TEXT** — *zgromił gorączkę*: Ten sam czasownik (\fq ἐπιτιμάω\fq*) co przy demonie w w. 35. Łukasz celowo zrównuje chorobę z siłą wrogą — Jezus ma tę samą władzę nad obiema.
 [^17]: **KULTUR** — *gdy słońce zachodziło*: Zachód słońca kończył szabat, w czasie którego nie wolno było nosić ciężarów ani podróżować. Dopiero po zachodzie ludzie mogli nieść chorych do Jezusa. Łukasz zaznacza: „na każdego z osobna“ — nie masowe uzdrawianie, lecz indywidualna uwaga dla każdej osoby.
 [^18]: **TEXT** — *Judei*: Część rękopisów ma tu „Galilei“ zamiast „Judei“ — harmonizacja z kontekstem. NA28 czyta „Judei“. Łukasz używa „Judei“ w szerszym sensie: całego żydowskiego kraju, nie tylko prowincji Judei na południu.

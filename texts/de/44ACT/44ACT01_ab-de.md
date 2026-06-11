@@ -1,0 +1,82 @@
+
+# Apostelgeschichte
+
+
+# Apostelgeschichte
+
+
+---
+
+## Kapitel 1
+
+
+### Prolog: Was Jesus begann
+
+
+**1** Das erste Buch, Theophilus, habe ich davon handeln lassen, was Jesus zu tun und zu lehren begann –[^1]
+**2** alles bis zu dem Tag, an dem er aufgenommen wurde, nachdem er seinen Aposteln durch den Heiligen Geist Weisung gegeben hatte.
+**3** Ihnen hatte er sich nach seinem Leiden als Lebendiger gezeigt, mit vielen untrüglichen Zeichen, vierzig Tage lang erschien er ihnen und redete mit ihnen von der Herrschaft Gottes.[^2] *Vierzig Tage, jene Zahl, die in der Geschichte seines Volkes immer eine Zeit der Formierung bedeutet hatte: auf dem Sinai, in der Wüste, vor dem großen Aufbruch.*
+**4** Und als er einmal beim Essen mit ihnen war,[^3] gebot er ihnen: „Verlasst Jerusalem nicht, sondern wartet auf das, was der Vater versprochen hat, ich habe euch davon erzählt.
+**5** Johannes hat mit Wasser getauft. Ihr aber werdet in wenigen Tagen mit dem Heiligen Geist getauft werden."
+
+### Der Aufstieg in die Wolke
+
+
+**6** Als sie nun zusammen waren, fragten sie ihn: „Herr, ist es jetzt so weit? Gibst du Israel sein Königreich zurück?"
+
+**7** Er sagte: „Es liegt nicht bei euch zu wissen, welche Zeiten und Fristen der Vater in seiner Hand hält.
+**8** Aber Kraft werdet ihr empfangen, wenn der Heilige Geist auf euch kommt. Und dann werdet ihr meine Zeugen sein:[^4] in Jerusalem, in ganz Judäa, sogar in Samaria und *von dort*bis ans Ende der Welt."[^5]
+
+**9** Und kaum hatte er das gesagt, wurde er, während sie es *mit eigenen Augen* sahen, emporgehoben und eine Wolke nahm ihn auf.[^6] *Sie konnten nicht wegsehen.* Sie schauten, bis er nicht mehr zu sehen war.
+**10** Noch standen sie so, den Blick in den Himmel gerichtet, da traten zwei Männer in weißen Gewändern zu ihnen
+**11** und sagten: „Ihr Männer aus Galiläa, was steht ihr hier und starrt in den Himmel? Dieser Jesus, der von euch weg in den Himmel aufgenommen wurde, er wird genauso wiederkommen. Genauso, wie ihr ihn habt fahren sehen."[^7]
+
+### Die Wartenden
+
+
+**12** Vom Ölberg \add, von dort, wo die Propheten Gottes letzten Schritt erwartet hatten –* kehrten sie nach Jerusalem zurück. Nur einen Sabbatweg.
+**13** Sie gingen die Straße, die jeder Pilger geht, und stiegen hinauf in ein gemietetes Zimmer im Obergeschoss.[^8]
+
+**14** Alle waren sie da. Und dazu die Frauen, *die mit ihm unterwegs gewesen waren* –[^9] und Maria, seine Mutter und seine Brüder. Einmütig hielten sie am Gebet fest, ohne aufzuhören.[^10]
+
+### Matthias wird zu den Elf gezählt
+
+
+**15** Irgendwann in diesen Tagen stand Petrus auf, inmitten der etwa hundertundzwanzig Menschen,[^11] und sprach.
+**16** „Die Schrift musste sich erfüllen," sagte er, „das, was der Heilige Geist durch David vorhergesagt hat über Judas, der zum Anführer derer wurde, die Jesus festnahmen.
+**17** Er gehörte zu uns. Er hatte Anteil an diesem Dienst."
+
+**18** (Dieser Judas hatte mit dem Lohn des Verrats Land gekauft; und er stürzte vornüber und riss auf, und alles Innere ergoss sich.[^12]
+**19** Das sprach sich herum in Jerusalem, so dass das Grundstück *bis heute* seinen Namen trägt: Hakeldamach, Blutacker.)
+
+**20** Im Buch der Psalmen steht: „Sein Hof soll veröden, keiner soll darin wohnen." Und: „Sein Amt soll ein anderer übernehmen."
+
+**21** Darum: einer von den Männern,[^13] die die ganze Zeit mit uns zusammen waren, während der Herr Jesus bei uns ein- und ausging –
+**22** von der Taufe des Johannes an bis zu dem Tag, an dem er von uns weggenommen wurde, dieser Eine muss zusammen mit uns Zeuge seiner Auferstehung werden.
+
+**23** Zwei Namen wurden genannt: Joseph Barsabbas, der auch Justus heißt und Matthias.
+**24** Dann beteten sie: „Herr, du kennst die Herzen aller Menschen.[^14]
+**25** Zeig uns, welchen von diesen beiden du auserwählt hast, um an die Stelle von Judas zu treten, der an seinen Ort gegangen ist."
+
+**26** Das Los fiel auf Matthias.[^15] Er wurde zu den elf Aposteln hinzugezählt.
+
+---
+
+
+## Anmerkungen
+
+[^1]: **KULTUR** — *Theophilus*: Der Name Theophilus bedeutet „Gottliebhaber" oder „der Gott Liebt". In der Antike war es üblich, literarische Werke einem Mäzen oder Gönner zu widmen, der die Veröffentlichung ermöglichte und als erste Adressatin stand. Lukas schreibt für einen gebildeten Leser, dem er den Zugang zu dieser sorgfältig recherchierten Geschichte öffnet. Die Widmung signalisiert: Dies ist ein echtes Buch für echte Leser.
+[^2]: **KONTEXT** — *vierzig Tage*: In der Geschichte Israels markiert die Zahl vierzig stets eine Zeit der Formierung: Mose auf dem Sinai (2 Mose 34,28), Elija auf dem Weg zum Gottesberg (1 Kön 19,8), Israel in der Wüste. Die Zeit nach Ostern ist keine Wartezeit, sondern eine Phase der Vorbereitung — die Gemeinschaft der Jünger empfängt die Vollmacht des Geistes nicht unvorbereitet.
+[^3]: **TEXT** — *beim Essen*: Das griechische Wort \fq συναλιζόμενος\fq* (synalizomenos) lässt sich als „gemeinsam Salz essen / ein Mahl teilen" lesen — und das ist die älteste Auslegungstradition: antike syrische, lateinische und koptische Übersetzungen, dazu Chrysostomus und Ephräm, verstehen hier eine Mahlgemeinschaft. Salz und Tisch ratifizierten in der hebräischen Bibel Bundesschlüsse (Num 18,19; 2 Chr 13,5). Apostelgeschichte 10,41 bestätigt: „Wir haben mit ihm gegessen und getrunken, nachdem er von den Toten auferstanden war." Dieses Mahl ist Jesu letzte Bundesgeste vor seinem Abschied.
+[^4]: **TEXT** — *Zeugen*: Griechisch \fq μάρτυρες\fq* (martyres): die rechtliche Bedeutung ist hier primär — Personen, die vor Gericht bezeugen, was sie gesehen haben. Die spätere Bedeutung „Märtyrer" (der Zeuge, der für sein Zeugnis stirbt) entwickelt sich erst durch die Erzählung der Apostelgeschichte selbst. In Apostelgeschichte 1,8 ist das Wort noch ein Ehrenamt, kein Todesurteil.
+[^5]: **KULTUR** — *bis ans Ende der Welt*: Diese Formulierung klingt nach imperialem Expansionsprogramm — ist aber das Gegenteil davon. Eine kolonisierte Minderheit im besetzten Jerusalem, einer Stadt, die innerhalb einer Generation von Rom zerstört werden wird, beansprucht ihre Stadt als Mittelpunkt von Gottes Absichten. Rom wird damit an die Ränder der Welt verwiesen. Der erste Schritt führt nach Samaria — ausgerechnet dorthin, wo die tiefste wechselseitige Verachtung herrschte. Der Geist beginnt bei den Verachteten, nicht bei den Mächtigen.
+[^6]: **KONTEXT** — *eine Wolke nahm ihn auf*: Die Wolke ist in der jüdischen Schrift nicht Wetter, sondern Theophanie: die sichtbare Form der Gegenwart Gottes. Die Herrlichkeitswolke über der Stiftshütte (2 Mose 40,34–38), die Wolke auf dem Sinai (2 Mose 19,9), die Wolke bei der Verklärung Jesu (Lk 9,34–35) — sie alle markieren den Ort, wo Himmel und Erde sich berühren. Die Wolke empfängt Jesus aktiv: Sie ist nicht Sichtschutz, sondern Fahrzeug in die göttliche Gegenwart. Christus trägt — in orthodoxer Deutung — die menschliche Natur in die göttliche Herrlichkeit hinein.
+[^7]: **KONTEXT** — *er wird genauso wiederkommen*: Die Formulierung der Engel verweist auf Daniel 7,13: „Einer wie ein Menschensohn kam mit den Wolken des Himmels." Die Wiederkunft ist keine Tröstungsformel — sie ist ein apokalyptisches Versprechen in der prophetischen Tradition Israels. Die Engel unterbrechen die Starre der Jünger nicht, um sie zu vertrösten, sondern um sie in Bewegung zu bringen: Schaut nach vorn, nicht nach oben.
+[^8]: **KULTUR** — *Zimmer im Obergeschoss*: Das griechische Wort \fq ὑπερῷον\fq* (hyperōion) bezeichnet ein Zimmer über einem Erdgeschoss — in der antiken Stadt meist über einem Handwerksladen oder einem Handelsraum. Es ist bescheidener Mietraum, kein Sakralgebäude. Der Geist kommt nicht in den Tempel (der innerhalb einer Generation zerstört werden wird), sondern in ein gemietetes Zimmer in der Handwerksquart. Die Gemeinschaft, die das Pfingstfest empfängt, ist arm und gewöhnlich.
+[^9]: **HARM** — *die Frauen*: Die hier genannten Frauen sind nicht die Ehefrauen der Apostel — sie sind eigenständige Jüngerinnen, die Jesus von Galiläa an begleitet hatten: Maria aus Magdala, Johanna, Susanna und andere (Lk 8,1–3; 24,10). Sie waren von Anfang an dabei: von den ersten Wanderungen bis zur Grablegung, bis zur Auferstehung. Sie sind Gründerinnen dieser Gemeinschaft. Ein späterer Codex (Codex D) fügte „und Kinder" hinzu und machte aus ihnen Mütter — das ist die früheste belegbare Verfälschung ihres eigenständigen Status.
+[^10]: **LEBEN** — *Einmütig ... am Gebet fest*: Diese zehn Tage zwischen Himmelfahrt und Pfingsten haben in der Geschichte des Gebets eine eigenartige Fruchtbarkeit entwickelt. Die katholische Tradition verbindet damit die Entstehung der Novene — neun Tage gemeinsamen Betens. Charismatische Gemeinden weltweit kennen die „Tarrrying Meetings", das Wartende Gebet, das explizit an Apostelgeschichte 1 anknüpft. Was alle Traditionen gemeinsam erfasst haben: Die Gemeinschaft betete nicht, weil sie den Geist schon hatte — sie empfing den Geist, weil sie gelernt hatte, gemeinsam zu beten. Welche Form auch immer — die Einmütigkeit (\fq ὁμοθυμαδόν\fq*) ist nicht das Ergebnis spiritueller Erfahrung, sondern ihre Voraussetzung.
+[^11]: **KULTUR** — *hundertundzwanzig*: Hundertzwanzig Menschen entsprach in der jüdischen Tradition dem Mindestquorum für eine eigenständige Gemeinde mit einem eigenen Sanhedrin (Gerichtshof). Diese Gemeinschaft ist mit ihrer Größe vollständig und zur Selbstverwaltung befähigt — ohne Tempel, ohne römische Behörde. Zu den Hundertzwanzig gehören auch die Frauen aus Vers 14.
+[^12]: **TEXT** — *stürzte vornüber und riss auf*: Lukas und Matthäus (27,5) erzählen den Tod des Judas auf unterschiedliche Weise — Matthäus: Erhängen; Lukas: Sturz und Aufplatzen. Das ist kein historischer Widerspruch, sondern eine Frage des Genres: Beide bedienen sich der jüdisch-hellenistischen Gattung der moralisierten Sterbegeschichte, wie sie auch der Historiker Josephus für den Tod des Herodes verwendet. Ziel ist nicht Protokoll, sondern Bedeutung: Der Lohn des Verrats kauft sich immer seinen eigenen Untergang. Candida Moss (2019) hat die literarische Konvention dieser Todesberichte eingehend dokumentiert.
+[^13]: **HARM** — *einer von den Männern*: Das griechische Wort lautet \fq ἀνδρῶν\fq* — eindeutig männlich (\fq ἀνήρ\fq*, nicht \fq ἄνθρωπος\fq*). Die Frauen aus Vers 14 erfüllten das genannte Kriterium ebenso: Sie waren von der Taufe des Johannes an bis zur Himmelfahrt dabei. Ihr Ausschluss erfolgt nicht aus Mangel an Qualifikation, sondern durch dieses eine Wort. Die feministische Exegetin Ivoni Richter Reimer hat diesen Befund als „doppelte Botschaft" des Textes beschrieben: Frauen sind Gründungsmitglieder der Gemeinschaft — und werden gleichzeitig vom Leitungsamt ausgeschlossen. Der Text ist ehrlich genug, beides sichtbar zu lassen.
+[^14]: **TEXT** — *du kennst die Herzen aller Menschen*: Griechisch \fq καρδιογνώστης\fq* (kardiognōstēs) — „Herzenskenner": ein zusammengesetztes Wort, das ausschließlich in christlichen Texten vorkommt (auch Apg 15,8). Das Gebet ruft Gott beim einzigen Namen, der in diesem Moment zählt: der Eine, der sieht, was Menschen nicht sehen können. Die Gemeinschaft gibt zu, dass sie keine der entscheidenden Fragen selbst beantworten kann — wessen Herz wirklich bereit ist, wessen Charakter wirklich hält. Sie übergibt die Entscheidung dorthin, wo echte Entscheidung möglich ist.
+[^15]: **KULTUR** — *Das Los fiel*: Das Loswerfen war in der jüdischen Tradition kein Zufallsverfahren, sondern ein Mittel, menschliche Präferenz und Konkurrenz dort auszuschalten, wo nur Gott entscheiden soll. Sprüche 16,33: „Das Los wird in den Schoß geworfen, aber jede Entscheidung kommt von Gott." Ähnliche Verfahren sind aus der Gemeinschaft von Qumran belegt (1QS 6), wo die Gemeinschaft durch Loswerfen über Aufnahme und Ämter entschied. Kein Mensch trägt die Verantwortung für diese Wahl — und kein Mensch kann sie in Frage stellen.

@@ -1,0 +1,81 @@
+
+# Psalmen
+
+
+# Psalmen
+
+
+---
+
+## Kapitel 21
+
+
+### Der König freut sich
+
+\d Ein Psalm Davids, für den Vorsänger.[^1]
+
+**1** Gott, in deiner Kraft –[^2]
+> der König freut sich.
+> Deine Rettung!\f + \fr 21:1 \fk TEXT \fq Rettung \ft Das hebräische \it yešūʿāh\it* (Rettung, Befreiung, Sieg) ist kein spiritueller Fachbegriff, sondern ein konkretes Wort: der König wurde aus einer Gefahr geholt, die ihn hätte töten können. Im altorientalischen Kontext ist die \it yešūʿāh\it* des Königs sein militärisch-politischer Sieg — Rettung aus der Schlacht, Befreiung aus der Belagerung. Das Wort verbindet Psalm 20 (die Bitte um \it yešūʿāh\it*) mit Psalm 21 (der Dank für \it yešūʿāh\it*) und mit Psalm 22:1, wo die \it yešūʿāh\it* ausbleibt — „Mein Gott, warum bist du so fern von meiner Rettung?"\f*
+> Wie er jubelt!
+
+**2** Den Wunsch seines Herzens hast du ihm gegeben.[^3]
+> Das Verlangen seiner Lippen hast du ihm nicht vorenthalten.
+
+**3** Du kamst ihm zuvor mit gutem Segen.[^4]
+> Eine Krone aus feinstem Gold, auf seinen Kopf gelegt.
+
+**4** Er bat um Leben.[^5]
+> Du gabst ihm Leben und mehr.
+> Tage ohne Ende, für immer und ewig.
+
+**5** Sein Ansehen ist groß durch deine Rettung.[^6]
+> Glanz und Pracht, du legst sie ihm auf.
+
+**6** Du machst ihn zum Segen. Für immer.[^7]
+> Du erfüllst ihn mit Freude, vor deinem Angesicht.
+
+**7** Denn der König vertraut auf Gott.[^8]
+> Durch die Treue des Höchsten
+> wird er nicht wanken.\f + \fr 21:7 \fk KONTEXT \fq wird er nicht wanken \ft Hossfeld und Zenger vermuten, dass dieser Vers eine sekundäre Einfügung der exilischen Redaktion ist: nicht im „ersten" Psalm enthalten, sondern nachträglich eingefügt, um den Königspsalm zu demokratisieren. Im Ergebnis wird der König zum Paradigma jedes Menschen, der auf Gottes \it ḥesed\it* (Bundestreue) vertraut – nicht nur des Monarchen. Die Aussage „wird er nicht wanken" gilt dann über den Hof hinaus für die ganze Gemeinde, die den Psalm betet.\f*
+
+**8** Deine Hand fasst alle deine Feinde.[^9]
+> Deine Rechte findet, wer dich hasst.
+
+**9** Du machst sie wie einen glühenden Ofen,[^10]
+> wenn du erscheinst.
+> Gott verschlingt sie in seinem Zorn.
+> Feuer frisst sie.
+
+**10** Ihre Nachkommen, tilgst du von der Erde.[^11]
+> Ihren Samen, aus der Menschheit.
+
+**11** Sie haben dir Böses zugedacht.
+> Einen Plan geschmiedet.
+> Aber sie scheitern.
+
+**12** Du lässt sie fliehen.[^12]
+> Mit deinem Bogen zielst du auf ihr Gesicht.
+
+**13** Erhebe dich, Gott, in deiner Kraft![^13]
+> Wir wollen singen, wir wollen spielen –
+> von deiner Macht.
+
+---
+
+
+## Anmerkungen
+
+[^1]: **KONTEXT** — *Ein Psalm Davids — für den Vorsänger*: Psalm 21 gehört zu Psalm 20 wie die Antwort zur Frage. Psalm 20 ist die Bitte: „Möge Gott dich am Tag der Not erhören, möge er dir geben, was dein Herz wünscht." Psalm 21 ist die Erfahrung: Er hat es getan. — Die beiden Psalmen wurden im Jerusalemer Tempel wahrscheinlich als liturgisches Paar aufgeführt — erst die Bitte vor dem Kampf, dann der Dank nach der Rettung. Ob der Anlass eine konkrete militärische Bedrohung war oder ein jährliches Krönungsfest, ist in der Forschung umstritten (Hossfeld und Zenger: eigenständiger Königspsalm mit Verwendung im vorexilischen Tempel; Goldingay: Dank nach konkreter Rettung). — Der Psalm steht im Cluster der Königspsalmen 18–24, im Zentrum des ersten Psalmbuchs (Ps 1–41). Direkt danach kommt Psalm 22 — „Mein Gott, mein Gott, warum hast du mich verlassen?" Kein Sieg im Psalter ist endgültig; jeder Jubel steht zwischen Bitte und Klage. — \it Für den Vorsänger\it* (hebr. \it lamnatze'ach\it*) ist die Standardüberschrift für 55 Psalmen und bezeichnet den musikalischen Leiter des Tempelchors.
+[^2]: **TEXT** — *in deiner Kraft*: Das hebräische Wort \it ʿōz\it* (Kraft, Stärke, aktive Macht) steht am Anfang und am Ende des Psalms (V. 1 und V. 13 — wörtlich identisch: \it be-ʿoz-kā\it*, „in deiner Kraft"). Diese Klammer heißt in der Poetik \it Inclusio\it* — sie rahmt das ganze Gedicht. Alles, was dazwischen steht — Geschenke, Krone, Sieg, Feindvernichtung — gehört zu dieser Kraft und kommt aus ihr zurück. Das Wort \it ʿōz\it* meint nicht statische Stärke, sondern ausgeübte, dynamische Kraft: die Kraft, die etwas tut.
+[^3]: **TEXT** — *den Wunsch seines Herzens … das Verlangen seiner Lippen*: Die zwei Zeilen des Verses sind ein Parallelpaar: innen (Herz) → außen (Lippen). Was der König sich im Innersten wünschte (\it mišʾalat libbô\it*), hat er auch auszusprechen gewagt (\it ʾarešet śəfātāw\it*). — Das Wort \it ʾarešet\it* ist ein \it Hapax Legomenon\it* — es kommt in der gesamten hebräischen Bibel nur hier vor. Verwandt mit dem ugaritischen Wort \it ʾaršt\it*, das in Brautwerbeformeln erscheint: eine Bitte, die fast schon eine Liebeserklärung ist. Die Intimität dieses Wortes ist einzigartig. Was der König vor Gott aussprach, war kein Antrag, kein Gesuch — es war etwas, das seine Lippen kaum zu sagen wagten.
+[^4]: **TEXT** — *Eine Krone aus feinstem Gold*: Die griechische Übersetzung (Septuaginta) liest „eine Krone aus Edelstein" statt „feinstem Gold" — möglicherweise eine Harmonisierung mit 2 Sam 12,30, wo David die Krone des Ammoniter-Königs aufsetzt. Die lateinische Tradition und Augustinus entwickelten aus der „Edelstein"-Lesart eine christologische Auslegung (die Edelsteine = die Jünger, die Christus umgeben). Wir folgen dem hebräischen Text: \it keter pāz\it*, Gold höchster Reinheit. — Das hebräische Verb \it tāšît\it* (setzen, legen, machen) erscheint in diesem Psalm viermal: V. 3 (Krone auf den Kopf gelegt), V. 6 (zum Segen gemacht), V. 9 (Feinde wie Ofen gemacht), V. 12 (Feinde in die Flucht gesetzt). Goldingay nennt diese Vierfachverwendung eine „bewusste poetische Wahl": Was Gott als Geschenk \it setzt\it*, setzt er auch als Gericht.
+[^5]: **KULTUR** — *Tage ohne Ende, für immer und ewig*: Die Formel \it ʾōrek yāmîm ʿōlām wāʿed\it* (Länge der Tage, für immer und ewig) ist ein altorientalischer Standardausdruck für die Dauerhaftigkeit einer Dynastie. Vergleichbare Formulierungen finden sich in mesopotamischen Königsinschriften (\it ana dārîti\it* — „auf ewig") und in ugaritischen Texten (\it urk ym bʿly\it* — „mögen deine Tage lang sein, mein Herr"). — Antike Hörer verstanden die Formel so, wie wir „Long may she reign" verstehen: ein hyperbolischer Wunsch für ein langes, unverkürztes Königtum — keine metaphysische Behauptung über Unsterblichkeit. Der Bibelwissenschaftler Mitchell Dahood las den Vers dennoch als Bitte um buchstäbliches ewiges Leben, gestützt auf ugaritische Parallelen (die Aqhat-Geschichte). Die meisten Kommentatoren widersprechen: Hyperbel, nicht Metaphysik. Aber die Pointe des Verses bleibt so oder so scharf: Der König bat um Überleben — Gott gab ihm mehr, als er zu bitten wagte.
+[^6]: **KULTUR** — *Glanz und Pracht legst du ihm auf*: Die hebräischen Wörter \it hôd\it* und \it hādār\it* (Glanz und Pracht, Hoheit und Majestät) entsprechen dem akkadischen Konzept der \it melammu\it*: der göttlichen Aura, die im alten Orient Könige und Götter umgab. In neuassyrischen Krönungszeremonien wurde dem König seine \it melammu\it* verliehen — sie war der sichtbare Beweis seiner göttlichen Legitimation. Könige wurden auf Reliefs und Statuen mit einer Lichtaura dargestellt; ein König ohne \it melammu\it* war ein gescheiterter König. — Was Psalm 21 mit diesem Vokabular macht, ist eine theologische Umschreibung der altorientalischen Idee: Die königliche Aura ist kein Geburtsrecht und keine inhärente Eigenschaft des Königs (wie in Mesopotamien und Ägypten), sondern ein \it Geschenk\it* Gottes. „Du legst sie ihm auf" — das heißt: Gott kann sie auch wieder wegnehmen. Der König ist Gottes Repräsentant, nie Gottes Ebenbild.
+[^7]: **KONTEXT** — *Du machst ihn zum Segen … Freude vor deinem Angesicht*: Zwei Beobachtungen. — (1) „Du machst ihn zum Segen" (\it tešîtēhū berākôt lāʿad\it*) echot die Verheißung an Abraham in Gen 12,2: „Ich will dich segnen, und du sollst ein Segen sein." Der König ist nicht nur gesegnet — er \it wird\it* Segen für andere. Goldingay (\it Psalms for Everyone\it*): „Die Segnungen, die mit der Führung kommen, existieren nicht zum Vorteil des Führenden, sondern zum Wohl der Gemeinschaft." — (2) „Freude vor deinem Angesicht" (hebr. \it pānîm\it*, Gesicht/Gegenwart) — dasselbe hebräische Wort erscheint in V. 12 mit umgekehrter Wirkung: „Mit deinem Bogen zielst du auf ihr Gesicht." Gottes Gegenwart ist die Quelle der Freude für den König — und der Schrecken für seine Feinde. Der NICOT-Kommentar (deClaissé-Walford, Jacobson, Tanner) hebt diesen \it pānîm\it*-Kontrast ausdrücklich hervor.
+[^8]: **TEXT** — *vertraut … Treue … wird er nicht wanken*: Dieser Vers ist das theologische Zentrum des Psalms – und der einzige, der nicht als Anrede formuliert ist. Die Gemeinde sprach bisher zu Gott über den König; hier wechselt die Stimme in die dritte Person: Warum steht der König sicher? Nicht wegen Armee, Krone oder Siegen, sondern: weil er \it vertraut\it*. – Das hebräische Wort \it bôtēaḥ\it* (vertraut) ist ein Partizip, eine Dauerform: Der König vertraut nicht einmal, er vertraut \it ständig\it*. Es ist seine Grundhaltung, nicht eine Einzelentscheidung. – Das Wort \it ḥesed\it* (hier: Treue) ist eines der schwersten Wörter der hebräischen Bibel. Es meint nicht „Gnade" im christlichen Sinn (unverdiente Gunst), sondern Bundestreue: die Verlässlichkeit Gottes gegenüber dem, dem er sich verpflichtet hat. \it Ḥesed\it* ist das Wort eines Partners, der bleibt, auch wenn es teuer wird. – Die Paarung von \it bāṭaḥ\it* (Vertrauen) und \it ḥesed\it* (Treue) summiert die gesamte Theologie des Psalms in zwei Wörtern (Mays, \it Psalms\it*, Interpretation): Der König ist sicher, weil er auf einen treuen Gott vertraut. Alles andere – Krone, Glanz, Siege – ist Folge, nicht Ursache.
+[^9]: **TEXT** — *Deine Hand … deine Rechte*: In den Versen 8–12 entsteht die größte Auslegungsfrage des Psalms: Wer ist „du"? Spricht die Gemeinde weiterhin zu Gott — oder wendet sie sich jetzt an den König? — Drei Positionen existieren in der Forschung. (1) \it Gott durchgehend\it* (Goldingay, Dahood, Robert Alter): Das Feuer (V. 9) ist ein theophanes Element (Gottes Erscheinen in Flammen, wie am Sinai); die „rechte Hand" ist im Psalter fast immer Gottes Hand; der Abschluss in V. 13 richtet sich an Gott. (2) \it König durchgehend\it* (Mays): die Verse 8–12 sind ein Orakel der Zusicherung an den König. (3) \it Gemischt\it* (NICOT): V. 9b fügt plötzlich Gott als grammatisches Subjekt ein, was die Verwirrung erzeugt. — Wir folgen der Lesart (1): Die Gemeinde spricht durchgehend zu Gott. Die Feinde sind Gottes Feinde, das Feuer ist Gottes Feuer, das Gericht ist Gottes Gericht. Die „rechte Hand" (\it yāmîn\it*) ist im Psalter die Hand der Rettung und der Macht (Ps 17,7; 18,36; 20,7; 44,4; 60,7; 63,9; 89,14; 98,1; 108,7; 118,15–16; 138,7; 139,10).
+[^10]: **KULTUR** — *wie einen glühenden Ofen … Feuer frisst sie*: Das Bild des „glühenden Ofens" (\it tannûr ʾēš\it*) ist ein theophanes Bild: Gott erscheint im Feuer. Der Dornbusch brennt (Ex 3), der Sinai raucht (Ex 19,18), Gottes Zorn wird als verzehrendes Feuer beschrieben (Dtn 4,24). — Die Wendung „wenn du erscheinst" (hebr. \it lēʿet pānêkā\it*, wörtlich: „zur Zeit deines Angesichts/deiner Gegenwart") benutzt dasselbe Wort \it pānîm\it* wie V. 6 — dort war Gottes Gegenwart die Quelle der Freude für den König. Hier ist sie der Schrecken der Feinde. Dieselbe Gegenwart, zwei entgegengesetzte Wirkungen. Der NICOT-Kommentar nennt diesen \it pānîm\it*-Kontrast ausdrücklich: Gottes Gesicht tröstet den, der vertraut, und zerstört den, der angreift.
+[^11]: **LEBEN** — *Ihre Nachkommen tilgst du von der Erde, ihren Samen aus der Menschheit*: Dieser Vers ist die ethische Schwerstelle des Psalms. Er sagt, was er sagt: Die Nachkommen der Feinde werden vernichtet, ihr Samen aus der Menschheit getilgt. Zwei Lesarten sind in der Forschung lebendig, und keine darf die andere verdrängen. — \it Die apologetische Lesart\it* (Jacobson, NICOT): Im alten Orient war „die Nachkommen des Feindes vernichten" eine konventionelle Formel für entscheidenden Sieg — vergleichbar mit der Merneptah-Stele des ägyptischen Pharaos (ca. 1208 v. Chr.), die prahlt: „Israel ist verwüstet, sein Samen existiert nicht mehr." Israel existierte offensichtlich weiter. Die Sprache ist hyperbolisch: totale Niederlage, nicht buchstäbliche Ausrottung. Goldingay: „Gott ergreift nicht die Initiative, um Menschen anzugreifen; Gott reagiert auf einen Angriff." — \it Die ehrliche Begegnung\it* (Richard Falk, Princeton): „Die Sprache von Psalm 21 nährt moralisch problematische Impulse. Der absolutistische Gut-gegen-Böse-Rahmen, der die Eliminierung feindlicher Nachkommen befürwortet, besteht in der heutigen Geopolitik fort." Die Apologetik, die zur Konvention eilt, schützt den Text vor der ehrlichen Begegnung mit dem, was er sagt. — Beide Lesarten müssen gehalten werden. Die Worte bedeuten, was sie bedeuten. Die Konvention erklärt den Sprachgebrauch. Die ethische Schwierigkeit bleibt. Nancy deClaissé-Walford (\it Acta Theologica\it* 2021): Gemeinschaften sollen „mit den Worten ringen und einen Segen von ihnen fordern" — das ist produktiver als Unterdrückung oder unkritische Akzeptanz.
+[^12]: **TEXT** — *Mit deinem Bogen zielst du auf ihr Gesicht*: Das hebräische Verb \it tešîtēmô\it* (du machst sie, du setzt sie) ist die vierte und letzte Verwendung des Verbs \it šît\it* im Psalm (nach V. 3, 6, 9). Was Gott als Geschenk „setzt" (Krone auf den Kopf, den König zum Segen), setzt er auch als Gericht (die Feinde wie einen Ofen, die Feinde in die Flucht). Die Symmetrie ist kein Zufall, sondern eine „bewusste poetische Wahl" (Goldingay). — Das Wort „Gesicht" (hebr. \it pānîm\it*) erscheint hier zum dritten Mal im Psalm: V. 6 — Gottes Angesicht als Freude, V. 9 — Gottes Gegenwart als Schrecken, V. 12 — das Gesicht der Feinde als Ziel des Bogens. Dasselbe Wort, drei Kontexte, drei Wirkungen.
+[^13]: **KONTEXT** — *Erhebe dich, Gott, in deiner Kraft*: Der Schlussvers schließt die Klammer, die V. 1 geöffnet hat: \it be-ʿoz-kā\it* — „in deiner Kraft." Die identische Wendung am Anfang und am Ende (Inclusio) rahmt den ganzen Psalm. — Die Stimme wechselt zum ersten Mal in die erste Person Plural: „Wir wollen singen." Die Gemeinde, die bisher \it über\it* den König zu Gott gesprochen hat, tritt nun selbst in den Psalm ein. Der Lobpreis wird kollektiv. — Das Verb \it rûmāh\it* (erhebe dich) ist ein Imperativ — die Gemeinde \it fordert\it* Gott auf, seine Souveränität sichtbar zu machen. Nicht Bitte, sondern Aufruf. — \it Nashîrāh ûnezammerāh\it* (wir wollen singen und spielen): Zwei Verben für musikalische Aufführung — das erste (\it šîr\it*) meint Gesang, das zweite (\it zmr\it*) Instrumentalspiel. Der Psalm endet in Musik.

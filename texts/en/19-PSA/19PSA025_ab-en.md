@@ -1,0 +1,101 @@
+
+# Psalms
+
+
+# Psalms
+
+
+---
+
+## Kapitel 25
+
+
+### A Prayer from Beginning to End
+
+\d Of David.[^1]
+
+**1** To you, LORD —
+> I lift my whole self.\f + \fr 25:1 \fk TEXT \fq whole self \ft The Hebrew word is *nefesh* — not "soul" in the Greek philosophical sense (an immaterial part separate from the body) but the entire animate person: breath, body, life, desire, fear. To "lift your *nefesh* to God" is a physical gesture of total self-presentation — hands raised, face turned upward, everything exposed. The psalmist brings not a request but a person.\f*
+
+**2** My God, I trust you.
+> Don't let me be put to shame.\f + \fr 25:2 \fk KULTUR \fq put to shame \ft In the ancient Mediterranean honor-shame culture, to be "put to shame" (*bosh*) before enemies was not private embarrassment — it was public social death: loss of standing, loss of community, loss of identity witnessed by all. This word opens the psalm (v.2) and closes it (v.20), forming an envelope structure. The entire prayer lives within this vulnerability: *Don't let them see me broken in the public square.*\f*
+> Don't let them win.
+
+**3** No one who hopes in you is shamed.
+> Shame is for those who betray for nothing.
+
+**4** Show me your ways, LORD.
+> Teach me your paths.\f + \fr 25:4 \fk TEXT \fq ways... paths \ft The vocabulary of "way" and "path" (*derek*, *netivah*) recurs six times across vv.4–12 — the structural spine of the psalm. This is not generic life-coaching ("guide me"). The psalmist is asking for Torah-instruction: show me, step by step, how to live. Three verbs intensify the petition: make known, teach, lead. The progression moves from knowledge to skill to embodied practice.\f*
+
+**5** Walk me through your faithfulness — teach me.
+> You are the God who delivers me.
+> All day, I look to you.
+
+**6** Remember your compassion, LORD,[^2]
+> your faithful love —
+> they go back to the beginning.
+
+**7** My failures when I was young,[^3]
+> my rebellions — forget them.
+> But remember me. You\add , LORD\add* —\f + \fr 25:7b \fk TEXT \fq You \ft The Hebrew places an emphatic independent pronoun here — *zekar-li attah* ("remember me — YOU"). The pronoun is grammatically unnecessary after the imperative verb, which makes its presence startling and intimate. The psalmist is calling God out personally: You be the one who remembers me. Robert Alter flags this as one of the psalm's most striking rhetorical moves — a direct confrontation within prayer.\f*
+> in your faithful love.
+> Because you are good.
+
+**8** The LORD is good. Upright.[^4]
+> That is why he shows sinners the way.
+**9** He leads the afflicted toward justice,[^5]
+> teaches them his path.
+
+**10** All the LORD's paths are faithful love
+> and constancy —
+> for those who keep his covenant, his commands.
+
+**11** For your name's sake, LORD —[^6]
+> pardon my guilt.
+> It is great.
+
+**12** Whoever stands in awe of the LORD —
+> God shows them which path to take.
+**13** They will dwell in what is good.
+> Their children will have a place in the land.\f + \fr 25:13 \fk LEBEN \fq a place in the land \ft The Hebrew \it yîraš ʾāreṣ\it* — will inherit land — is exile-hope language. In its Second Temple setting, it spoke to displaced people under imperial pressure who had lost their territory: not a promise of magical wealth, but of secure community membership, a place to stand, basic stability. It is the hope of the dispossessed, not the charter of the conqueror. To put it in present terms: the verse promises a house key, not a real-estate portfolio. — Reception history has not always honored this. Across centuries, the inherit the land promises of the Psalter and Torah have been pressed into service for colonial mandate — the European settlement of the Americas, the displacement of Indigenous peoples, the South African apartheid system, and every empire that needed scriptural cover for taking land that was already inhabited. That reversal — turning a promise to the landless into a license for the powerful — is one of the most consequential mis-readings in the history of biblical use. The psalm is on the other side of it. — A low-threshold practice this week: read the verse with the question, who in my city actually does not have a place to stand? Not as a guilt exercise — as an act of fidelity to what the verse is actually saying. The person sleeping in the metro tunnel. The family in temporary housing two years on. The cleaner who commutes three hours because rent inside the city is impossible. The verse pictures their security, not yours. — In Jewish tradition this verse sits inside the alphabetic acrostic of Psalm 25, a psalm prayed by people learning to entrust their whole life to God one letter at a time. Christian liturgy uses it in Advent, the season of waiting for what is not yet there. The verse belongs to a long line of people who held the promise without having received it yet. — That is the company it invites the reader into: not the satisfied owner of land, but the patient guest of a promise still on its way.\f*
+
+**14** The confidence of God belongs to those who live in awe of him.[^7]
+> His covenant — he opens it to them.
+
+**15** My eyes stay fixed on the LORD.
+> He will pull my feet from the net.
+
+**16** Turn toward me. Be gracious.
+> I am alone. Afflicted.\f + \fr 25:16 \fk TEXT \fq alone. Afflicted \ft The Hebrew combines two rare and devastating words: *yahid* (solitary, without kin — the word also appears in Psalm 22:21 and 35:17) and *ani* (poor, materially afflicted). This is double dispossession: cut off from community AND from resources. Existential isolation AND social vulnerability, spoken in the same breath. This is the psalm's most exposed moment — the speaker stripped of everything, addressing God from that stripped-down place.\f*
+
+**17** My heart's troubles — they widen.[^8]
+> Bring me out of this.
+**18** See my suffering. My struggle.
+> Carry all my guilt away.\f + \fr 25:18 \fk TEXT \fq carry away \ft The Hebrew verb *nasa* (carry, lift, take away) is a different forgiveness word from *salah* (pardon) used in v.11. The psalm deliberately uses two distinct verbs: *salah* (technical divine pardon — v.11) and *nasa* (physically carrying away the weight — v.18). The first is juridical; the second is visceral. Together they cover both dimensions: the legal clearing and the felt relief.\f*
+
+**19** See how many enemies I have.
+> Their hatred is violent.
+**20** Guard my life. Rescue me.
+> Don't let me be put to shame.
+> I have taken shelter in you.
+
+**21** Integrity and uprightness — let them guard me.
+> I have hoped in you.\f + \fr 25:21 \fk TEXT \fq integrity and uprightness guard me \ft These are not the psalmist's own qualities claimed as merit. Goldingay and Dahood both read "integrity and uprightness" as personified divine attributes — protective companions sent by God, like the "faithful love and constancy" that pursue in Psalm 23:6. The psalmist who confessed "great guilt" at v.11 is not now claiming personal perfection. The prayer is: let YOUR integrity and YOUR uprightness walk alongside me.\f*
+
+**22** Redeem Israel, God,[^9]
+> from all its troubles.
+
+---
+
+
+## Anmerkungen
+
+[^1]: **KONTEXT** — *Alphabetic acrostic*: In Hebrew, this psalm moves through every letter of the alphabet from aleph to taw — a complete prayer from A to Z, refusing to leave any human need unspoken before God. The acrostic form was a scribal-wisdom school device designed for memorization and internalization: a prayer you carry with you. Two letters are intentionally missing (waw and qoph) — original compositional features confirmed by Dead Sea Scroll witnesses, not scribal errors. The three structurally prominent positions (first letter, middle letter, final letter) spell the Hebrew root for "learn." The psalm teaches prayer by its own architecture. — Psalm 25 and Psalm 34 share the same structural irregularities (missing waw, extra pe-verse at the end). Together they frame Psalms 26–33 as deliberate bookends, both concerned with shame, trust, and God's guidance of the poor.
+[^2]: **TEXT** — *compassion*: The Hebrew *rahamim* (plural) is derived from *rehem* — "womb." This is not abstract compassion but the visceral, unchosen, irreversible love of a parent for a child they have carried. Phyllis Trible identifies *rahamim* as one of the primary sites of feminine divine imagery in the Hebrew Bible. Paired here with "faithful love" (*hesed* — covenant loyalty), it constitutes the double ground of petition: gut-love AND binding commitment. The psalmist is calling on both at once. — The dense vocabulary of this verse deliberately activates the Sinai grace formula of Exodus 34:6: "The LORD, the LORD, compassionate and gracious, slow to anger, abounding in faithful love and constancy." The psalmist is praying God's own self-revelation back to God as the grounds for mercy.
+[^3]: **TEXT** — *failures... rebellions*: The psalm deploys three distinct Hebrew words for wrongdoing — *hattat* (failures, missing the mark — inadvertent or structural falling short), *pesha* (rebellions — willful defection from the covenant relationship), and *awon* (guilt — the accumulated weight that builds up over time, appearing at vv.11 and 18). Together they span the full range of human transgression: what you did without knowing, what you did knowing, and what it all adds up to. This is not casual mention. It is comprehensive moral accounting — a confession that refuses to leave anything out.
+[^4]: **UNGLAUBLICH** — *shows sinners the way*: The theological surprise of this verse: divine uprightness leads to guidance FOR those who have gone wrong — not judgment against them. The Hebrew word for "sinners" here (*hattaim*) literally means "those who missed the mark" — and God's response to their missing is to show them the path. The logic is counter-intuitive to both religious and secular moral reasoning: goodness responds to failure with re-orientation, not condemnation. A wordplay resonates underneath: those who have *missed the way* are led back *onto* the way.
+[^5]: **KULTUR** — *the afflicted*: The Hebrew *anavim* does not mean "humble" as a spiritual personality type. It designates a specific social category: the materially poor, politically marginalized, legally vulnerable — those the social order has excluded from governance and legal protection. God "leading them in justice" (*mishpat*) is a governance claim: God applies to them the administrative authority the powerful withheld. This is not interior comfort available to anyone who feels pious. It is a promise of divine governance-justice specifically for those the system shut out.
+[^6]: **TEXT** — *for your name's sake... for it is great*: This is the structural center of the psalm — the *lamed* verse, the middle letter of the Hebrew alphabet. The entire psalm is organized concentrically around this petition. "For your name's sake" is a specifically Yahwistic theological move: divine reputation is bound to covenantal consistency. God's greatness is the *reason* to forgive great sin, not a barrier to it. The medieval rabbi Rashi formulates: "Your greatness makes it appropriate to forgive great sin." The word *salah* (pardon) is a technical term for divine forgiveness — it appears only four times in the entire Psalter (25:11; 86:5; 103:3; 130:4). Only God can perform this act.
+[^7]: **KULTUR** — *confidence of the LORD*: The Hebrew *sod* names the inner council of powerful men — the deliberative circle where consequential decisions were made. In ancient Israel, this space was structurally closed to women and to the poor. The verse performs a deliberate inversion: those the social order excludes from deliberative power are admitted to God's inner circle. This is not "God gives advice." It is "God reverses the insider/outsider structure of human power." The most valuable insider knowledge — covenant-knowledge — is given specifically to those the world shuts out. Jerome rendered *sod* as *secretum* ("intimate secret"); the RSV chose "friendship." Both capture part of it. The full sense is: the boardroom that always kept you out — God holds the door open.
+[^8]: **TEXT** — *widen*: The Hebrew describes an interior expansion of distress — the troubles of the heart have "become large" or "widened." This is inner pressure experienced as a physical sensation: the chest expanding with anguish, the troubles taking up more and more space inside. The image is visceral — not abstract worry but felt bodily pressure.
+[^9]: **KONTEXT** — *Redeem Israel*: This verse is widely recognized by scholars (Alter, Goldingay, Hossfeld-Zenger) as a secondary editorial addition to the psalm. Evidence: (1) it lacks the poetic parallelism characteristic of the rest of the psalm; (2) it shifts abruptly from "I" (individual) to "Israel" (communal); (3) it uses *Elohim* ("God") rather than the YHWH that dominates the psalm; (4) it adds a supernumerary *pe*-verse outside the acrostic sequence. The individual's prayer has been opened into communal hope by a later editor — the private confession becomes the community's. Psalm 34 has an identical editorial *pe*-verse addition, confirming the deliberate canonical pairing of these two psalms.

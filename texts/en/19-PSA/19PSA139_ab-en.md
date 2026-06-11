@@ -1,0 +1,87 @@
+
+# Psalms
+
+
+# Psalms
+
+
+---
+
+## Kapitel 139
+
+
+### Behind and Before
+
+\d For the leader. A psalm of David.[^1]
+
+**1** Eternal, you have searched me[^2]
+> and known me.
+**2** You know when I sit and when I rise;
+> you discern my thoughts from far off.
+**3** My going out and my lying down — you sift them;
+> you are familiar with all my ways.
+**4** Before a word is on my tongue,
+> Eternal, you know it whole.
+**5** Behind and before, you hem me in;[^3]
+> you lay your hand on me.
+**6** Such knowing is too much for me —
+> lifted beyond me, I cannot reach it.
+
+**7** Where could I go from your Spirit?[^4]
+> Where could I flee from your face?
+**8** If I climb to the heavens, you are there.
+> If I make my bed in Sheol\f + \fr 139:8 \fk KULTUR \fq Sheol \ft The shadowy underworld of the dead in Hebrew imagination — not the later Christian hell, but the silent realm where all the dead, the righteous and the wicked alike, were thought to go. Importantly, Sheol was the one place ancient readers believed God did *not* go: even the deity left it to itself. The psalm's claim is therefore far more daring than a bland "God is everywhere": *even there, the one place imagined as outside God's reach, you are there.* Translations that render *Sheol* as *hell* lose the daring; the dead, in the Hebrew imagination, were not damned, they were simply beyond reach. The psalm says: not even there.\f* — there you are.
+**9** If I take the wings of the dawn,[^5]
+> settle at the far side of the sea —
+**10** even there your hand would lead me,
+> your right hand take hold of me.
+**11** If I said, Surely the dark will cover me,
+> the light around me become night —
+**12** even the dark is not dark to you;
+> night shines like day.
+> Darkness and light, to you, are one.
+
+**13** For you created my inmost being;[^6]
+> you wove me in my mother's womb.
+**14** I thank you — I was made in awe — a wonder.
+> Wondrous are your works;
+> my whole self knows it well.
+**15** My bones were not hidden from you
+> when I was made in secret,
+> embroidered in the depths of the earth.
+**16** Your eyes saw my unformed substance.[^7]
+> In your scroll all of them were written —
+> the days that were shaped for me —
+> before the first of them began.
+**17** How weighty to me are your thoughts, my God;
+> how vast is the sum of them.
+**18** Were I to count them, they would outnumber the sand.
+> I awake — and I am still with you.
+
+**19** If only you would kill the wicked, O God[^8] —
+> and you who thirst for blood — turn away from me.
+**20** They speak of you with malice;
+> your enemies invoke your name in vain.
+**21** Do I not hate those who hate you, Eternal?
+> Do I not loathe those who rise against you?
+**22** I hate them with complete hatred.[^9]
+> I count them my enemies.
+**23** Search me, O God, and know my heart.
+> Test me, and know my anxious thoughts.
+**24** See if there is any hurtful way in me,
+> and lead me in the everlasting way.\f + \fr 139:24 \fk LEBEN \fq lead me in the everlasting way \ft The last word of the psalm is not vindication but *being led*. The speaker who began by being searched without consent ends by asking, more quietly, simply to be led — and the verb here (*lead me*) is the same verb that appeared earlier in verse 10 (*your hand would lead me*), where it carried, like so much of the psalm's vocabulary, an edge of menace: a hand that might either guide or grip. At the close, the menace is gone; the verb is wholly gentle now. The Hebrew word translated *everlasting* stretches in both directions of time — it can mean the way that lasts forever, and it can mean the *old* way, the way that has been there all along; the prophet Jeremiah uses the same phrase for the *ancient paths* (Jer 6:16). Both senses are true. — This is what the Christian contemplative tradition has called the *examen*: a kind of quiet evening attention in which one asks, not "what did I do wrong today?" in the voice of an audit, but "where was love in my day, and where was I not yet able to receive it?" The Jewish equivalent, *cheshbon ha-nefesh*, the accounting of the soul, has the same shape — an opening, not a verdict. If this psalm is to be prayed, it asks to be prayed this way at the end: as an offer of the whole self to a searching that is gentle, that wants more for you than you currently want for yourself. *Lead me*, not *vindicate me*. The poem lands open-handed. — One small thing to try, at the end of a day: sit for two minutes with the closing words of the psalm, and let them be your words. *Search me. Know my heart. Lead me.* Say them slowly, in that order; notice which of the three is hardest to mean.\f*
+
+---
+
+
+## Anmerkungen
+
+[^1]: **KULTUR** — *Of David*: The Hebrew superscription says only: *For the leader. Of David. A psalm.* — three notes that place the poem inside the Davidic collection of the Psalter's closing book (Psalms 138–145), the last group of "of David" prayers before the final Hallel. Most commentators no longer take *of David* as authorship in a modern sense; the poem's Aramaic-coloured vocabulary and its dense kinship with Job point to a much later compositional moment. The Greek Septuagint expanded the heading with *of Zechariah, in the dispersion* — a later inner-Greek inference from the long flight-poem of verses 7–12 — which Aperto does not import. What remains is the simplest signal: this psalm belongs to the *David* tradition of the personal prayer — the named, exposed first-person voice that the Psalter has been training across one hundred and thirty-eight chapters before it arrives here.
+[^2]: **UEBERSETZUNG** — *you have searched me and known me*: Two verbs open the psalm — *searched* and *known* — and the whole poem is built as a circle around them. Both return at the end, in verses 23–24, but now as imperatives: *Search me… know my heart.* The one who has been searched (without being asked, the first stanza will say) finally asks to be. That change of mood — from indicative to request — is the psalm's whole theological move; Aperto keeps the same English verb at both ends so the frame is audible even to a reader who does not know the Hebrew. The verb for *search* is the same one Jeremiah 17:10 uses for God as the one *who searches the heart*; the Greek New Testament will pick the phrase up as *kardiognōstēs*, knower of hearts (Acts 1:24). And a note on the name: the Hebrew here is *YHWH*, God's personal name, the four consonants that in Jewish practice are not spoken aloud. English Bibles have traditionally printed it as *the Lord* in small capitals; Aperto renders it *the Eternal* — in direct address, *Eternal* — so the name stays a name rather than a churchly title. The psalm is addressed to this specific name from its first word to its last — it is a prayer, not a treatise.
+[^3]: **TEXT** — *you hem me in*: The Hebrew verb at the centre of this line — *ṣartānî* — is deliberately double-edged. It can mean to enclose protectively, to lay siege against, or, in Robert Alter's reading, to shape, the way a potter shapes clay (the next line says God *has laid his palm* upon the psalmist — which can be benediction or the potter's working hand). The Welsh scholar David Firth has shown that the psalm's central effect depends on these double-edged verbs: the serene first eighteen verses read as comfort to the innocent and as exposure to the guilty, both at once. A translation that resolves the ambiguity toward warmth destroys the psalm's most sophisticated effect. *Hem in* is kept here because, like the Hebrew, it can be either: the safe enclosure of someone held by people who love them, or the closed-off feeling of having no exit. Read it as it lands on you.
+[^4]: **UNGLAUBLICH** — *Where could I go from your Spirit?*: This is the panopticon question, and the psalm knows it. *You know everywhere I go, every word before I say it* — a contemporary reader hears that, fairly, as surveillance. In 1791 the English philosopher Jeremy Bentham designed the panopticon — the prison built so a single watcher could see into every cell, and so every inmate knew they could be being watched — and wrote in his published letters that he had modelled it on divine omniscience. His epigraph for the work was a line from this psalm. The objection therefore is not modern: it was already there at the birth of modern surveillance, dressed in this psalm's vocabulary. Aperto does not soothe it. What the psalm offers, however, is not "you are watched" but "you are *known* — by someone who also wove you in your mother's body and asks, at the end, to lead you." Whether that lands as comfort or as violation depends, the commentator John Goldingay says, on who is doing the praying. The psalm leaves the question open and invites you to notice which reading you reach for first, and why. *Known*, not *watched*, is the distinction it asks you to test — and even if you cannot grant the God it addresses, the line still leaves you with an honest question: is there anywhere you are wholly yourself, with no audience and no mask?
+[^5]: **KULTUR** — *the wings of the dawn*: Among the most admired phrases in Hebrew poetry. The dawn is imagined here as a winged being racing across the sky from the eastern horizon to the west — to take its wings is to imagine hitching a ride at the speed of light to the farthest edge of the sea. Do not flatten the image into *the east* or *swiftly*. The point is the velocity and the beauty of the attempted flight: even at light-speed, even at the world's far edge, the psalmist cannot outrun what is already there.
+[^6]: **HARM** — *you wove me in my mother's womb*: These verses (13–16) have been, since the late 1970s, the premier biblical proof-text in the abortion politics of the English-speaking world — a status that began in American evangelical anti-abortion campaigning and spread on crisis-pregnancy-centre posters and counselling materials from there. The use of the passage in that argument is exegetically indefensible. The lines are *doxology* — wonder at being made — not embryology and not law. As the evangelical commentator John Goldingay puts it: "the psalm is a piece of poetry, not part of a law code, so it is not a knockdown proof text." It asks no question about when life legally or morally begins and answers none. Notice further what the proof-texting tradition reliably erases: the *mother*. The Hebrew is unambiguous — *bᵉbeṭen ʾimmî*, *in my mother's womb*. The biblical scholar Erin Runions has shown how the womb-verses have been made to confer *fetal rights* in a way that precisely disappears the pregnant woman whose body is the actual subject of the poem. Aperto translates the lines as doxology, keeps the mother explicit, and refuses to publish the verses as a freestanding "life" text. The psalmist is praising God for an embodied origin — held inside a woman's body, made by a hand that wove patiently in the dark — and saying so as praise, not as legislation. (A note on the vocabulary: *inmost being* renders the Hebrew *kilyōtay*, literally *my kidneys* — in ancient Hebrew the inner organs were the most hidden, secret part of a person, the self no one else can see. The three different verbs across verses 13–16 are deliberate: *created*, *wove*, *embroidered* — the same gestational craft-vocabulary, three different artisan's hands.)
+[^7]: **KULTUR** — *my unformed substance*: The Hebrew word here, *golem*, appears only once in the whole Bible. Its root sense is *unfinished*, *unformed*, *unworked* — the lump of clay before it is a vessel, the timber before it is a chair, the fabric before it is cut. From this single biblical occurrence the entire Jewish *golem* tradition grew: the Talmud (Sanhedrin 38b) tells of Adam created hour by hour, "in the second hour fashioned into a *golem*, an unformed mass"; the medieval mystics imagined the artificial being shaped from earth; the Maharal's Golem of Prague is the legend's most famous heir. The theological force of the word in this psalm is that God's eyes *saw and valued* the psalmist before they had any finished shape at all — a startling word to anyone whose body has ever been called incomplete, defective, or wrong. English versions that render *golem* as *embryo* overspecify and miss the point: the word is broader and older than any modern biological category. The verse continues with the image of a *scroll* — an ancient Near Eastern motif for the heavenly record on which destinies, deeds, or days are inscribed. It is *not* a metaphor for fate coldly fixed; it is the image of being *kept in mind*, attended to, held by name, before the days are lived. The Hebrew of the last colon is genuinely hard: literally, *the days that were formed, and not one of them was* — God's seeing precedes any finished shape, even the shape of the days themselves. Aperto keeps the line uncomfortable in English; it is meant to be.
+[^8]: **HARM** — *If only you would kill the wicked, O God*: Three things at once. *First*, the grammar. The Hebrew opens with *ʾim-tiqṭōl* — *if only you would kill* — an optative, a wish. The psalmist commands nothing, does nothing, asks no one else to do anything; the longing for justice is handed wholly over to God. The line that follows simply tells the *men of blood* to *go away*. There is no programme of violence here. *Second*, the speaker. The Old Testament scholar Erich Zenger called the imprecatory psalms — the psalms that pray for the death of enemies — "the speech of the threatened, a passionate clinging to God when everything really speaks against God." This is survivor speech, the protest of the powerless who refuses to enact the violence done to them. *Third*, what gets cut. The Revised Common Lectionary, the most widely used Sunday reading-cycle in mainline English-speaking Protestantism, prescribes Psalm 139 twice and in both prescriptions excises verses 19–22. The Catholic Liturgy of the Hours did the same in 1971 to the corresponding verses of Psalm 137. Cutting the rage rewrites the psalm into a self-esteem text; Aperto prints the whole thing. A note on register: Psalm 139's imprecation is real, but *qualitatively lighter* than the closing of Psalm 137 — which longed for the death of enemy children. Here, the psalmist asks God to act and curses no one's children; and the closing verses (23–24) reframe the wish as an offer — *search me too*. The hatred is named in full and then handed over. *A note on the name*: this verse uses the rare Hebrew word *ʾĕlôah* for God, not the usual *ʾĕl* or *YHWH*. *ʾĕlôah* is the divine name especially favoured in the book of Job — the book of the innocent sufferer — and its use here, at the precise moment of the imprecation, marks Psalm 139's deep kinship with Job. The speaker is calling on the *God of Job*: the one who listens to the cries of those who have done nothing to deserve what is happening to them.
+[^9]: **UEBERSETZUNG** — *complete hatred*: Older English versions, following the King James, rendered the Hebrew *taklît śinʾâ* as *perfect hatred* — and a great deal of harm has been done with that phrase. In modern English *perfect* implies *morally flawless*, *virtuous*; *perfect hatred* sounds like a hatred that is right to feel, even commendable. The Hebrew is making no such claim. *Taklît* means *completion*, *totality*, *the full extent of a thing* — it names how *much*, not how *good*. The hatred is *total*, *utter*, *without remainder*: real, named, not euphemised — and then handed over to God (see the note at verse 19). The translation choice matters because the older phrase has been quoted, in church and in argument, to license precisely the kind of righteous-feeling contempt for enemies that the optative grammar of verse 19 refuses.

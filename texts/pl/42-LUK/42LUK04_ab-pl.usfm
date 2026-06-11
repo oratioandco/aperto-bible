@@ -1,4 +1,4 @@
-\id LUK - Biblia Aperto (Polski) v4.3
+\id LUK - Biblia Aperto (Polski) v4.3.0 (2026-06-10)
 \usfm 3.0
 \ide UTF-8
 \h Łukasz
@@ -15,18 +15,18 @@
 \v 1 Jezus, pełen Ducha Świętego, wrócił znad Jordanu. Duch go prowadził — na pustynię.\add  Tam, gdzie Izrael został ukształtowany. Gdzie prorocy słyszą Boga.\add*
 \v 2 Czterdzieści dni kuszony przez diabła.\f + \fr 4,2 \fk KONTEXT \fq czterdzieści dni \ft Echo czterdziestu lat Izraela na pustyni (Lb 14,33-34), czterdziestu dni Mojżesza na Synaju (Wj 34,28) i czterdziestu dni drogi Eliasza do Boga (1 Krl 19,8). Jezus przechodzi próbę, której Izrael nie zdał.\f*\f + \fr 4,2 \fk UNGLAUBLICH \fq kuszony przez diabła \ft Osobowy diabeł prowadzący rozmowę z Jezusem budzi pytania współczesnych czytelników. Interpretacje: (1) Symboliczne — literacki sposób przedstawienia wewnętrznej walki z pokusą władzy i prestiżu; (2) Psychologiczne — intensywne doświadczenie duchowe w warunkach skrajnego postu i izolacji; (3) Realistyczne — starożytny świat zakładał istnienie duchowych bytów działających w historii. Tekst Łukasza opisuje kuszenie jako realną konfrontację — nie wewnętrzny monolog, ale dialog dwóch osób. Sam Jezus mówił o szatanie jako rzeczywistej postaci (Łk 10,18; 22,31).\f* Nic nie jadł. A potem — głód, który zjadał od środka.
 \v 3 Diabeł powiedział do niego:
-\p „Jesteś Synem Bożym? Powiedz temu kamieniowi, żeby stał się chlebem.“
+\p „Jesteś Synem Bożym? Powiedz temu kamieniowi, żeby stał się chlebem.”
 \p
 \v 4 Jezus odpowiedział:
-\p „Napisano: \w Nie samym chlebem żyje człowiek\w*.“\f + \fr 4,4 \fk TEXT \fq Nie samym chlebem \ft Pwt 8,3 — Boże słowo do Izraela na pustyni, gdzie ten zawiódł. Starsze rękopisy mają krótszy tekst; późniejsze dodają „ale każdym słowem Bożym“ — harmonizacja z Mt 4,4. Łukasz zachowuje krótszą formę.\f*
+\p „Napisano: \w Nie samym chlebem żyje człowiek\w*.”\f + \fr 4,4 \fk TEXT \fq Nie samym chlebem \ft Pwt 8,3 — Boże słowo do Izraela na pustyni, gdzie ten zawiódł. Starsze rękopisy mają krótszy tekst; późniejsze dodają „ale każdym słowem Bożym“ — harmonizacja z Mt 4,4. Łukasz zachowuje krótszą formę.\f*
 
 \p
 \v 5 Diabeł zabrał go wysoko. Pokazał wszystkie królestwa świata w ułamku sekundy.\add  Rzym. Partię. Każde imperium, o które ludzie walczą.\add*
-\v 6 „Dam ci władzę nad tym wszystkim“ — powiedział. „Cały ten blask. Bo mnie to przekazano. Mogę dać, komu chcę.
-\v 7 Oddaj mi pokłon — i wszystko będzie twoje.“
+\v 6 „Dam ci władzę nad tym wszystkim” — powiedział. „Cały ten blask. Bo mnie to przekazano. Mogę dać, komu chcę.
+\v 7 Oddaj mi pokłon — i wszystko będzie twoje.”
 \p
 \v 8 Jezus odpowiedział:
-\p „Napisano: \w Panu, swojemu Bogu, będziesz oddawał pokłon, i Jemu jednemu będziesz służył\w*.“\f + \fr 4,8 \fk KONTEXT \fq Panu będziesz oddawał pokłon \ft Pwt 6,13 — serce Szema: wyłączność Boga. Diabeł oferuje władzę polityczną za cenę jednego gestu czci. Jezus odpowiada: żadna władza nie jest warta kompromisu w sprawie lojalności wobec Boga.\f*
+\p „Napisano: \w Panu, swojemu Bogu, będziesz oddawał pokłon, i Jemu jednemu będziesz służył\w*.”\f + \fr 4,8 \fk KONTEXT \fq Panu będziesz oddawał pokłon \ft Pwt 6,13 — serce Szema: wyłączność Boga. Diabeł oferuje władzę polityczną za cenę jednego gestu czci. Jezus odpowiada: żadna władza nie jest warta kompromisu w sprawie lojalności wobec Boga.\f*
 
 \p
 \v 9 Diabeł zabrał go do Jerozolimy. Najwyższy punkt świątyni.\add  Zawrotna wysokość — dolina Cedron głęboko w dole. Miejsce, gdzie tradycja mówiła, że Mesjasz się pojawi.\add*
@@ -36,20 +36,20 @@
 \q2 \w żeby cię strzegli,\w*
 \q1
 \v 11 \w i na rękach cię poniosą,\w*
-\q2 \w żebyś nie zranił swojej stopy o kamień.\w*“\f + \fr 4,10-11 \fk TEXT \fq aniołom przykaże \ft Ps 91,11-12. Diabeł cytuje Pismo jako broń — najtrudniejsza odmiana kuszenia, bo przybiera świętą postać. Pomija kluczowy fragment psalmu: „na wszystkich drogach twoich“ — obietnica dotyczy posłusznego chodzenia, nie spektakularnych skoków.\f*
+\q2 \w żebyś nie zranił swojej stopy o kamień.\w*”\f + \fr 4,10-11 \fk TEXT \fq aniołom przykaże \ft Ps 91,11-12. Diabeł cytuje Pismo jako broń — najtrudniejsza odmiana kuszenia, bo przybiera świętą postać. Pomija kluczowy fragment psalmu: „na wszystkich drogach twoich“ — obietnica dotyczy posłusznego chodzenia, nie spektakularnych skoków.\f*
 \p
 \v 12 Jezus odpowiedział:
-\p „Powiedziano: \w Nie będziesz wystawiał Pana, swojego Boga, na próbę\w*.“\f + \fr 4,12 \fk KONTEXT \fq Nie będziesz wystawiał \ft Pwt 6,16 — wspomnienie Izraela, który wystawiał Boga na próbę w Massa (Wj 17,7). Trzy odpowiedzi Jezusa pochodzą z Pwt 6-8 — dokładnie tych rozdziałów, w których Mojżesz podsumowuje klęski Izraela na pustyni. Jezus zdaje egzamin, którego Izrael nie zdał.\f*
+\p „Powiedziano: \w Nie będziesz wystawiał Pana, swojego Boga, na próbę\w*.”\f + \fr 4,12 \fk KONTEXT \fq Nie będziesz wystawiał \ft Pwt 6,16 — wspomnienie Izraela, który wystawiał Boga na próbę w Massa (Wj 17,7). Trzy odpowiedzi Jezusa pochodzą z Pwt 6-8 — dokładnie tych rozdziałów, w których Mojżesz podsumowuje klęski Izraela na pustyni. Jezus zdaje egzamin, którego Izrael nie zdał.\f*
 \p
-\v 13 Diabeł skończył wszystkie kuszenia. Odszedł. Na razie.\f + \fr 4,13 \fk KONTEXT \fq na razie \ft Greckie ἄχρι καιροῦ — „aż do stosownego czasu“. Łukasz zapowiada powrót: Łk 22,3 (szatan wchodzi w Judasza) i 22,53 („to wasza godzina i władza ciemności“). Walka nie była skończona.\f*\f + \fr 4,1-13 \fk LEBEN \fq kuszenie \ft Trzy pokusy Jezusa trafiają w trzy uniwersalne słabości: natychmiastowe zaspokojenie (chleb), kontrola nad innymi (władza), spektakularne potwierdzenie siebie (podziw). Tradycja monastyczna (Jan Kasjan, V w.) rozwinęła na tej podstawie klasyfikację pokus, którą współczesna psychologia potwierdza badaniami nad impulsywnością i uzależnieniami behawioralnymi. Kluczem w tekście jest odpowiedź: nie siła woli, ale zakorzenienie w czymś większym niż pokusa.\f*
+\v 13 Diabeł skończył wszystkie kuszenia. Odszedł. Na razie.\f + \fr 4,13 \fk KONTEXT \fq na razie \ft Greckie \fq ἄχρι καιροῦ\fq* — „aż do stosownego czasu“. Łukasz zapowiada powrót: Łk 22,3 (szatan wchodzi w Judasza) i 22,53 („to wasza godzina i władza ciemności“). Walka nie była skończona.\f*\f + \fr 4,1-13 \fk LEBEN \fq kuszenie \ft Trzy pokusy Jezusa trafiają w trzy strukturalne słabości człowieka, nie tylko w pojedyncze grzechy: natychmiastowe zaspokojenie (kamień w chleb), kontrolę nad innymi (wszystkie królestwa świata), spektakularne potwierdzenie siebie (skok ze szczytu świątyni). Nie są to przypadkowe pokusy — to mapa głównych dróg, którymi ucieka się od rzeczywistości własnego życia. Tekst nie pokazuje Jezusa jako kogoś, kto pokusy nie czuje. Pokazuje kogoś, kto wie, skąd ona przychodzi. — Pytanie, z którym można usiąść bez teologicznego wstępu: która z trzech twoja? Chleb (kup, zjedz, włącz, sprawdź telefon — natychmiast) — władza (skup się na tym, kogo kontrolujesz, nie na tym, kim jesteś) — spektakl (sprawdź, ile ktoś polubił, kogo zaimponowałeś, kto cię zauważył). U większości ludzi jest jedna dominująca; pozostałe dwie usługują tej pierwszej. Sam akt nazwania — bez wstydu, bez analizy — jest pierwszym ruchem tekstu. — Dla wierzących: tradycja monastyczna (Jan Kasjan, V w.) na podstawie tego tekstu rozwinęła klasyfikację ośmiu \it logismoi\it* — ośmiu strukturalnych pokus — z której zachodnia tradycja siedmiu grzechów głównych wzięła swoją formę. Praktyka monastyczna nie polegała na zwalczaniu pokus siłą woli — to nie działa. Polegała na rozpoznaniu wzorca, nazwaniu go, oddaniu w modlitwie. Ignacjański *examen* działa identycznie: wieczorem zauważyć, gdzie dziś \it kamień stawał się chlebem\it* w mojej głowie. Współczesna psychologia uzależnień behawioralnych (gry, media społecznościowe, kompulsywne zakupy) potwierdza tę intuicję — bez nazwania nie ma wyjścia. — Tekst ma też wymiar polityczny, który łatwo pominąć. Druga pokusa — „wszystkie królestwa świata, jeśli mi się pokłonisz“ — to dokładny opis tego, jak działa władza w każdym pokoleniu. Reżimy autorytarne XX wieku, korporacyjne kompromisy XXI — wszystkie zaczynają się od pokusy „złóż jeden mały pokłon, dostaniesz coś dużego“. Tekst pokazuje, że ta pokusa nie jest abstrakcyjna; jest najczęstszą formą zła politycznego. — Relacyjnie, każda z trzech pokus zatruwa konkretne więzi: chleb (nigdy nie wystarczająco obecny, bo zawsze gdzieś sięgam), władza (ludzie wokół ciebie zaczynają być figurami), spektakl (każda rozmowa staje się audytorium). — Ten tydzień: nazwij którą z trzech najbardziej dziś czujesz. Bez dodawania, co z tym zrobić. Samo nazwanie wystarczy.\f*
 
 \s1 Odrzucenie w Nazarecie
 
 \p
 \v 14 Jezus wrócił do Galilei w mocy Ducha. Wieść o nim się rozeszła po całej okolicy.
-\v 15 Uczył w synagogach. Wszyscy go chwalili.\f + \fr 4,14-15 \fk APOLOGETICS \fq uczył w synagogach \ft Łukasz umieszcza działalność Jezusa w weryfikowalnym kontekście: synagogi galilejskie I wieku, publiczne nauczanie, powszechna sława. Archeologia potwierdza istnienie synagog w Galilei z tego okresu (np. Magdala, odkryta 2009). Łukasz jako historyk (zob. Łk 1,1-4) osadza swoją narrację w konkretnej rzeczywistości — nie w mitycznej przestrzeni.\f*
+\v 15 Uczył w synagogach. Wszyscy go chwalili.\f + \fr 4,14-15 \fk KULTUR \fq uczył w synagogach \ft Łukasz umieszcza działalność Jezusa w weryfikowalnym kontekście: synagogi galilejskie I wieku, publiczne nauczanie, powszechna sława. Archeologia potwierdza istnienie synagog w Galilei z tego okresu (np. Magdala, odkryta 2009). Łukasz jako historyk (zob. Łk 1,1-4) osadza swoją narrację w konkretnej rzeczywistości — nie w mitycznej przestrzeni.\f*
 \v 16 Przyszedł do Nazaretu — tam, gdzie się wychował.\add  Synagoga. Wszyscy się tu znali.\add* Wstał, żeby czytać — jak zawsze w szabat.
-\v 17 Podano mu zwój proroka Izajasza. Rozwinął. Znalazł miejsce\f + \fr 4,17 \fk TEXT \fq znalazł miejsce \ft Greckie εὗρεν τὸν τόπον oznacza celowe szukanie — nie przypadkowy wybór. Jezus wie, co chce przeczytać.\f* i czytał:
+\v 17 Podano mu zwój proroka Izajasza. Rozwinął. Znalazł miejsce\f + \fr 4,17 \fk TEXT \fq znalazł miejsce \ft Greckie \fq εὗρεν τὸν τόπον\fq* oznacza celowe szukanie — nie przypadkowy wybór. Jezus wie, co chce przeczytać.\f* i czytał:
 
 \q1
 \v 18 \w Duch Pana nade mną,\w*
@@ -60,26 +60,26 @@
 \q2 \w niewidomym przejrzenie,\w*
 \q1 \w uciśnionych posłać na wolność,\w*
 \v 19 \q1 \w ogłosić rok łaski Pańskiej\w* —
-\q2 \add Jubileusz: długi anulowane, niewolnicy wyzwoleni.\add*\f + \fr 4,18-19 \fk TEXT \fq ubogim... uwolnienie... rok łaski \ft Łukasz cytuje kompozycję Iz 61,1-2a i 58,6 — nie dosłownie, ale jako celową kompilację. Greckie πτωχοῖς oznacza ludzi zgnębionych, żebrzących — nie „biednych duchem“. Ἄφεσις to termin Jubileuszu: uwolnienie z więzienia i z długów (Kpł 25). Jezus celowo pomija kontynuację Izajasza: „dzień pomsty naszego Boga“ (Iz 61,2b). Łaska — bez zemsty.\f*\f + \fr 4,18-19 \fk KULTUR \fq rok łaski Pańskiej \ft Jubileusz (Kpł 25) to instytucja społeczna starożytnego Izraela: co czterdzieści dziewięć lat anulowano długi, wyzwalano niewolników za długi, zwracano ziemię pierwotnym właścicielom. Nie wiemy, czy kiedykolwiek w pełni przestrzegano tego prawa. Ale prorocy — zwłaszcza Izajasz — uczynili z niego obraz przyszłego Bożego działania: świat przywrócony do sprawiedliwości. Gdy Jezus ogłasza „rok łaski“, słuchacze słyszą: Bóg naprawia świat. Teraz.\f*
+\q2 \add Jubileusz: długi anulowane, niewolnicy wyzwoleni.\add*\f + \fr 4,18-19 \fk TEXT \fq ubogim... uwolnienie... rok łaski \ft Łukasz cytuje kompozycję Iz 61,1-2a i 58,6 — nie dosłownie, ale jako celową kompilację. Greckie \fq πτωχοῖς\fq* oznacza ludzi zgnębionych, żebrzących — nie „biednych duchem“. \fq Ἄφεσις\fq* to termin Jubileuszu: uwolnienie z więzienia i z długów (Kpł 25). Jezus celowo pomija kontynuację Izajasza: „dzień pomsty naszego Boga“ (Iz 61,2b). Łaska — bez zemsty.\f*\f + \fr 4,18-19 \fk KULTUR \fq rok łaski Pańskiej \ft Jubileusz (Kpł 25) to instytucja społeczna starożytnego Izraela: co czterdzieści dziewięć lat anulowano długi, wyzwalano niewolników za długi, zwracano ziemię pierwotnym właścicielom. Nie wiemy, czy kiedykolwiek w pełni przestrzegano tego prawa. Ale prorocy — zwłaszcza Izajasz — uczynili z niego obraz przyszłego Bożego działania: świat przywrócony do sprawiedliwości. Gdy Jezus ogłasza „rok łaski“, słuchacze słyszą: Bóg naprawia świat. Teraz.\f*
 
 \p
 \v 20 Zwinął zwój. Oddał służącemu. Usiadł.
 \p
 Wszyscy wpatrzeni w niego. Napięcie.
-\v 21 „Dzisiaj“ — powiedział. „Nie kiedyś. Teraz. To Pismo się wypełniło. W waszych uszach.“\f + \fr 4,21 \fk TEXT \fq Dzisiaj \ft Łukańskie σήμερον (dzisiaj) to termin teologiczny pojawiający się w kluczowych momentach: 2,11 (narodziny); 5,26 (uzdrowienie); 19,9 (Zacheusz); 23,43 (krzyż). Dla Łukasza zbawienie nie jest obietnicą przyszłości — dzieje się teraz.\f*
+\v 21 „Dzisiaj” — powiedział. „Nie kiedyś. Teraz. To Pismo się wypełniło. W waszych uszach.”\f + \fr 4,21 \fk TEXT \fq Dzisiaj \ft Łukańskie \fq σήμερον\fq* (dzisiaj) to termin teologiczny pojawiający się w kluczowych momentach: 2,11 (narodziny); 5,26 (uzdrowienie); 19,9 (Zacheusz); 23,43 (krzyż). Dla Łukasza zbawienie nie jest obietnicą przyszłości — dzieje się teraz.\f*
 \p
 \v 22 Wszyscy o nim mówili. Dziwili się. Słowa pełne łaski — to mówili.\add  Ale zaraz pojawiło się pytanie:\add*
-\p „Czy to nie syn Józefa? Znamy go przecież.“
+\p „Czy to nie syn Józefa? Znamy go przecież.”
 \p
 \v 23 Jezus powiedział:
 \p „Na pewno powiecie mi: ›Lekarzu, ulecz samego siebie‹. Słyszeliście, co było w Kafarnaum. Zrób to tutaj, w swojej ojczyźnie.
 \p
-\v 24 Ale mówię wam prawdę: Żaden prorok nie jest przyjęty w swojej ojczyźnie.\f + \fr 4,24 \fk TEXT \fq przyjęty \ft Greckie δεκτός — to samo słowo co w w. 19 przy „roku łaski“ (ἐνιαυτὸν δεκτόν). Ironia: Jubileusz jest przyjęty; prorok — nie.\f*\f + \fr 4,22-28 \fk KULTUR \fq syn Józefa \ft W kulturze honoru-wstydu I wieku znajomość czyjejś rodziny wyznaczała granice oczekiwań. „Znamy go“ = „wiemy, na co go stać — i na co nie“. Roszczenie do prorockiej autorytetu ze strony miejscowego cieśli naruszało ustaloną hierarchię społeczną. Reakcja tłumu — od zachwytu do próby zabójstwa w kilku wersetach — to typowa dynamika grupy egzekwującej normy honoru: kto próbuje wznieść się ponad swoje miejsce, musi zostać przywrócony na siłę.\f*
+\v 24 Ale mówię wam prawdę: Żaden prorok nie jest przyjęty w swojej ojczyźnie.\f + \fr 4,24 \fk TEXT \fq przyjęty \ft Greckie \fq δεκτός\fq* — to samo słowo co w w. 19 przy „roku łaski“ (\fq ἐνιαυτὸν δεκτόν\fq*). Ironia: Jubileusz jest przyjęty; prorok — nie.\f*\f + \fr 4,22-28 \fk KULTUR \fq syn Józefa \ft W kulturze honoru-wstydu I wieku znajomość czyjejś rodziny wyznaczała granice oczekiwań. „Znamy go“ = „wiemy, na co go stać — i na co nie“. Roszczenie do prorockiej autorytetu ze strony miejscowego cieśli naruszało ustaloną hierarchię społeczną. Reakcja tłumu — od zachwytu do próby zabójstwa w kilku wersetach — to typowa dynamika grupy egzekwującej normy honoru: kto próbuje wznieść się ponad swoje miejsce, musi zostać przywrócony na siłę.\f*
 
 \p
 \v 25 Bo mówię wam prawdę: Za czasów Eliasza było wiele wdów w Izraelu, gdy niebo było zamknięte przez trzy lata i sześć miesięcy\add  — wielki głód na całej ziemi.\add*
 \v 26 Ale Eliasz nie został posłany do żadnej z nich — tylko do wdowy w Sarepcie Sydońskiej\add , do cudzoziemki\add*.\f + \fr 4,25-26 \fk KONTEXT \fq wdowa w Sarepcie \ft 1 Krl 17,1-16. Sarepta leży na terytorium fenickiego Sydonu — ziemia pogan. Gdy Izrael odrzucał proroków, Bóg kierował ich do obcych.\f*
-\v 27 I za proroka Elizeusza było wielu trędowatych w Izraelu. Żaden z nich nie został oczyszczony — tylko Naaman Syryjczyk.“\f + \fr 4,27 \fk KONTEXT \fq Naaman Syryjczyk \ft 2 Krl 5,1-14. Naaman był syryjskim dowódcą wojska — wrogiem Izraela. To, co Jezus mówi, jest prowokacją: gdy insiderzy odrzucają Boże działanie, outsiderzy je otrzymują. To zapowiedź głównego tematu Dziejów Apostolskich: Ewangelia do pogan.\f*
+\v 27 I za proroka Elizeusza było wielu trędowatych w Izraelu. Żaden z nich nie został oczyszczony — tylko Naaman Syryjczyk.”\f + \fr 4,27 \fk KONTEXT \fq Naaman Syryjczyk \ft 2 Krl 5,1-14. Naaman był syryjskim dowódcą wojska — wrogiem Izraela. To, co Jezus mówi, jest prowokacją: gdy insiderzy odrzucają Boże działanie, outsiderzy je otrzymują. To zapowiedź głównego tematu Dziejów Apostolskich: Ewangelia do pogan.\f*
 
 \p
 \v 28 Wszyscy w synagodze — nagle przepełnieni furią\add  gdy to słyszeli\add*.
@@ -91,28 +91,28 @@ Wszyscy wpatrzeni w niego. Napięcie.
 \p
 \v 31 Zszedł do Kafarnaum — miasta w Galilei. Uczył tam w szabat.
 \v 32 Byli wstrząśnięci jego słowami — mówił z władzą.\add  Nie jak ktoś, kto cytuje i komentuje — jego słowa stały za siebie.\add*
-\v 33 W synagodze był człowiek — miał ducha nieczystego.\add  Skalającego. Wykluczającego.\add*\f + \fr 4,33 \fk KULTUR \fq duch nieczysty \ft Greckie πνεῦμα δαιμονίου ἀκαθάρτου — „duch nieczystego demona“. „Nieczystość“ to kategoria rytualna: kontakt z takim człowiekiem skalał, wykluczał ze wspólnoty i kultu. Demon w synagodze to więcej niż choroba — to inwazja nieczystości w przestrzeń świętą.\f*\f + \fr 4,31-37 \fk UNGLAUBLICH \fq duch nieczysty \ft Egzorcyzm w synagodze: Jezus rozkazuje duchowi nieczystemu, a ten posłusznie wychodzi. Interpretacje: (1) Racjonalistyczna — przednaukowy opis zaburzeń psychicznych; demon jako metafora dla tego, co niszczy człowieka; (2) Symboliczna — siła zła ustępuje wobec dobra; (3) Realistyczna — starożytny świat (żydowski, grecki, rzymski) zakładał realność sił duchowych. Sam tekst jest jednoznaczny: demon mówi, rozpoznaje Jezusa, rzuca ofiarą i odchodzi na rozkaz. Co wyróżnia Jezusa od ówczesnych egzorcystów: brak rytuału, zaklęć, smrodliwych korzeni — jedno słowo wystarczy.\f* Nagle — wrzask:
+\v 33 W synagodze był człowiek — miał ducha nieczystego.\add  Skalającego. Wykluczającego.\add*\f + \fr 4,33 \fk KULTUR \fq duch nieczysty \ft Greckie \fq πνεῦμα δαιμονίου ἀκαθάρτου\fq* — „duch nieczystego demona“. „Nieczystość“ to kategoria rytualna: kontakt z takim człowiekiem skalał, wykluczał ze wspólnoty i kultu. Demon w synagodze to więcej niż choroba — to inwazja nieczystości w przestrzeń świętą.\f*\f + \fr 4,31-37 \fk UNGLAUBLICH \fq duch nieczysty \ft Egzorcyzm w synagodze: Jezus rozkazuje duchowi nieczystemu, a ten posłusznie wychodzi. Interpretacje: (1) Racjonalistyczna — przednaukowy opis zaburzeń psychicznych; demon jako metafora dla tego, co niszczy człowieka; (2) Symboliczna — siła zła ustępuje wobec dobra; (3) Realistyczna — starożytny świat (żydowski, grecki, rzymski) zakładał realność sił duchowych. Sam tekst jest jednoznaczny: demon mówi, rozpoznaje Jezusa, rzuca ofiarą i odchodzi na rozkaz. Co wyróżnia Jezusa od ówczesnych egzorcystów: brak rytuału, zaklęć, smrodliwych korzeni — jedno słowo wystarczy.\f* Nagle — wrzask:
 \p
-\v 34 „Zostaw nas! Co chcesz od nas, Jezusie Nazarejczyku? Przyszedłeś nas zniszczyć? Wiem, kim jesteś! Święty Boży!“
+\v 34 „Zostaw nas! Co chcesz od nas, Jezusie Nazarejczyku? Przyszedłeś nas zniszczyć? Wiem, kim jesteś! Święty Boży!”
 \p
-\v 35 Jezus powiedział: „Umilknij. Wyjdź.“
+\v 35 Jezus powiedział: „Umilknij. Wyjdź.”
 \p
 Demon cisnął człowiekiem na środek. Ale wyszedł — bez szkody.
 \v 36 Przerażenie wszystkich.
-\p „Co to za słowo?“ — pytali między sobą. „Z władzą i mocą rozkazuje nieczystym duchom. I wychodzą!“
+\p „Co to za słowo?” — pytali między sobą. „Z władzą i mocą rozkazuje nieczystym duchom. I wychodzą!”
 \p
-\v 37 Wieść o nim się rozeszła wszędzie w okolicy.\f + \fr 4,36 \fk TEXT \fq Z władzą i mocą \ft Greckie ἐν ἐξουσίᾳ καὶ δυνάμει — „z autorytetem i mocą“. Dwa terminy razem: ἐξουσία to prawo do rozkazywania, δύναμις to skuteczność rozkazu. Jezus nie tylko ma prawo — jego słowo działa.\f*
+\v 37 Wieść o nim się rozeszła wszędzie w okolicy.\f + \fr 4,36 \fk TEXT \fq Z władzą i mocą \ft Greckie \fq ἐν ἐξουσίᾳ καὶ δυνάμει\fq* — „z autorytetem i mocą“. Dwa terminy razem: \fq ἐξουσία\fq* to prawo do rozkazywania, \fq δύναμις\fq* to skuteczność rozkazu. Jezus nie tylko ma prawo — jego słowo działa.\f*
 
 \s1 Uzdrowienie teściowej Szymona
 
 \p
 \v 38 Wyszedł z synagogi. Wszedł do domu Szymona. Teściowa Szymona leżała z gorączką. Wysoka. Prosili Go o nią.
-\v 39 Pochylił się nad nią. Zgromił gorączkę.\f + \fr 4,39 \fk TEXT \fq zgromił gorączkę \ft Ten sam czasownik (ἐπιτιμάω) co przy demonie w w. 35. Łukasz celowo zrównuje chorobę z siłą wrogą — Jezus ma tę samą władzę nad obiema.\f* Natychmiast ustąpiła.
+\v 39 Pochylił się nad nią. Zgromił gorączkę.\f + \fr 4,39 \fk TEXT \fq zgromił gorączkę \ft Ten sam czasownik (\fq ἐπιτιμάω\fq*) co przy demonie w w. 35. Łukasz celowo zrównuje chorobę z siłą wrogą — Jezus ma tę samą władzę nad obiema.\f* Natychmiast ustąpiła.
 \p
 Wstała. Zaraz zaczęła im usługiwać.
 \p
 \v 40 Gdy słońce zachodziło\add  — szabat dobiegał końca —\add* wszyscy przynosili do niego chorych na różne choroby. On kładł ręce na każdego z osobna. I uzdrawiał.\f + \fr 4,40 \fk KULTUR \fq gdy słońce zachodziło \ft Zachód słońca kończył szabat, w czasie którego nie wolno było nosić ciężarów ani podróżować. Dopiero po zachodzie ludzie mogli nieść chorych do Jezusa. Łukasz zaznacza: „na każdego z osobna“ — nie masowe uzdrawianie, lecz indywidualna uwaga dla każdej osoby.\f*
-\v 41 Demony wychodziły z wielu, krzycząc: „Ty jesteś Syn Boży!“
+\v 41 Demony wychodziły z wielu, krzycząc: „Ty jesteś Syn Boży!”
 \p
 \add Ale On ich nie zostawił przy głosie.\add* Zgromił je. Nie pozwalał im mówić.\add  Wiedziały, kim jest.\add*
 
@@ -121,6 +121,6 @@ Wstała. Zaraz zaczęła im usługiwać.
 \p
 \v 42 Gdy zrobiło się widno, wyszedł i udał się na pustkowia.\add  Znowu sam.\add* Tłumy szukały go. Znalazły. Próbowały zatrzymać — żeby nie odchodził od nich.
 \v 43 Ale On powiedział:
-\p „Muszę głosić dobrą nowinę o królestwie Bożym także innym miastom. Po to bowiem zostałem posłany.“\f + \fr 4,43 \fk TEXT \fq Muszę \ft Greckie δεῖ — termin Łukaszowej teologii konieczności: to, co musi się stać, bo Bóg tak zaplanował. Pojawia się w kluczowych momentach: 2,49 (chłopiec w świątyni); 9,22 (zapowiedź męki); 24,7.26.44 (po zmartwychwstaniu). Misja Jezusa nie jest opcjonalna — wynika z Bożego planu.\f*\f + \fr 4,43 \fk LEBEN \fq królestwo Boże \ft Pierwsze użycie tego terminu w Ewangelii Łukasza. „Królestwo Boże“ (βασιλεία τοῦ θεοῦ) nie oznacza terytorium, lecz rzeczywistość, w której Bóg panuje. Jezus ogłasza: ta rzeczywistość nadeszła. Nie gdzieś daleko, nie kiedyś w przyszłości — tu i teraz, wszędzie tam, gdzie ludzie żyją pod Bożym panowaniem. Tradycja monastyczna (benedyktyni, franciszkanie) próbowała tworzyć wspólnoty będące przedsmakiem tego królestwa. Współcześnie: każda sytuacja, w której sprawiedliwość i miłosierdzie biorą górę nad siłą i wyzyskiem.\f*
+\p „Muszę głosić dobrą nowinę o królestwie Bożym także innym miastom. Po to bowiem zostałem posłany.”\f + \fr 4,43 \fk TEXT \fq Muszę \ft Greckie \fq δεῖ\fq* — termin Łukaszowej teologii konieczności: to, co musi się stać, bo Bóg tak zaplanował. Pojawia się w kluczowych momentach: 2,49 (chłopiec w świątyni); 9,22 (zapowiedź męki); 24,7.26.44 (po zmartwychwstaniu). Misja Jezusa nie jest opcjonalna — wynika z Bożego planu.\f*\f + \fr 4,43 \fk LEBEN \fq królestwo Boże \ft Pierwsze użycie tego terminu w Ewangelii Łukasza. „Królestwo Boże" (basileia tou theou) nie oznacza terytorium, lecz rzeczywistość, w której Bóg panuje. Jezus ogłasza: ta rzeczywistość już nadeszła. Nie gdzieś daleko, nie kiedyś w przyszłości – tu i teraz, wszędzie tam, gdzie ludzie żyją pod Bożym panowaniem. – Pytanie, które działa bez teologicznego wstępu: jak wygląda twoje życie, gdyby na chwilę uznać, że nie ty siedzisz na tronie? Większość codziennych decyzji – co dziś jeść, co publikować, na co reagować, kogo zignorować – funkcjonuje na założeniu, że jesteś własnym suwerenem. Wers Łukasza zaprasza do innego eksperymentu: jak by wyglądała godzina, dzień, tydzień, w którym próbowałbyś żyć, jakby ktoś inny miał głos decydujący w twoich małych sprawach? – Dla wierzących wers otwiera tradycję, którą Kościół buduje od początku. Tradycja monastyczna – benedyktyńska reguła z jej Ora et labora, franciszkańska Conversio, ignacjańskie Ćwiczenia z ich modlitwą Suscipe – próbowały tworzyć wspólnoty będące przedsmakiem Królestwa. Nie utopię, lecz miejsce, w którym sprawiedliwość, pokój i miłosierdzie są codzienną walutą, a nie ideałem na ścianie. Polski katolicyzm, w tradycji prymasa Wyszyńskiego i Solidarności, znał tę intuicję bardzo konkretnie: tam, gdzie ludzie wspólnie przeciwstawiają się aroganckiemu systemowi, Królestwo nie jest tylko metaforą. – Wokacyjnie wers stawia pytanie strukturalne: czyja władza działa w mojej pracy? Każda firma, każda klasa, każdy parafialny komitet ma jakąś wewnętrzną politykę. Jezus nie unieważnia tej polityki – ale pyta, czyje wartości tam panują. – Wspólnotowo: wspólnota, która rozpoznaje Królestwo, staje się znakiem dla świata, który Królestwa nie zna. – W tym tygodniu: zauważ jeden moment, w którym Boże panowanie wyglądało konkretnie – w czyjejś hojności, czyimś przebaczeniu, czyjejś odwadze nazwać prawdę.\f*
 \p
 \v 44 I głosił w synagogach po całej Judei.\f + \fr 4,44 \fk TEXT \fq Judei \ft Część rękopisów ma tu „Galilei“ zamiast „Judei“ — harmonizacja z kontekstem. NA28 czyta „Judei“. Łukasz używa „Judei“ w szerszym sensie: całego żydowskiego kraju, nie tylko prowincji Judei na południu.\f*

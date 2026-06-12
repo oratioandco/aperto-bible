@@ -25,7 +25,7 @@
 **6** beide rechtschaffen vor Gott, ohne dass jemand ihnen etwas hätte vorwerfen können.[^5]
 **7** Und doch hatten sie kein Kind. Elisabet war kinderlos geblieben.[^6] *Kinderlosigkeit – das war in ihrer Welt kein privates Unglück. Es war Schande.* Und nun waren sie beide schon alt.
 
-**8** Als die Reihe an seiner Gruppe war, versah Zacharias seinen Dienst vor Gott im Tempel.
+**8** Als seine Priesterabteilung an die Reihe kam, trat Zacharias zum Dienst vor Gott in den Tempel.
 **9** Nach der Sitte des Priesteramts fiel das Los auf ihn: Er sollte das Räucheropfer darbringen.[^7] *Der Augenblick, auf den ein Priester sein ganzes Leben warten konnte. Mancher erlebte ihn nie.*
 **10** Das Volk hatte sich draußen versammelt und betete, während das Räucheropfer dargebracht wurde. *Drinnen: still. Der Leuchter, der Vorhang, der Geruch von Weihrauch. Er war allein.*
 
@@ -36,7 +36,7 @@
 **14** Er wird dir Freude und Jubel bringen, und viele werden sich über seine Geburt freuen,
 **15** denn er wird groß sein vor dem Herrn. Wein und alles, was berauscht, wird er nicht anrühren,[^11] und schon vor seiner Geburt wird ihn der Heilige Geist erfüllen.
 **16** Viele Menschen in Israel wird er zurückführen zu dem Herrn, ihrem Gott.
-**17** Er wird vor ihm hergehen mit dem Geist und der Wucht eines Elija,[^12] um die Herzen der Väter den Söhnen zuzuwenden und die Ungehorsamen zur Einsicht der Gerechten zu führen – um dem Herrn ein Volk bereit zu machen, das auf ihn wartet."
+**17** Er wird vor ihm hergehen mit dem Geist und der Wucht eines Elija,[^12] um die Herzen der Väter den Kindern zuzuwenden und die Ungehorsamen zur Einsicht der Gerechten zu führen – um dem Herrn ein Volk bereit zu machen, das auf ihn wartet."
 
 **18** Zacharias fragte den Engel: „Woran soll ich erkennen, dass das so kommt? Ich bin alt, und meine Frau ist es auch."
 
@@ -80,7 +80,7 @@
 **41** Als Elisabet den Gruß Marias hörte, hüpfte das Kind in ihrem Leib auf.[^27] Und Elisabet wurde erfüllt vom Heiligen Geist –[^28]
 
 **42** da brach es aus ihr heraus, mit lauter Stimme,[^29] *wie eine Prophetin:*
-„Du bist gesegnet, mehr als alle Frauen — und gesegnet das Kind, das du trägst.
+„Was für ein Glück liegt auf dir — und auf dem Kind, das du trägst.
 **43** Wer bin ich, dass die Mutter meines Herrn zu mir kommt?[^30]
 **44** Denn als der Klang deines Grußes in mein Ohr drang, hüpfte das Kind in meinem Leib auf vor Freude.
 **45** Glücklich, die geglaubt hat, dass sich erfüllen wird, was ihr vom Herrn gesagt worden ist."[^31]
@@ -101,7 +101,7 @@
 > Für alle, die ihn fürchten.
 
 **51** Er zeigt seine Stärke, mit seinem Arm.[^37]
-> Die Stolzen? Er jagt sie auseinander, in all ihren Plänen.
+> Die Stolzen? Er zerstreut sie samt all ihren Plänen.
 **52** Herrscher stürzt er vom Thron.
 > Die Kleinen hebt er hoch.
 **53** Die Hungrigen füllt er — mit allem.
@@ -127,7 +127,7 @@
 
 **64** Und sogleich öffnete sich sein Mund, er konnte wieder sprechen, *nach neun Monaten Schweigen*, und er redete: er pries Gott.[^40]
 **65** Die Nachbarn ringsum packte die Angst. Im ganzen Bergland von Judäa wurde von diesen Dingen geredet.
-**66** Und alle, die davon hörten, nahmen es zu Herzen und fragten sich: „Was wird wohl aus diesem Kind werden?" Denn Gott war sichtbar mit ihm.[^41]
+**66** Und alle, die davon hörten, behielten es im Herzen und fragten sich: „Was wird wohl aus diesem Kind werden?" Denn Gott war sichtbar mit ihm.[^41]
 
 ### Das Lied des Zacharias
 
@@ -147,7 +147,7 @@
 > er denkt an seinen heiligen Bund,
 > \v 73 an den Eid, den er Abraham geschworen hat, unserem Vater,\f + \fr 1:73 \fk KONTEXT \fq des Eides, den er Abraham geschworen hat \ft Gen 22:16–18 — Gottes Schwur an Abraham nach der Bindung Isaaks: „Bei mir selbst habe ich geschworen, spricht der Herr." Die einzige Stelle der hebräischen Bibel, an der Gott bei sich selbst schwört. Zacharias spannt von dort einen Bogen über Generationen: Abraham — die Propheten — der Bund — das Kind in seinem Arm. In seinem Sohn, sagt er, kommt diese alte Schwurzusage zum Ziel.\f*
 > \v 74 und schenkt uns dies:
-> aus der Hand der Feinde befreit,
+> aus der Gewalt der Feinde befreit,
 > ihm ohne Furcht zu dienen,
 > \v 75 aufrichtig und gerecht vor ihm,
 > alle unsere Tage.

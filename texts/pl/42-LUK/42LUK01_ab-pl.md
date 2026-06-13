@@ -26,7 +26,7 @@
 
 **8** Pewnego razu, gdy w kolejności przypadła jego zmiana, Zachariasz pełnił służbę kapłańską przed Bogiem.
 **9** Według zwyczaju kapłańskiego wyciągnięto losy – i jemu wypadło wejść do przybytku Pana i złożyć ofiarę z kadzidła.[^9] *Moment, na który kapłan czeka całe życie. Wielu nie doczekuje nigdy.*
-**10** Wszyscy modlili się na zewnątrz, w godzinie kadzielnej. *Wewnątrz – sam Zachariasz. Złoty ołtarz przed nim, dym kadzidła unosił się powoli, siedmioramienny świecznik kładł migotliwe światło na zasłonę. Cisza.*
+**10** Wszyscy modlili się na zewnątrz, w godzinie kadzielnej. *Wewnątrz – sam Zachariasz. Złoty ołtarz przed nim, dym kadzidła unosił się powoli, siedmioramienny świecznik rzucał migotliwe światło na zasłonę. Cisza.*
 
 **11** Wtedy ukazał mu się anioł Pana[^10] – stał po prawej stronie ołtarza kadzielnego*– po stronie, z której przychodzi błogosławieństwo*.
 **12** Strach ogarnął Zachariasza.[^11]

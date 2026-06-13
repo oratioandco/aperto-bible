@@ -19,7 +19,7 @@
 
 **4** Some of them were persuaded. They threw in with Paul and Silas — along with a great many Greeks who worshiped the God of Israel*without being Jews themselves*[^2], and a good number of the city's leading women.
 
-**5** But the others — jealousy took them. *They watched their own standing drain away, passing to a stranger: the trust, the followers, everything that had been theirs.* So they pulled together a few idlers from the marketplace, worked up a crowd, and threw the city into uproar.[^3] They stormed Jason's house, expecting to find Paul and Silas inside and drag them out before the assembly.
+**5** But the others — jealousy took them. *They watched their own standing drain away, passing to a stranger: the trust, the followers, everything that had been theirs.* So they pulled together a few idlers from the marketplace, worked up a crowd, and threw the city into an uproar.[^3] They stormed Jason's house, expecting to find Paul and Silas inside and drag them out before the assembly.
 **6** They weren't there. So the mob seized Jason and a few of the believers instead, and dragged them before the politarchs*, the city leaders,*[^4] shouting as they came: "The men who've turned the empire upside down — they're here too now,
 **7** and Jason has taken them in. Every one of them defies Caesar's decrees. They say there is another king — Jesus."[^5]
 

@@ -67,7 +67,7 @@
 **30** Über die Zeiten, in denen ihr ihn nicht kanntet, hat Gott hinweggesehen.[^15] Jetzt aber fordert er alle Menschen überall auf: Kehrt um.
 **31** Denn er hat einen Tag bestimmt, an dem er die ganze Welt mit Gerechtigkeit richten wird, durch einen Mann, den er dazu eingesetzt hat. Und allen Menschen hat er dafür den Beweis gegeben: Er hat ihn von den Toten auferweckt."[^16]
 
-**32** Bei dem Wort von der Auferstehung der Toten brach es auseinander. Die einen lachten. Die anderen sagten: „Darüber hören wir dich ein andermal."
+**32** Bei dem Wort von der Auferstehung der Toten brach es auseinander. Die einen spotteten. Die anderen sagten: „Darüber hören wir dich ein andermal."
 **33** Damit verließ Paulus die Versammlung.
 
 **34** Einige aber schlossen sich ihm an und glaubten, unter ihnen Dionysius, der dem Rat des Areopag angehörte, und eine Frau namens Damaris,[^17] und noch andere mit ihnen.

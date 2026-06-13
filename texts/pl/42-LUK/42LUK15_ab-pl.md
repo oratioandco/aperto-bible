@@ -40,14 +40,14 @@
 
 **11** Powiedział jeszcze:
 
-**12** Młodszy przyszedł do ojca i powiedział: „Ojcze, daj mi część majątku, która mi się należy".*To było jak powiedzieć ojcu: dla mnie już nie żyjesz.*[^10] Ojciec podzielił między nich, co miał.
+**12** Młodszy przyszedł do ojca i powiedział: „Ojcze, daj mi część majątku, która mi się należy".*To było tak, jakby powiedzieć ojcu: już dla mnie nie żyjesz.*[^10] Ojciec podzielił między nich, co miał.
 
 **13** Parę dni później młodszy syn spieniężył swoje, zebrał wszystko i wyjechał daleko. Tam przepuścił majątek. Żył bez hamulców.[^11]
 **14** Kiedy wydał wszystko, w tamtym kraju nastał wielki głód.*I dopiero wtedy poczuł, że jest sam.*
 **15** Najął się u jakiegoś tamtejszego gospodarza, a ten posłał go w pole – paść świnie.[^12]
 **16** Pragnął nasycić się strąkami szarańczynu – tym, czym karmiono świnie.[^13] I nikt mu ich nie dawał.
 
-**17** Wtedy przyszedł do siebie i powiedział: tylu robotników mojego ojca ma dość jedzenia, a ja tu marnieję z głodu.
+**17** Wtedy przyszedł do siebie i powiedział: tylu robotników mojego ojca ma dość jedzenia, a ja tu umieram z głodu.
 **18** Wstanę, pójdę do ojca i powiem mu: ojcze, zgrzeszyłem przeciwko niebu i wobec ciebie.
 **19** Nie zasługuję już, by nazywać się twoim synem. Potraktuj mnie jak jednego ze swoich robotników.
 

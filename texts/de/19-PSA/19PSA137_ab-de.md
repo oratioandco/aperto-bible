@@ -37,7 +37,7 @@
 > über mein höchstes Glück.
 
 **7** Gedenke, Ewiger, der Edomiter –[^6]
-> den Tag Jerusalems,
+> des Tages Jerusalems,
 > wie sie riefen: „Reißt nieder, reißt nieder
 > bis auf den Grund!"
 

@@ -70,7 +70,7 @@
 > zu Feinden sind sie mir geworden.
 **23** Erforsche mich, Gott, und erkenne mein Herz.[^12]
 > Prüfe mich und erkenne, was mich umtreibt.
-**24** Prüfe, ob ein Weg in mir ist, der mir schadet,
+**24** Prüfe, ob ein Weg in mir ist, der in die Irre führt,
 > und leite mich auf dem ewigen Weg.\f + \fr 139:24 \fk UEBERSETZUNG \fq dem ewigen Weg \ft Das letzte Wort des Psalms. Das hebräische *ʿôlām* spannt sich über beide Richtungen der Zeit — es kann „ewig" heißen und „uralt". Die meisten Übersetzungen wählen „ewig"; manche hören „der alte Weg", den Weg, der schon immer da war (vgl. Jer 6,16). Beides trifft zu. V. 24 stellt zwei Wege gegeneinander: einen, der verletzt, und den einen, der bleibt. Das Verb „leiten" ist dasselbe, das in V. 10 schon einmal aufschien — dort noch in der Schwebe, ob es Führen oder Festhalten ist; hier am Ende ganz und gar positiv. Das letzte Wort des Gedichts erlöst seine frühere Bedrohlichkeit.\f*
 
 ---

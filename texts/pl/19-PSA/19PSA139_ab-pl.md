@@ -15,7 +15,7 @@
 \d Dla przewodnika chóru. Dawida. Psalm.[^1]
 
 **1** Wiekuisty, przeniknąłeś mnie i poznałeś.[^2]
-**2** Znasz, kiedy siadam i kiedy wstaję.
+**2** Wiesz, kiedy siadam i kiedy wstaję.
 > Z daleka rozumiesz moją myśl.
 **3** Moją drogę i mój odpoczynek badasz,
 > wszystkie moje drogi znasz na wylot.

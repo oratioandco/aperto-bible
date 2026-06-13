@@ -14,7 +14,7 @@
 
 
 **1** Wielu już podjęło się przed nami spisania uporządkowanej relacji o tym wszystkim, co dokonało się i wypełniło wśród nas[^1]
-**2** – tak, jak przekazali nam ci, którzy od samego początku byli naocznymi świadkami[^2] i którzy później stali się sługami tego słowa –  **3** postanowiłem i ja, prześledziwszy dokładnie wszystko od samego początku, spisać to po kolei dla ciebie, dostojny Teofilu,[^3]
+**2** – tak, jak przekazali nam ci, którzy od samego początku byli naocznymi świadkami[^2] i którzy później stali się sługami tego słowa –  **3** postanowiłem i ja, kiedy sam dokładnie wszystko prześledziłem, spisać to po kolei dla ciebie, dostojny Teofilu,[^3]
 **4** abyś miał pewny grunt pod tym, czego cię nauczono.[^4]
 
 ### Obietnica złożona staremu kapłanowi

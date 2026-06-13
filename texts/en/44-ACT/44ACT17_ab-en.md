@@ -14,7 +14,7 @@
 
 
 **1** The road carried them through Amphipolis and Apollonia*— the great Roman highway —* and on at last to Thessalonica. There was a synagogue there.
-**2** Paul went in, as he always did,[^1] and for three Sabbaths running he worked through the Scriptures with them.*Not preaching down at them. Arguing — opening the texts, taking their objections, answering them.*
+**2** Paul went in, as he always did,[^1] and for three Sabbaths running he worked through the Scriptures with them.*Not preaching at them. Arguing — opening the texts, taking their objections, answering them.*
 **3** Passage by passage he laid it out: the Messiah had to go this way — through suffering, through death — and rise again. *And every time, the same landing:* "This Jesus I'm telling you about — he is the Messiah."
 
 **4** Some of them were persuaded. They threw in with Paul and Silas — along with a great many Greeks who worshiped the God of Israel*without being Jews themselves*[^2], and a good number of the city's leading women.
@@ -36,7 +36,7 @@
 
 **13** *It could have been a good place to stay.* But when the Thessalonian opponents heard that Paul was proclaiming God's word in Beroea too, they came after him there and stirred up the crowds again.
 **14** At once the believers sent Paul off toward the sea, while Silas and Timothy stayed behind.
-**15** The men with Paul saw him the whole way to Athens. Then they started back, carrying word: Silas and Timothy were to follow as soon as they could.
+**15** The men with Paul saw him all the way to Athens. Then they started back, carrying word: Silas and Timothy were to follow as soon as they could.
 
 ### Paul in Athens
 

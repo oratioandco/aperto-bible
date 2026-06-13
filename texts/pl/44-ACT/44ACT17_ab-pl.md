@@ -31,7 +31,7 @@
 
 **10** Bracia nie czekali do świtu. Jeszcze tej samej nocy wyprowadzili Pawła i Sylasa*bocznymi ścieżkami, z dala od głównej drogi*, ku Berei. Pierwszym miejscem, do którego trafili także i tam, była synagoga.
 
-**11** Berejczycy okazali się z innej gliny niż ludzie z Tesaloniki.*Otwarci, lecz nie bezkrytyczni.* Przyjęli usłyszane słowo z prawdziwym zapałem – i właśnie dlatego nie chcieli go przyjmować na słowo. Dzień w dzień rozkładali zwoje i sprawdzali w Pismach, czy rzeczywiście tak jest.[^6][^7]*Razem, w świetle dnia, zdanie po zdaniu.*
+**11** Berejczycy okazali się z innej gliny niż ludzie z Tesaloniki.*Otwarci, lecz nie bezkrytyczni.* Przyjęli usłyszane słowo z prawdziwym zapałem – i właśnie dlatego nie chcieli go przyjmować na wiarę. Dzień w dzień rozkładali zwoje i sprawdzali w Pismach, czy rzeczywiście tak jest.[^6][^7]*Razem, w świetle dnia, zdanie po zdaniu.*
 **12** Uwierzyło ich wielu. Greczynki z wyższych sfer, mężczyźni – także niemało.
 
 **13** *Dobre było to miejsce. Można było tu zostać.* Wtedy wieść dotarła do tych z Tesaloniki: Paweł także w Berei niesie to samo słowo. I ci sami ludzie ruszyli w drogę. Przyszli i zaczęli podburzać tłum.*Wszystko od początku, ta sama przemoc, tylko o miasto dalej.*

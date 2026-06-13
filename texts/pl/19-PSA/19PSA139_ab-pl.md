@@ -25,7 +25,7 @@
 **6** To poznanie mnie przerasta – \q2 zbyt wysoko, nie sięgnę.
 
 **7** Dokąd ujdę przed Twoim Duchem?[^4]
-> Dokąd ucieknę sprzed Twoich oczu?
+> Dokąd umknę Twoim oczom?
 **8** Wzniosę się do nieba – Ty tam.[^5]
 > Pościelę sobie w Szeolu – Ty tam.
 **9** Wezmę skrzydła jutrzenki,[^6]
@@ -42,7 +42,7 @@
 > utkałeś mnie w łonie mojej matki.\f + \fr 139:13 \fk HARM \fq w łonie mojej matki \ft Od końca lat siedemdziesiątych wersety 13–16 stały się najważniejszym biblijnym „dowodem" przeciw aborcji – na plakatach, w materiałach poradniczych, w sporze politycznym. W Polsce, po wyroku Trybunału Konstytucyjnego z 2020 roku i niemal całkowitym zakazie, ten fragment jest \it żywą\it* bronią w wojnie kulturowej. To nadużycie tekstu – i wyrządziło ludziom konkretną krzywdę: kobietom w ciąży, na które wywierano nim nacisk, i czytelnikom, których uczono, że wiersz boskim dekretem rozstrzyga sporną kwestię etyczną. Psalm tego pytania w ogóle nie stawia. Jest poezją, nie kodeksem prawnym; biblista John Goldingay, sam ewangelikalny, mówi wprost: to nie jest rozstrzygający tekst-dowód. Wersety nie pytają, kiedy zaczyna się życie – one zdumiewają się nad tym, że \it ktoś jest uczyniony\it*. A ich faktyczną sceną jest ciało kobiety w ciąży. Erin Runions pokazała w lekturze feministycznej, że dowodzenie z tych wersów każe właśnie tej kobiecie zniknąć – ciału, o którym przecież cały czas mówi tekst. Kto czyta je uczciwie, słyszy pieśń wdzięczności, w której matka pozostaje widoczna: nie wykorzystana, lecz obecna. To wystarczy. Ten psalm nie został napisany jako tekst „o życiu" – i Aperto nie pozwala go w taki tekst zamienić.\f*
 **14** Dziękuję Ci – stworzyłeś mnie tak cudownie, że aż lęk bierze.[^8]
 > Niezwykłe są Twoje dzieła – \q2 dobrze to znam.
-**15** Moja kość nie była przed Tobą ukryta,
+**15** Moje kości nie były przed Tobą ukryte,
 > kiedy powstawałem w ukryciu,
 > haftowany w głębinach ziemi.
 **16** Moją nieuformowaną materię[^9]
@@ -56,7 +56,7 @@
 
 **19** Obyś zabił winnych, Boże.[^11]
 > Mordercy – odejdźcie ode mnie.\f + \fr 139:19 \fk KULTUR \fq Ludzie krwi \ft „Ludzie krwi" to dosłowny przekład utrwalonego hebrajskiego określenia (\it ʾanšê dāmîm\it*) – ludzi, których ręce są splamione krwią innych. To jedyne miejsce w całym psalmie, gdzie modlący się zwraca się nie do Boga, lecz wprost do ludzi. Krótki, ostry rozkaz przerywa modlitwę: „odstąpcie ode mnie". W następnej linii znów mówi do Boga.\f*
-**20** Mówią o Tobie podstępnie,
+**20** Mówią przeciw Tobie podstępnie,
 > Twoi wrogowie nadużywają Twojego imienia.
 **21** Czy nie nienawidzę tych, którzy Ciebie nienawidzą, Wiekuisty?
 > Czy nie odczuwam wstrętu do tych, co powstają przeciw Tobie?

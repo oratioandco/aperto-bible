@@ -19,7 +19,7 @@
 
 **4** Some of them were persuaded. They threw in with Paul and Silas — along with a great many Greeks who worshiped the God of Israel*without being Jews themselves*[^2], and a good number of the city's leading women.
 
-**5** But the others — jealousy took them. *They watched their own standing drain away toward a stranger: the trust, the followers, everything that had been theirs.* So they pulled together a few idlers from the marketplace, worked up a crowd, and threw the city into uproar.[^3] They stormed Jason's house, expecting to find Paul and Silas inside and drag them out before the assembly.
+**5** But the others — jealousy took them. *They watched their own standing drain away, passing to a stranger: the trust, the followers, everything that had been theirs.* So they pulled together a few idlers from the marketplace, worked up a crowd, and threw the city into uproar.[^3] They stormed Jason's house, expecting to find Paul and Silas inside and drag them out before the assembly.
 **6** They weren't there. So the mob seized Jason and a few of the believers instead, and dragged them before the politarchs*, the city leaders,*[^4] shouting as they came: "The men who've turned the empire upside down — they're here too now,
 **7** and Jason has taken them in. Every one of them defies Caesar's decrees. They say there is another king — Jesus."[^5]
 
@@ -34,7 +34,7 @@
 **11** These were people of a different kind — more open than the ones in Thessalonica had been. They took the message in eagerly, and they didn't stop there. Day after day they went back to the Scriptures and examined them,[^6][^7] to see whether what they were hearing held up.
 **12** Many of them came to believe — Greek women of standing, and men, a good number of them too.
 
-**13** *It could have been a good place to stay.* But when the Thessalonian opponents heard that Paul was announcing God's word in Beroea too, they came after him there and stirred up the crowds again.
+**13** *It could have been a good place to stay.* But when the Thessalonian opponents heard that Paul was proclaiming God's word in Beroea too, they came after him there and stirred up the crowds again.
 **14** At once the believers sent Paul off toward the sea, while Silas and Timothy stayed behind.
 **15** The men with Paul saw him the whole way to Athens. Then they started back, carrying word: Silas and Timothy were to follow as soon as they could.
 
@@ -45,25 +45,25 @@
 
 **17** So he set to work. He argued in the synagogue, with Jews and with the Greeks who worshiped the God of Israel — and every day in the marketplace, with whoever happened to be there. *Never a lecture. Always an argument.*
 
-**18** Before long the philosophers took him on — followers of Epicurus, and Stoics.[^8] Some sneered: "What is this seed-picker trying to tell us?"*— a bird hopping the market for crumbs, a scavenger of other people's scraps*. Others said, "He seems to be announcing foreign gods." They said it because he kept talking about Jesus, and about resurrection.
+**18** Before long the philosophers took him on — followers of Epicurus, and Stoics.[^8] Some sneered: "What is this seed-picker trying to tell us?"*— a bird hopping the market for crumbs, a scavenger of other people's scraps*. Others said, "He seems to be proclaiming foreign gods." They said it because he kept talking about Jesus, and about resurrection.
 
 **19** So they took him up to the Areopagus*— the council that had always decided which new gods, which foreign cults, would be given a home in Athens*.[^9] "May we know," they asked him, "what this new teaching of yours actually is?
-**20** What you're telling us sounds strange in our ears, and we'd like to know what it means."
+**20** What you're telling us sounds strange to our ears, and we'd like to know what it means."
 **21** For the Athenians, and the foreigners who had settled among them, loved nothing so much as the latest thing — telling it, or hearing it.
 
 ### The Speech on the Areopagus
 
 
-**22** So Paul stood up in their midst, there in the middle of the council, and began.
+**22** So Paul stood up there in the middle of the council, and began.
 
 "Men of Athens — everywhere I look in this city, I see how seriously you take the gods, and how thoroughly the divine has been worked into the very texture of your common life.[^10]
-**23** For as I walked through your city and looked carefully at the things you worship, I came at last on an altar with these words cut into its stone: \nd to an unknown god.[^11] What you worship, then, without knowing what it is — that is what I have come to tell you.
+**23** For as I walked through your city and looked carefully at the things you worship, I came at last upon an altar with these words cut into its stone: \nd to an unknown god.[^11] What you worship, then, without knowing what it is — that is what I have come to tell you.
 
 **24** The God who made the world and everything in it — the Lord of heaven and earth — does not live in temples built by human hands,
 **25** nor is he tended by human hands, as though he stood in need of anything; he is himself the one who gives to every living thing its life, its breath, everything it has.
 **26** From one[^12] he made every people of the earth, and spread them across the whole face of it; he set the times appointed for them, and the boundaries of the lands in which they live —
 **27** all of it so that they would seek him, reach out for him*, the way a person feels for something in the dark,* and perhaps in the end find him. And yet — he is not far from any one of us.[^13]
-**28** For in him we live, in him we move, in him we have our being — as some of your own poets have said: We too are his children.[^14]
+**28** For in him we live, in him we move, in him we are — as some of your own poets have said: We too are his children.[^14]
 
 **29** And if indeed we are his children, then we cannot imagine that the divine in any way resembles gold, or silver, or stone — an image shaped by human craft, human imagination.
 **30** The times of not-knowing — God has let them pass.[^15] But now he calls on everyone, everywhere, to turn*— to repent*.
@@ -85,7 +85,7 @@
 [^4]: **KULTUR** — *politarchs*: "Politarch" was not common Greek — for a long time scholars treated the title as Luke's mistake, since it turned up nowhere else in ancient literature. Then archaeology produced more than thirty inscriptions across Macedonia naming exactly this office, nineteen of them from Thessalonica alone. It was the locally precise word for the city's elected board of magistrates, with the power to demand a bond from citizens and to pass cases up the Roman chain of command. Where other ancient writers grew vague, Luke knew the city.
 [^5]: **KONTEXT** — *another king — Jesus*: Under Roman law, proclaiming a rival ruler was treason — the gravest charge that could be brought. It is the exact accusation laid against Jesus before Pilate: that he claimed to be a king (Luke 23:2). What is striking is that the believers do not deny it. The narrator lets the charge stand, as though it were accidentally true: to call Jesus "king" is to re-order your loyalties — and every power built on loyalty can feel it.
 [^6]: **KULTUR** — *examined*: The Greek word for this examining comes from the language of the courts: it means cross-examination, the testing of a claim against the evidence. The people of Beroea were not pious nodders — day after day they took up the Scriptures and held Paul's claims against them. And they did it together, in the synagogue, not each one alone. Where this verse was later made the banner of a "let everyone judge for themselves" individualism, what was lost was exactly what makes it remarkable: a shared, patient, argumentative reading, in which eagerness and rigor are not opposites.
-[^7]: **LEBEN** — *day after day*: What Beroea models is a way of reading that refuses the choice between enthusiasm and scrutiny. If you have ever assumed that taking a text seriously means switching off your judgment — or that asking hard questions means you have already left — this verse says otherwise: the people praised here are the ones who checked. You can start there, with nothing required of you but honesty: read a passage and ask, plainly, whether it holds. For those further along, the practice deepens when it becomes daily and shared — a fixed time, the same texts, and other people free to disagree with you, because a reading tested only against yourself is barely tested at all. And it reaches past the page. The Berean habit — claims held against the evidence, in company, over time — is also how a workplace stays honest, how a friendship survives a hard conversation, how a community keeps the loudest voice in the room from becoming the truest. This week, find one other person and read something together that you would otherwise have read alone.
+[^7]: **LEBEN** — *day after day*: What Beroea models is a way of reading that refuses the choice between enthusiasm and scrutiny: the people praised here are the ones who checked. You can start there, with nothing required of you but honesty: read a passage and ask, plainly, whether it holds. For those further along, the practice deepens when it becomes daily and shared — a fixed time, the same texts, and other people free to disagree with you, because a reading tested only against yourself is barely tested at all. And it reaches past the page. The Berean habit — claims held against the evidence, in company, over time — is also how a workplace stays honest, how a friendship survives a hard conversation, how a community keeps the loudest voice in the room from becoming the truest. This week, find one other person and read something together that you would otherwise have read alone.
 [^8]: **KULTUR** — *followers of Epicurus, and Stoics*: Two living schools of thought, not museum pieces. The Epicureans sought an unshakable calm: the world is made of atoms, the gods take no interest in us, and after death there is nothing — so live moderately, without fear. The Stoics sought virtue by aligning the self with the reason that runs through the whole cosmos. A Stoic could make something of talk about a God who is near. Neither school could do anything with the resurrection of the dead: for the one, the body is atom-dust; for the other, a prison the soul is glad to be free of.
 [^9]: **KULTUR** — *the Areopagus*: The Areopagus was two things at once: a rocky hill below the Acropolis, and the council that met there. Once a court for cases of bloodshed, by Paul's day it watched over public order — including the question of which new gods and foreign cults the city would admit. Paul is not on a stage for free speech; he is in something closer to a hearing. There is an irony ancient listeners caught at once: the founding charter of this very court ruled a resurrection of the dead explicitly out — blood once spilled stays spilled. That is precisely where Paul will end.
 [^10]: **UEBERSETZUNG** — *how seriously you take the gods*: The Greek word here can be read two ways — "superstitious," or "genuinely religious, serious about the divine." Older translations often chose the insult. But Paul is opening a speech by the rules of ancient oratory, and such an opening is built to win the audience's goodwill — it does not begin with a slap. The sense is the generous one: you take the divine with great seriousness. We translate what Paul is doing: he honors his hearers' search before he carries it further.

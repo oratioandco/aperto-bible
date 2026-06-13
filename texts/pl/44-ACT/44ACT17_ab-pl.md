@@ -42,15 +42,15 @@
 ### Paweł w Atenach
 
 
-**16** Czekał na nich w Atenach.*Zostało mu coś, czego rzadko miewał pod dostatkiem: czas. Czas, żeby chodzić po mieście, które jak żadne inne znaczyło: nauka, mądrość, myśl.* I to, co zobaczył, nie dawało mu spokoju.*Na każdym rogu ołtarz. W każdej bramie jakiś bóg. Napotykał następny posąg, i jeszcze jeden – kamienne pewności, ustawione tak gęsto, że nie sposób było ich minąć obojętnie.* Miasto było pełne bożków. Coś się w nim burzyło, narastało pod skórą.
+**16** Czekał na nich w Atenach.*Zostało mu coś, czego rzadko miewał pod dostatkiem: czas. Czas, żeby chodzić po mieście, które jak żadne inne kojarzyło się z nauką, mądrością, myślą.* I to, co zobaczył, nie dawało mu spokoju.*Na każdym rogu ołtarz. W każdej bramie jakiś bóg. Napotykał następny posąg, i jeszcze jeden – kamienne pewności, ustawione tak gęsto, że nie sposób było ich minąć obojętnie.* Miasto było pełne bożków. Coś się w nim burzyło, narastało pod skórą.
 
 **17** Robił więc to, co robił zawsze. Rozprawiał. W synagodze – z Żydami i z Grekami bojącymi się Boga Izraela. A potem każdego dnia na rynku, z każdym, kto akurat się nawinął.*Nigdy nie był to wykład. Zawsze spór: pytanie i odpowiedź, i odpowiedź na odpowiedź.*
 
 **18** Niedługo zmierzyli się z nim także filozofowie – epikurejczycy i stoicy.[^8] Niektórzy kpili: „Co ten zbieracz nasion próbuje nam powiedzieć?”*Tak nazywano ptaka, który dziobie okruchy na rynku – kogoś, kto żywi się cudzymi resztkami.* Inni mówili: „Zdaje się, że głosi jakieś obce bóstwa”. Mówili tak, bo opowiadał o Jezusie i o zmartwychwstaniu.
 
 **19** Zaprowadzili go więc na Areopag[^9]*– przed radę, która od zawsze rozstrzygała, jakim nowym bogom wolno zamieszkać w Atenach.* „Czy możemy się dowiedzieć – zapytali – czym jest ta twoja nowa nauka?
-**20** To, co mówisz, brzmi obco w naszych uszach, więc chcielibyśmy zrozumieć, co to wszystko znaczy".
-**21** Ateńczycy – i cudzoziemcy osiadli wśród nich – niczego nie robili równie chętnie, jak opowiadali albo słuchali o tym, co najnowsze. A potem o czymś jeszcze nowszym.
+**20** To, co mówisz, brzmi dla nas obco, więc chcielibyśmy zrozumieć, co to wszystko znaczy".
+**21** Ateńczycy – i cudzoziemcy osiadli wśród nich – niczego nie robili równie chętnie, jak opowiadali albo słuchali tego, co najnowsze. A potem o czymś jeszcze nowszym.
 
 ### Mowa na Areopagu
 

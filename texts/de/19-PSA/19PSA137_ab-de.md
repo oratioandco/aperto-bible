@@ -32,7 +32,7 @@
 > so vergesse meine rechte Hand.
 
 **6** Klebe meine Zunge am Gaumen,
-> wenn ich deiner nicht gedenke,
+> wenn ich nicht an dich denke,
 > wenn ich Jerusalem nicht stelle
 > über mein höchstes Glück.
 
@@ -42,7 +42,7 @@
 > bis auf den Grund!"
 
 **8** Tochter Babylon, du Verwüstete –[^7]
-> wohl dem, der dir vergilt,
+> Glücklich, wer dir vergilt,
 > was du uns angetan hast.
 
 **9** Glücklich, wer deine Kinder packt[^8]

@@ -1,0 +1,271 @@
+{
+  "book": "luke",
+  "chapter": 1,
+  "lang": "AB-DE",
+  "findings": [
+    {
+      "id": "luk_01_archaism_1_27_001",
+      "pericope_id": "luke_01_annunciation_to_mary",
+      "verse": "1:27",
+      "critic": "archaism",
+      "severity": "high",
+      "status": "open",
+      "summary": "archaism: fronted-genitive shape",
+      "rationale": "fronted-genitive shape\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:98c169ea78e9d88f8ac58c913581ed1b742d14c31a5db89572d440188fd509a3"
+      },
+      "before": "Haus Davids",
+      "after": "aus dem Haus David"
+    },
+    {
+      "id": "luk_01_archaism_1_43_002",
+      "pericope_id": "luke_01_visitation",
+      "verse": "1:43",
+      "critic": "archaism",
+      "severity": "high",
+      "status": "applied",
+      "summary": "archaism: archaic question form",
+      "rationale": "archaic question form\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:890f150a7d5793f03723b9c41d425a9cdb59302a9e6b4bddcea116c4ad402b3e"
+      },
+      "before": "Wie geschieht mir",
+      "after": "Was geschieht mit mir / Wie kann das sein"
+    },
+    {
+      "id": "luk_01_archaism_1_20_003",
+      "pericope_id": "luke_01_zechariah_announcement",
+      "verse": "1:20",
+      "critic": "archaism",
+      "severity": "medium",
+      "status": "open",
+      "summary": "archaism: English calque",
+      "rationale": "English calque\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:36917028999408d294da4cf22d7c130a1020196d2d2e750fec7e8af66bd2c778"
+      },
+      "before": "Doch nun:",
+      "after": "Aber jetzt / Und jetzt"
+    },
+    {
+      "id": "luk_01_archaism_1_50_004",
+      "pericope_id": "luke_01_magnificat",
+      "verse": "1:50",
+      "critic": "archaism",
+      "severity": "medium",
+      "status": "open",
+      "summary": "archaism: flag in OT-yir'ah contexts; OK when actual fear is meant",
+      "rationale": "flag in OT-yir'ah contexts; OK when actual fear is meant\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:b3b3fb8d22717f0ef515957452b1c9caa526e8a1d2fc460aa699a9b0bae9b5b9"
+      },
+      "before": "fürchten",
+      "after": "ehren / aufschauen / Respekt haben"
+    },
+    {
+      "id": "luk_01_archaism_1_68_005",
+      "pericope_id": "luke_01_benedictus",
+      "verse": "1:68",
+      "critic": "archaism",
+      "severity": "medium",
+      "status": "open",
+      "summary": "archaism: OK in DE-P3/P4 with care; flag in DE-N1 narrative",
+      "rationale": "OK in DE-P3/P4 with care; flag in DE-N1 narrative\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:0074af173ee4fff92182958783900dd9c6e42aaa052a79b0a076fa52cd51eaae"
+      },
+      "before": "Erlösung",
+      "after": "Rettung"
+    },
+    {
+      "id": "luk_01_orthography_1_25_006",
+      "pericope_id": "luke_01_zechariah_announcement",
+      "verse": "1:25",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "open",
+      "summary": "orthography: Project policy: DE surface text uses German „…\" quotes, not English straight \"…\".",
+      "rationale": "Project policy: DE surface text uses German „…\" quotes, not English straight \"…\". See DE_NARRATIVE.md / LEXICON §F Punctuation.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:36917028999408d294da4cf22d7c130a1020196d2d2e750fec7e8af66bd2c778"
+      },
+      "before": "\", sagte sie, „jetzt, wo er mich angesehen hat, um meine Schande unter den Menschen wegzunehmen.\"",
+      "after": "replace with German double-low quotes (low-open + high-close)"
+    },
+    {
+      "id": "luk_01_idiom_fit_1_41_007",
+      "pericope_id": "luke_01_visitation",
+      "verse": "1:41",
+      "critic": "idiom_fit",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "idiom_fit: Der Partikel ‚auf' (aufhüpfen = nach oben springen) trägt für die Bewegung eines Ungeborenen im Erzählerton schlecht;...",
+      "rationale": "Der Partikel ‚auf' (aufhüpfen = nach oben springen) trägt für die Bewegung eines Ungeborenen im Erzählerton schlecht; ‚hüpfen/regen' ohne ‚auf' ist idiomatischer.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:890f150a7d5793f03723b9c41d425a9cdb59302a9e6b4bddcea116c4ad402b3e"
+      },
+      "before": "hüpfte das Kind in ihrem Leib auf. Und Elisabet wurde erfüllt",
+      "after": "regte sich das Kind in ihrem Leib"
+    },
+    {
+      "id": "luk_01_idiom_fit_1_53_008",
+      "pericope_id": "luke_01_magnificat",
+      "verse": "1:53",
+      "critic": "idiom_fit",
+      "severity": "medium",
+      "status": "open",
+      "summary": "idiom_fit: ‚füllen' bindet an Behälter, nicht an Personen; für Menschen verlangt das Deutsche ‚sättigen' (biblischer Lutherrefle...",
+      "rationale": "‚füllen' bindet an Behälter, nicht an Personen; für Menschen verlangt das Deutsche ‚sättigen' (biblischer Lutherreflex, modern markiert).\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:b3b3fb8d22717f0ef515957452b1c9caa526e8a1d2fc460aa699a9b0bae9b5b9"
+      },
+      "before": "Die Hungrigen füllt er — mit allem.",
+      "after": "Die Hungrigen sättigt er — mit allem."
+    },
+    {
+      "id": "luk_01_idiom_fit_1_51_009",
+      "pericope_id": "luke_01_magnificat",
+      "verse": "1:51",
+      "critic": "idiom_fit",
+      "severity": "low",
+      "status": "applied",
+      "summary": "idiom_fit: Die Präpositionalbindung ‚auseinanderjagen in ihren Plänen' ist eine Calque-Anlagerung; ‚auseinanderjagen' trägt kein...",
+      "rationale": "Die Präpositionalbindung ‚auseinanderjagen in ihren Plänen' ist eine Calque-Anlagerung; ‚auseinanderjagen' trägt kein ‚in'-Objekt.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:b3b3fb8d22717f0ef515957452b1c9caa526e8a1d2fc460aa699a9b0bae9b5b9"
+      },
+      "before": "Er jagt sie auseinander, in all ihren Plänen.",
+      "after": "Er zerstreut sie samt all ihren Plänen."
+    },
+    {
+      "id": "luk_01_comprehension_gap_1_11_010",
+      "pericope_id": "luke_01_zechariah_announcement",
+      "verse": "1:11",
+      "critic": "comprehension_gap",
+      "severity": "high",
+      "status": "dismissed-with-rationale",
+      "summary": "comprehension_gap: „Räucheraltar\" steht im Text; keine Fußnote/kein add unterscheidet den inneren Räucheraltar vom äußeren Brandopferaltar.",
+      "rationale": "„Räucheraltar\" steht im Text; keine Fußnote/kein add unterscheidet den inneren Räucheraltar vom äußeren Brandopferaltar. Leser weiß nicht, dass es zwei Altäre gab.\n\n— Annex assessment: existing footnote or \\add covers the term. The critic flag is informational, no edit required.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:36917028999408d294da4cf22d7c130a1020196d2d2e750fec7e8af66bd2c778"
+      },
+      "before": "Räucheraltar",
+      "after": "Kurzer `\\add` o. Fußnote: der kleine Räucheraltar im Heiligtum, nicht der große Brandopferaltar im Vorhof."
+    },
+    {
+      "id": "luk_01_comprehension_gap_1_15_011",
+      "pericope_id": "luke_01_zechariah_announcement",
+      "verse": "1:15",
+      "critic": "comprehension_gap",
+      "severity": "high",
+      "status": "dismissed-as-overreach",
+      "summary": "comprehension_gap: Fußnote 1:15 rahmt den Wein-Verzicht über das Nasiräer-Gelübde (Num 6) – die hier operative Bedeutung (Weihe) ist ged...",
+      "rationale": "Fußnote 1:15 rahmt den Wein-Verzicht über das Nasiräer-Gelübde (Num 6) – die hier operative Bedeutung (Weihe) ist gedeckt; Bund/Blut-Symbolik hier nicht einschlägig.\n\n— Annex assessment: concrete, modern-decodable term. The critic over-reached; reading is transparent without amplification.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:36917028999408d294da4cf22d7c130a1020196d2d2e750fec7e8af66bd2c778"
+      },
+      "before": "Wein"
+    },
+    {
+      "id": "luk_01_comprehension_gap_1_35_012",
+      "pericope_id": "luke_01_annunciation_to_mary",
+      "verse": "1:35",
+      "critic": "comprehension_gap",
+      "severity": "high",
+      "status": "open",
+      "summary": "comprehension_gap: Fußnote 1:35 öffnet „Sohn Gottes\" als königlich-göttlichen Titel (Königswürde, Titel vs.",
+      "rationale": "Fußnote 1:35 öffnet „Sohn Gottes\" als königlich-göttlichen Titel (Königswürde, Titel vs. Biologie). Die Caesar-/Konkurrenz-Facette fehlt, ist aber nicht kommunikationsverhindernd.\n\n— comprehension_gap: critic flagged a genuine opacity; operator has not yet decided how to address.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:98c169ea78e9d88f8ac58c913581ed1b742d14c31a5db89572d440188fd509a3"
+      },
+      "before": "Sohn Gottes"
+    },
+    {
+      "id": "luk_01_comprehension_gap_1_36_013",
+      "pericope_id": "luke_01_annunciation_to_mary",
+      "verse": "1:36",
+      "critic": "comprehension_gap",
+      "severity": "high",
+      "status": "deferred-to-human",
+      "summary": "comprehension_gap: „Verwandte\" steht; keine Fußnote/kein add im Fenster vermittelt das Clan-/Sozialnetz-Gewicht antiker Verwandtschaft.",
+      "rationale": "„Verwandte\" steht; keine Fußnote/kein add im Fenster vermittelt das Clan-/Sozialnetz-Gewicht antiker Verwandtschaft.\n\n— Annex assessment: needs operator review with native-speaker or domain input. Held pending that review.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:98c169ea78e9d88f8ac58c913581ed1b742d14c31a5db89572d440188fd509a3"
+      },
+      "before": "Verwandte",
+      "after": "Kurzer erzählerischer Hinweis, dass Verwandtschaft Schutz, Pflicht und Zugehörigkeit bedeutete, nicht nur lose Familie."
+    },
+    {
+      "id": "luk_01_comprehension_gap_1_49_014",
+      "pericope_id": "luke_01_magnificat",
+      "verse": "1:49",
+      "critic": "comprehension_gap",
+      "severity": "high",
+      "status": "dismissed-with-rationale",
+      "summary": "comprehension_gap: „der Mächtige\" steht im Magnificat; keine Fußnote im Fenster (1:47–51) erklärt den AT-Epitheton (Gibbor, Krieger-/Sch...",
+      "rationale": "„der Mächtige\" steht im Magnificat; keine Fußnote im Fenster (1:47–51) erklärt den AT-Epitheton (Gibbor, Krieger-/Schöpfer-Gott).\n\n— Annex assessment: existing footnote or \\add covers the term. The critic flag is informational, no edit required.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:b3b3fb8d22717f0ef515957452b1c9caa526e8a1d2fc460aa699a9b0bae9b5b9"
+      },
+      "before": "der Mächtige",
+      "after": "Fußnote: „der Mächtige\" = alttestamentlicher Gottesname (Gibbor), der Macht im Sinn von Befreiung/Schöpfung trägt."
+    },
+    {
+      "id": "luk_01_comprehension_gap_1_58_015",
+      "pericope_id": "luke_01_birth_and_naming",
+      "verse": "1:58",
+      "critic": "comprehension_gap",
+      "severity": "high",
+      "status": "deferred-to-human",
+      "summary": "comprehension_gap: „Verwandten\" steht; Fußnote 1:60 betrifft nur den Namen Johannes, nicht das Clan-/Sozialnetz-Gewicht.",
+      "rationale": "„Verwandten\" steht; Fußnote 1:60 betrifft nur den Namen Johannes, nicht das Clan-/Sozialnetz-Gewicht.\n\n— Annex assessment: needs operator review with native-speaker or domain input. Held pending that review.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:98a18643a4cb162d6b159350853ea48792b8650ec149c45bef16c35a00203a4d"
+      },
+      "before": "Verwandten",
+      "after": "Kurzer Hinweis, dass Nachbarn und Verwandte den schützenden Clan bildeten, der Freude und Schande gemeinsam trug."
+    },
+    {
+      "id": "luk_01_comprehension_gap_1_59_016",
+      "pericope_id": "luke_01_birth_and_naming",
+      "verse": "1:59",
+      "critic": "comprehension_gap",
+      "severity": "high",
+      "status": "open",
+      "summary": "comprehension_gap: `\\add` nennt „Zeichen des Bundes\", öffnet aber das Bundes-Gewicht (gegenseitig, geschworen, generationenübergreifend)...",
+      "rationale": "`\\add` nennt „Zeichen des Bundes\", öffnet aber das Bundes-Gewicht (gegenseitig, geschworen, generationenübergreifend) nicht; „Bund\" kann als Vertrag/Föderation missverstanden werden.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:98a18643a4cb162d6b159350853ea48792b8650ec149c45bef16c35a00203a4d"
+      },
+      "before": "Bundes",
+      "after": "Knapper Zusatz: der Bund, den Gott einst Abraham geschworen hat – kein Vertrag, sondern bleibende Zusage über Generationen."
+    },
+    {
+      "id": "luk_01_sensitivity_1_17_017",
+      "pericope_id": "luke_01_zechariah_announcement",
+      "verse": "1:17",
+      "critic": "sensitivity",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "sensitivity: Der Urtext (gr.",
+      "rationale": "Der Urtext (gr. tékna, Mal 3,24) meint die Kinder allgemein, nicht eigens Söhne; „Kindern\" trägt die Generationen-Versöhnung exakt und ohne Verengung.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:36917028999408d294da4cf22d7c130a1020196d2d2e750fec7e8af66bd2c778"
+      },
+      "before": "um die Herzen der Väter den Söhnen zuzuwenden und die Ungehorsamen",
+      "after": "um die Herzen der Väter den Kindern zuzuwenden und die Ungehorsamen"
+    }
+  ],
+  "metadata": {
+    "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
+    "source_usfm_version": "a716937827a1a29001b1ad99264f5a47e8258b14",
+    "status_enum": [
+      "applied",
+      "deferred-to-human",
+      "dismissed-as-overreach",
+      "dismissed-with-rationale",
+      "open"
+    ]
+  }
+}

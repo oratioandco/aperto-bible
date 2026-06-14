@@ -1,0 +1,138 @@
+{
+  "book": "luke",
+  "chapter": 15,
+  "lang": "AB-EN",
+  "findings": [
+    {
+      "id": "luk_15_orthography_15_2_001",
+      "pericope_id": "luke_15_frame_pharisees_grumble",
+      "verse": "15:2",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "orthography: Asymmetric em-dash spacing",
+      "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:e5abaddc56b5b37609609fd082da760432462bdc7a42935118663cdc8da14263"
+      },
+      "before": "s— t",
+      "after": "word—word (remove trailing space)"
+    },
+    {
+      "id": "luk_15_orthography_15_20_002",
+      "pericope_id": "luke_15_prodigal_younger_son",
+      "verse": "15:20",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "orthography: Asymmetric em-dash spacing — should be either both-spaced or neither",
+      "rationale": "Asymmetric em-dash spacing — should be either both-spaced or neither\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:a68db447e054f9498d18f7765698da50beec5d279867d94be20c142471bf3c48"
+      },
+      "before": "m —t",
+      "after": "word—word (remove leading space)"
+    },
+    {
+      "id": "luk_15_orthography_15_21_003",
+      "pericope_id": "luke_15_prodigal_younger_son",
+      "verse": "15:21",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "open",
+      "summary": "orthography: Project policy: lowercase divine pronouns (Robinson / Wiman / Wright literary convention)",
+      "rationale": "Project policy: lowercase divine pronouns (Robinson / Wiman / Wright literary convention)\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:a68db447e054f9498d18f7765698da50beec5d279867d94be20c142471bf3c48"
+      },
+      "before": "He",
+      "after": "he (project policy: lowercase divine pronouns)"
+    },
+    {
+      "id": "luk_15_orthography_15_8_004",
+      "pericope_id": "luke_15_the_lost_coin",
+      "verse": "15:8",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "orthography: Asymmetric em-dash spacing",
+      "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:0542d3d7fc3d5343dd64847fc7c5d9e279309a3293923d9b74ec140c5f1ade9e"
+      },
+      "before": "s— a",
+      "after": "word—word (remove trailing space)"
+    },
+    {
+      "id": "luk_15_idiom_fit_15_20_005",
+      "pericope_id": "luke_15_prodigal_younger_son",
+      "verse": "15:20",
+      "critic": "idiom_fit",
+      "severity": "high",
+      "status": "applied",
+      "summary": "idiom_fit: 'fall on someone's neck' is a KJV/Hebraism survival; contemporary literary English embraces or throws arms around som...",
+      "rationale": "'fall on someone's neck' is a KJV/Hebraism survival; contemporary literary English embraces or throws arms around someone.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:a68db447e054f9498d18f7765698da50beec5d279867d94be20c142471bf3c48"
+      },
+      "before": "and he ran and fell on his neck and kissed him",
+      "after": "and he ran and threw his arms around him and kissed him"
+    },
+    {
+      "id": "luk_15_idiom_fit_15_4_006",
+      "pericope_id": "luke_15_the_lost_sheep",
+      "verse": "15:4",
+      "critic": "idiom_fit",
+      "severity": "medium",
+      "status": "open",
+      "summary": "idiom_fit: 'country' as terrain takes 'in' ('out in the open country'); 'on the open country' misbinds the preposition.",
+      "rationale": "'country' as terrain takes 'in' ('out in the open country'); 'on the open country' misbinds the preposition.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:b22907ca626663f71b3673bd1f41c7366f14e12590e18a783d76d38c3f0677b8"
+      },
+      "before": "Doesn't he leave the ninety-nine out on the open country",
+      "after": "Doesn't he leave the ninety-nine out in the open country"
+    },
+    {
+      "id": "luk_15_idiom_fit_15_30_007",
+      "pericope_id": "luke_15_prodigal_elder_son",
+      "verse": "15:30",
+      "critic": "idiom_fit",
+      "severity": "medium",
+      "status": "open",
+      "summary": "idiom_fit: 'devour ...",
+      "rationale": "'devour ... with' calques KJV 'devoured thy living with harlots'; modern usage squanders money 'on' someone.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:5f56f552c20756d206aaf55dc9263c44d7e33d175b526e8889612154f9c8bf86"
+      },
+      "before": "this one who has devoured your livelihood with prostitutes",
+      "after": "this one who has squandered your livelihood on prostitutes"
+    },
+    {
+      "id": "luk_15_idiom_fit_15_13_008",
+      "pericope_id": "luke_15_prodigal_younger_son",
+      "verse": "15:13",
+      "critic": "idiom_fit",
+      "severity": "medium",
+      "status": "open",
+      "summary": "idiom_fit: 'run through (money)' is idiomatic, but it does not take an 'on'-complement; 'squander/blow ...",
+      "rationale": "'run through (money)' is idiomatic, but it does not take an 'on'-complement; 'squander/blow ... on' carries the object.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:a68db447e054f9498d18f7765698da50beec5d279867d94be20c142471bf3c48"
+      },
+      "before": "There he ran through all of it on reckless living",
+      "after": "There he squandered all of it on reckless living"
+    }
+  ],
+  "metadata": {
+    "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
+    "source_usfm_version": "7930558bda06244594c61c9a3b882c9cd294a101",
+    "status_enum": [
+      "applied",
+      "deferred-to-human",
+      "dismissed-as-overreach",
+      "dismissed-with-rationale",
+      "open"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "book": "psalms",
+  "chapter": 137,
+  "lang": "AB-DE",
+  "versions": [
+    {
+      "id": "7520be17af5c",
+      "label": "2026-06-13 — publish: 3 updated",
+      "date": "2026-06-13T18:31:41+00:00",
+      "source_usfm_version": "v4.6.2",
+      "aperto_bible_sha": "7520be17af5cf52c48d2378545d9a50a498d60c5",
+      "current": true,
+      "passages": [
+        {
+          "pericope_id": "psalms_137_001",
+          "title": "Psalms 137",
+          "verse_start": 1,
+          "verse_end": 9,
+          "content_hash": "sha256:6d05d6ab85965c8cdd70aa3e63f34a13a4a73128863d04e314e58bdda48e8c51"
+        }
+      ]
+    },
+    {
+      "id": "f89f9221f1b2",
+      "label": "2026-06-13 — publish: 4 updated",
+      "date": "2026-06-13T04:29:04+00:00",
+      "source_usfm_version": "v4.6.1",
+      "aperto_bible_sha": "f89f9221f1b2ca939759d9afea46e76f1a74609d",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "psalms_137_001",
+          "title": "Psalms 137",
+          "verse_start": 1,
+          "verse_end": 9
+        }
+      ]
+    },
+    {
+      "id": "7da2101f6c62",
+      "label": "2026-06-11 — Publish: 165 file(s) updated, 165 changed",
+      "date": "2026-06-11T17:22:07+02:00",
+      "source_usfm_version": "v4.6.0",
+      "aperto_bible_sha": "7da2101f6c6288ba6b882f69552f506a3701a362",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "psalms_137_001",
+          "title": "Psalms 137",
+          "verse_start": 1,
+          "verse_end": 9
+        }
+      ]
+    },
+    {
+      "id": "c4761e699390",
+      "label": "2026-06-05 — Publish validated sampler (de/en/pl): Luke 1, Luke 15, Ps 23",
+      "date": "2026-06-05T17:36:54+02:00",
+      "source_usfm_version": "v4.6",
+      "aperto_bible_sha": "c4761e6993906062d136642b611c34c234b9edba",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "psalms_137_001",
+          "title": "Psalms 137",
+          "verse_start": 1,
+          "verse_end": 9
+        }
+      ]
+    }
+  ]
+}

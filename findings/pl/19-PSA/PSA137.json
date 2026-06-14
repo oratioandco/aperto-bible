@@ -1,0 +1,33 @@
+{
+  "book": "psalms",
+  "chapter": 137,
+  "lang": "AB-PL",
+  "findings": [
+    {
+      "id": "psa_137_idiom_fit_137_7_001",
+      "pericope_id": "psalms_137_001",
+      "verse": "137:7",
+      "critic": "idiom_fit",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "idiom_fit: 'do fundamentów' to fraza stała z 'zburzyć/zrównać'; 'rozbić' (= roztłuc) nie unosi dopełnienia 'miasto/ją' w tym sen...",
+      "rationale": "'do fundamentów' to fraza stała z 'zburzyć/zrównać'; 'rozbić' (= roztłuc) nie unosi dopełnienia 'miasto/ją' w tym sensie.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:5323f7fbb28efefacd8da1d67c647184c05dfcb9c4d1f19a0215b2b3bfb267a0"
+      },
+      "before": "„Rozbijcie ją, rozbijcie, aż do fundamentów!”",
+      "after": "„Zburzcie ją, zburzcie, aż do fundamentów!”"
+    }
+  ],
+  "metadata": {
+    "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
+    "source_usfm_version": "7930558bda06244594c61c9a3b882c9cd294a101",
+    "status_enum": [
+      "applied",
+      "deferred-to-human",
+      "dismissed-as-overreach",
+      "dismissed-with-rationale",
+      "open"
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "book": "luke",
+  "chapter": 1,
+  "lang": "AB-PL",
+  "findings": [
+    {
+      "id": "luk_01_archaism_1_32_001",
+      "pericope_id": "luke_01_annunciation_to_mary",
+      "verse": "1:32",
+      "critic": "archaism",
+      "severity": "high",
+      "status": "deferred-to-human",
+      "summary": "archaism: KJV-equivalent doubled-title",
+      "rationale": "KJV-equivalent doubled-title\n\n— Register call between Lutheran 'Pan Bóg' and a more contemporary Catholic phrasing. Operator: deferred-to-human until a Polish native-speaker reviewer is engaged.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:7d9c8e166e42947b60a43adc948bdaec068d624038c1bc6200d66365666917da"
+      },
+      "before": "Pan Bóg",
+      "after": "\"Bóg\" / recast"
+    },
+    {
+      "id": "luk_01_archaism_1_68_002",
+      "pericope_id": "luke_01_benedictus",
+      "verse": "1:68",
+      "critic": "archaism",
+      "severity": "high",
+      "status": "deferred-to-human",
+      "summary": "archaism: KJV-equivalent doubled-title",
+      "rationale": "KJV-equivalent doubled-title\n\n— Same as 1:32 — deferred-to-human pending PL-native review.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:8a45997e7678c6b8304575e8bf5f937a49312aacff7bebf47fdf1754431598db"
+      },
+      "before": "Pan, Bóg",
+      "after": "\"Bóg\" / recast"
+    },
+    {
+      "id": "luk_01_archaism_1_17_003",
+      "pericope_id": "luke_01_zechariah_announcement",
+      "verse": "1:17",
+      "critic": "archaism",
+      "severity": "medium",
+      "status": "open",
+      "summary": "archaism: genitive-archaic preposition in religious register",
+      "rationale": "genitive-archaic preposition in religious register\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:7d7734b898a842cc4dfeffac73fcc9f447d99eaa3016a685d2c98d008a401452"
+      },
+      "before": "ku",
+      "after": "do / na / dla"
+    },
+    {
+      "id": "luk_01_archaism_1_17_004",
+      "pericope_id": "luke_01_zechariah_announcement",
+      "verse": "1:17",
+      "critic": "archaism",
+      "severity": "medium",
+      "status": "open",
+      "summary": "archaism: genitive-archaic preposition in religious register",
+      "rationale": "genitive-archaic preposition in religious register\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:7d7734b898a842cc4dfeffac73fcc9f447d99eaa3016a685d2c98d008a401452"
+      },
+      "before": "ku",
+      "after": "do / na / dla"
+    },
+    {
+      "id": "luk_01_archaism_1_24_005",
+      "pericope_id": "luke_01_zechariah_announcement",
+      "verse": "1:24",
+      "critic": "archaism",
+      "severity": "medium",
+      "status": "open",
+      "summary": "archaism: OK as adverbial; flag when chained to a finite verb of saying",
+      "rationale": "OK as adverbial; flag when chained to a finite verb of saying\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:7d7734b898a842cc4dfeffac73fcc9f447d99eaa3016a685d2c98d008a401452"
+      },
+      "before": "mówiąc",
+      "after": "(drop or recast)"
+    },
+    {
+      "id": "luk_01_archaism_1_33_006",
+      "pericope_id": "luke_01_annunciation_to_mary",
+      "verse": "1:33",
+      "critic": "archaism",
+      "severity": "medium",
+      "status": "open",
+      "summary": "archaism: OK in liturgical register; flag in narrative",
+      "rationale": "OK in liturgical register; flag in narrative\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:7d9c8e166e42947b60a43adc948bdaec068d624038c1bc6200d66365666917da"
+      },
+      "before": "na wieki",
+      "after": "na zawsze"
+    },
+    {
+      "id": "luk_01_idiom_fit_1_58_007",
+      "pericope_id": "luke_01_birth_and_naming",
+      "verse": "1:58",
+      "critic": "idiom_fit",
+      "severity": "medium",
+      "status": "open",
+      "summary": "idiom_fit: 'obejść się z kimś' łączy się z określeniem sposobu traktowania (łaskawie, surowo); 'hojnie' kolokuje z 'obdarzyć/wyn...",
+      "rationale": "'obejść się z kimś' łączy się z określeniem sposobu traktowania (łaskawie, surowo); 'hojnie' kolokuje z 'obdarzyć/wynagrodzić'.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:053eb7a8a81f81d221ec99c2075e9642afdcfa03877f634b64ed6488798b740e"
+      },
+      "before": "dowiedzieli się, że Pan obszedł się z nią tak hojnie – i cieszyli się razem z nią",
+      "after": "dowiedzieli się, że Pan obszedł się z nią tak łaskawie – i cieszyli się razem z nią"
+    },
+    {
+      "id": "luk_01_idiom_fit_1_9_008",
+      "pericope_id": "luke_01_zechariah_announcement",
+      "verse": "1:9",
+      "critic": "idiom_fit",
+      "severity": "low",
+      "status": "open",
+      "summary": "idiom_fit: 'ofiara z czego' wskazuje materię/żertwę (z baranka); dla kadzidła naturalniejsza jest 'ofiara kadzielna' / 'ofiara k...",
+      "rationale": "'ofiara z czego' wskazuje materię/żertwę (z baranka); dla kadzidła naturalniejsza jest 'ofiara kadzielna' / 'ofiara kadzenia'.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:7d7734b898a842cc4dfeffac73fcc9f447d99eaa3016a685d2c98d008a401452"
+      },
+      "before": "i jemu wypadło wejść do przybytku Pana i złożyć ofiarę z kadzidła",
+      "after": "i jemu wypadło wejść do przybytku Pana i złożyć ofiarę kadzielną"
+    },
+    {
+      "id": "luk_01_idiom_fit_1_39_009",
+      "pericope_id": "luke_01_visitation",
+      "verse": "1:39",
+      "critic": "idiom_fit",
+      "severity": "low",
+      "status": "open",
+      "summary": "idiom_fit: 'wyruszyć w' bierze drogę/góry/świat; cel typu 'kraj/kraina' naturalniej z 'do' (wyruszyć do krainy).",
+      "rationale": "'wyruszyć w' bierze drogę/góry/świat; cel typu 'kraj/kraina' naturalniej z 'do' (wyruszyć do krainy).\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:409df5dd5c33d65641b92560365fcb8ea2e58cbe014f362567b45738cdf62666"
+      },
+      "before": "Maria wyruszyła zaraz. Spiesznie – w górzysty kraj Judei.",
+      "after": "Maria wyruszyła zaraz. Spiesznie – do górzystej krainy Judei."
+    },
+    {
+      "id": "luk_01_comprehension_gap_1_15_010",
+      "pericope_id": "luke_01_zechariah_announcement",
+      "verse": "1:15",
+      "critic": "comprehension_gap",
+      "severity": "high",
+      "status": "dismissed-with-rationale",
+      "summary": "comprehension_gap: Pierwsze wystąpienie.",
+      "rationale": "Pierwsze wystąpienie. Przypisy 1:13/1:15/1:17 dotyczą passivum divinum, nazireatu i Eliasza — żaden nie tyka Ducha. Brak ramienia ruach; zostaje katechetyczny Trójca-jako-kategoria.\n\n— Annex assessment: existing footnote or \\add covers the term. The critic flag is informational, no edit required.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:7d7734b898a842cc4dfeffac73fcc9f447d99eaa3016a685d2c98d008a401452"
+      },
+      "before": "Duch Święty",
+      "after": "Krótki przypis: Duch (hebr. ruach – tchnienie, ożywiająca obecność Boga), ta sama moc, która działała w prorokach, teraz napełnia Jana już w łonie."
+    },
+    {
+      "id": "luk_01_comprehension_gap_1_50_011",
+      "pericope_id": "luke_01_magnificat",
+      "verse": "1:50",
+      "critic": "comprehension_gap",
+      "severity": "high",
+      "status": "dismissed-with-rationale",
+      "summary": "comprehension_gap: Magnificat 1:50 — hesed load-bearing.",
+      "rationale": "Magnificat 1:50 — hesed load-bearing. Przypisy dotyczą tapeinosis, bojaźni Bożej, aorystu gnomicznego; żaden nie tyka miłosierdzia. Stereotyp JP2 Boże Miłosierdzie nie wyprostowany.\n\n— Annex assessment: existing footnote or \\add covers the term. The critic flag is informational, no edit required.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:c96c1f2b895e43312f9bf815df428a024e0fd72f7410dcc882ab1411c7de03bd"
+      },
+      "before": "miłosierdzie",
+      "after": "Przypis: miłosierdzie (gr. eleos, hebr. hesed) – nie tyle litość, ile wierność przymierzu, lojalność dotrzymana z pokolenia na pokolenie."
+    },
+    {
+      "id": "luk_01_sensitivity_1_16_012",
+      "pericope_id": "luke_01_zechariah_announcement",
+      "verse": "1:16",
+      "critic": "sensitivity",
+      "severity": "low",
+      "status": "open",
+      "summary": "sensitivity: źródło oznacza cały lud (Hebraizm), nie tylko mężczyzn; forma obejmująca niesie ten sam sens, lecz „synowie Izraela”...",
+      "rationale": "źródło oznacza cały lud (Hebraizm), nie tylko mężczyzn; forma obejmująca niesie ten sam sens, lecz „synowie Izraela” to też utrwalony idiom biblijny – stąd niska waga.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:7d7734b898a842cc4dfeffac73fcc9f447d99eaa3016a685d2c98d008a401452"
+      },
+      "before": "Wielu synów Izraela nawróci do Pana, ich Boga.",
+      "after": "Wielu z ludu Izraela nawróci do Pana, ich Boga."
+    }
+  ],
+  "metadata": {
+    "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
+    "source_usfm_version": "7930558bda06244594c61c9a3b882c9cd294a101",
+    "status_enum": [
+      "applied",
+      "deferred-to-human",
+      "dismissed-as-overreach",
+      "dismissed-with-rationale",
+      "open"
+    ]
+  }
+}

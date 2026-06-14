@@ -1,0 +1,33 @@
+{
+  "book": "psalms",
+  "chapter": 137,
+  "lang": "AB-DE",
+  "findings": [
+    {
+      "id": "psa_137_idiom_fit_137_3_001",
+      "pericope_id": "psalms_137_001",
+      "verse": "137:3",
+      "critic": "idiom_fit",
+      "severity": "low",
+      "status": "applied",
+      "summary": "idiom_fit: ‚Jubel verlangen' ist als Verb-Objekt-Bindung markiert; ‚verlangen' trägt eher konkrete Objekte (Lieder) als abstrakt...",
+      "rationale": "‚Jubel verlangen' ist als Verb-Objekt-Bindung markiert; ‚verlangen' trägt eher konkrete Objekte (Lieder) als abstraktes ‚Jubel'.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:6d05d6ab85965c8cdd70aa3e63f34a13a4a73128863d04e314e58bdda48e8c51"
+      },
+      "before": "verlangten unsere Bewacher Lieder, unsere Peiniger Jubel",
+      "after": "verlangten unsere Bewacher Lieder, unsere Peiniger Jubelgesang"
+    }
+  ],
+  "metadata": {
+    "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
+    "source_usfm_version": "uncommitted-2026-06-12T18:04:31",
+    "status_enum": [
+      "applied",
+      "deferred-to-human",
+      "dismissed-as-overreach",
+      "dismissed-with-rationale",
+      "open"
+    ]
+  }
+}

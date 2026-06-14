@@ -1,0 +1,132 @@
+{
+  "book": "luke",
+  "chapter": 15,
+  "lang": "AB-DE",
+  "versions": [
+    {
+      "id": "7da2101f6c62",
+      "label": "2026-06-11 — Publish: 165 file(s) updated, 165 changed",
+      "date": "2026-06-11T17:22:07+02:00",
+      "source_usfm_version": "v4.7.0",
+      "aperto_bible_sha": "7da2101f6c6288ba6b882f69552f506a3701a362",
+      "current": true,
+      "passages": [
+        {
+          "pericope_id": "luke_15_frame_pharisees_grumble",
+          "title": "An Jesu Tisch",
+          "verse_start": 1,
+          "verse_end": 3,
+          "content_hash": "sha256:c800119c498c221a99a8761cbc689a52562d18818c69e8add84fd6c5425febdb"
+        },
+        {
+          "pericope_id": "luke_15_the_lost_sheep",
+          "title": "Das verlorene Schaf",
+          "verse_start": 4,
+          "verse_end": 7,
+          "content_hash": "sha256:5febc2218b371c93fb084944d4cdef2980b25be4865776b4f9bc43e639b7741a"
+        },
+        {
+          "pericope_id": "luke_15_the_lost_coin",
+          "title": "Die verlorene Drachme",
+          "verse_start": 8,
+          "verse_end": 10,
+          "content_hash": "sha256:6809ac651a551b2b30371f701df65c47fabf73e80583fdd3c4157d8c5ec19838"
+        },
+        {
+          "pericope_id": "luke_15_prodigal_younger_son",
+          "title": "Der jüngere Sohn",
+          "verse_start": 11,
+          "verse_end": 24,
+          "content_hash": "sha256:10970961e0bd0929b0615e931fd448e93fd8bd39d74c241a97c554dba4d905ef"
+        },
+        {
+          "pericope_id": "luke_15_prodigal_elder_son",
+          "title": "Der ältere Sohn",
+          "verse_start": 25,
+          "verse_end": 32,
+          "content_hash": "sha256:63c01e9901a7425e3e52e462e938d6077c7bcc21aa315bd7aebf00c3a1afdbb0"
+        }
+      ]
+    },
+    {
+      "id": "c4761e699390",
+      "label": "2026-06-05 — Publish validated sampler (de/en/pl): Luke 1, Luke 15, Ps 23",
+      "date": "2026-06-05T17:36:54+02:00",
+      "source_usfm_version": "v4.7",
+      "aperto_bible_sha": "c4761e6993906062d136642b611c34c234b9edba",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_15_frame_pharisees_grumble",
+          "title": "An Jesu Tisch",
+          "verse_start": 1,
+          "verse_end": 3
+        },
+        {
+          "pericope_id": "luke_15_the_lost_sheep",
+          "title": "Das verlorene Schaf",
+          "verse_start": 4,
+          "verse_end": 7
+        },
+        {
+          "pericope_id": "luke_15_the_lost_coin",
+          "title": "Die verlorene Drachme",
+          "verse_start": 8,
+          "verse_end": 10
+        },
+        {
+          "pericope_id": "luke_15_prodigal_younger_son",
+          "title": "Der jüngere Sohn",
+          "verse_start": 11,
+          "verse_end": 24
+        },
+        {
+          "pericope_id": "luke_15_prodigal_elder_son",
+          "title": "Der ältere Sohn",
+          "verse_start": 25,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "id": "b1b85f87042a",
+      "label": "2026-04-29 — Initial release: Aperto Bible — Luke in 3 languages + 28 tra",
+      "date": "2026-04-29T12:21:13+02:00",
+      "source_usfm_version": "v4.0",
+      "aperto_bible_sha": "b1b85f87042a8eac92e95acdee70f88950c14bf6",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_15_frame_pharisees_grumble",
+          "title": "An Jesu Tisch",
+          "verse_start": 1,
+          "verse_end": 3
+        },
+        {
+          "pericope_id": "luke_15_the_lost_sheep",
+          "title": "Das verlorene Schaf",
+          "verse_start": 4,
+          "verse_end": 7
+        },
+        {
+          "pericope_id": "luke_15_the_lost_coin",
+          "title": "Die verlorene Drachme",
+          "verse_start": 8,
+          "verse_end": 10
+        },
+        {
+          "pericope_id": "luke_15_prodigal_younger_son",
+          "title": "Der jüngere Sohn",
+          "verse_start": 11,
+          "verse_end": 24
+        },
+        {
+          "pericope_id": "luke_15_prodigal_elder_son",
+          "title": "Der ältere Sohn",
+          "verse_start": 25,
+          "verse_end": 32
+        }
+      ]
+    }
+  ]
+}

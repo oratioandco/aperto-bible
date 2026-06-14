@@ -1,0 +1,198 @@
+{
+  "book": "luke",
+  "chapter": 1,
+  "lang": "AB-EN",
+  "findings": [
+    {
+      "id": "luk_01_archaism_1_39_001",
+      "pericope_id": "luke_01_visitation",
+      "verse": "1:39",
+      "critic": "archaism",
+      "severity": "medium",
+      "status": "open",
+      "summary": "archaism: KJV opener; flag in narrative",
+      "rationale": "KJV opener; flag in narrative\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:407d5d8cc5a41a3d73ddceb7309fdd397d1b236c92fdc9e1a98634a39adab92d"
+      },
+      "before": "In those days",
+      "after": "\"back then\" / \"at that time\""
+    },
+    {
+      "id": "luk_01_archaism_1_5_002",
+      "pericope_id": "luke_01_zechariah_announcement",
+      "verse": "1:5",
+      "critic": "archaism",
+      "severity": "medium",
+      "status": "open",
+      "summary": "archaism: KJV opener",
+      "rationale": "KJV opener\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:8ecac25e3137c9005bf6924e1b1285e440ce297b008d7c4d8b0c9941b484f79b"
+      },
+      "before": "In the days of",
+      "after": "\"during the time of\" / \"when ... ruled\""
+    },
+    {
+      "id": "luk_01_orthography_1_35_003",
+      "pericope_id": "luke_01_annunciation_to_mary",
+      "verse": "1:35",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "orthography: Asymmetric em-dash spacing",
+      "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:ddd765f65a4792c0114a4cf02a7c3e8ffe4fc2759d54ea5b3af8d41d10db7495"
+      },
+      "before": "u— t",
+      "after": "word—word (remove trailing space)"
+    },
+    {
+      "id": "luk_01_orthography_1_39_004",
+      "pericope_id": "luke_01_visitation",
+      "verse": "1:39",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "orthography: Asymmetric em-dash spacing",
+      "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:407d5d8cc5a41a3d73ddceb7309fdd397d1b236c92fdc9e1a98634a39adab92d"
+      },
+      "before": "g— s",
+      "after": "word—word (remove trailing space)"
+    },
+    {
+      "id": "luk_01_orthography_1_59_005",
+      "pericope_id": "luke_01_birth_and_naming",
+      "verse": "1:59",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "orthography: Asymmetric em-dash spacing",
+      "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:4e86842bc70d88159d1b8d10c734bbb936fac2f9bec7cd4b518b2c8242676462"
+      },
+      "before": "d— t",
+      "after": "word—word (remove trailing space)"
+    },
+    {
+      "id": "luk_01_orthography_1_63_006",
+      "pericope_id": "luke_01_birth_and_naming",
+      "verse": "1:63",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "open",
+      "summary": "orthography: Project policy: lowercase divine pronouns",
+      "rationale": "Project policy: lowercase divine pronouns\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:4e86842bc70d88159d1b8d10c734bbb936fac2f9bec7cd4b518b2c8242676462"
+      },
+      "before": "His",
+      "after": "his (project policy: lowercase divine pronouns)"
+    },
+    {
+      "id": "luk_01_orthography_1_64_007",
+      "pericope_id": "luke_01_birth_and_naming",
+      "verse": "1:64",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "orthography: Asymmetric em-dash spacing",
+      "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:4e86842bc70d88159d1b8d10c734bbb936fac2f9bec7cd4b518b2c8242676462"
+      },
+      "before": "d— a",
+      "after": "word—word (remove trailing space)"
+    },
+    {
+      "id": "luk_01_idiom_fit_1_12_008",
+      "pericope_id": "luke_01_zechariah_announcement",
+      "verse": "1:12",
+      "critic": "idiom_fit",
+      "severity": "medium",
+      "status": "open",
+      "summary": "idiom_fit: 'fall over' reads as a physical trip; for an emotion sweeping in, modern literary usage takes 'come over.'",
+      "rationale": "'fall over' reads as a physical trip; for an emotion sweeping in, modern literary usage takes 'come over.'\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:8ecac25e3137c9005bf6924e1b1285e440ce297b008d7c4d8b0c9941b484f79b"
+      },
+      "before": "Zechariah saw him, and fear fell over him.",
+      "after": "Zechariah saw him, and fear came over him."
+    },
+    {
+      "id": "luk_01_idiom_fit_1_28_009",
+      "pericope_id": "luke_01_annunciation_to_mary",
+      "verse": "1:28",
+      "critic": "idiom_fit",
+      "severity": "low",
+      "status": "applied",
+      "summary": "idiom_fit: 'set X on someone' idiomatically takes heart/eyes/sights, not 'kindness'; the binding is slightly off, though inside...",
+      "rationale": "'set X on someone' idiomatically takes heart/eyes/sights, not 'kindness'; the binding is slightly off, though inside angelic speech.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:ddd765f65a4792c0114a4cf02a7c3e8ffe4fc2759d54ea5b3af8d41d10db7495"
+      },
+      "before": "God has set his kindness on you; the Lord is with you.",
+      "after": "God has shown his kindness to you; the Lord is with you."
+    },
+    {
+      "id": "luk_01_comprehension_gap_1_33_010",
+      "pericope_id": "luke_01_annunciation_to_mary",
+      "verse": "1:33",
+      "critic": "comprehension_gap",
+      "severity": "high",
+      "status": "dismissed-with-rationale",
+      "summary": "comprehension_gap: Footnote 1:32-33 covers throne/David/kingdom but never the Hebraism: 'house of Jacob' = all Israel, the chosen people.",
+      "rationale": "Footnote 1:32-33 covers throne/David/kingdom but never the Hebraism: 'house of Jacob' = all Israel, the chosen people. Modern reader may hear Jacob's family.\n\n— Annex assessment: existing footnote or \\add covers the term. The critic flag is informational, no edit required.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:ddd765f65a4792c0114a4cf02a7c3e8ffe4fc2759d54ea5b3af8d41d10db7495"
+      },
+      "before": "house of Jacob",
+      "after": "Gloss in text ('all Israel') or footnote: house of Jacob = the whole people descended from Jacob/Israel."
+    },
+    {
+      "id": "luk_01_comprehension_gap_1_5_011",
+      "pericope_id": "luke_01_zechariah_announcement",
+      "verse": "1:5",
+      "critic": "comprehension_gap",
+      "severity": "high",
+      "status": "dismissed-with-rationale",
+      "summary": "comprehension_gap: 'daughters of Aaron' has no illumination; the Abijah note explains divisions, not who Aaron is.",
+      "rationale": "'daughters of Aaron' has no illumination; the Abijah note explains divisions, not who Aaron is. Reader misses that Elizabeth carries priestly descent (double-priestly house).\n\n— Annex assessment: existing footnote or \\add covers the term. The critic flag is informational, no edit required.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:8ecac25e3137c9005bf6924e1b1285e440ce297b008d7c4d8b0c9941b484f79b"
+      },
+      "before": "daughters of Aaron",
+      "after": "Add note: Aaron, brother of Moses, the first priest — so Elizabeth too is of priestly blood; a doubly priestly household."
+    },
+    {
+      "id": "luk_01_comprehension_gap_1_5_012",
+      "pericope_id": "luke_01_zechariah_announcement",
+      "verse": "1:5",
+      "critic": "comprehension_gap",
+      "severity": "medium",
+      "status": "dismissed-with-rationale",
+      "summary": "comprehension_gap: 'king of Judea' stands bare; no footnote/add names Judea as the Jewish heartland around Jerusalem vs Galilee.",
+      "rationale": "'king of Judea' stands bare; no footnote/add names Judea as the Jewish heartland around Jerusalem vs Galilee. The Herod note touches Judea only as a throne.\n\n— Annex assessment: existing footnote or \\add covers the term. The critic flag is informational, no edit required.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:8ecac25e3137c9005bf6924e1b1285e440ce297b008d7c4d8b0c9941b484f79b"
+      },
+      "before": "Judea",
+      "after": "Brief note or apposition: Judea = the Jewish heartland around Jerusalem, distinct from rural Galilee to the north."
+    }
+  ],
+  "metadata": {
+    "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
+    "source_usfm_version": "7930558bda06244594c61c9a3b882c9cd294a101",
+    "status_enum": [
+      "applied",
+      "deferred-to-human",
+      "dismissed-as-overreach",
+      "dismissed-with-rationale",
+      "open"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "book": "psalms",
+  "chapter": 137,
+  "lang": "AB-PL",
+  "versions": [
+    {
+      "id": "7da2101f6c62",
+      "label": "2026-06-11 — Publish: 165 file(s) updated, 165 changed",
+      "date": "2026-06-11T17:22:07+02:00",
+      "source_usfm_version": "v4.7.0",
+      "aperto_bible_sha": "7da2101f6c6288ba6b882f69552f506a3701a362",
+      "current": true,
+      "passages": [
+        {
+          "pericope_id": "psalms_137_001",
+          "title": "Psalms 137",
+          "verse_start": 1,
+          "verse_end": 9,
+          "content_hash": "sha256:5323f7fbb28efefacd8da1d67c647184c05dfcb9c4d1f19a0215b2b3bfb267a0"
+        }
+      ]
+    },
+    {
+      "id": "c4761e699390",
+      "label": "2026-06-05 — Publish validated sampler (de/en/pl): Luke 1, Luke 15, Ps 23",
+      "date": "2026-06-05T17:36:54+02:00",
+      "source_usfm_version": "v4.7",
+      "aperto_bible_sha": "c4761e6993906062d136642b611c34c234b9edba",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "psalms_137_001",
+          "title": "Psalms 137",
+          "verse_start": 1,
+          "verse_end": 9
+        }
+      ]
+    }
+  ]
+}

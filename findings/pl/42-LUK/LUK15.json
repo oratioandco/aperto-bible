@@ -1,0 +1,48 @@
+{
+  "book": "luke",
+  "chapter": 15,
+  "lang": "AB-PL",
+  "findings": [
+    {
+      "id": "luk_15_idiom_fit_15_17_001",
+      "pericope_id": "luke_15_prodigal_younger_son",
+      "verse": "15:17",
+      "critic": "idiom_fit",
+      "severity": "medium",
+      "status": "open",
+      "summary": "idiom_fit: 'marnieć' łączy się raczej z 'w samotności / bezczynnie'; z 'głodem' natywne jest 'umierać/ginąć z głodu' lub 'przymi...",
+      "rationale": "'marnieć' łączy się raczej z 'w samotności / bezczynnie'; z 'głodem' natywne jest 'umierać/ginąć z głodu' lub 'przymierać głodem'.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:6d4779c7d5731d86a379a9a1c28469c90a84da948f65be5af73cdbf01793ca47"
+      },
+      "before": "a ja tu marnieję z głodu",
+      "after": "a ja tu umieram z głodu"
+    },
+    {
+      "id": "luk_15_idiom_fit_15_4_002",
+      "pericope_id": "luke_15_the_lost_sheep",
+      "verse": "15:4",
+      "critic": "idiom_fit",
+      "severity": "low",
+      "status": "open",
+      "summary": "idiom_fit: 'iść za kim' sugeruje podążanie za kimś z przodu; zagubionej owcy się szuka, nie podąża za nią, choć użycie jest na g...",
+      "rationale": "'iść za kim' sugeruje podążanie za kimś z przodu; zagubionej owcy się szuka, nie podąża za nią, choć użycie jest na granicy poświadczone.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:07c9d3f382383bfb63e595fccb21942899f81b7a4b2342dc01044f6e6bc574f0"
+      },
+      "before": "i nie pójdzie za tą jedną zagubioną – aż ją znajdzie",
+      "after": "i nie pójdzie szukać tej jednej zagubionej – aż ją znajdzie"
+    }
+  ],
+  "metadata": {
+    "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
+    "source_usfm_version": "7930558bda06244594c61c9a3b882c9cd294a101",
+    "status_enum": [
+      "applied",
+      "deferred-to-human",
+      "dismissed-as-overreach",
+      "dismissed-with-rationale",
+      "open"
+    ]
+  }
+}

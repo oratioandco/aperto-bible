@@ -1,0 +1,43 @@
+{
+  "book": "psalms",
+  "chapter": 23,
+  "lang": "AB-PL",
+  "versions": [
+    {
+      "id": "99d86020d8bb",
+      "label": "2026-06-13 — publish: 5 updated",
+      "date": "2026-06-13T14:58:15+00:00",
+      "source_usfm_version": "v4.5.1",
+      "aperto_bible_sha": "99d86020d8bbc7353153ce04fabe46e9a0574da4",
+      "current": true,
+      "passages": []
+    },
+    {
+      "id": "7da2101f6c62",
+      "label": "2026-06-11 — Publish: 165 file(s) updated, 165 changed",
+      "date": "2026-06-11T17:22:07+02:00",
+      "source_usfm_version": "v4.5.0",
+      "aperto_bible_sha": "7da2101f6c6288ba6b882f69552f506a3701a362",
+      "current": false,
+      "passages": []
+    },
+    {
+      "id": "c4761e699390",
+      "label": "2026-06-05 — Publish validated sampler (de/en/pl): Luke 1, Luke 15, Ps 23",
+      "date": "2026-06-05T17:36:54+02:00",
+      "source_usfm_version": "v4.5",
+      "aperto_bible_sha": "c4761e6993906062d136642b611c34c234b9edba",
+      "current": false,
+      "passages": []
+    },
+    {
+      "id": "1701ef91f288",
+      "label": "2026-04-29 — Restructure: flat language layout + add EN/PL Psalms",
+      "date": "2026-04-29T13:19:58+02:00",
+      "source_usfm_version": "v4.3",
+      "aperto_bible_sha": "1701ef91f288ce968aed7dda5f1f342bae7705a5",
+      "current": false,
+      "passages": []
+    }
+  ]
+}

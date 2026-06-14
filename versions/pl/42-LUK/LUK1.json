@@ -1,0 +1,305 @@
+{
+  "book": "luke",
+  "chapter": 1,
+  "lang": "AB-PL",
+  "versions": [
+    {
+      "id": "99d86020d8bb",
+      "label": "2026-06-13 — publish: 5 updated",
+      "date": "2026-06-13T14:58:15+00:00",
+      "source_usfm_version": "v4.9.2",
+      "aperto_bible_sha": "99d86020d8bbc7353153ce04fabe46e9a0574da4",
+      "current": true,
+      "passages": [
+        {
+          "pericope_id": "luke_01_prologue",
+          "title": "Dlaczego to piszę",
+          "verse_start": 1,
+          "verse_end": 4,
+          "content_hash": "sha256:6f4e6895d6312bac3ba26135d9f9602e95e9b369f4ff025a0bf1f55931773bd0"
+        },
+        {
+          "pericope_id": "luke_01_zechariah_announcement",
+          "title": "Obietnica złożona staremu kapłanowi",
+          "verse_start": 5,
+          "verse_end": 25,
+          "content_hash": "sha256:7d7734b898a842cc4dfeffac73fcc9f447d99eaa3016a685d2c98d008a401452"
+        },
+        {
+          "pericope_id": "luke_01_annunciation_to_mary",
+          "title": "Zwiastowanie narodzin Jezusa",
+          "verse_start": 26,
+          "verse_end": 38,
+          "content_hash": "sha256:7d9c8e166e42947b60a43adc948bdaec068d624038c1bc6200d66365666917da"
+        },
+        {
+          "pericope_id": "luke_01_visitation",
+          "title": "Maria u Elżbiety",
+          "verse_start": 39,
+          "verse_end": 45,
+          "content_hash": "sha256:409df5dd5c33d65641b92560365fcb8ea2e58cbe014f362567b45738cdf62666"
+        },
+        {
+          "pericope_id": "luke_01_magnificat",
+          "title": "Pieśń Marii",
+          "verse_start": 46,
+          "verse_end": 56,
+          "content_hash": "sha256:c96c1f2b895e43312f9bf815df428a024e0fd72f7410dcc882ab1411c7de03bd"
+        },
+        {
+          "pericope_id": "luke_01_birth_and_naming",
+          "title": "Narodziny Jana",
+          "verse_start": 57,
+          "verse_end": 66,
+          "content_hash": "sha256:053eb7a8a81f81d221ec99c2075e9642afdcfa03877f634b64ed6488798b740e"
+        },
+        {
+          "pericope_id": "luke_01_benedictus",
+          "title": "Proroctwo Zachariasza",
+          "verse_start": 67,
+          "verse_end": 79,
+          "content_hash": "sha256:8a45997e7678c6b8304575e8bf5f937a49312aacff7bebf47fdf1754431598db"
+        },
+        {
+          "pericope_id": "luke_01_coda",
+          "title": "Dorastanie na pustkowiu",
+          "verse_start": 80,
+          "verse_end": 80,
+          "content_hash": "sha256:55737978237e4e3b97a1dbca649a0d3c41589b66d9ba5b67a58e3790c2707a70"
+        }
+      ]
+    },
+    {
+      "id": "0cdab3d5ca17",
+      "label": "2026-06-13 — publish: 5 updated",
+      "date": "2026-06-13T10:28:03+00:00",
+      "source_usfm_version": "v4.9.1",
+      "aperto_bible_sha": "0cdab3d5ca177ba6ab4fe1609858f7dff1ec6812",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_01_prologue",
+          "title": "Dlaczego to piszę",
+          "verse_start": 1,
+          "verse_end": 4
+        },
+        {
+          "pericope_id": "luke_01_zechariah_announcement",
+          "title": "Obietnica złożona staremu kapłanowi",
+          "verse_start": 5,
+          "verse_end": 25
+        },
+        {
+          "pericope_id": "luke_01_annunciation_to_mary",
+          "title": "Zwiastowanie narodzin Jezusa",
+          "verse_start": 26,
+          "verse_end": 38
+        },
+        {
+          "pericope_id": "luke_01_visitation",
+          "title": "Maria u Elżbiety",
+          "verse_start": 39,
+          "verse_end": 45
+        },
+        {
+          "pericope_id": "luke_01_magnificat",
+          "title": "Pieśń Marii",
+          "verse_start": 46,
+          "verse_end": 56
+        },
+        {
+          "pericope_id": "luke_01_birth_and_naming",
+          "title": "Narodziny Jana",
+          "verse_start": 57,
+          "verse_end": 66
+        },
+        {
+          "pericope_id": "luke_01_benedictus",
+          "title": "Proroctwo Zachariasza",
+          "verse_start": 67,
+          "verse_end": 79
+        },
+        {
+          "pericope_id": "luke_01_coda",
+          "title": "Dorastanie na pustkowiu",
+          "verse_start": 80,
+          "verse_end": 80
+        }
+      ]
+    },
+    {
+      "id": "7da2101f6c62",
+      "label": "2026-06-11 — Publish: 165 file(s) updated, 165 changed",
+      "date": "2026-06-11T17:22:07+02:00",
+      "source_usfm_version": "v4.9.0",
+      "aperto_bible_sha": "7da2101f6c6288ba6b882f69552f506a3701a362",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_01_prologue",
+          "title": "Dlaczego to piszę",
+          "verse_start": 1,
+          "verse_end": 4
+        },
+        {
+          "pericope_id": "luke_01_zechariah_announcement",
+          "title": "Obietnica złożona staremu kapłanowi",
+          "verse_start": 5,
+          "verse_end": 25
+        },
+        {
+          "pericope_id": "luke_01_annunciation_to_mary",
+          "title": "Zwiastowanie narodzin Jezusa",
+          "verse_start": 26,
+          "verse_end": 38
+        },
+        {
+          "pericope_id": "luke_01_visitation",
+          "title": "Maria u Elżbiety",
+          "verse_start": 39,
+          "verse_end": 45
+        },
+        {
+          "pericope_id": "luke_01_magnificat",
+          "title": "Pieśń Marii",
+          "verse_start": 46,
+          "verse_end": 56
+        },
+        {
+          "pericope_id": "luke_01_birth_and_naming",
+          "title": "Narodziny Jana",
+          "verse_start": 57,
+          "verse_end": 66
+        },
+        {
+          "pericope_id": "luke_01_benedictus",
+          "title": "Proroctwo Zachariasza",
+          "verse_start": 67,
+          "verse_end": 79
+        },
+        {
+          "pericope_id": "luke_01_coda",
+          "title": "Dorastanie na pustkowiu",
+          "verse_start": 80,
+          "verse_end": 80
+        }
+      ]
+    },
+    {
+      "id": "c4761e699390",
+      "label": "2026-06-05 — Publish validated sampler (de/en/pl): Luke 1, Luke 15, Ps 23",
+      "date": "2026-06-05T17:36:54+02:00",
+      "source_usfm_version": "v4.9",
+      "aperto_bible_sha": "c4761e6993906062d136642b611c34c234b9edba",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_01_prologue",
+          "title": "Dlaczego to piszę",
+          "verse_start": 1,
+          "verse_end": 4
+        },
+        {
+          "pericope_id": "luke_01_zechariah_announcement",
+          "title": "Obietnica złożona staremu kapłanowi",
+          "verse_start": 5,
+          "verse_end": 25
+        },
+        {
+          "pericope_id": "luke_01_annunciation_to_mary",
+          "title": "Zwiastowanie narodzin Jezusa",
+          "verse_start": 26,
+          "verse_end": 38
+        },
+        {
+          "pericope_id": "luke_01_visitation",
+          "title": "Maria u Elżbiety",
+          "verse_start": 39,
+          "verse_end": 45
+        },
+        {
+          "pericope_id": "luke_01_magnificat",
+          "title": "Pieśń Marii",
+          "verse_start": 46,
+          "verse_end": 56
+        },
+        {
+          "pericope_id": "luke_01_birth_and_naming",
+          "title": "Narodziny Jana",
+          "verse_start": 57,
+          "verse_end": 66
+        },
+        {
+          "pericope_id": "luke_01_benedictus",
+          "title": "Proroctwo Zachariasza",
+          "verse_start": 67,
+          "verse_end": 79
+        },
+        {
+          "pericope_id": "luke_01_coda",
+          "title": "Dorastanie na pustkowiu",
+          "verse_start": 80,
+          "verse_end": 80
+        }
+      ]
+    },
+    {
+      "id": "b1b85f87042a",
+      "label": "2026-04-29 — Initial release: Aperto Bible — Luke in 3 languages + 28 tra",
+      "date": "2026-04-29T12:21:13+02:00",
+      "source_usfm_version": "v4.3",
+      "aperto_bible_sha": "b1b85f87042a8eac92e95acdee70f88950c14bf6",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_01_prologue",
+          "title": "Dlaczego to piszę",
+          "verse_start": 1,
+          "verse_end": 4
+        },
+        {
+          "pericope_id": "luke_01_zechariah_announcement",
+          "title": "Obietnica złożona staremu kapłanowi",
+          "verse_start": 5,
+          "verse_end": 25
+        },
+        {
+          "pericope_id": "luke_01_annunciation_to_mary",
+          "title": "Zwiastowanie narodzin Jezusa",
+          "verse_start": 26,
+          "verse_end": 38
+        },
+        {
+          "pericope_id": "luke_01_visitation",
+          "title": "Maria u Elżbiety",
+          "verse_start": 39,
+          "verse_end": 45
+        },
+        {
+          "pericope_id": "luke_01_magnificat",
+          "title": "Pieśń Marii",
+          "verse_start": 46,
+          "verse_end": 56
+        },
+        {
+          "pericope_id": "luke_01_birth_and_naming",
+          "title": "Narodziny Jana",
+          "verse_start": 57,
+          "verse_end": 66
+        },
+        {
+          "pericope_id": "luke_01_benedictus",
+          "title": "Proroctwo Zachariasza",
+          "verse_start": 67,
+          "verse_end": 79
+        },
+        {
+          "pericope_id": "luke_01_coda",
+          "title": "Dorastanie na pustkowiu",
+          "verse_start": 80,
+          "verse_end": 80
+        }
+      ]
+    }
+  ]
+}

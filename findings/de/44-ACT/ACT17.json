@@ -1,0 +1,107 @@
+{
+  "book": "acts",
+  "chapter": 17,
+  "lang": "AB-DE",
+  "findings": [
+    {
+      "id": "act_17_archaism_17_18_001",
+      "pericope_id": "acts_17_athens_agora_frame",
+      "verse": "17:18",
+      "critic": "archaism",
+      "severity": "medium",
+      "status": "open",
+      "summary": "archaism: narrative-formal preterite; literary OK in elevated register only",
+      "rationale": "narrative-formal preterite; literary OK in elevated register only\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:845b9f52416848e2fee3993eea723878329131d2007f74db80f1e8e29db460cc"
+      },
+      "before": "sprach",
+      "after": "sagte"
+    },
+    {
+      "id": "act_17_orthography_17_18_002",
+      "pericope_id": "acts_17_athens_agora_frame",
+      "verse": "17:18",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "orthography: Project policy: DE surface text uses German „…\" quotes, not English straight \"…\".",
+      "rationale": "Project policy: DE surface text uses German „…\" quotes, not English straight \"…\". See DE_NARRATIVE.md / LEXICON §F Punctuation.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:845b9f52416848e2fee3993eea723878329131d2007f74db80f1e8e29db460cc"
+      },
+      "before": "\" Sie meinten einen Vogel, der über den Markt hüpft und Krümel aufliest, einen Sammler halber Gedanken. Andere sagten: „Es klingt, als verkünde er fremde Gottheiten.\"",
+      "after": "replace with German double-low quotes (low-open + high-close)"
+    },
+    {
+      "id": "act_17_comprehension_gap_17_10_003",
+      "pericope_id": "acts_17_ii_beroea",
+      "verse": "17:10",
+      "critic": "comprehension_gap",
+      "severity": "high",
+      "status": "open",
+      "summary": "comprehension_gap: Fußnoten 17,11 charakterisieren Synagoge explizit als gemeinschaftlichen Studienraum („gemeinsam, in der Synagoge\", „...",
+      "rationale": "Fußnoten 17,11 charakterisieren Synagoge explizit als gemeinschaftlichen Studienraum („gemeinsam, in der Synagoge\", „die Synagoge am Werktag\") — Studien-/Gemeinschaftsfunktion gedeckt.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:60eab0decf49426ce3ffaf738e0d814d3d1f67306d892c967c2f7fbe83a8b7a2"
+      },
+      "before": "Synagoge"
+    },
+    {
+      "id": "act_17_comprehension_gap_17_3_004",
+      "pericope_id": "acts_17_thessalonica_beroea",
+      "verse": "17:3",
+      "critic": "comprehension_gap",
+      "severity": "high",
+      "status": "open",
+      "summary": "comprehension_gap: Text behandelt Messias als Titel (leidet, stirbt, aufersteht), dispelt „Nachname\".",
+      "rationale": "Text behandelt Messias als Titel (leidet, stirbt, aufersteht), dispelt „Nachname\". Aber die konkrete Opazität — gesalbter König aus Davidlinie — wird nirgends gedeckt; keine Fußnote.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:806de44f75ddbb42b9fdc30b36c2f0b03ee4fda22f67644610eeb729adb411f3"
+      },
+      "before": "Messias",
+      "after": "Eine Klausel einweben: „der Messias — der von Gott gesalbte König aus Davids Linie, auf den Israel wartete\", damit der Königs-/Davidbezug (relevant für V.7) trägt."
+    },
+    {
+      "id": "act_17_comprehension_gap_17_7_005",
+      "pericope_id": "acts_17_thessalonica_beroea",
+      "verse": "17:7",
+      "critic": "comprehension_gap",
+      "severity": "high",
+      "status": "open",
+      "summary": "comprehension_gap: Fußnote 17,7 deckt nur den politischen Hochverrat/Loyalitätskonflikt.",
+      "rationale": "Fußnote 17,7 deckt nur den politischen Hochverrat/Loyalitätskonflikt. Die konkrete Opazität — Kaiser als göttlicher Herrscher, „Sohn Gottes\" als Kaisertitel — bleibt ungedeckt.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:806de44f75ddbb42b9fdc30b36c2f0b03ee4fda22f67644610eeb729adb411f3"
+      },
+      "before": "Kaisers",
+      "after": "Im \\add/Fußnote ergänzen, dass der Kaiser göttliche Ehren beanspruchte und „Sohn Gottes\" hieß — so landet die Provokation des Königs-Anspruchs Jesu schärfer."
+    },
+    {
+      "id": "act_17_sensitivity_17_10_006",
+      "pericope_id": "acts_17_ii_beroea",
+      "verse": "17:10",
+      "critic": "sensitivity",
+      "severity": "medium",
+      "status": "open",
+      "summary": "sensitivity: Männliche Default-Form für die als gemischt gemeinte Gemeinde (adelphoi, vgl.",
+      "rationale": "Männliche Default-Form für die als gemischt gemeinte Gemeinde (adelphoi, vgl. V6/V14); „Geschwister\" trägt dieselbe Bedeutung inklusiv.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:60eab0decf49426ce3ffaf738e0d814d3d1f67306d892c967c2f7fbe83a8b7a2"
+      },
+      "before": "In derselben Nacht noch brachten die Brüder Paulus und Silas aus der Stadt",
+      "after": "In derselben Nacht noch brachten die Geschwister Paulus und Silas aus der Stadt"
+    }
+  ],
+  "metadata": {
+    "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
+    "source_usfm_version": "7930558bda06244594c61c9a3b882c9cd294a101",
+    "status_enum": [
+      "applied",
+      "deferred-to-human",
+      "dismissed-as-overreach",
+      "dismissed-with-rationale",
+      "open"
+    ]
+  }
+}

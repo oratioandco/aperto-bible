@@ -1,0 +1,108 @@
+{
+  "book": "acts",
+  "chapter": 17,
+  "lang": "AB-PL",
+  "findings": [
+    {
+      "id": "act_17_archaism_17_10_001",
+      "pericope_id": "acts_17_ii_beroea",
+      "verse": "17:10",
+      "critic": "archaism",
+      "severity": "medium",
+      "status": "open",
+      "summary": "archaism: genitive-archaic preposition in religious register",
+      "rationale": "genitive-archaic preposition in religious register\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:f842f2576c6afa125844fc9ad8a1636982d805ec8e108e23a0194229e9fb8f21"
+      },
+      "before": "ku",
+      "after": "do / na / dla"
+    },
+    {
+      "id": "act_17_archaism_17_14_002",
+      "pericope_id": "acts_17_ii_beroea",
+      "verse": "17:14",
+      "critic": "archaism",
+      "severity": "medium",
+      "status": "open",
+      "summary": "archaism: genitive-archaic preposition in religious register",
+      "rationale": "genitive-archaic preposition in religious register\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:f842f2576c6afa125844fc9ad8a1636982d805ec8e108e23a0194229e9fb8f21"
+      },
+      "before": "ku",
+      "after": "do / na / dla"
+    },
+    {
+      "id": "act_17_archaism_17_27_003",
+      "pericope_id": "acts_17_areopagus_speech",
+      "verse": "17:27",
+      "critic": "archaism",
+      "severity": "medium",
+      "status": "open",
+      "summary": "archaism: genitive-archaic preposition in religious register",
+      "rationale": "genitive-archaic preposition in religious register\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:e0c84c158027d0207a2070eef427756a3e18eeb842525a1c007c8a5a58c93a4e"
+      },
+      "before": "ku",
+      "after": "do / na / dla"
+    },
+    {
+      "id": "act_17_archaism_17_5_004",
+      "pericope_id": "acts_17_thessalonica_beroea",
+      "verse": "17:5",
+      "critic": "archaism",
+      "severity": "medium",
+      "status": "open",
+      "summary": "archaism: genitive-archaic preposition in religious register",
+      "rationale": "genitive-archaic preposition in religious register\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:09f6a7c416ea79ab017a1298c379f8fccc45e1c92116501b60e80b61754fb3f9"
+      },
+      "before": "ku",
+      "after": "do / na / dla"
+    },
+    {
+      "id": "act_17_idiom_fit_17_21_005",
+      "pericope_id": "acts_17_athens_agora_frame",
+      "verse": "17:21",
+      "critic": "idiom_fit",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "idiom_fit: 'słuchać' bierze rekcję dopełniaczową ('słuchać czegoś'); współdzielone 'o tym' działa z 'opowiadać', ale przy 'słuch...",
+      "rationale": "'słuchać' bierze rekcję dopełniaczową ('słuchać czegoś'); współdzielone 'o tym' działa z 'opowiadać', ale przy 'słuchać' daje naznaczone 'słuchać o'.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:d5987c5aa4a53f51b1a092e96c165258d13e5149ccf685eac850a628b6b4d177"
+      },
+      "before": "jak opowiadali albo słuchali o tym, co najnowsze",
+      "after": "jak opowiadali o nowinkach albo ich słuchali"
+    },
+    {
+      "id": "act_17_idiom_fit_17_13_006",
+      "pericope_id": "acts_17_ii_beroea",
+      "verse": "17:13",
+      "critic": "idiom_fit",
+      "severity": "low",
+      "status": "open",
+      "summary": "idiom_fit: 'nieść słowo' to dopuszczalna metafora literacka, lecz przy relacjonującej narracji 'głosić' brzmi mniej koturnowo; p...",
+      "rationale": "'nieść słowo' to dopuszczalna metafora literacka, lecz przy relacjonującej narracji 'głosić' brzmi mniej koturnowo; pojedynczo pomijalne.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:f842f2576c6afa125844fc9ad8a1636982d805ec8e108e23a0194229e9fb8f21"
+      },
+      "before": "Paweł także w Berei niesie to samo słowo",
+      "after": "Paweł także w Berei głosi to samo"
+    }
+  ],
+  "metadata": {
+    "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
+    "source_usfm_version": "uncommitted-2026-06-12T18:04:32",
+    "status_enum": [
+      "applied",
+      "deferred-to-human",
+      "dismissed-as-overreach",
+      "dismissed-with-rationale",
+      "open"
+    ]
+  }
+}

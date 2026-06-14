@@ -1,0 +1,104 @@
+{
+  "book": "luke",
+  "chapter": 15,
+  "lang": "AB-DE",
+  "findings": [
+    {
+      "id": "luk_15_archaism_15_32_001",
+      "pericope_id": "luke_15_prodigal_elder_son",
+      "verse": "15:32",
+      "critic": "archaism",
+      "severity": "high",
+      "status": "applied",
+      "summary": "archaism: same pattern",
+      "rationale": "same pattern\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:63c01e9901a7425e3e52e462e938d6077c7bcc21aa315bd7aebf00c3a1afdbb0"
+      },
+      "before": "dieser dein Bruder",
+      "after": "dein Bruder da"
+    },
+    {
+      "id": "luk_15_orthography_15_28_002",
+      "pericope_id": "luke_15_prodigal_elder_son",
+      "verse": "15:28",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "open",
+      "summary": "orthography: Reviewer-flagged direction-check; the idiom carries 'persuasion' force absent from neutral 'sprechen mit'",
+      "rationale": "Reviewer-flagged direction-check; the idiom carries 'persuasion' force absent from neutral 'sprechen mit'\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:63c01e9901a7425e3e52e462e938d6077c7bcc21aa315bd7aebf00c3a1afdbb0"
+      },
+      "before": "redete ihm zu",
+      "after": "(verify: \"jemandem zureden\" = \"to persuade\"; if source means \"spoke to him\", use \"sprach mit ihm\" / \"sagte zu ihm\")"
+    },
+    {
+      "id": "luk_15_comprehension_gap_15_15_003",
+      "pericope_id": "luke_15_prodigal_younger_son",
+      "verse": "15:15",
+      "critic": "comprehension_gap",
+      "severity": "high",
+      "status": "dismissed-as-overreach",
+      "summary": "comprehension_gap: Lesetext nennt nur \"Schweine hüten\"; KULTUR-Fußnote 15:15 erklärt rituelle Unreinheit, Heidenland, tiefsten Fall — ko...",
+      "rationale": "Lesetext nennt nur \"Schweine hüten\"; KULTUR-Fußnote 15:15 erklärt rituelle Unreinheit, Heidenland, tiefsten Fall — konkrete Opazität gedeckt.\n\n— Operator: 'Schweine hüten und Mastkalb are ok'. The opacity is intentional — the religious total-fall is carried by the existing footnote, not the prose.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:10970961e0bd0929b0615e931fd448e93fd8bd39d74c241a97c554dba4d905ef"
+      },
+      "before": "Schweine hüten"
+    },
+    {
+      "id": "luk_15_comprehension_gap_15_22_004",
+      "pericope_id": "luke_15_prodigal_younger_son",
+      "verse": "15:22",
+      "critic": "comprehension_gap",
+      "severity": "high",
+      "status": "dismissed-as-overreach",
+      "summary": "comprehension_gap: Lesetext nennt Ring/Sandalen ohne Gloss; KULTUR-Fußnote 15:22 erklärt Siegelring, Sklaven barfuß, volle Wiederherstel...",
+      "rationale": "Lesetext nennt Ring/Sandalen ohne Gloss; KULTUR-Fußnote 15:22 erklärt Siegelring, Sklaven barfuß, volle Wiederherstellung der Sohnschaft.\n\n— Annex assessment: concrete, modern-decodable term. The critic over-reached; reading is transparent without amplification.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:10970961e0bd0929b0615e931fd448e93fd8bd39d74c241a97c554dba4d905ef"
+      },
+      "before": "Ring"
+    },
+    {
+      "id": "luk_15_comprehension_gap_15_23_005",
+      "pericope_id": "luke_15_prodigal_younger_son",
+      "verse": "15:23",
+      "critic": "comprehension_gap",
+      "severity": "high",
+      "status": "dismissed-as-overreach",
+      "summary": "comprehension_gap: Fußnote 15:22 erklärt Mastkalb \"reicht für ein Dorf\" / öffentliches Fest — Skandal-Skala gedeckt; Lesetext allein nicht.",
+      "rationale": "Fußnote 15:22 erklärt Mastkalb \"reicht für ein Dorf\" / öffentliches Fest — Skandal-Skala gedeckt; Lesetext allein nicht.\n\n— Operator: 'Schweine hüten und Mastkalb are ok'. Scandal-of-scale is delivered by the v15:22 footnote, not by expanding the prose.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:10970961e0bd0929b0615e931fd448e93fd8bd39d74c241a97c554dba4d905ef"
+      },
+      "before": "Mastkalb"
+    },
+    {
+      "id": "luk_15_comprehension_gap_15_27_006",
+      "pericope_id": "luke_15_prodigal_elder_son",
+      "verse": "15:27",
+      "critic": "comprehension_gap",
+      "severity": "high",
+      "status": "open",
+      "summary": "comprehension_gap: Wiederholung; Skala bereits an Erstvorkommen (Fußnote 15:22) erschlossen, im Fenster zudem Ziegenbock-Gegensatz v29.",
+      "rationale": "Wiederholung; Skala bereits an Erstvorkommen (Fußnote 15:22) erschlossen, im Fenster zudem Ziegenbock-Gegensatz v29.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:63c01e9901a7425e3e52e462e938d6077c7bcc21aa315bd7aebf00c3a1afdbb0"
+      },
+      "before": "Mastkalb"
+    }
+  ],
+  "metadata": {
+    "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
+    "source_usfm_version": "7930558bda06244594c61c9a3b882c9cd294a101",
+    "status_enum": [
+      "applied",
+      "deferred-to-human",
+      "dismissed-as-overreach",
+      "dismissed-with-rationale",
+      "open"
+    ]
+  }
+}

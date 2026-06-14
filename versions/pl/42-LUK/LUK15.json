@@ -1,0 +1,172 @@
+{
+  "book": "luke",
+  "chapter": 15,
+  "lang": "AB-PL",
+  "versions": [
+    {
+      "id": "0cdab3d5ca17",
+      "label": "2026-06-13 — publish: 5 updated",
+      "date": "2026-06-13T10:28:03+00:00",
+      "source_usfm_version": "v4.6.1",
+      "aperto_bible_sha": "0cdab3d5ca177ba6ab4fe1609858f7dff1ec6812",
+      "current": true,
+      "passages": [
+        {
+          "pericope_id": "luke_15_frame_pharisees_grumble",
+          "title": "Ściągali do niego ci, których nikt nie zapraszał do domu",
+          "verse_start": 1,
+          "verse_end": 2,
+          "content_hash": "sha256:158e777feb1d412d5a5407430de461f410b5869b153cdb6e09b8937ab4a7130a"
+        },
+        {
+          "pericope_id": "luke_15_the_lost_sheep",
+          "title": "Zagubiona owca",
+          "verse_start": 3,
+          "verse_end": 7,
+          "content_hash": "sha256:07c9d3f382383bfb63e595fccb21942899f81b7a4b2342dc01044f6e6bc574f0"
+        },
+        {
+          "pericope_id": "luke_15_the_lost_coin",
+          "title": "Zagubiona moneta",
+          "verse_start": 8,
+          "verse_end": 10,
+          "content_hash": "sha256:e55776e893565a0c19babe706b6e699374da0928df8f4a97c372b4d5ce903b73"
+        },
+        {
+          "pericope_id": "luke_15_prodigal_younger_son",
+          "title": "Zagubiony syn: odejście i powrót",
+          "verse_start": 11,
+          "verse_end": 24,
+          "content_hash": "sha256:6d4779c7d5731d86a379a9a1c28469c90a84da948f65be5af73cdbf01793ca47"
+        },
+        {
+          "pericope_id": "luke_15_prodigal_elder_son",
+          "title": "Zagubiony syn: starszy brat",
+          "verse_start": 25,
+          "verse_end": 32,
+          "content_hash": "sha256:968048bdd59d463ac51e4d84130b9b31b394a24eee622ecbd436369b6787f304"
+        }
+      ]
+    },
+    {
+      "id": "7da2101f6c62",
+      "label": "2026-06-11 — Publish: 165 file(s) updated, 165 changed",
+      "date": "2026-06-11T17:22:07+02:00",
+      "source_usfm_version": "v4.6.0",
+      "aperto_bible_sha": "7da2101f6c6288ba6b882f69552f506a3701a362",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_15_frame_pharisees_grumble",
+          "title": "Ściągali do niego ci, których nikt nie zapraszał do domu",
+          "verse_start": 1,
+          "verse_end": 2
+        },
+        {
+          "pericope_id": "luke_15_the_lost_sheep",
+          "title": "Zagubiona owca",
+          "verse_start": 3,
+          "verse_end": 7
+        },
+        {
+          "pericope_id": "luke_15_the_lost_coin",
+          "title": "Zagubiona moneta",
+          "verse_start": 8,
+          "verse_end": 10
+        },
+        {
+          "pericope_id": "luke_15_prodigal_younger_son",
+          "title": "Zagubiony syn: odejście i powrót",
+          "verse_start": 11,
+          "verse_end": 24
+        },
+        {
+          "pericope_id": "luke_15_prodigal_elder_son",
+          "title": "Zagubiony syn: starszy brat",
+          "verse_start": 25,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "id": "c4761e699390",
+      "label": "2026-06-05 — Publish validated sampler (de/en/pl): Luke 1, Luke 15, Ps 23",
+      "date": "2026-06-05T17:36:54+02:00",
+      "source_usfm_version": "v4.6",
+      "aperto_bible_sha": "c4761e6993906062d136642b611c34c234b9edba",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_15_frame_pharisees_grumble",
+          "title": "Ściągali do niego ci, których nikt nie zapraszał do domu",
+          "verse_start": 1,
+          "verse_end": 2
+        },
+        {
+          "pericope_id": "luke_15_the_lost_sheep",
+          "title": "Zagubiona owca",
+          "verse_start": 3,
+          "verse_end": 7
+        },
+        {
+          "pericope_id": "luke_15_the_lost_coin",
+          "title": "Zagubiona moneta",
+          "verse_start": 8,
+          "verse_end": 10
+        },
+        {
+          "pericope_id": "luke_15_prodigal_younger_son",
+          "title": "Zagubiony syn: odejście i powrót",
+          "verse_start": 11,
+          "verse_end": 24
+        },
+        {
+          "pericope_id": "luke_15_prodigal_elder_son",
+          "title": "Zagubiony syn: starszy brat",
+          "verse_start": 25,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "id": "b1b85f87042a",
+      "label": "2026-04-29 — Initial release: Aperto Bible — Luke in 3 languages + 28 tra",
+      "date": "2026-04-29T12:21:13+02:00",
+      "source_usfm_version": "v4.3",
+      "aperto_bible_sha": "b1b85f87042a8eac92e95acdee70f88950c14bf6",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_15_frame_pharisees_grumble",
+          "title": "Ściągali do niego ci, których nikt nie zapraszał do domu",
+          "verse_start": 1,
+          "verse_end": 2
+        },
+        {
+          "pericope_id": "luke_15_the_lost_sheep",
+          "title": "Zagubiona owca",
+          "verse_start": 3,
+          "verse_end": 7
+        },
+        {
+          "pericope_id": "luke_15_the_lost_coin",
+          "title": "Zagubiona moneta",
+          "verse_start": 8,
+          "verse_end": 10
+        },
+        {
+          "pericope_id": "luke_15_prodigal_younger_son",
+          "title": "Zagubiony syn: odejście i powrót",
+          "verse_start": 11,
+          "verse_end": 24
+        },
+        {
+          "pericope_id": "luke_15_prodigal_elder_son",
+          "title": "Zagubiony syn: starszy brat",
+          "verse_start": 25,
+          "verse_end": 32
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "book": "acts",
+  "chapter": 17,
+  "lang": "AB-EN",
+  "findings": [
+    {
+      "id": "act_17_orthography_17_1_001",
+      "pericope_id": "acts_17_thessalonica_beroea",
+      "verse": "17:1",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "orthography: Asymmetric em-dash spacing",
+      "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:5019ede0a44e49a1c7d917bc746ddfbed7ebeb541a00d6c220e96a2807d60b37"
+      },
+      "before": "a— t",
+      "after": "word—word (remove trailing space)"
+    },
+    {
+      "id": "act_17_orthography_17_16_002",
+      "pericope_id": "acts_17_athens_agora_frame",
+      "verse": "17:16",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "orthography: Asymmetric em-dash spacing",
+      "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:8f3b7531b61e28658107458b1fe8a887de67ab06f777815ccb7d00e74b20582f"
+      },
+      "before": "y— t",
+      "after": "word—word (remove trailing space)"
+    },
+    {
+      "id": "act_17_orthography_17_16_003",
+      "pericope_id": "acts_17_athens_agora_frame",
+      "verse": "17:16",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "orthography: Asymmetric em-dash spacing",
+      "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:8f3b7531b61e28658107458b1fe8a887de67ab06f777815ccb7d00e74b20582f"
+      },
+      "before": "s— a",
+      "after": "word—word (remove trailing space)"
+    },
+    {
+      "id": "act_17_orthography_17_19_004",
+      "pericope_id": "acts_17_athens_agora_frame",
+      "verse": "17:19",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "orthography: Asymmetric em-dash spacing",
+      "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:8f3b7531b61e28658107458b1fe8a887de67ab06f777815ccb7d00e74b20582f"
+      },
+      "before": "s— t",
+      "after": "word—word (remove trailing space)"
+    },
+    {
+      "id": "act_17_orthography_17_30_005",
+      "pericope_id": "acts_17_areopagus_speech",
+      "verse": "17:30",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "orthography: Asymmetric em-dash spacing",
+      "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:7efe73b46b78d9904f8f2450f5def34b82a98c467ed2916b699afd4394b16b2e"
+      },
+      "before": "n— t",
+      "after": "word—word (remove trailing space)"
+    },
+    {
+      "id": "act_17_orthography_17_9_006",
+      "pericope_id": "acts_17_thessalonica_beroea",
+      "verse": "17:9",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "orthography: Asymmetric em-dash spacing",
+      "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:5019ede0a44e49a1c7d917bc746ddfbed7ebeb541a00d6c220e96a2807d60b37"
+      },
+      "before": "d— a",
+      "after": "word—word (remove trailing space)"
+    },
+    {
+      "id": "act_17_idiom_fit_17_2_007",
+      "pericope_id": "acts_17_thessalonica_beroea",
+      "verse": "17:2",
+      "critic": "idiom_fit",
+      "severity": "medium",
+      "status": "open",
+      "summary": "idiom_fit: 'Preach at' (moralize) and 'talk down to' (condescend) are blended; 'preach down at' is not a fixed collocation and r...",
+      "rationale": "'Preach at' (moralize) and 'talk down to' (condescend) are blended; 'preach down at' is not a fixed collocation and reads as a splice.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:5019ede0a44e49a1c7d917bc746ddfbed7ebeb541a00d6c220e96a2807d60b37"
+      },
+      "before": "Not preaching down at them. Arguing",
+      "after": "Not talking down to them. Arguing"
+    },
+    {
+      "id": "act_17_idiom_fit_17_23_008",
+      "pericope_id": "acts_17_areopagus_speech",
+      "verse": "17:23",
+      "critic": "idiom_fit",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "idiom_fit: 'Come on' for chance discovery is dated; modern literary English takes 'come upon' or 'come across' the object.",
+      "rationale": "'Come on' for chance discovery is dated; modern literary English takes 'come upon' or 'come across' the object.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:7efe73b46b78d9904f8f2450f5def34b82a98c467ed2916b699afd4394b16b2e"
+      },
+      "before": "I came at last on an altar with these words cut into its stone",
+      "after": "I came at last upon an altar with these words cut into its stone"
+    }
+  ],
+  "metadata": {
+    "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
+    "source_usfm_version": "uncommitted-2026-06-12T18:04:32",
+    "status_enum": [
+      "applied",
+      "deferred-to-human",
+      "dismissed-as-overreach",
+      "dismissed-with-rationale",
+      "open"
+    ]
+  }
+}

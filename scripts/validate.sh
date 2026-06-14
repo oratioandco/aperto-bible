@@ -50,16 +50,17 @@ validate_file() {
   fi
   
   # Check footnote balance
-  F_OPEN=$({grep -o '\\f +' "$file" || true; }| wc -l | tr -d ' ')
-  F_CLOSE=$({grep -o '\\f\*' "$file" || true;}| wc -l | tr -d ' ')
+set +o pipefail
+  F_OPEN=$(grep -o '\\f +' "$file" | wc -l | tr -d ' ')
+  F_CLOSE=$(grep -o '\\f\*' "$file" | wc -l | tr -d ' ')
   if [ "$F_OPEN" -ne "$F_CLOSE" ]; then
     echo "  ⚠️  $filename: Footnote mismatch (opened: $F_OPEN, closed: $F_CLOSE)"
     WARNINGS=$((WARNINGS + 1))
   fi
   
   # Check \add balance
-  ADD_OPEN=$({grep -o '\\add ' "$file" || true;}| wc -l | tr -d ' ')
-  ADD_CLOSE=$({grep -o '\\add\*' "$file" || true;} | wc -l | tr -d ' ')
+  ADD_OPEN=$({ grep -o '\\add ' "$file" || true; } | wc -l | tr -d ' ')
+  ADD_CLOSE=$({ grep -o '\\add\*' "$file" || true; } | wc -l | tr -d ' ')
   if [ "$ADD_OPEN" -ne "$ADD_CLOSE" ]; then
     echo "  ⚠️  $filename: \\add marker mismatch (opened: $ADD_OPEN, closed: $ADD_CLOSE)"
     WARNINGS=$((WARNINGS + 1))

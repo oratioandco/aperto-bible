@@ -1,0 +1,493 @@
+{
+  "book": "PSA",
+  "chapter": 139,
+  "lang": "AB-PL",
+  "byVerse": {
+    "1": [
+      {
+        "term": "keyword_thread",
+        "rendering": "znać/poznać across 6 of 7 yādaʿ (v.2 idiomatic wiedzieć); the przenikać inclusio v.1 // v.23",
+        "tradeOff": "The aspectual pair znać(imperf.)/poznać(perf.) is treated as one keyword (root zna-/pozna-); v.2 breaks to wiedzieć on grammatical-idiomatic grounds (a temporal clause idiomatically takes wiedzieć), trading lexical uniformity for natural Polish idiom while preserving the relational keyword identity across the other six occurrences.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "2": [
+      {
+        "term": "keyword_thread",
+        "rendering": "znać/poznać across 6 of 7 yādaʿ (v.2 idiomatic wiedzieć); the przenikać inclusio v.1 // v.23",
+        "tradeOff": "The aspectual pair znać(imperf.)/poznać(perf.) is treated as one keyword (root zna-/pozna-); v.2 breaks to wiedzieć on grammatical-idiomatic grounds (a temporal clause idiomatically takes wiedzieć), trading lexical uniformity for natural Polish idiom while preserving the relational keyword identity across the other six occurrences.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "3": [
+      {
+        "term": "interpretive_ambiguity",
+        "rendering": "double-edged verbs kept: osaczyć (v.5), badać (v.3), chwytać (v.10); v.17 yāqar resolved to cenne (precious fork); footnote v.5 names the comfort/threat reading",
+        "tradeOff": "Refuses to disambiguate toward comfort — badać/osaczyć/chwytać each hold both care and scrutiny in tension, costing the easy pastoral read in exchange for the psalm's deliberate double-edged texture; v.17 lands on the precious fork with the magnitude carried by the parallel line rather than fused into a single word.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "4": [
+      {
+        "term": "keyword_thread",
+        "rendering": "znać/poznać across 6 of 7 yādaʿ (v.2 idiomatic wiedzieć); the przenikać inclusio v.1 // v.23",
+        "tradeOff": "The aspectual pair znać(imperf.)/poznać(perf.) is treated as one keyword (root zna-/pozna-); v.2 breaks to wiedzieć on grammatical-idiomatic grounds (a temporal clause idiomatically takes wiedzieć), trading lexical uniformity for natural Polish idiom while preserving the relational keyword identity across the other six occurrences.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "5": [
+      {
+        "term": "interpretive_ambiguity",
+        "rendering": "double-edged verbs kept: osaczyć (v.5), badać (v.3), chwytać (v.10); v.17 yāqar resolved to cenne (precious fork); footnote v.5 names the comfort/threat reading",
+        "tradeOff": "Refuses to disambiguate toward comfort — badać/osaczyć/chwytać each hold both care and scrutiny in tension, costing the easy pastoral read in exchange for the psalm's deliberate double-edged texture; v.17 lands on the precious fork with the magnitude carried by the parallel line rather than fused into a single word.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "6": [
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "7": [
+      {
+        "term": "surveillance_reading",
+        "rendering": "UNGLAUBLICH footnote v.7 — the panopticon question engaged honestly (SB/communist memory), never reassured",
+        "tradeOff": "Forgoes the reassuring pastoral move (\"don't worry, it's loving omniscience\") in favour of naming the surveillance-state resonance the Polish reader actually carries; the cost is loss of comfort at the line's threshold, the gain is honesty about what the words sound like to ears that remember the SB files.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "8": [
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "9": [
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "10": [
+      {
+        "term": "interpretive_ambiguity",
+        "rendering": "double-edged verbs kept: osaczyć (v.5), badać (v.3), chwytać (v.10); v.17 yāqar resolved to cenne (precious fork); footnote v.5 names the comfort/threat reading",
+        "tradeOff": "Refuses to disambiguate toward comfort — badać/osaczyć/chwytać each hold both care and scrutiny in tension, costing the easy pastoral read in exchange for the psalm's deliberate double-edged texture; v.17 lands on the precious fork with the magnitude carried by the parallel line rather than fused into a single word.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "11": [
+      {
+        "term": "textual_crux",
+        "rendering": "v.11 \"okryje\" (consensus); v.16b masoretic reading rendered honestly; v.18 \"budzę się\"",
+        "tradeOff": "Takes the consensus cover/hide reading at v.11 without footnoting the minor crux — a small loss of philological transparency at this line, traded for not over-burdening the paratext where the textual question is genuinely minor.",
+        "confidence": 4
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "12": [
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "13": [
+      {
+        "term": "womb_creation_imagery",
+        "rendering": "concrete craft verbs (stworzyć / utkać v.13, haftować v.15); mother explicit (\"w łonie mojej matki\"); doxology register",
+        "tradeOff": "Three distinct craft verbs cost the smoother single-verb \"uczyniłeś\" rendering, but preserve the potter/weaver/embroiderer texture the Hebrew actually deploys; keeping the mother explicit costs the abstract \"przed narodzeniem\" idiom but refuses to vanish the female body the psalm names.",
+        "confidence": 5
+      },
+      {
+        "term": "abortion_weaponization",
+        "rendering": "HARM footnote v.13 — engaged by name; mother re-centred; never a freestanding \"life\" text. E7 = 5 (PL — project's highest stakes)",
+        "tradeOff": "Naming the proof-text misuse in the paratext costs neutrality on a politically live wound (post-2020 TK ruling), but refusing to neutralise the line silently is the only honest option at the project's highest harm-stakes; the gain is that the psalm is not handed over as ammunition to a use it never authorised.",
+        "confidence": 5
+      },
+      {
+        "term": "keyword_thread",
+        "rendering": "znać/poznać across 6 of 7 yādaʿ (v.2 idiomatic wiedzieć); the przenikać inclusio v.1 // v.23",
+        "tradeOff": "The aspectual pair znać(imperf.)/poznać(perf.) is treated as one keyword (root zna-/pozna-); v.2 breaks to wiedzieć on grammatical-idiomatic grounds (a temporal clause idiomatically takes wiedzieć), trading lexical uniformity for natural Polish idiom while preserving the relational keyword identity across the other six occurrences.",
+        "confidence": 5
+      },
+      {
+        "term": "supersessionism",
+        "rendering": "the womb-as-Synagogue allegory named + costed in the podcast/devotional track; \"łono mojej matki\" kept concretely human",
+        "tradeOff": "Refusing the medieval allegorical womb-as-Synagogue reading in the line costs a layer of received Christian intertext, but holds the line concretely human — the mother's actual body — rather than handing the verse over to a supersessionist allegory that has historically erased Jewish identity.",
+        "confidence": 4
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "14": [
+      {
+        "term": "keyword_thread",
+        "rendering": "znać/poznać across 6 of 7 yādaʿ (v.2 idiomatic wiedzieć); the przenikać inclusio v.1 // v.23",
+        "tradeOff": "The aspectual pair znać(imperf.)/poznać(perf.) is treated as one keyword (root zna-/pozna-); v.2 breaks to wiedzieć on grammatical-idiomatic grounds (a temporal clause idiomatically takes wiedzieć), trading lexical uniformity for natural Polish idiom while preserving the relational keyword identity across the other six occurrences.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "15": [
+      {
+        "term": "womb_creation_imagery",
+        "rendering": "concrete craft verbs (stworzyć / utkać v.13, haftować v.15); mother explicit (\"w łonie mojej matki\"); doxology register",
+        "tradeOff": "Three distinct craft verbs cost the smoother single-verb \"uczyniłeś\" rendering, but preserve the potter/weaver/embroiderer texture the Hebrew actually deploys; keeping the mother explicit costs the abstract \"przed narodzeniem\" idiom but refuses to vanish the female body the psalm names.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "16": [
+      {
+        "term": "golem_hapax",
+        "rendering": "\"nieuformowana materia\" (§F.6); footnote v.16 (Golem tradition)",
+        "tradeOff": "Refusing \"embrion/płód\" costs the line a contemporary anatomical hook, but \"embrion\" would import biology the Hebrew hapax does not carry and would feed the proof-text misuse; \"nieuformowana materia\" preserves the unworked-matter sense and opens the Jewish Golem tradition (Central-European cultural property the v.16 footnote names).",
+        "confidence": 5
+      },
+      {
+        "term": "textual_crux",
+        "rendering": "v.11 \"okryje\" (consensus); v.16b masoretic reading rendered honestly; v.18 \"budzę się\"",
+        "tradeOff": "Following the Masoretic reading at v.16b (\"uformowane, zanim zaczął się pierwszy z nich\") keeps a genuinely difficult paradox unsmoothed — costing readability for honesty about what the Hebrew actually says.",
+        "confidence": 4
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "17": [
+      {
+        "term": "interpretive_ambiguity",
+        "rendering": "double-edged verbs kept: osaczyć (v.5), badać (v.3), chwytać (v.10); v.17 yāqar resolved to cenne (precious fork); footnote v.5 names the comfort/threat reading",
+        "tradeOff": "Refuses to disambiguate toward comfort — badać/osaczyć/chwytać each hold both care and scrutiny in tension, costing the easy pastoral read in exchange for the psalm's deliberate double-edged texture; v.17 lands on the precious fork with the magnitude carried by the parallel line rather than fused into a single word.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "18": [
+      {
+        "term": "textual_crux",
+        "rendering": "v.11 \"okryje\" (consensus); v.16b masoretic reading rendered honestly; v.18 \"budzę się\"",
+        "tradeOff": "\"Budzę się\" follows the consensus \"I awake\" reading rather than the older \"come to the end\" tradition — a small philological choice that costs nothing the line actually wants and lets the awakening close the third stanza naturally.",
+        "confidence": 4
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "19": [
+      {
+        "term": "imprecation_violence",
+        "rendering": "v.19 optative (\"Obyś zabił winnych…\"); v.22 \"całkowitą nienawiścią\"; vv.19–24 intact; framing in HARM footnote only",
+        "tradeOff": "The optative \"oby\" + perfective costs the more familiar imperative diction and risks softening on a careless ear, but it is what the Hebrew grammar actually does — the speaker hands the wish to God rather than commanding violence; keeping vv.19–24 intact costs the lectionary's pastoral comfort but refuses to launder the psalm.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "20": [
+      {
+        "term": "imprecation_violence",
+        "rendering": "v.19 optative (\"Obyś zabił winnych…\"); v.22 \"całkowitą nienawiścią\"; vv.19–24 intact; framing in HARM footnote only",
+        "tradeOff": "The optative \"oby\" + perfective costs the more familiar imperative diction and risks softening on a careless ear, but it is what the Hebrew grammar actually does — the speaker hands the wish to God rather than commanding violence; keeping vv.19–24 intact costs the lectionary's pastoral comfort but refuses to launder the psalm.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "21": [
+      {
+        "term": "imprecation_violence",
+        "rendering": "v.19 optative (\"Obyś zabił winnych…\"); v.22 \"całkowitą nienawiścią\"; vv.19–24 intact; framing in HARM footnote only",
+        "tradeOff": "The optative \"oby\" + perfective costs the more familiar imperative diction and risks softening on a careless ear, but it is what the Hebrew grammar actually does — the speaker hands the wish to God rather than commanding violence; keeping vv.19–24 intact costs the lectionary's pastoral comfort but refuses to launder the psalm.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "22": [
+      {
+        "term": "imprecation_violence",
+        "rendering": "v.19 optative (\"Obyś zabił winnych…\"); v.22 \"całkowitą nienawiścią\"; vv.19–24 intact; framing in HARM footnote only",
+        "tradeOff": "\"Całkowitą nienawiścią\" refuses \"doskonała nienawiść\" (KJV — implies a flawless, virtuous hate, the documented harm) and lands on the contemporary form of taklît's totality; the cost is the loss of the familiar KJV-tradition line, the gain is that the hatred reads as plain and total, not as a sanctified virtue.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "23": [
+      {
+        "term": "imprecation_violence",
+        "rendering": "v.19 optative (\"Obyś zabił winnych…\"); v.22 \"całkowitą nienawiścią\"; vv.19–24 intact; framing in HARM footnote only",
+        "tradeOff": "The optative \"oby\" + perfective costs the more familiar imperative diction and risks softening on a careless ear, but it is what the Hebrew grammar actually does — the speaker hands the wish to God rather than commanding violence; keeping vv.19–24 intact costs the lectionary's pastoral comfort but refuses to launder the psalm.",
+        "confidence": 5
+      },
+      {
+        "term": "keyword_thread",
+        "rendering": "znać/poznać across 6 of 7 yādaʿ (v.2 idiomatic wiedzieć); the przenikać inclusio v.1 // v.23",
+        "tradeOff": "The aspectual pair znać(imperf.)/poznać(perf.) is treated as one keyword (root zna-/pozna-); v.2 breaks to wiedzieć on grammatical-idiomatic grounds (a temporal clause idiomatically takes wiedzieć), trading lexical uniformity for natural Polish idiom while preserving the relational keyword identity across the other six occurrences.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ],
+    "24": [
+      {
+        "term": "imprecation_violence",
+        "rendering": "v.19 optative (\"Obyś zabił winnych…\"); v.22 \"całkowitą nienawiścią\"; vv.19–24 intact; framing in HARM footnote only",
+        "tradeOff": "The optative \"oby\" + perfective costs the more familiar imperative diction and risks softening on a careless ear, but it is what the Hebrew grammar actually does — the speaker hands the wish to God rather than commanding violence; keeping vv.19–24 intact costs the lectionary's pastoral comfort but refuses to launder the psalm.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no wszechwiedzący/wszechobecny anywhere; 2nd-person address throughout (§F.9)",
+        "tradeOff": "Forgoes the convenient abstract theological vocabulary (omniscience/omnipresence) the tradition has accreted, in exchange for keeping the psalm's actual idiom — \"Ty mnie znasz… Ty tam… utkałeś mnie\" — concrete, second-person, and relational rather than metaphysical.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote",
+        "tradeOff": "none — refusing the lectionary cut keeps the imprecation and the wonder in the same prayer, which is the psalm's actual shape.",
+        "confidence": 5
+      }
+    ]
+  }
+}

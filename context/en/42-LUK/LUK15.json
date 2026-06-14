@@ -1,0 +1,315 @@
+{
+  "book": "LUK",
+  "chapter": 15,
+  "lang": "AB-EN",
+  "byVerse": {
+    "1": [
+      {
+        "term": "tax_collectors",
+        "rendering": "Rendered τελῶναι as 'tax collectors'. Standard English equivalent that conveys the social stigma of the role; the footnote carries the specific dimension of Roman collaboration that the bare phrase cannot.",
+        "tradeOff": "none — 'tax collectors' is the consensus rendering across English Bibles and is immediately legible. The collaboration-with-Rome dimension is offloaded to a footnote, which is where it belongs.",
+        "confidence": 5
+      },
+      {
+        "term": "sinners",
+        "rendering": "Retained ἁμαρτωλοί as 'sinners' — keeping the Pharisaic social-religious category label rather than softening it to 'outsiders' or 'irreligious'. The footnote explains it as a fixed first-century category, not a moral diagnosis.",
+        "tradeOff": "Modern readers can hear 'sinners' as catechism shorthand rather than as the boundary-marking sociological term it was. Footnote work has to carry that load; bare 'sinners' will under-read for some.",
+        "confidence": 4
+      }
+    ],
+    "2": [
+      {
+        "term": "muttered",
+        "rendering": "Rendered διεγόγγυζον as 'muttered to one another', intensifying the verb to a communal, persistent grumbling rather than a single act of complaint. Imperfect aspect retained as ongoing.",
+        "tradeOff": "'Muttered to one another' is warmer-sounding than the LXX Numbers-14 echo of grumbling-against-Moses; readers who catch the OT echo via footnote will get it, others will read it as ordinary social muttering.",
+        "confidence": 5
+      },
+      {
+        "term": "welcomes",
+        "rendering": "Rendered προσδέχεται as 'welcomes' — active, deliberate, hospitable. Refused 'accepts' and 'receives' as too neutral; this verb names the Pharisaic charge.",
+        "tradeOff": "none — 'welcomes' is the verb the offence actually names, and any softer choice (accepts/receives) loses the active reception that scandalises the muttering Pharisees.",
+        "confidence": 5
+      },
+      {
+        "term": "eats_with",
+        "rendering": "Rendered συνεσθίει as 'eats with them' — preserving the 'with' that signals table solidarity. The footnote carries the covenantal weight of shared meals in Second Temple Judaism.",
+        "tradeOff": "none — collapsing the 'with' would strip the precise charge; 'eats with' reads naturally and lets the footnote do the cultural work.",
+        "confidence": 5
+      }
+    ],
+    "4": [
+      {
+        "term": "open_country",
+        "rendering": "Rendered ἐρήμῳ as 'open country' rather than 'desert' or 'wilderness'. Galilean ἔρημος is scrubby grazing land, not Sahara; the parable's premise is workable pastoral practice, not extravagant abandonment.",
+        "tradeOff": "Loses the resonant biblical-wilderness echo readers may expect from 'wilderness'. Gains accuracy: a realistic grazing scene where other shepherds remain with the larger flock.",
+        "confidence": 5
+      },
+      {
+        "term": "lost",
+        "rendering": "Rendered ἀπολωλός as 'lost' (perfect participle = state, not action). Refused 'gone astray' / 'strayed'. Held consistent across sheep (vv.4, 6), coin (v.9), and son (vv.24, 32) so the chapter's semantic unity reads cleanly.",
+        "tradeOff": "'Lost' is the right state-word but is so familiar that readers may not feel the weight of the perfect-participle nuance. The compensating gain is the unified vocabulary across all three parables.",
+        "confidence": 5
+      }
+    ],
+    "5": [
+      {
+        "term": "on_shoulders",
+        "rendering": "Rendered ἐπὶ τοὺς ὤμους as 'onto his shoulders' — preserving the concrete physical image rather than generalising to 'carries it'. The image echoes Isa 40:11.",
+        "tradeOff": "none — concrete physicality is the whole point of the verse; any generalisation would drop the Isa 40:11 echo.",
+        "confidence": 5
+      },
+      {
+        "term": "lifts_onto_shoulders_rejoicing",
+        "rendering": "Rendered ἐπιτίθησιν ἐπὶ τοὺς ὤμους χαίρων as 'lifts it onto his shoulders, already rejoicing'. Visceral force target: the joy is contemporaneous with the lifting, not a later mood — 'already' carries the present participle's continuous register.",
+        "tradeOff": "'Already rejoicing' is slightly more interpretive than the flat 'happily'; the gain is the felt-tense of joy that begins the moment the sheep is found, not after reaching home.",
+        "confidence": 4
+      }
+    ],
+    "6": [
+      {
+        "term": "rejoice_with_me",
+        "rendering": "Rendered συγχάρητέ μοι as 'Rejoice with me' — imperative energy preserved. Refused weaker 'celebrate with me' to keep the verb of communal joy that συγχαίρω names.",
+        "tradeOff": "'Rejoice with me' sounds slightly more formal than common spoken English would, but the imperative is the point and 'celebrate' would dilute it.",
+        "confidence": 5
+      },
+      {
+        "term": "lost",
+        "rendering": "Rendered ἀπολωλός as 'lost' (perfect participle = state, not action). Refused 'gone astray' / 'strayed'. Held consistent across sheep (vv.4, 6), coin (v.9), and son (vv.24, 32) so the chapter's semantic unity reads cleanly.",
+        "tradeOff": "'Lost' is the right state-word but is so familiar that readers may not feel the weight of the perfect-participle nuance. The compensating gain is the unified vocabulary across all three parables.",
+        "confidence": 5
+      }
+    ],
+    "8": [
+      {
+        "term": "silver_coins",
+        "rendering": "Rendered δραχμάς as 'silver coins' with a footnote on the drachma's value and the likely dowry context. Chose the accessible English over a transliterated 'drachmas' in body text.",
+        "tradeOff": "Loses the specific monetary term and the precise economic-historical particularity in the body. The footnote restores both — value, dowry, the typical day's wage — so readers who want the detail can have it.",
+        "confidence": 4
+      },
+      {
+        "term": "carefully",
+        "rendering": "Rendered ἐπιμελῶς via the search itself — 'sweep the house, search every corner' — so that 'carefully / thoroughly' lands as the quality of action rather than a bare adverb.",
+        "tradeOff": "Distributing the adverb into verbs of search is more vivid than 'searches carefully', but a reader scanning for a single word will not find it; the search-quality lives in the texture instead.",
+        "confidence": 4
+      }
+    ],
+    "9": [
+      {
+        "term": "women_she_knows",
+        "rendering": "Rendered τὰς φίλας καὶ γείτονας as 'the women she knows' — preserving the unambiguous feminine plural that all major witnesses agree on. The footnote explains the structural parallel to the male shepherd's network and names this as the explicit female celebration circle.",
+        "tradeOff": "'The women she knows' is a paraphrase that loses the formal symmetry of 'her women friends and her women neighbours' but gains naturalness in English. Preserving the feminine is non-negotiable; the exact phrasing was the tradeable axis.",
+        "confidence": 5
+      },
+      {
+        "term": "lost",
+        "rendering": "Rendered ἀπολωλός as 'lost' (perfect participle = state, not action). Refused 'gone astray' / 'strayed'. Held consistent across sheep (vv.4, 6), coin (v.9), and son (vv.24, 32) so the chapter's semantic unity reads cleanly.",
+        "tradeOff": "'Lost' is the right state-word but is so familiar that readers may not feel the weight of the perfect-participle nuance. The compensating gain is the unified vocabulary across all three parables.",
+        "confidence": 5
+      }
+    ],
+    "12": [
+      {
+        "term": "estate",
+        "rendering": "Rendered οὐσίας as 'my share of the estate' — legal-economic register, not philosophical 'substance'. The added gloss '— as though the father were already dead' carries the cultural offence the bare phrase cannot.",
+        "tradeOff": "'Estate' is a slightly anachronistic English legal term; the gain is immediate legibility of the inheritance dimension. The footnote handles the cultural weight that 'estate' alone would not convey.",
+        "confidence": 5
+      }
+    ],
+    "13": [
+      {
+        "term": "reckless_living",
+        "rendering": "Rendered ἀσώτως as 'reckless living' — financial recklessness, not sexual immorality. Refused the common 'riotous living' / 'wild living' inheritance and held the BDAG-confirmed economic reading. The narrator's silence about the specific sin is preserved as the shape of the parable.",
+        "tradeOff": "Strips readers of the centuries-old pop-Christian reading that maps the far country onto sexual sin; some will feel the moral charge has been softened. The compensating gain is honesty to the Greek and breaking the harm chain documented in the v.13 HARM footnote.",
+        "confidence": 5
+      }
+    ],
+    "15": [
+      {
+        "term": "pigs",
+        "rendering": "Rendered χοίρους as 'pigs'. The footnote amplifies the ritual-defilement dimension — Lev 11 / Deut 14 — so the cultural bottom of this scene lands for a Jewish-context reader.",
+        "tradeOff": "none — 'pigs' is the right word; the footnote restores the covenantal weight that bare English cannot.",
+        "confidence": 5
+      }
+    ],
+    "16": [
+      {
+        "term": "carob_pods",
+        "rendering": "Rendered κεράτια as 'carob pods' — specific, not generic 'pods' or 'husks'. Footnote on livestock feed, edibility-only-in-extremity, and the Talmudic saying about turning back to God when reduced to carob.",
+        "tradeOff": "'Carob pods' is unfamiliar to many English readers and needs footnote support to register the degradation. Gains: the precise botanical and the Talmudic resonance available to those who follow the note.",
+        "confidence": 5
+      },
+      {
+        "term": "belly_filled_with_pods",
+        "rendering": "Rendered ἐπεθύμει χορτασθῆναι ἐκ τῶν κερατίων as 'He would have filled his belly with the carob pods the pigs were eating'. Visceral force target — 'belly' and 'the pigs were eating' make the bodily degradation concrete rather than flat 'he wanted to eat the pods'.",
+        "tradeOff": "'Filled his belly' is earthier than current literary English usually goes; some readers may find it crude. The gain is matching the Greek's bodily register and naming who the pods were actually for.",
+        "confidence": 4
+      }
+    ],
+    "17": [
+      {
+        "term": "came_to_senses",
+        "rendering": "Rendered εἰς ἑαυτὸν ἐλθών as 'came to his senses' — the standard English idiom for recovered judgement after distress. Refused spiritualising paraphrase. The added line 'What woke him was hunger' makes explicit the pragmatic, bodily nature of the turning the parable insists on.",
+        "tradeOff": "The English idiom loses the literal 'came to himself' that ties back to the classical Greek register (Diodorus / Epictetus). The gain is a phrase that lands as cognitive-return rather than religious conversion, which is the parable's point.",
+        "confidence": 5
+      }
+    ],
+    "20": [
+      {
+        "term": "compassion_seized",
+        "rendering": "Rendered ἐσπλαγχνίσθη as 'Compassion seized him' — visceral, with the σπλάγχνα (gut/intestines) etymology carried in the added gloss '— the kind you feel in your body before your mind has caught up —'. Refused 'felt sorry' and 'felt compassion' as too cool.",
+        "tradeOff": "'Compassion seized him' personifies the emotion and reads more dramatic than the flat passive Greek; the gain is the bodily, involuntary force the verb actually names. The footnote anchors the Jer 31:20 LXX echo for readers who want it.",
+        "confidence": 5
+      },
+      {
+        "term": "kissed_him",
+        "rendering": "Rendered κατεφίλησεν as 'kissed him' — the simple verb in the body, with the intensive κατά-prefix tenderness carried by the surrounding three-beat run-fall-kiss sequence rather than by an adverb.",
+        "tradeOff": "'Kissed him' alone does not register the intensive form; chose to let the rhythmic accumulation ('ran and threw his arms around him and kissed him') carry the fervour rather than load a single adverb.",
+        "confidence": 4
+      },
+      {
+        "term": "ran_threw_arms_around",
+        "rendering": "Rendered δραμὼν ἐπέπεσεν ἐπὶ τὸν τράχηλον as 'ran and threw his arms around him'. Visceral force target — three verbs in three beats, no pause, no assessing. The KULTUR footnote on the older man's loss of dignity in running carries the cultural cost.",
+        "tradeOff": "'Threw his arms around him' is warmer and more bodily than 'embraced him' or the literal 'fell on his neck'; risks a slight Hollywood feel. The gain is matching the Greek's cumulative momentum.",
+        "confidence": 5
+      }
+    ],
+    "21": [
+      {
+        "term": "na28_shorter_text",
+        "rendering": "Followed the NA28 shorter text: the son's speech stops at 'I am no longer worthy to be called your son —' with an em-dash and the added line 'He never finished.' The 'make me one of your hired hands' line from the rehearsal (vv.18–19) is deliberately omitted. The footnote explains the textual decision and its theological point: grace acts before repentance is finished.",
+        "tradeOff": "Diverges from the KJV/TR tradition that harmonised the speech; readers raised on the longer text may feel the omission. The compensating gain is the parable's actual claim — the father interrupts — which the longer text obscures.",
+        "confidence": 5
+      }
+    ],
+    "22": [
+      {
+        "term": "best_robe",
+        "rendering": "Rendered στολὴν τὴν πρώτην as 'the best robe' (almost certainly the father's own finest garment). Footnote carries the public status-restoration dimension that 'best robe' alone reads as ordinary clothing.",
+        "tradeOff": "none — 'best robe' is the standard English; the cultural specificity belongs in the footnote.",
+        "confidence": 5
+      },
+      {
+        "term": "ring",
+        "rendering": "Rendered δακτύλιον as 'A ring on his hand'. Footnote names it as a signet ring conferring legal authority to act in the family name — reinstatement of legal personhood, not jewellery.",
+        "tradeOff": "'A ring' under-reads as ornament; the load shifts to the footnote, which carries the signet-ring legal dimension. Body text stays clean.",
+        "confidence": 5
+      },
+      {
+        "term": "sandals",
+        "rendering": "Rendered ὑποδήματα as 'Sandals on his feet'. Footnote: free persons wore sandals, slaves went barefoot — the father explicitly refuses the servant-status the son had proposed.",
+        "tradeOff": "'Sandals' reads as ordinary footwear; the social marker that distinguishes free from slave lives in the footnote.",
+        "confidence": 5
+      }
+    ],
+    "23": [
+      {
+        "term": "fattened_calf",
+        "rendering": "Rendered μόσχον τὸν σιτευτόν as 'the fattened calf' — preserving the specific grain-fed animal reserved for major celebrations. The footnote at v.22 notes enough meat to feed a whole village: this is a public, community-wide feast.",
+        "tradeOff": "none — 'fattened calf' is the standard English and is precise; the village-scale meaning rides in the footnote.",
+        "confidence": 5
+      }
+    ],
+    "24": [
+      {
+        "term": "dead_and_alive_again",
+        "rendering": "Rendered νεκρὸς ἦν καὶ ἀνέζησεν as 'was dead and is alive again'. STARK. Refused the softening 'was as good as dead'. The KONTEXT footnote names ἀναζάω as resurrection vocabulary and the Ezekiel 37 / N.T. Wright exile-and-return frame.",
+        "tradeOff": "Reads more theologically charged than 'was as good as dead'; some readers may hear it as overstatement about a son who never literally died. The gain is the resurrection vocabulary the Greek actually uses, which the parallel at v.32 repeats word-for-word.",
+        "confidence": 5
+      },
+      {
+        "term": "lost_and_found",
+        "rendering": "Rendered ἀπολωλὼς καὶ εὑρέθη as 'was lost and is found' — same ἀπόλλυμι root as sheep (v.4) and coin (v.9), preserving the chapter's semantic unity. The same line returns word-for-word at v.32.",
+        "tradeOff": "'Lost and is found' sounds idiomatic enough to read as the familiar phrase rather than as the deliberate cross-parable echo; consistency of the root carries it for readers who notice.",
+        "confidence": 5
+      },
+      {
+        "term": "lost",
+        "rendering": "Rendered ἀπολωλός as 'lost' (perfect participle = state, not action). Refused 'gone astray' / 'strayed'. Held consistent across sheep (vv.4, 6), coin (v.9), and son (vv.24, 32) so the chapter's semantic unity reads cleanly.",
+        "tradeOff": "'Lost' is the right state-word but is so familiar that readers may not feel the weight of the perfect-participle nuance. The compensating gain is the unified vocabulary across all three parables.",
+        "confidence": 5
+      }
+    ],
+    "28": [
+      {
+        "term": "furious",
+        "rendering": "Rendered ὠργίσθη as 'He was furious'. Aorist = sudden fury, not gradual irritation. Refused 'angry' as too mild.",
+        "tradeOff": "'Furious' is a strong English verb and reads more dramatic than 'angry'; the gain is matching the aorist's punctiliar register — a sharp flash of rage at the news, not a slow burn.",
+        "confidence": 5
+      }
+    ],
+    "29": [
+      {
+        "term": "slaved",
+        "rendering": "Rendered δουλεύω as 'slaved' — slave-labour vocabulary, from δοῦλος. CRITICAL: refused 'served' / 'worked'. This is a labour-exploitation complaint and the TEXT footnote unpacks the elder son living as a hired hand inside his own father's house.",
+        "tradeOff": "'Slaved' is harsh in modern English and may read as an authorial slur on the father; the compensating gain is naming how the elder son has experienced his years at home, which the parable specifically wants the reader to feel.",
+        "confidence": 5
+      },
+      {
+        "term": "disobeyed_commands",
+        "rendering": "Rendered ἐντολήν σου παρῆλθον as 'disobeyed one of your commands' — legal / covenant register. Refused conversational 'broke a rule' or 'ignored what you said'.",
+        "tradeOff": "'Disobeyed one of your commands' is slightly formal; the gain is preserving the covenantal-legal vocabulary the elder son is reaching for to frame his grievance.",
+        "confidence": 4
+      },
+      {
+        "term": "young_goat",
+        "rendering": "Rendered ἔριφον as 'a young goat' — deliberately lesser than the fattened calf. The contrast is the point of the elder son's complaint.",
+        "tradeOff": "Readers unfamiliar with the relative economic value of goat vs calf may miss the contrast without prompting; the surrounding context ('not once did you give me so much as') signals it sufficiently.",
+        "confidence": 4
+      }
+    ],
+    "30": [
+      {
+        "term": "this_son_of_yours",
+        "rendering": "Rendered ὁ υἱός σου οὗτος as 'this son of yours' — pointed distancing, the elder brother refusing to say 'my brother'. The father quietly corrects this at v.32 with 'your brother'.",
+        "tradeOff": "The demonstrative 'this' must be felt by the reader as cold; without that read, the v.32 correction will not land. The translation has done what it can; reader attention has to do the rest.",
+        "confidence": 5
+      },
+      {
+        "term": "prostitutes",
+        "rendering": "Rendered πορνῶν as 'prostitutes' — but kept clearly as the elder son's accusation, not the narrator's. The TEXT footnote names this explicitly: the narrator at v.13 used only ἀσώτως (financial), and the sexual claim belongs to the elder brother. The HARM footnote at v.13 reinforces this.",
+        "tradeOff": "Preserving the elder son's accusation means the harsh word is in the text and some readers will absorb it as narration if they skip the footnote. The compensating gain is the parable's actual move: the brother projects, the narrator does not confirm, and the reader is meant to notice the difference.",
+        "confidence": 5
+      }
+    ],
+    "31": [
+      {
+        "term": "my_child",
+        "rendering": "Rendered τέκνον as 'My child' — the tender vocative, more intimate than the formal υἱέ ('son'). The TEXT footnote names this as the parable's emotional climax: the father reaches for the softest word available against the elder son's contempt.",
+        "tradeOff": "'My child' addressed to an adult son sounds slightly archaic or sentimental in contemporary English; the gain is matching the deliberate Greek choice of τέκνον over υἱέ, which 'son' would flatten.",
+        "confidence": 5
+      },
+      {
+        "term": "everything_yours",
+        "rendering": "Rendered πάντα τὰ ἐμὰ σά ἐστιν as 'everything I have is yours'. Clears the economic complaint flatly: no loss has occurred, the inheritance is intact.",
+        "tradeOff": "none — direct, unornamented, and exactly what the Greek says. Any rhetorical amplification would obscure the parable's point that the elder son has had access all along.",
+        "confidence": 5
+      }
+    ],
+    "32": [
+      {
+        "term": "had_to",
+        "rendering": "Rendered ἔδει as 'we had to celebrate and rejoice' — moral necessity, not weak 'we should' or 'we needed to'. The KONTEXT footnote at v.32 frames ἔδει as 'it was necessary, it was fitting': the feast as the only appropriate response to death-becoming-life.",
+        "tradeOff": "'We had to' in colloquial English can sound grudging ('we had to invite them'); context disambiguates here, but a reader scanning fast may miss the weight. The compensating gain is the necessity register that 'should' would lose.",
+        "confidence": 5
+      },
+      {
+        "term": "your_brother",
+        "rendering": "Rendered ὁ ἀδελφός σου οὗτος as 'Your brother' — the father's deliberate correction of the elder son's 'this son of yours' at v.30. The father refuses the distancing by reaching for the kinship word.",
+        "tradeOff": "'Your brother' without the demonstrative loses a touch of the Greek's symmetry with v.30 ('this brother of yours' would mirror it more exactly); chose the cleaner English to keep the correction crisp. The reader sees the kinship word return; that is the move.",
+        "confidence": 5
+      },
+      {
+        "term": "lost_and_found",
+        "rendering": "Rendered ἀπολωλὼς καὶ εὑρέθη as 'was lost and is found' — same ἀπόλλυμι root as sheep (v.4) and coin (v.9), preserving the chapter's semantic unity. The same line returns word-for-word from v.24.",
+        "tradeOff": "'Lost and is found' sounds idiomatic enough to read as the familiar phrase rather than as the deliberate cross-parable echo; consistency of the root carries it for readers who notice.",
+        "confidence": 5
+      },
+      {
+        "term": "lost",
+        "rendering": "Rendered ἀπολωλός as 'lost' (perfect participle = state, not action). Refused 'gone astray' / 'strayed'. Held consistent across sheep (vv.4, 6), coin (v.9), and son (vv.24, 32) so the chapter's semantic unity reads cleanly.",
+        "tradeOff": "'Lost' is the right state-word but is so familiar that readers may not feel the weight of the perfect-participle nuance. The compensating gain is the unified vocabulary across all three parables.",
+        "confidence": 5
+      }
+    ]
+  }
+}

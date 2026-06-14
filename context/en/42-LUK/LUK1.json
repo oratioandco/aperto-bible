@@ -1,0 +1,1349 @@
+{
+  "book": "LUK",
+  "chapter": 1,
+  "lang": "AB-EN",
+  "byVerse": {
+    "1": [
+      {
+        "term": "events_brought_to_completion",
+        "rendering": "'events brought to completion among us' — captures divine fulfillment; the perfect-passive participle πεπληροφορημένων carries ongoing weight, what was completed still holds",
+        "tradeOff": "traded the flat 'events that happened' for fulfillment-language; gives up plain narrative neutrality, gains the theological loading the Greek tense actually carries",
+        "confidence": 4
+      },
+      {
+        "term": "prologue_formal_periodic_register",
+        "rendering": "EN-Pr1: formal, classical, periodic sentences with subordinate clauses; the reader must FEEL the shift into narrative at v.5",
+        "tradeOff": "traded immediate accessibility at the opening for the formal Greco-Roman historian's prologue voice; the prose announces the genre before the story begins",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout (Booker/Pulitzer literary fiction register, the Tóibín test); no KJV archaisms (Behold, Verily, Unto, Hitherto, It came to pass, Lo, Thee/Thou, Hast/Doth/Hath); no CCM/evangelical clichés (Full of grace, Blessed are you as gloss, Season, Walk with God, Breakthrough, Anointed); pick one spelling standard (US or UK) and maintain it across the chapter",
+        "tradeOff": "traded both archaic-Bible-English recognizability and contemporary church-vocabulary ease for a literary-fiction register; loses the cadenced familiarity of older translations, gains a register contemporary literary readers can take seriously",
+        "confidence": 5
+      }
+    ],
+    "2": [
+      {
+        "term": "handed_down",
+        "rendering": "'handed down' (παρέδοσαν) — active transmission chain, not just 'told'",
+        "tradeOff": "traded the simpler 'told' for the technical handed-down language of an active transmission chain; gains the witness-to-witness continuity, costs an extra register-step",
+        "confidence": 4
+      },
+      {
+        "term": "prologue_formal_periodic_register",
+        "rendering": "EN-Pr1: formal, classical, periodic sentences with subordinate clauses; the reader must FEEL the shift into narrative at v.5",
+        "tradeOff": "traded immediate accessibility at the opening for the formal Greco-Roman historian's prologue voice; the prose announces the genre before the story begins",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout (Booker/Pulitzer literary fiction register, the Tóibín test); no KJV archaisms; no CCM/evangelical clichés; pick one spelling standard and maintain it",
+        "tradeOff": "traded both archaic-Bible-English recognizability and contemporary church-vocabulary ease for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "3": [
+      {
+        "term": "most_excellent_theophilus",
+        "rendering": "'most excellent Theophilus' (κράτιστε Θεόφιλε) — keep the honorific; signals social register; no bowdlerizing",
+        "tradeOff": "traded modern flattening of the honorific for preservation of the Roman-official register that Paul will later use with Felix and Festus; gains social-location signal, keeps a faintly formal flavor",
+        "confidence": 5
+      },
+      {
+        "term": "prologue_formal_periodic_register",
+        "rendering": "EN-Pr1: formal, classical, periodic sentences with subordinate clauses; the reader must FEEL the shift into narrative at v.5",
+        "tradeOff": "traded immediate accessibility at the opening for the formal Greco-Roman historian's prologue voice; the prose announces the genre before the story begins",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout (Booker/Pulitzer literary fiction register); no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded both archaic-Bible-English recognizability and contemporary church-vocabulary ease for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "4": [
+      {
+        "term": "solid_ground",
+        "rendering": "'solid ground' (ἀσφάλεια) — grounded confidence beneath the things you have been taught; what you can stand on, footing, stability — not proof that closes the case",
+        "tradeOff": "traded 'certainty' (sounds apologetic) and 'proof' (case-closing) for ground-language; gives up the satisfying finality, refuses to silence the reader's questions",
+        "confidence": 5
+      },
+      {
+        "term": "prologue_formal_periodic_register",
+        "rendering": "EN-Pr1: formal, classical, periodic sentences with subordinate clauses; the reader must FEEL the shift into narrative at v.5",
+        "tradeOff": "traded immediate accessibility at the opening for the formal Greco-Roman historian's prologue voice; the prose announces the genre before the story begins",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout (Booker/Pulitzer literary fiction register); no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded both archaic-Bible-English recognizability and contemporary church-vocabulary ease for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "5": [
+      {
+        "term": "in_the_days_of",
+        "rendering": "'In the days of Herod' (Ἐγένετο) — Septuagintal echo preserved; not 'It came to pass' (archaic), not 'once' (fairy-tale)",
+        "tradeOff": "traded 'It came to pass' (archaic KJV) and 'once' (fairy-tale opener) for the LXX echo; gains the Hebrew Bible cadence, costs the recognizability of the older English line",
+        "confidence": 5
+      },
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1 birth_narrative: Luminous Restraint — showing > telling; short punches at emotional peaks; Anglo-Saxon vocabulary preference; no Bible-speak",
+        "tradeOff": "traded explanatory thickness for restraint; trusts the reader to feel the weight without underlining it",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "6": [
+      {
+        "term": "righteous_blameless",
+        "rendering": "'lived rightly before God, blameless in everything the law required' (δίκαιοι ἄμεμπτοι) — both terms kept; 'rightly' carries the covenant-faithfulness sense without the abstract-noun feel of 'righteous'",
+        "tradeOff": "traded the single-word 'righteous' (abstract-noun feel) for the adverbial 'rightly'; keeps both Greek terms visible, loses the compressed traditional phrase",
+        "confidence": 4
+      },
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks; Anglo-Saxon vocabulary preference; no Bible-speak",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "7": [
+      {
+        "term": "childless",
+        "rendering": "'childless' (στεῖρα) plus narrator voice on shame woven into the scene ('In their world, that wasn't a sorrow kept private. It was shame…')",
+        "tradeOff": "traded the single-word concision and clinical exactness of 'barren' for a narrator-voice shame layer; gains honor-shame context, costs a tighter line",
+        "confidence": 4
+      },
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "8": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks; Anglo-Saxon vocabulary preference; no Bible-speak",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "9": [
+      {
+        "term": "the_lot_fell_to_him",
+        "rendering": "'The lot fell to him' (ἔλαχε) — divine selection, not random chance",
+        "tradeOff": "traded the modern 'random chance' connotation of casting lots for the divine-selection reading; gains the ancient sense, costs neutrality",
+        "confidence": 4
+      },
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "10": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "11": [
+      {
+        "term": "appeared",
+        "rendering": "'appeared' (ὤφθη) — standard rendering for the angelic visitation; the 'side of blessing' gloss handled by the KULTUR footnote rather than woven inline",
+        "tradeOff": "traded the inline gloss on 'right side of the altar' (which would have over-explained at the angel-appearance moment) for a footnote treatment; the Ephrem-the-Syrian quotation carries the load in the apparatus",
+        "confidence": 4
+      },
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "12": [
+      {
+        "term": "fear_fell_over_him",
+        "rendering": "'fear fell over him' (φόβος ἐπέπεσεν) — visceral REQUIRED; the Greek is physical, fear that falls",
+        "tradeOff": "traded the milder, more idiomatic 'he was afraid' for the physical fall-language; loses idiomatic ease, gains the body the Greek actually names",
+        "confidence": 5
+      },
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "13": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "14": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "15": [
+      {
+        "term": "filled_with_holy_spirit",
+        "rendering": "'filled with the Holy Spirit' (πνεύματος ἁγίου πλησθήσεται) — standard divine-name rendering, not 'Spirit of God'",
+        "tradeOff": "none — standard Holy Spirit rendering used consistently throughout the chapter",
+        "confidence": 5
+      },
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "16": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "17": [
+      {
+        "term": "elijahs_spirit_and_strength",
+        "rendering": "'in Elijah's spirit and strength' (ἐν πνεύματι... Ἠλίου) — possessive form keeps the prophetic line direct; 'strength' over 'power' for Anglo-Saxon weight; footnote on Mal 4:5-6 carries the typology",
+        "tradeOff": "traded the Latinate 'power' for the Anglo-Saxon 'strength'; traded a more distanced construction for the directness of the possessive; loses one register option, gains weight and clarity of the prophetic-succession line",
+        "confidence": 4
+      },
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "18": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "19": [
+      {
+        "term": "i_stand_before_god",
+        "rendering": "'I stand before God' (παρεστηκὼς ἐνώπιον τοῦ θεοῦ) — first-person, present; Gabriel names his own standing — terser, more weighty than the relative-clause form",
+        "tradeOff": "traded the relative-clause periphrasis ('who stands in the presence of God') for first-person present; gains terseness and the angel's own voice, loses the formal third-person framing",
+        "confidence": 4
+      },
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "20": [
+      {
+        "term": "silent",
+        "rendering": "'silent' (σιωπῶν) — simple; do NOT say 'mute' (clinical)",
+        "tradeOff": "traded the clinical 'mute' for the more open 'silent'; gains the contemplative-tradition register the verse is reaching for, loses medical precision",
+        "confidence": 4
+      },
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "21": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "22": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "23": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "24": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "25": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "26": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "27": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "28": [
+      {
+        "term": "god_set_his_kindness",
+        "rendering": "'God has set his kindness on you' (κεχαριτωμένη) — verbal action, not status-noun; clears both the 'full of grace' doctrinal loading and the 'favored one' prize-language. The kindness is something God *did* and that still rests",
+        "tradeOff": "traded the doctrinally weighted 'full of grace' (Vulgate gratia plena, cornerstone of Marian theology) and the evangelical 'favored one' (slides toward prosperity-language) for a verbal act; loses tradition-anchored vocabulary on either side, gains the perfect-passive action the Greek actually carries",
+        "confidence": 3
+      },
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "29": [
+      {
+        "term": "words_shook_her",
+        "rendering": "'The words shook her' (διεταράχθη) — VISCERAL; the prefixed Greek verb is intensified, and what shakes her is the words (contrast Zechariah at v.12, shaken by the sight)",
+        "tradeOff": "traded the milder traditional 'was troubled' for the physical shake-language; loses the gentler register, gains the strength of the prefixed Greek and the narrator's contrast with the priest",
+        "confidence": 5
+      },
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "30": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "31": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "32": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "33": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "34": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "35": [
+      {
+        "term": "overshadow_tabernacle_echo",
+        "rendering": "'will overshadow you' (ἐπισκιάσει) with the tabernacle echo woven inline — 'the way the cloud once covered the holy tent in the wilderness' (Exod 40:35 LXX); the verse itself carries the typology rather than relegating it to a footnote",
+        "tradeOff": "traded Luke's lean restraint for an inline gloss that surfaces the Exodus typology; loses the veiled Greek line's discipline, gains accessibility of the tabernacle parallel for readers who would otherwise miss it",
+        "confidence": 4
+      },
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "36": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "37": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "38": [
+      {
+        "term": "lords_servant",
+        "rendering": "'I am the Lord's servant' (δούλη κυρίου) — NOT 'handmaid' (Atwood/Handmaid's Tale resonance permanently recolors the older word); chosen identity, not passive role; UEBERSETZUNG footnote spells out the cultural reason",
+        "tradeOff": "traded both the older 'handmaid' (Atwood freight; the streamed adaptation has thoroughly recolored the word since 2017) and the literally closer 'slave' (wrong register for this literary project); loses literal Greek strength on one side and traditional Bible-English on the other, gains a reading in which Mary's belonging to God is her own — voiced in her own mouth, the opposite of what Atwood diagnosed",
+        "confidence": 5
+      },
+      {
+        "term": "let_it_happen_to_me",
+        "rendering": "'Let it happen to me' (γένοιτό μοι) — optative: active consent, not resignation; 'happen to me' keeps the willed receptivity without the formal-liturgical feel of 'let it be'",
+        "tradeOff": "traded the formal-liturgical 'let it be' (with its centuries of devotional anchor) for everyday 'let it happen to me'; loses liturgical recognizability, gains the active consent register the optative actually carries",
+        "confidence": 4
+      },
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "39": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "40": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "41": [
+      {
+        "term": "child_leaped_in_womb",
+        "rendering": "'the child leaped in her womb' (ἐσκίρτησεν) — VISCERAL; physical, vigorous (the LXX word for David's wild dancing before the Ark); 'child' (παιδίον/βρέφος register) over 'baby' for narrative dignity",
+        "tradeOff": "traded the warmer, more contemporary 'baby' for the dignified 'child'; traded the mild 'moved' or 'stirred' for the strong physical 'leaped'; loses warmth, gains the body the Greek actually names",
+        "confidence": 5
+      },
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "42": [
+      {
+        "term": "cried_out",
+        "rendering": "'she cried out' (ἀνεφώνησεν φωνῇ μεγάλῃ) — prophetic, public, uncontrollable — not 'said'",
+        "tradeOff": "traded the neutral 'said' for the public-prophetic 'cried out'; loses neutrality, gains the prophetic register Luke is signaling",
+        "confidence": 4
+      },
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "43": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "44": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "45": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks (the beatitude distinction eulogēménē/makaría preserved as 'blessed' at v.42 vs 'happy' at v.45)",
+        "tradeOff": "traded the convenience of a single English word ('blessed') for the Greek beatitude/covenant-blessing distinction; gains the proto-Sermon-on-the-Plain echo, costs a familiar surface line",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "46": [
+      {
+        "term": "everything_in_me_celebrates",
+        "rendering": "'Everything in me — everything — celebrates God' (Μεγαλύνει ψυχή μου) — contemporary register over 'My soul magnifies the Lord'; the doubled 'everything' carries the ψυχή's whole-being force without leaning on 'soul'",
+        "tradeOff": "traded the historic KJV line 'My soul magnifies the Lord' (centuries of liturgical recognition, daily Vespers since the early Church) for a contemporary doubled formulation; loses tradition-anchored recognizability, gains the whole-being weight in present-day English",
+        "confidence": 3
+      },
+      {
+        "term": "magnificat_en_p1",
+        "rendering": "EN-P1 praise_poetry (Magnificat): short punchy lines, physical verbs, accumulation; joy without cheese; max 1-2 exclamation marks total; ψυχή/πνεῦμα distinction preserved as 'Everything in me' (ψυχή) and 'My whole spirit, awake' (πνεῦμα); the political reversal core (vv.51-53) kept parallel; Abrahamic closing kept as anchor; gnomic aorists rendered in past tense",
+        "tradeOff": "traded the historic 'My soul magnifies the Lord' line and other compressed lyrical flow for a parallel-line architecture and contemporary register; loses some forward momentum and centuries of liturgical recognizability, gains the political-reversal clarity and a register the contemporary reader can hear",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "47": [
+      {
+        "term": "rescuer",
+        "rendering": "'God is my rescuer' (σωτήρ) — 'rescuer' over 'Savior' for visceral concreteness — the one who pulls you out; concrete in the Magnificat's vocabulary of overturned power",
+        "tradeOff": "traded the church-standard 'Savior' (doctrinal anchor) for the concrete 'rescuer'; loses theological-vocabulary anchor, gains the pull-you-out sense and refuses the churchly narrowing",
+        "confidence": 4
+      },
+      {
+        "term": "magnificat_en_p1",
+        "rendering": "EN-P1: short punchy lines, physical verbs, accumulation; joy without cheese",
+        "tradeOff": "traded compressed lyrical flow and tradition-anchored vocabulary for parallel-line architecture and contemporary register",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "48": [
+      {
+        "term": "magnificat_en_p1",
+        "rendering": "EN-P1: short punchy lines, physical verbs, accumulation; joy without cheese; ταπείνωσιν as social location ('servant, nobody, from nowhere') rather than the virtue of humility",
+        "tradeOff": "traded the abstract 'low estate / humility' (virtue-language) for socially concrete 'nobody, from nowhere'; loses the long Marian-virtue tradition's vocabulary anchor, gains the social-location reading that the Greek actually carries",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "49": [
+      {
+        "term": "magnificat_en_p1",
+        "rendering": "EN-P1: short punchy lines, physical verbs, accumulation; joy without cheese",
+        "tradeOff": "traded compressed lyrical flow for parallel-line architecture",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "50": [
+      {
+        "term": "from_one_generation_to_the_next",
+        "rendering": "'from one generation to the next' — not 'generations and generations' (repetitive)",
+        "tradeOff": "traded the repetitive doubling for a single forward-moving phrase; loses some incantatory rhythm, gains forward motion",
+        "confidence": 4
+      },
+      {
+        "term": "magnificat_en_p1",
+        "rendering": "EN-P1: short punchy lines, physical verbs, accumulation; joy without cheese",
+        "tradeOff": "traded compressed lyrical flow for parallel-line architecture",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "51": [
+      {
+        "term": "he_acted_in_strength",
+        "rendering": "'He acted in strength' (ἐποίησεν κράτος ἐν βραχίονι αὐτοῦ) — VISCERAL; short, terminal sentence; the brevity itself carries the κράτος",
+        "tradeOff": "traded the longer traditional 'showed strength with his arm' for a terminal short sentence whose brevity carries the force; loses the body-image of the arm, gains a sentence whose shape enacts the κράτος",
+        "confidence": 5
+      },
+      {
+        "term": "scattered",
+        "rendering": "'He scattered the proud — caught in their own plans' (διεσκόρπισεν) — keep the physical verb",
+        "tradeOff": "none — physical verb preserved over any flattened paraphrase",
+        "confidence": 4
+      },
+      {
+        "term": "magnificat_en_p1",
+        "rendering": "EN-P1: short punchy lines, physical verbs, accumulation; joy without cheese; vv.51-53 parallel structure preserved as the political core of the poem; aorists rendered in past tense with gnomic force",
+        "tradeOff": "traded compressed lyrical flow for parallel-line architecture; loses momentum, gains the political-reversal clarity",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "52": [
+      {
+        "term": "powerful_down_forgotten_raised",
+        "rendering": "'He brought the powerful down from their thrones. / He raised up the forgotten ones' (καθεῖλεν / ὕψωσεν) — political reversals; 'powerful' and 'forgotten ones' make the social register concrete rather than abstract",
+        "tradeOff": "traded the abstract 'mighty / lowly' (older Bible English) for socially concrete 'powerful / forgotten ones'; loses the traditional pairing, gains the contemporary political weight the song actually carries",
+        "confidence": 4
+      },
+      {
+        "term": "magnificat_en_p1",
+        "rendering": "EN-P1: short punchy lines, physical verbs, accumulation; vv.51-53 parallel structure preserved as the political core",
+        "tradeOff": "traded compressed lyrical flow for parallel-line architecture",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "53": [
+      {
+        "term": "sent_rich_away_empty",
+        "rendering": "'He sent the rich away empty' (ἐξαπέστειλεν κενούς) — sharp; keep",
+        "tradeOff": "none — sharp Greek line preserved exactly",
+        "confidence": 5
+      },
+      {
+        "term": "magnificat_en_p1",
+        "rendering": "EN-P1: short punchy lines, physical verbs, accumulation; vv.51-53 parallel structure preserved as the political core",
+        "tradeOff": "traded compressed lyrical flow for parallel-line architecture",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "54": [
+      {
+        "term": "magnificat_en_p1",
+        "rendering": "EN-P1: short punchy lines, physical verbs, accumulation; joy without cheese",
+        "tradeOff": "traded compressed lyrical flow for parallel-line architecture",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "55": [
+      {
+        "term": "abrahamic_promise_closing",
+        "rendering": "'Abraham and his children, forever' — keep as anchor; not cut for brevity; the Magnificat closes by naming the covenant arc (Genesis 17:7; 22:17-18)",
+        "tradeOff": "traded the temptation to compress the closing for the deliberate retention of the Abrahamic anchor; loses brevity, gains covenant-continuity weight",
+        "confidence": 5
+      },
+      {
+        "term": "magnificat_en_p1",
+        "rendering": "EN-P1: short punchy lines, physical verbs, accumulation; joy without cheese",
+        "tradeOff": "traded compressed lyrical flow for parallel-line architecture",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "56": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks (closing narrative beat of the Mary-Elizabeth pericope, transitioning out of the Magnificat)",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "57": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1 birth_narrative: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "58": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "59": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "60": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "61": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "62": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "63": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "64": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "65": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "66": [
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1: Luminous Restraint — showing > telling; short punches at emotional peaks",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "67": [
+      {
+        "term": "benedictus_en_p2",
+        "rendering": "EN-P2 prophetic_poetry (Benedictus): sustained, weighty lines; gravity and forward motion; prophetic but intimate; more formal than EN-P1",
+        "tradeOff": "traded surface idiom-density (horn of salvation, tender mercy) for accessibility; the idioms sit in the apparatus while the poem stays open to a reader who has not been catechized in older Bible English",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "68": [
+      {
+        "term": "praise_to_the_lord",
+        "rendering": "'Praise to the Lord, the God of Israel — he has come to his people. He has set them free' (Εὐλογητός) — EN-P2: keep the weight; avoid 'Give thanks to' (flat); avoid 'Blessed be' (archaic for the opening line); the gravity note in full",
+        "tradeOff": "traded the traditional Berakah 'Blessed be the Lord' (centuries of devotional anchor, opens every Jewish blessing) and the flatter 'Give thanks to' for 'Praise to the Lord'; loses traditional liturgical recognizability, keeps the gravity",
+        "confidence": 4
+      },
+      {
+        "term": "benedictus_en_p2",
+        "rendering": "EN-P2: sustained, weighty lines; gravity and forward motion; prophetic but intimate",
+        "tradeOff": "traded surface idiom-density for accessibility; idioms sit in the apparatus",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "69": [
+      {
+        "term": "horn_of_salvation_footnoted",
+        "rendering": "Translated 'a mighty rescuer / from the line of David, his servant' — the older idiom 'horn of salvation' dropped from the verse line; the bull's-horn image and political-deliverance weight carried in the footnote rather than the surface poem",
+        "tradeOff": "traded the in-line traditional idiom 'horn of salvation' (2 Sam 22:3; Ps 18:2) for accessibility on the surface; the poem stays open to the reader, the strangeness sits in the apparatus — loses the idiom's force in the line, gains readability",
+        "confidence": 4
+      },
+      {
+        "term": "benedictus_en_p2",
+        "rendering": "EN-P2: sustained, weighty lines; gravity and forward motion; prophetic but intimate",
+        "tradeOff": "traded surface idiom-density for accessibility; idioms sit in the apparatus",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "70": [
+      {
+        "term": "benedictus_en_p2",
+        "rendering": "EN-P2: sustained, weighty lines; gravity and forward motion; prophetic but intimate",
+        "tradeOff": "traded surface idiom-density for accessibility; idioms sit in the apparatus",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "71": [
+      {
+        "term": "benedictus_en_p2",
+        "rendering": "EN-P2: sustained, weighty lines; gravity and forward motion; prophetic but intimate",
+        "tradeOff": "traded surface idiom-density for accessibility; idioms sit in the apparatus",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "72": [
+      {
+        "term": "benedictus_en_p2",
+        "rendering": "EN-P2: sustained, weighty lines; gravity and forward motion; prophetic but intimate",
+        "tradeOff": "traded surface idiom-density for accessibility; idioms sit in the apparatus",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "73": [
+      {
+        "term": "benedictus_en_p2",
+        "rendering": "EN-P2: sustained, weighty lines; gravity and forward motion; prophetic but intimate",
+        "tradeOff": "traded surface idiom-density for accessibility; idioms sit in the apparatus",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "74": [
+      {
+        "term": "benedictus_en_p2",
+        "rendering": "EN-P2: sustained, weighty lines; gravity and forward motion; prophetic but intimate",
+        "tradeOff": "traded surface idiom-density for accessibility; idioms sit in the apparatus",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "75": [
+      {
+        "term": "benedictus_en_p2",
+        "rendering": "EN-P2: sustained, weighty lines; gravity and forward motion; prophetic but intimate",
+        "tradeOff": "traded surface idiom-density for accessibility; idioms sit in the apparatus",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "76": [
+      {
+        "term": "and_you_little_one",
+        "rendering": "'And you, little one' (Καὶ σύ, παιδίον) — tender direct address; not archaic 'thou' or 'O child'; the Greek diminutive carries — a father, after nine months of silence, naming his own son's life",
+        "tradeOff": "traded both the archaic 'And thou, child' (KJV register) and the formal 'O child' (still archaic) for the intimate 'little one'; loses the formal cosmic-prophetic register set up earlier in the song, gains the tonal pivot the verse needs",
+        "confidence": 5
+      },
+      {
+        "term": "benedictus_en_p2",
+        "rendering": "EN-P2: sustained, weighty lines; gravity and forward motion; prophetic but intimate; this is the chapter's most intimate moment — Zechariah turns from cosmic theology to his own newborn son",
+        "tradeOff": "traded surface idiom-density for accessibility; idioms sit in the apparatus",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "77": [
+      {
+        "term": "forgiveness_of_wrongs",
+        "rendering": "'the forgiveness of their wrongs' (ἄφεσιν ἁμαρτιῶν) — 'wrongs' over 'sins' — Anglo-Saxon, concrete; avoids the church-vocabulary feel without losing the moral weight",
+        "tradeOff": "traded the church-standard 'sins' (theological-vocabulary anchor) for the Anglo-Saxon 'wrongs'; loses the immediate doctrinal recognizability, gains concrete moral weight and refuses the church-vocabulary slide",
+        "confidence": 4
+      },
+      {
+        "term": "benedictus_en_p2",
+        "rendering": "EN-P2: sustained, weighty lines; gravity and forward motion; prophetic but intimate",
+        "tradeOff": "traded surface idiom-density for accessibility; idioms sit in the apparatus",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "78": [
+      {
+        "term": "gut_deep_mercy",
+        "rendering": "'the gut-deep mercy of our God' (σπλάγχνα ἐλέους) — σπλάγχνα = gut/viscera; 'gut-deep' keeps the body visible; not deliberation, reflex; the response that has already happened before any decision is made",
+        "tradeOff": "traded 'tender mercy' (decoratively softened by long devotional use) and 'loving-kindness' (archaic); loses the older lines' familiarity and warmth, gains the body the Greek actually names — the involuntary parental-response register",
+        "confidence": 5
+      },
+      {
+        "term": "benedictus_en_p2",
+        "rendering": "EN-P2: sustained, weighty lines; gravity and forward motion; prophetic but intimate; σπλάγχνα ἐλέους as 'gut-deep mercy' throughout — gut visible, not softened",
+        "tradeOff": "traded surface idiom-density for accessibility; idioms sit in the apparatus",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "79": [
+      {
+        "term": "lead_our_feet_road_of_peace",
+        "rendering": "'to lead our feet onto the road of peace' (κατευθῦναι τοὺς πόδας ἡμῶν) — 'lead' carries the prophetic-shepherd echo more naturally than 'guide'; 'road' over 'path' for the concrete forward motion",
+        "tradeOff": "traded 'guide' (flatter, more abstract) and 'path' (more poetic-abstract) for 'lead' and 'road'; loses some poetic patina, gains the prophetic-shepherd echo and forward-motion concreteness",
+        "confidence": 4
+      },
+      {
+        "term": "light_shadow_couplet",
+        "rendering": "'to shine on those who sit in darkness, / with death's shadow over them — / to lead our feet onto the road of peace' — 'shine on' carries the dawn image already set up in v.78",
+        "tradeOff": "traded a freer poetic flourish for the couplet form that ties to the v.78 dawn image; loses lyrical freedom, gains image-coherence across the closing strophe",
+        "confidence": 4
+      },
+      {
+        "term": "benedictus_en_p2",
+        "rendering": "EN-P2: sustained, weighty lines; gravity and forward motion; prophetic but intimate; the song that began with horns of salvation and rescue from enemies ends with light, guidance, and peace",
+        "tradeOff": "traded surface idiom-density for accessibility; idioms sit in the apparatus",
+        "confidence": 4
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ],
+    "80": [
+      {
+        "term": "grew_strong_in_spirit",
+        "rendering": "'grew strong in spirit' (ἐκραταιοῦτο πνεύματι) — direct",
+        "tradeOff": "none — direct rendering of the Greek, no embellishment needed at the closing summary",
+        "confidence": 5
+      },
+      {
+        "term": "narrative_luminous_restraint",
+        "rendering": "EN-N1 closing gospel_narrative: Luminous Restraint — showing > telling; short punches at emotional peaks; the closing summary beat for the chapter",
+        "tradeOff": "traded explanatory thickness for restraint",
+        "confidence": 5
+      },
+      {
+        "term": "chapter_register_discipline",
+        "rendering": "International English maintained throughout; no KJV archaisms; no CCM/evangelical clichés",
+        "tradeOff": "traded archaic-Bible-English and contemporary church-vocabulary for a literary-fiction register",
+        "confidence": 5
+      }
+    ]
+  }
+}

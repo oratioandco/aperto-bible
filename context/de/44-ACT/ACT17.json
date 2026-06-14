@@ -1,0 +1,512 @@
+{
+  "book": "ACT",
+  "chapter": 17,
+  "lang": "AB-DE",
+  "byVerse": {
+    "1": [
+      {
+        "term": "place_names_amphipolis_apollonia_thessalonich",
+        "rendering": "Use the standard German place-names — Amphipolis, Apollonia, Thessalonich — without further explanation.",
+        "tradeOff": "none — these are the conventional German forms and need no defence.",
+        "confidence": 5
+      },
+      {
+        "term": "egnatian_way_implied",
+        "rendering": "Carry the implied imperial-infrastructure context with a light \\add gloss — 'über die große Römerstraße' — so the Egnatian Way is felt without being named or over-explained.",
+        "tradeOff": "We forgo naming the Via Egnatia explicitly; readers who know it will recognize it, others get the imperial-road register without an antiquarian aside.",
+        "confidence": 4
+      }
+    ],
+    "2": [
+      {
+        "term": "kata_to_eiothos",
+        "rendering": "Render the near-formulaic phrase as 'wie er es immer tat' — a deliberate echo of Luke 4:16 (Jesus' Sabbath habit). The Luke 4:16 echo is named in the KONTEXT footnote so Paul's continuing Jewishness is visible.",
+        "tradeOff": "The colloquial register sacrifices the slightly archaic Lukan formula-feel for narrative legibility; the footnote restores the intertextual weight.",
+        "confidence": 5
+      },
+      {
+        "term": "dielexato_apo_ton_graphon",
+        "rendering": "Render διαλέγομαι as disputation, not monologue: 'diskutierte er mit ihnen ... Er ging die Schriften mit ihnen durch, ließ Einwände zu und gab Antwort.' The surface text explicitly disowns the preacher pose ('nicht als Prediger'). γραφάς becomes 'die Schriften' — not 'Bibel.'",
+        "tradeOff": "We reject the conventional 'predigte' (which would project a later sermonic register onto a 1st-century synagogue debate) and 'Bibel' (anachronistic for a pre-canonical setting); the cost is a wordier surface, the gain an accurate picture of the give-and-take.",
+        "confidence": 5
+      },
+      {
+        "term": "sabbata_tria",
+        "rendering": "Render σάββατα τρία as 'Drei Sabbate lang,' carrying the sustained-engagement force of the duration.",
+        "tradeOff": "none — straightforward duration phrase with no live alternative.",
+        "confidence": 5
+      }
+    ],
+    "3": [
+      {
+        "term": "dianoigon_paratithemenos",
+        "rendering": "Render the forensic-presentational pair as 'Stelle für Stelle zeigte er ... Und am Ende stand jedes Mal derselbe Satz' — the iterative formula is made visible rather than left implicit.",
+        "tradeOff": "We accept a slight expansion (the 'jedes Mal derselbe Satz' frame) so the courtroom-presentational register of the participles can be felt; a tighter rendering would have lost the iteration.",
+        "confidence": 4
+      },
+      {
+        "term": "ton_christon_pathein_kai_anastenai",
+        "rendering": "Render 'dass der Messias durch Leiden und Tod gehen und auferstehen musste' — the continuity/fulfillment claim, slightly expanded ('durch Leiden und Tod gehen') so the path is felt, not just listed.",
+        "tradeOff": "We add 'durch ... gehen' beyond the bare παθεῖν so the somatic weight of the suffering is visible; the cost is a small departure from minimal lexical fidelity.",
+        "confidence": 4
+      },
+      {
+        "term": "christos_as_messias",
+        "rendering": "Render χριστός as 'der Messias' — not 'Christus' — at every occurrence in this chapter. Acts 17:3 is an explicitly OT-Jewish-context argument from the Scriptures (Lexicon §A; cf. Acts 2 decisions).",
+        "tradeOff": "We give up the familiar German 'Christus' so a secular audience hears the Jewish anointed-one claim rather than a Greco-Roman proper name; the cost is mild estrangement for confessional readers, the gain a recovered Jewish frame.",
+        "confidence": 5
+      }
+    ],
+    "4": [
+      {
+        "term": "epeisthesan",
+        "rendering": "Render ἐπείσθησαν as 'ließen sich überzeugen' — the argument worked; persuasion, not just emotion.",
+        "tradeOff": "none — clean German for the persuasion register.",
+        "confidence": 5
+      },
+      {
+        "term": "proseklerothesan",
+        "rendering": "Render the aorist passive as 'schlossen sich ... an' — carrying the drawn-to quality without forcing a divine-passive gloss into surface text (per §A.3 the middle-voice quality is permitted).",
+        "tradeOff": "We forgo an overt 'wurden zugesellt' that would name the divine agency; the gain is a German verb that fits the narrative grain, the cost an inflection only the footnote-reader will recover.",
+        "confidence": 4
+      },
+      {
+        "term": "sebomenon_hellenon",
+        "rendering": "Unfold the Diaspora-technical category descriptively: 'Griechen, die sich zur Synagoge hielten, ohne selbst Juden zu sein.' The KULTUR footnote restores the God-fearer category proper.",
+        "tradeOff": "We reject the German shorthand 'gottesfürchtig' (which sounds like a generic piety word to modern ears) for a longer surface phrase; the cost is verbosity, the gain a non-anachronistic, intelligible category.",
+        "confidence": 5
+      },
+      {
+        "term": "gynaikon_ton_proton",
+        "rendering": "Render as 'zahlreiche Frauen aus den führenden Häusern der Stadt' — civic-rank, grammatically visible, not a subordinated throwaway clause.",
+        "tradeOff": "We reject readings that take 'first' as 'first to convert' or as aesthetic; the women are kept in the clause's grammatical foreground at the cost of a slightly heavier nominal phrase.",
+        "confidence": 5
+      }
+    ],
+    "5": [
+      {
+        "term": "hoi_ioudaioi_local_actors",
+        "rendering": "HARM: surface text uses only 'die anderen' (anaphoric pickup from the persuaded synagogue audience of v.4). The Greek 'die Juden' is held back to the HARM footnote, which names the local-actor scope and the anti-Judaism reception history.",
+        "tradeOff": "We trade lexical literalness for harm-avoidance — the Greek anchor lives in the footnote rather than the surface so the text cannot be misread as a collective verdict on Jews. Paul is himself Jewish; this is intramural Diaspora-Jewish conflict.",
+        "confidence": 5,
+        "filtersFailed": [
+          "avoid_christianese"
+        ]
+      },
+      {
+        "term": "zelosantes",
+        "rendering": "Render the honor-displacement motive as 'die anderen packte der Neid,' with an \\add expansion ('Sie sahen zu, wie ihr Ansehen schwand ...') that names what is being displaced.",
+        "tradeOff": "'Neid' simplifies the agonistic ancient-Mediterranean honor logic into a modern emotion; the \\add expansion restores the social-rank stakes the bare word cannot carry alone.",
+        "confidence": 4
+      },
+      {
+        "term": "agoraion_ponerous",
+        "rendering": "Render the underclass-recruitment as 'ein paar Gelegenheitsarbeiter und Herumtreiber' — the day-labour register made visible.",
+        "tradeOff": "We reject a neutral 'Männer vom Markt' that would erase the social-class instrumentalisation; the cost is a slightly slangier register, the gain the mob-instrument visibility.",
+        "confidence": 4
+      },
+      {
+        "term": "ethoryboun",
+        "rendering": "Render the crowd-noise/tumult verb as 'brachten die Stadt in Aufruhr' — keeping the public-disorder sting.",
+        "tradeOff": "We reject the flat 'machten Lärm' that would domesticate the seditious force; 'Aufruhr' preserves the civic-disorder register the next verses build on.",
+        "confidence": 5
+      }
+    ],
+    "6": [
+      {
+        "term": "esyron",
+        "rendering": "Render the physical public-humiliation verb as 'zerrten' — bodies dragged through the street.",
+        "tradeOff": "none — direct German for the dragging motion.",
+        "confidence": 5
+      },
+      {
+        "term": "politarchas",
+        "rendering": "Keep the distinctive Macedonian title — 'die Politarchen' — with a light \\add gloss 'die Stadtoberen Thessalonichs' for legibility. The KULTUR footnote names Luke's civic accuracy (32 verified inscriptions).",
+        "tradeOff": "We reject generic 'Beamte' or 'Herrscher' that would erase Luke's distinctive local lexicon; the cost is an unfamiliar word, the gain a foothold in real Macedonian civic structure (and a small monument to Luke's accuracy).",
+        "confidence": 5
+      },
+      {
+        "term": "oikoumenen_anastatosantes",
+        "rendering": "Render 'die das ganze Reich auf den Kopf gestellt haben' — οἰκουμένη as the Roman world/empire (Luke 2:1), ἀναστατόω kept sharp as seditious upheaval.",
+        "tradeOff": "We reject any soft rendering like 'gestört' or generic 'Welt'; the cost is a politically charged surface, the gain the maiestas-adjacent register the accusers actually intended.",
+        "confidence": 5
+      }
+    ],
+    "7": [
+      {
+        "term": "dogmata_kaisaros",
+        "rendering": "Render as 'die Anordnungen des Kaisers' — concrete juridical edicts, not vague 'Gesetze.'",
+        "tradeOff": "none — 'Anordnungen' is the precise German for imperial decrees.",
+        "confidence": 5
+      },
+      {
+        "term": "basilea_heteron_iesoun",
+        "rendering": "Render 'es gebe einen anderen König, Jesus' — ἕτερον carries rival force; the bare comma keeps the sentence matter-of-fact so the charge lands as the accusers' bald claim. The KONTEXT footnote names maiestas and the Luke 23:2 parallel.",
+        "tradeOff": "We refuse to dress the line in typographic emphasis (italics, exclamation) because the punch is in the proposition, not the packaging; the cost is restraint where a translator might want to underline, the gain the forensic flatness of the original.",
+        "confidence": 5
+      }
+    ],
+    "9": [
+      {
+        "term": "labontes_to_hikanon",
+        "rendering": "Render the Roman-Macedonian legal procedure as 'verlangten ... eine Kaution und ließen sie erst dann gehen' — bond/security, not execution. 'Kaution' is the legible modern term.",
+        "tradeOff": "We use a modern-legal word to keep the procedural reality intelligible; the cost is mild anachronism in register, the gain a non-misleading picture of what actually happened.",
+        "confidence": 5
+      }
+    ],
+    "10": [
+      {
+        "term": "dia_nyktos_exepempsan",
+        "rendering": "Render the covert night-flight as 'In derselben Nacht noch brachten die Brüder Paulus und Silas aus der Stadt' — restrained, atmospheric.",
+        "tradeOff": "none — straightforward narrative line; 'noch' carries the immediacy of the διά-construction.",
+        "confidence": 4
+      }
+    ],
+    "11": [
+      {
+        "term": "eugenesteroi",
+        "rendering": "Render the comparative as 'von anderem Schlag, offener als die in Thessalonich' — moral receptivity AND the comparative force, carried in a doublet (different kind + comparatively more open).",
+        "tradeOff": "We reject the aristocratic 'edler' (Lexicon/exegesis explicit) at the cost of departing from the most literal lexical surface; the gain is the moral-receptivity reading the Greek actually carries here.",
+        "confidence": 5
+      },
+      {
+        "term": "meta_pases_prothymias",
+        "rendering": "Render as 'mit echtem Eifer' — full eagerness, with 'echt' guarding against fake/perfunctory readings.",
+        "tradeOff": "We add 'echt' as a small interpretive anchor; the cost is a syllable beyond the bare 'mit Eifer,' the gain insurance against the reading that would make Berean enthusiasm sound forced.",
+        "confidence": 4
+      },
+      {
+        "term": "anakrinontes_tas_graphas",
+        "rendering": "Render the forensic-investigative ἀνακρίνω as 'Tag für Tag holten sie die Schriften hervor und prüften nach, ob es sich wirklich so verhielt' — communal, daily, cross-examining. The motion of fetching the texts out is made visible. KULTUR and LEBEN footnotes carry the courtroom register and the discipleship anchor.",
+        "tradeOff": "We trade compactness for visibility — the bare 'prüften die Schriften' would have collapsed back into individualist proof-texting (the very misuse the LEBEN footnote names); the surface is wordier so the communal, iterative motion is unmistakable.",
+        "confidence": 5
+      }
+    ],
+    "12": [
+      {
+        "term": "hellenidon_gynaikon_ton_euschemonon_kai_andron",
+        "rendering": "Render as 'Viele von ihnen ließen sich überzeugen, Frauen und Männer aus den angesehenen Familien, eine ganze Reihe' — civic-rank, women coordinated and visible alongside men. The trailing 'eine ganze Reihe' carries οὐκ ὀλίγοι.",
+        "tradeOff": "We refuse the Western-text impulse to subordinate the women grammatically; the cost is the slightly back-loaded German syntax, the gain a faithful coordinate construction (against textual editing that has erased women).",
+        "confidence": 5
+      }
+    ],
+    "13": [
+      {
+        "term": "hoi_apo_thessalonikes_ioudaioi_synagogue_faction",
+        "rendering": "HARM: localised to the specific Thessalonian synagogue-faction — 'die Leute aus der Thessalonicher Synagoge' — not 'die Juden' of Thessalonica as a people, and not even the generic 'Juden aus Thessalonich.' The surface text names the synagogue they came from.",
+        "tradeOff": "We trade lexical literalness for harm-avoidance — the surface narrows further than the Greek to prevent any collectivising reading; the cost is a small interpretive anchor in surface text, the gain protection against a long anti-Judaism reception history.",
+        "confidence": 5,
+        "filtersFailed": [
+          "avoid_christianese"
+        ]
+      },
+      {
+        "term": "saleuontes_kai_tarassontes",
+        "rendering": "Render the pursuit-and-incite motion as 'hetzten die Menge auch dort auf' — the long shadow of opposition.",
+        "tradeOff": "We collapse the Greek doublet (shaking + troubling) into one German verb plus 'auch dort'; the cost is a small loss of texture, the gain a single forceful motion.",
+        "confidence": 4
+      }
+    ],
+    "15": [
+      {
+        "term": "egagon_eos_athenon",
+        "rendering": "Render 'Sie brachten ihn bis nach Athen' — strangers escort a hunted man, plain verb keeps the dignity quiet.",
+        "tradeOff": "none — restraint is the point; a more dramatic verb would betray the tone.",
+        "confidence": 5
+      }
+    ],
+    "16": [
+      {
+        "term": "ekdechomenou",
+        "rendering": "Render the held tension as 'In Athen wartete Paulus auf die beiden' — a man alone, waiting.",
+        "tradeOff": "none — clean German for the waiting verb.",
+        "confidence": 5
+      },
+      {
+        "term": "paroxyneto_to_pneuma_autou",
+        "rendering": "Render the imperfect's ongoing somatic agitation as a triplet — 'Was er sah, ließ ihn nicht zur Ruhe kommen. Es reizte ihn, wühlte ihn auf.' The three verbs together carry the durative force.",
+        "tradeOff": "We refuse a serene-observation reading ('er war beunruhigt') at the cost of a tripled surface where the Greek has one verb; the gain is the durative, bodily agitation the imperfect actually carries.",
+        "confidence": 5
+      },
+      {
+        "term": "kateidolon",
+        "rendering": "Render the Lukan hapax as 'Die Stadt war übersät mit Götterbildern,' with a preceding \\add inventory ('An jeder Ecke ein Altar, in jedem Hof eine Statue ...') that lets the image-saturation be seen, not just asserted.",
+        "tradeOff": "We reject the Luther-heavy 'Götzendienst' (Lexicon-prefers 'Götterbilder') and add a sensorial inventory; the cost is a chunk of \\add prose, the gain that the reader actually sees what Paul saw.",
+        "confidence": 5
+      },
+      {
+        "term": "pneuma_paul_human_spirit",
+        "rendering": "Render Paul's πνεῦμα here as a lowercase, somatic register — 'sein Geist / es / innerlich' — distributed across the triplet so the bodily agitation lands. Not a capitalized theological term in this verse.",
+        "tradeOff": "We refuse to capitalize 'Geist' so the verse cannot be misread as a pneumatological statement; the cost is a register downgrade, the gain accurate human-spirit reading.",
+        "confidence": 5
+      }
+    ],
+    "17": [
+      {
+        "term": "dielegeto_agora",
+        "rendering": "Render the disputation register again: 'argumentierte er ... Frage und Widerrede, kein Vortrag' — the \\add explicitly disowns the lecture mode.",
+        "tradeOff": "We keep the give-and-take visible at the cost of an explicit \\add disclaimer; the gain is that no reader can hear this as Paul-as-sermon.",
+        "confidence": 5
+      }
+    ],
+    "18": [
+      {
+        "term": "epikoureion_kai_stoikon",
+        "rendering": "Render 'Anhänger Epikurs und Stoiker' (with a light \\add 'zwei Schulen, die hier noch lebten und um die Wahrheit stritten'). KULTUR footnote names the two living schools.",
+        "tradeOff": "We reject the Latinate 'Epikureer' for the more legible 'Anhänger Epikurs'; the cost is a slight loss of technical-philosophical flavour, the gain a phrase a modern reader can hear without stumbling.",
+        "confidence": 4
+      },
+      {
+        "term": "syneballon",
+        "rendering": "Render the engagement/dispute verb as 'stellten sich ihm' — they step up to him; the verb carries the back-and-forth without forcing aggression.",
+        "tradeOff": "none — a clean middle register between 'griffen ihn an' and 'unterhielten sich.'",
+        "confidence": 4
+      },
+      {
+        "term": "spermologos",
+        "rendering": "Preserve the seed-picking/scavenger image as 'Was will dieser Körnerpicker uns eigentlich sagen?' The \\add gloss after the line ('einen Vogel, der über den Markt hüpft ...') footnotes the insult inside the prose.",
+        "tradeOff": "We refuse the conventional 'Schwätzer' (which loses the picturable bird-on-the-market metaphor) at the cost of a strange-sounding German neologism; the gain is the visual the Greek insult actually carries.",
+        "confidence": 5
+      },
+      {
+        "term": "kataggeleus",
+        "rendering": "Render the herald noun as a verb in 'es klingt, als verkünde er fremde Gottheiten' — neutral herald register.",
+        "tradeOff": "none — verb-shape is the natural German turn here.",
+        "confidence": 4
+      },
+      {
+        "term": "xenon_daimonion",
+        "rendering": "Render δαιμόνιον in its neutral Greek sense as 'fremde Gottheiten' — lesser deities, no demonological loading.",
+        "tradeOff": "We absolutely reject 'Dämonen' (which would back-project Christian demonology onto a Greek philosophical assessment); the cost is a small surrender of the Greek term's recognisability to Christian ears, the gain a non-distorting register.",
+        "confidence": 5
+      }
+    ],
+    "19": [
+      {
+        "term": "areion_pagon",
+        "rendering": "Render as 'den Areopag' with an \\add gloss 'vor den Rat, der seit jeher darüber wachte, welche neuen Götter und welche fremden Kulte in Athen Heimatrecht erhielten.' KULTUR footnote names council/court function and the Areopagus founding myth that excluded resurrection.",
+        "tradeOff": "We carry an \\add gloss because 'Areopag' to a modern reader sounds like a hill, not a regulatory court; the cost is the gloss's length, the gain that the scene reads as a vetting proceeding, not an open-mic invitation.",
+        "confidence": 5
+      }
+    ],
+    "20": [
+      {
+        "term": "xenizonta",
+        "rendering": "Render the council's request as 'Das klingt für uns fremd, und wir möchten verstehen, was es bedeutet' — comprehension, not condemnation.",
+        "tradeOff": "We frame the request charitably so the dynamic stays a hearing rather than a trial in tone; the cost is a slightly softened surface, the gain accurate framing of the council's posture at this point.",
+        "confidence": 4
+      }
+    ],
+    "21": [
+      {
+        "term": "kainoteron",
+        "rendering": "Render the comparative καινότερον with the German superlative idiom — 'das Neueste zu erzählen oder zu hören' — for the same wry effect.",
+        "tradeOff": "We swap comparative for superlative because German uses the superlative where Greek uses the comparative for this trope; the cost is technical lexical fidelity, the gain the narrator-irony register.",
+        "confidence": 5
+      }
+    ],
+    "22": [
+      {
+        "term": "statheis_en_meso",
+        "rendering": "Render the oratorical posture as 'Paulus trat in die Mitte und begann zu sprechen' — the standing-in-the-middle gesture of antique rhetoric.",
+        "tradeOff": "none — a clean German for the antique rhetorical posture.",
+        "confidence": 5
+      },
+      {
+        "term": "deisidaimonesterous_captatio",
+        "rendering": "Render as positive captatio: 'wie ernst es euch mit den Göttern ist.' The UEBERSETZUNG footnote names the choice and the ambiguity.",
+        "tradeOff": "We absolutely reject 'abergläubisch' at the cost of departing from the Greek word's negative pole; an exordium cannot open with an insult, and 'ernst nehmen' is the cleanest German for honoured religious seriousness. The footnote restores the ambiguity for readers who want it.",
+        "confidence": 5
+      }
+    ],
+    "23": [
+      {
+        "term": "sebasmata",
+        "rendering": "Render the objects of devotion as 'eure Heiligtümer ... was ihr verehrt.'",
+        "tradeOff": "none — clean German for cultic-object register.",
+        "confidence": 5
+      },
+      {
+        "term": "agnosto_theo_singular",
+        "rendering": "HARM: keep the inscription singular — 'Einem unbekannten Gott' — quoted in single guillemets; the surface text names the engraved stone explicitly so the inscription character is felt. KULTUR footnote names the Athenian hedging piety and Paul's acknowledgment-and-redirection.",
+        "tradeOff": "We refuse to pluralise the inscription (some manuscripts and reception lean that way) so Paul's rhetorical move — singularising the many altars — works as he meant it; the cost is a textual-critical commitment defended only in the footnote.",
+        "confidence": 5
+      },
+      {
+        "term": "agnoountes_eusebeite",
+        "rendering": "Preserve the revere/not-know wordplay as 'Was ihr verehrt, ohne es zu kennen.'",
+        "tradeOff": "none — German carries the participle pair cleanly.",
+        "confidence": 5
+      }
+    ],
+    "24": [
+      {
+        "term": "cheiropoietois_naois",
+        "rendering": "Render the LXX anti-idol echo as 'Tempeln, die Menschenhände gebaut haben' — the active 'Menschenhände' carries the χειρο- root visibly.",
+        "tradeOff": "We unfold the compound adjective into a relative clause for visibility; the cost is a slightly longer surface, the gain the anti-idol / anti-imperial-cult intertext is felt.",
+        "confidence": 5
+      },
+      {
+        "term": "kyrios_ouranou_kai_ges",
+        "rendering": "Render the total claim as 'der Herr über Himmel und Erde' — standard, but with the full cosmological weight.",
+        "tradeOff": "none — standard divine-title rendering, well-grounded.",
+        "confidence": 5
+      }
+    ],
+    "25": [
+      {
+        "term": "prosdeomenos_tinos",
+        "rendering": "Render the attack on transactional religion as 'als brauchte er irgendetwas' — 'irgendetwas' sharpens the dismissal.",
+        "tradeOff": "We choose 'irgendetwas' over the bare 'etwas' to carry the dismissive force; the cost is one extra syllable, the gain the rhetorical edge.",
+        "confidence": 5
+      },
+      {
+        "term": "didous_zoen_kai_pnoen_kai_ta_panta",
+        "rendering": "Render the reversal as 'der jedem das Leben und den Atem gibt, ja alles, was wir sind und haben.' πνοή as 'Atem'; the trailing 'ja alles ...' carries καὶ τὰ πάντα.",
+        "tradeOff": "We expand καὶ τὰ πάντα into 'ja alles, was wir sind und haben' so the comprehensive reversal lands; the cost is a slight expansion beyond the lexical surface, the gain emotional and rhetorical force.",
+        "confidence": 5
+      }
+    ],
+    "26": [
+      {
+        "term": "ex_henos",
+        "rendering": "HARM: render the ECM 2017 reading as 'aus einem Einzigen.' TEXT footnote names the variant ('aus einem Blut') and the American slavery/abolition reception history.",
+        "tradeOff": "We absolutely reject 'aus einem Mann' (which appears in no Greek manuscript and has carried its own ideological weight); the cost is a slight strangeness of phrasing, the gain a defensible textual-critical decision that refuses both the patriarchal and racial mis-readings.",
+        "confidence": 5,
+        "filtersFailed": [
+          "avoid_christianese"
+        ]
+      },
+      {
+        "term": "horisas_kairous_kai_horothesias",
+        "rendering": "Render the ordering of nations as 'er hat ihnen bestimmt, zu welcher Zeit und in welchen Grenzen jedes Volk leben sollte' — the temporal and spatial limits made concrete.",
+        "tradeOff": "We unfold the noun-pair into a 'zu welcher Zeit ... in welchen Grenzen' construction so the dual ordering is visible; the cost is verbosity, the gain that the abstract pair becomes intelligible.",
+        "confidence": 4
+      }
+    ],
+    "27": [
+      {
+        "term": "zetein_ton_theon",
+        "rendering": "Render 'Sie sollten Gott suchen' — the seeking, plainly stated.",
+        "tradeOff": "none — direct rendering of the seeking-verb.",
+        "confidence": 5
+      },
+      {
+        "term": "pselapheseian_kai_heuroien",
+        "rendering": "Render the aorist optative with German Konjunktiv ('könnten') plus the tactile verb 'tasten' — 'dass sie nach ihm tasten und ihn finden könnten.' The \\add 'wie jemand im Dunkeln tastet' makes the half-blind groping visible. The LEBEN footnote builds the tactile-search verb into a discipleship anchor.",
+        "tradeOff": "We use the simplex 'tasten' (not 'ertasten') so the half-blind, ongoing-groping quality stays; the cost is that German readers familiar with the more idiomatic 'ertasten' may feel a slight strangeness, the gain the subversion of the visual episteme the Greek actually performs.",
+        "confidence": 5
+      },
+      {
+        "term": "ou_makran_apo_henos_hekastou",
+        "rendering": "Render the spiritual centre with full, unhurried weight — 'Dabei ist er keinem von uns fern.' The LEBEN footnote anchors the not-far-ness as a discipleship register.",
+        "tradeOff": "We refuse to compress this line or hurry it; the verse is the chapter's theological centre and earns its own breath. No live alternative was considered.",
+        "confidence": 5
+      }
+    ],
+    "28": [
+      {
+        "term": "en_auto_zomen_kai_kinoumetha_kai_esmen",
+        "rendering": "Render preserving the triple rhythm — 'in ihm leben wir, in ihm bewegen wir uns, in ihm sind wir' — the anaphoric 'in ihm' repeated three times so each beat lands.",
+        "tradeOff": "We accept the redundancy of the three 'in ihm' repetitions (Greek does not repeat) so the liturgical rhythm survives; the cost is a small departure from minimal lexical economy, the gain the sentence's musical weight.",
+        "confidence": 5
+      },
+      {
+        "term": "tou_gar_kai_genos_esmen",
+        "rendering": "Render the Aratus citation in-line as 'Auch wir sind von seiner Art.' KONTEXT footnote names Aratus. γένος as kinship/of-his-kind; the 'Auch' carries the καὶ.",
+        "tradeOff": "We render γένος as 'von seiner Art' rather than 'sein Geschlecht' or 'seine Nachkommen' — the former too anthropological, the latter too biological; the cost is a slight abstraction, the gain a phrase that holds the kinship sense without overspecifying.",
+        "confidence": 4
+      }
+    ],
+    "29": [
+      {
+        "term": "charagmati_technes",
+        "rendering": "Render the kinship-argument-against-idols as 'einem Bild, das Menschen sich ausgedacht und mit ihren Händen geformt haben' — invention AND fabrication, both visible.",
+        "tradeOff": "We unfold the compact noun phrase into a double relative clause so both halves of the critique (mental invention + manual making) land; the cost is a longer surface, the gain that the argument doesn't collapse into one note.",
+        "confidence": 4
+      }
+    ],
+    "30": [
+      {
+        "term": "chronous_tes_agnoias_hyperidon",
+        "rendering": "HARM: render as 'Über die Zeiten, in denen ihr ihn nicht kanntet, hat Gott hinweggesehen.' The relative clause replaces the abstract 'Unwissenheit' with the concrete situation — Gott war ihnen nicht bekannt — so the German cannot be heard as a verdict on cultures. KULTUR footnote limits the scope to the Athenian-imperial-elite confusion.",
+        "tradeOff": "We absolutely reject 'zugesehen' or 'gewinkt' (which would imply approval) and the abstract 'Unwissenheit' (which carries a herabsetzende Lesart); the cost is a wordier surface, the gain harm-avoidance — no universal verdict on non-Christian humanity.",
+        "confidence": 5,
+        "filtersFailed": [
+          "avoid_christianese"
+        ]
+      },
+      {
+        "term": "metanoein",
+        "rendering": "Render μετανοεῖν as 'Kehrt um' — direction-change, not mere guilt (Lexicon §C / Acts 2 precedent).",
+        "tradeOff": "We refuse 'tut Buße' (which has been moralised into a guilt-and-penitence register in German Christian usage); the cost is some loss of confessional familiarity, the gain a verb that names the actual reorientation the Greek calls for.",
+        "confidence": 5
+      }
+    ],
+    "31": [
+      {
+        "term": "andri_ho_horisen_oblique",
+        "rendering": "Render the oblique Christology as 'durch einen Mann, den er dazu eingesetzt hat' — keep unnamed until the resurrection lands. 'Eingesetzt' carries the appointment/installation force of ὥρισεν cleanly.",
+        "tradeOff": "We refuse to name Jesus here (the Greek doesn't, and the rhetorical shape of the speech depends on the late landing); the cost is suspense some readers will find odd, the gain that the climax in the next half-verse hits as Luke designed it.",
+        "confidence": 5
+      },
+      {
+        "term": "anastesas_ek_nekron",
+        "rendering": "Render the load-bearing climax as bare main-clause syntax — 'Er hat ihn von den Toten auferweckt' — so the sentence lands like a verdict.",
+        "tradeOff": "We refuse any subordinating syntax that would soften the landing; the cost is a stylistically blunt sentence-shape, the gain the rhetorical force of the climax.",
+        "confidence": 5
+      },
+      {
+        "term": "krinein_en_dikaiosyne",
+        "rendering": "Render 'die ganze Welt mit Gerechtigkeit richten' — the judgment-day frame in court-recognisable terms. 'Mit Gerechtigkeit' keeps the instrumental ἐν δικαιοσύνῃ visible rather than collapsing it into the adverb 'gerecht.'",
+        "tradeOff": "We choose the instrumental phrase over the smoother adverb so the abstract noun 'Gerechtigkeit' stays present; the cost is a less idiomatic German, the gain that 'justice' as a substantive remains in the sentence.",
+        "confidence": 4
+      }
+    ],
+    "32": [
+      {
+        "term": "echleuazon",
+        "rendering": "Render the mockery as 'Die einen spotteten' — mockery as one distinct, honoured response.",
+        "tradeOff": "none — the bare verb does the work; over-decorating it would moralise it.",
+        "confidence": 5
+      },
+      {
+        "term": "akousometha_sou_palin",
+        "rendering": "Render the deferral as 'Darüber hören wir dich ein andermal' — deferral as another distinct response, neither mockery nor belief.",
+        "tradeOff": "We refuse to collapse 'we'll hear you again' into a dismissal; the cost is honouring a response many readers want to dismiss, the gain accuracy to Luke's careful three-fold structure.",
+        "confidence": 5
+      }
+    ],
+    "33": [
+      {
+        "term": "exelthen_ek_mesou_auton",
+        "rendering": "Render as 'Damit verließ Paulus die Versammlung' — honor-graceful exit, not defeated retreat. 'Damit' keeps the sense of 'that is what he did, and then he went.'",
+        "tradeOff": "We reject any reading that makes Paul's departure sound like a rout; the cost is foreclosing the apologetic 'failed-at-Athens' tradition, the gain narrative integrity.",
+        "confidence": 5
+      }
+    ],
+    "34": [
+      {
+        "term": "kollethentes_episteusan",
+        "rendering": "Render the third response (belief) as 'schlossen sich ihm an und glaubten' — bare verbs keep the surface plain.",
+        "tradeOff": "none — restraint matches the verse's own restraint.",
+        "confidence": 5
+      },
+      {
+        "term": "dionysios_ho_areopagites",
+        "rendering": "Render as 'Dionysius, der dem Rat des Areopag angehörte' — civic-judicial elite, a council member himself. Footnoted.",
+        "tradeOff": "We unfold the title into a relative clause so the council membership is visible rather than buried in an adjective; the cost is a longer phrase, the gain that the social weight of the conversion is felt.",
+        "confidence": 5
+      },
+      {
+        "term": "gyne_onomati_damaris",
+        "rendering": "HARM: render as 'eine Frau namens Damaris' — coordinate, equal with Dionysius, never subordinated. HARM footnote names her recovery and the Western-text erasure as textual injustice.",
+        "tradeOff": "We refuse any grammatical move that would subordinate Damaris to Dionysius (some translations have done so following the Western text); the cost is a slightly heavier coordinating construction, the gain restoration of the only named woman convert at Athens.",
+        "confidence": 5,
+        "filtersFailed": [
+          "avoid_christianese"
+        ]
+      }
+    ]
+  }
+}

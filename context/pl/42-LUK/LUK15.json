@@ -1,0 +1,291 @@
+{
+  "book": "LUK",
+  "chapter": 15,
+  "lang": "AB-PL",
+  "byVerse": {
+    "1": [
+      {
+        "term": "telonai",
+        "rendering": "Rendered τελῶναι as 'poborcy podatkowi' — the standard contemporary Polish phrase for tax collectors operating under Roman contract.",
+        "tradeOff": "Traded the more compact, traditional 'celnicy' for transparency to a modern Warsaw/Kraków reader; 'celnicy' now reads as archaic/customs-officer and would muffle the sociological force of the term.",
+        "confidence": 5
+      },
+      {
+        "term": "hamartoloi",
+        "rendering": "Rendered ἁμαρτωλοί as 'grzesznicy' — Polish Catholic readers immediately recognise the category, which carries the right sociological weight (people outside Torah-compliant table-fellowship), not just a moral diagnosis.",
+        "tradeOff": "none — the standard Polish term lands the category without paraphrase; any softening (e.g. 'ludzie złego życia') would lose the sharp boundary-marker the Pharisees are deploying.",
+        "confidence": 5
+      }
+    ],
+    "2": [
+      {
+        "term": "diegonguzon",
+        "rendering": "Rendered διεγόγγυζον as 'mruczeli pod nosem' — the imperfect with intensifying dia- prefix becomes ongoing, under-the-breath grumbling rather than a one-off complaint.",
+        "tradeOff": "Traded the LXX-resonant archaism 'szemrać' (Septuagintal echo of Numbers 14) for contemporary Polish that names the under-the-breath quality; the footnote carries the wilderness allusion the surface no longer can.",
+        "confidence": 4
+      },
+      {
+        "term": "prosdechetai",
+        "rendering": "Rendered προσδέχεται as 'przyjmuje' — an active welcoming, not passive toleration of presence.",
+        "tradeOff": "none — 'toleruje' would domesticate the scandal of the verse; 'przyjmuje' keeps the Pharisees' charge intact.",
+        "confidence": 5
+      },
+      {
+        "term": "synesthiei",
+        "rendering": "Rendered συνεσθίει as 'jada z nimi' — the σύν- prefix preserved by the explicit 'z nimi'; the eating-together is the substance of the accusation.",
+        "tradeOff": "none — any rendering that dropped the 'with' (e.g. 'je z grzesznikami przy stole') would over-explain; the bare 'jada z nimi' carries the full covenantal charge that the footnote then unpacks.",
+        "confidence": 5
+      }
+    ],
+    "4": [
+      {
+        "term": "eremos",
+        "rendering": "Rendered ἐρήμῳ as 'na pastwisku' — open grazing land on the Galilean hills, the realistic setting for a hundred-sheep flock.",
+        "tradeOff": "Traded the conventional 'pustynia' (which evokes Sinai desolation and would make leaving 99 sheep look reckless) for the geographically accurate pasture image; the footnote handles the Greek word for readers expecting 'desert'.",
+        "confidence": 5
+      },
+      {
+        "term": "apololos",
+        "rendering": "Rendered ἀπολωλός as 'zagubiona' — chosen as the single Polish lexeme that will travel consistently across sheep, coin, and son.",
+        "tradeOff": "none — chapter-internal consistency requires one root; alternatives like 'stracona' or 'przepadła' would fracture the triad Luke is building.",
+        "confidence": 5
+      }
+    ],
+    "5": [
+      {
+        "term": "epi_tous_omous",
+        "rendering": "Rendered ἐπὶ τοὺς ὤμους as 'na ramiona' — physical, on the shoulders, no abstraction.",
+        "tradeOff": "none — keeping the concrete body image preserves the Isaiah 40 / Ezekiel 34 shepherd echo the footnote names.",
+        "confidence": 5
+      }
+    ],
+    "6": [
+      {
+        "term": "synchareite_moi",
+        "rendering": "Rendered συγχάρητέ μοι as 'cieszcie się razem ze mną' — the imperative commands shared joy, with 'razem' carrying the communal συν-.",
+        "tradeOff": "none — a flatter 'cieszcie się ze mną' would lose the communal-participation force the σύν- prefix carries; the longer phrase is justified.",
+        "confidence": 5
+      }
+    ],
+    "8": [
+      {
+        "term": "drachmas",
+        "rendering": "Rendered δραχμάς as 'srebrne monety' — contextual surface rendering ('dziesięć srebrnych monet'), with the footnote unpacking drachma as a day's wage and the ten as her likely dowry.",
+        "tradeOff": "Traded transliteration ('drachmy') for immediate intelligibility; the loss of the ancient coin name is restored in the footnote, which also surfaces the catastrophe-of-10% reading the bare 'drachmy' would not deliver.",
+        "confidence": 4
+      },
+      {
+        "term": "saroi",
+        "rendering": "Rendered σαροῖ as 'zamiecie' — concrete domestic sweeping action, kept physical.",
+        "tradeOff": "none — any abstraction ('szuka', 'sprząta') would dissolve the embodied search the parable depends on.",
+        "confidence": 5
+      },
+      {
+        "term": "epimelos",
+        "rendering": "Rendered ἐπιμελῶς as 'starannie' — careful, diligent search.",
+        "tradeOff": "none — the standard Polish adverb does the job without inflation.",
+        "confidence": 5
+      }
+    ],
+    "9": [
+      {
+        "term": "synchareite_moi",
+        "rendering": "Rendered συγχάρητέ μοι as 'cieszcie się razem ze mną' — parallel to v.6, the commanded communal joy spoken by the woman.",
+        "tradeOff": "none — strict parallelism with v.6 is part of Luke's male/female pairing; any variation would weaken the structural echo.",
+        "confidence": 5
+      },
+      {
+        "term": "tas_philas_kai_geitonas",
+        "rendering": "Rendered τὰς φίλας καὶ γείτονας as 'przyjaciółki i sąsiadki' — feminine plural in both nouns, gramatically unambiguous in the Greek and made explicit in Polish.",
+        "tradeOff": "Traded a generic 'przyjaciół i sąsiadów' (which would default to masculine in Polish and erase the female-coded community of heaven the parable shows) for the grammatically faithful feminine plurals; this is non-negotiable on the linguistic facts.",
+        "confidence": 5
+      }
+    ],
+    "12": [
+      {
+        "term": "to_epiballon_meros",
+        "rendering": "Rendered τὸ ἐπιβάλλον μέρος τῆς οὐσίας as 'część majątku, która mi się należy' — the relative clause delivers a direct demand rather than a polite request.",
+        "tradeOff": "Traded the more compact participial 'należną mi część' for the relative-clause form because it reads as the demand it culturally is (≈ wishing the father dead); the longer phrasing is the point.",
+        "confidence": 4
+      },
+      {
+        "term": "ton_bion",
+        "rendering": "Rendered τὸν βίον as 'majątek' — the concrete livelihood/estate, not an abstract 'życie'.",
+        "tradeOff": "none — 'życie' here would mislead toward biographical 'life'; 'majątek' is the property sense βίος carries in this idiom.",
+        "confidence": 5
+      }
+    ],
+    "13": [
+      {
+        "term": "asotos",
+        "rendering": "Rendered ἀσώτως as 'bez hamulców' — contemporary Polish idiom ('without brakes') for unrestrained living, capturing BDAG's financial-profligacy sense.",
+        "tradeOff": "Traded the moralising-archaic 'rozpustnie' (which slips into sexual reading not warranted by BDAG and weaponised against LGBTQ+ readers) for a financial-recklessness idiom; the footnote makes the textual point explicit and flags the HARM history.",
+        "confidence": 4
+      }
+    ],
+    "15": [
+      {
+        "term": "choirous",
+        "rendering": "Rendered χοίρους as 'świnie' — kept stark, the unclean animal named directly.",
+        "tradeOff": "none — any euphemism ('trzoda', 'zwierzęta') would erase the Torah-identity catastrophe the footnote unpacks.",
+        "confidence": 5
+      }
+    ],
+    "16": [
+      {
+        "term": "keratia",
+        "rendering": "Rendered κεράτια as 'strąki szarańczynu' — carob pods, the specific livestock fodder; phrased as 'Pragnął nasycić się strąkami szarańczynu' to keep the visceral body-level hunger of ἐπεθύμει γεμίσαι τὴν κοιλίαν.",
+        "tradeOff": "Traded the bland generalisation 'resztki' / 'odpadki' (which would deflate the talmudic 'Israel repents only when down to carob pods' resonance) for the botanically specific image; intelligibility loss is absorbed by the footnote.",
+        "confidence": 5
+      }
+    ],
+    "17": [
+      {
+        "term": "eis_heauton_elthon",
+        "rendering": "Rendered εἰς ἑαυτὸν ἐλθών as 'przyszedł do siebie' — the natural Polish equivalent of 'came to himself', preserving the moment of self-confrontation.",
+        "tradeOff": "Traded conflation with 'opamiętał się' so that 'opamiętać się' remains reserved for μετανοεῖ (vv.7,10); separating the lexemes prevents collapsing the parable's two distinct moves (self-recognition vs. repentance/turning).",
+        "confidence": 4
+      }
+    ],
+    "20": [
+      {
+        "term": "esplagchnisthe",
+        "rendering": "Rendered ἐσπλαγχνίσθη as 'serce mu się ścisnęło' — a visceral, in-the-body clench rather than intellectual pity; the σπλάγχνα root is preserved as gut-level reaction.",
+        "tradeOff": "Traded the standard 'wzruszył się' (too aesthetic) and the more literal but odd 'poruszony do trzewi' (too anatomical) for an idiomatic Polish chest-clench that lands the bodily force without becoming clinical.",
+        "confidence": 4
+      },
+      {
+        "term": "dramon",
+        "rendering": "Rendered δραμών as 'pobiegł' — simple, direct, in a sentence of its own to mark the breathless sequence 'Pobiegł. Rzucił mu się na szyję.'",
+        "tradeOff": "none — any qualifier ('szybko pobiegł', 'pospieszył się') would dilute the shock; bare 'pobiegł' carries the cultural impropriety the footnote unpacks.",
+        "confidence": 5
+      },
+      {
+        "term": "katephilesen",
+        "rendering": "Rendered κατεφίλησεν as 'całował go, całował' — the intensive prefix shown through verbatim repetition rather than an adverb.",
+        "tradeOff": "Traded an adverbial intensifier ('namiętnie/serdecznie całował') for syntactic doubling, which carries the kata- iteration without forcing an interpretive adjective.",
+        "confidence": 4
+      }
+    ],
+    "21": [
+      {
+        "term": "na28_shorter_text",
+        "rendering": "Followed NA28's shorter reading (P75, ℵ, B): the son does not finish his rehearsed speech. The surface ends with an em dash after 'już nie jestem godzien –', and 'potraktuj mnie jak jednego z najemników' is omitted; the typography carries the interruption.",
+        "tradeOff": "Traded harmonisation with v.19 (and the comfort of a complete sentence) for fidelity to the critical text and the theologically central point that grace pre-empts the full confession; some readers will notice the missing clause and the footnote owns the choice.",
+        "confidence": 5
+      }
+    ],
+    "22": [
+      {
+        "term": "stolen_ten_proten",
+        "rendering": "Rendered στολὴν τὴν πρώτην as 'najlepszą szatę' — 'the best robe', with the inline gloss '– ojcowską' surfacing the likely identification as the father's own robe.",
+        "tradeOff": "none — 'pierwsza szata' would read as numerical sequence to a Polish reader; 'najlepsza' delivers the superlative sense τὴν πρώτην carries here.",
+        "confidence": 5
+      },
+      {
+        "term": "daktylion",
+        "rendering": "Rendered δακτύλιον as 'pierścień' on the surface, with '(sygnet w przypisie)' / footnote clarifying it as a signet ring conferring legal authority.",
+        "tradeOff": "Traded the immediately legal 'sygnet' on the surface (which would over-explain) for the more concrete 'pierścień' that the footnote then loads with its juridical weight.",
+        "confidence": 4
+      },
+      {
+        "term": "hypodemata",
+        "rendering": "Rendered ὑποδήματα as 'sandały' — the footwear of a free person, in contrast to the barefoot slave.",
+        "tradeOff": "none — 'buty' would lose the cultural marker; 'sandały' keeps the status sign the footnote names.",
+        "confidence": 5
+      }
+    ],
+    "23": [
+      {
+        "term": "moschon_ton_siteuton",
+        "rendering": "Rendered μόσχον τὸν σιτευτόν as 'tuczone cielę' — specifically 'the fatted calf', the village-feast animal.",
+        "tradeOff": "none — any generalisation ('cielę', 'najlepsze cielę') would lose the technical sense of an animal specially fattened for festival use and underweight the public scale of the feast.",
+        "confidence": 5
+      }
+    ],
+    "24": [
+      {
+        "term": "nekros_en_kai_anezesen",
+        "rendering": "Rendered νεκρὸς ἦν καὶ ἀνέζησεν as 'był martwy – i ożył' — stark, with an em dash marking the reversal; ἀναζάω's resurrection vocabulary preserved.",
+        "tradeOff": "Traded the comforting metaphorical softening 'był jak martwy' (which would empty out the Ezekiel-37 dry-bones resonance the footnote names) for the bare death-to-life claim; the em dash carries the rhetorical pivot.",
+        "confidence": 5
+      },
+      {
+        "term": "apololos",
+        "rendering": "Rendered ἀπολωλώς as 'zagubiony' — the same root as the sheep and the coin, sealing chapter unity.",
+        "tradeOff": "none — using any synonym here would break the lexical thread Luke has been building since v.4.",
+        "confidence": 5
+      }
+    ],
+    "28": [
+      {
+        "term": "orgisthe",
+        "rendering": "Rendered ὠργίσθη as 'wściekł się' — sudden, real fury, matching the aorist.",
+        "tradeOff": "Traded the underpowered 'zdenerwował się' / 'rozgniewał się' (both too mild) for the colloquial 'wściekł się', which carries the snap of the aorist and the publicness of the refusal that the footnote describes.",
+        "confidence": 5
+      }
+    ],
+    "29": [
+      {
+        "term": "douleuo",
+        "rendering": "Rendered δουλεύω as 'haruję' — slave-labour, grinding toil, owning the δοῦλος root.",
+        "tradeOff": "Traded the neutral, dignified 'służę ci' for the harsher 'haruję', because the elder son's self-description as enslaved is precisely the indictment of the father he is making.",
+        "confidence": 5
+      },
+      {
+        "term": "eriphon",
+        "rendering": "Rendered ἔριφον as 'kozła' — 'a young goat', deliberately set against the fatted calf of v.23.",
+        "tradeOff": "none — the contrast (cheap goat vs. festival calf) is part of the grievance and any softer rendering would blunt it.",
+        "confidence": 5
+      }
+    ],
+    "30": [
+      {
+        "term": "ho_huios_sou_houtos",
+        "rendering": "Rendered ὁ υἱός σου οὗτος as 'ten twój syn' — the distancing demonstrative kept, refusing 'brother' and handing the problem back to the father.",
+        "tradeOff": "none — any softening ('twój syn') would erase the brother/son lexical move that the father then reverses in v.32; this single shift is the hinge of the scene.",
+        "confidence": 5
+      },
+      {
+        "term": "pornon",
+        "rendering": "Rendered πορνῶν as 'prostytutkami' — translated without hedging, because the elder brother speaks with full certainty; the footnote relativises the claim by noting it is his interpretation, not narrative fact.",
+        "tradeOff": "Traded a softening surface ('rzekomo z prostytutkami') for character-fidelity: the elder son's voice has to land as confident accusation; the burden of relativising shifts to the footnote.",
+        "confidence": 4
+      }
+    ],
+    "31": [
+      {
+        "term": "teknon",
+        "rendering": "Rendered τέκνον as 'synu' (with the tender intonation carried by surrounding context), preserved as the warmest adult-vocative Polish offers; the footnote makes the τέκνον/υἱέ distinction explicit.",
+        "tradeOff": "Traded the diminutive 'synku' (too sentimental between adult men) and the distancing 'dziecko' (too cold in a confrontation) for 'synu', accepting that Polish has no exact equivalent of the τέκνον tenderness and asking the footnote to cover what the surface cannot.",
+        "confidence": 4
+      }
+    ],
+    "32": [
+      {
+        "term": "edei",
+        "rendering": "Rendered ἔδει as 'trzeba było' — impersonal moral fittingness ('it was the only right response'), not external compulsion.",
+        "tradeOff": "Traded a stronger 'musieliśmy' (which would sound coerced) for 'trzeba było', which lands the appropriateness sense and lets εὐφρανθῆναι/χαρῆναι follow as the two-part celebration the footnote unpacks.",
+        "confidence": 5
+      },
+      {
+        "term": "ho_adelphos_sou_houtos",
+        "rendering": "Rendered ὁ ἀδελφός σου οὗτος as 'ten twój brat' — the father restores the kinship category that the elder son had stripped in v.30, with the same demonstrative construction to mark the deliberate echo and correction.",
+        "tradeOff": "none — the mirror with v.30 must be heard; any rewording ('twój brat' alone) would lose the surgical reversal that is the climax of the parable.",
+        "confidence": 5
+      },
+      {
+        "term": "nekros_en_kai_anezesen",
+        "rendering": "Repeated 'był martwy – i ożył' verbatim from v.24, with the matching em dash; the lexical and typographic identity is the point.",
+        "tradeOff": "Traded stylistic variation (any paraphrase, 'jakby martwy', 'odzyskał życie') for strict verbatim repetition, because the refrain function only works if it is literally identical to v.24.",
+        "confidence": 5
+      },
+      {
+        "term": "apololos",
+        "rendering": "Repeated 'zagubiony' verbatim from v.24, closing the chapter-long lost/found arc on the same Polish word that opened it at v.4.",
+        "tradeOff": "none — variation here would dissolve the chapter's lexical spine.",
+        "confidence": 5
+      }
+    ]
+  }
+}

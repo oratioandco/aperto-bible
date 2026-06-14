@@ -1,0 +1,193 @@
+{
+  "book": "PSA",
+  "chapter": 23,
+  "lang": "AB-EN",
+  "byVerse": {
+    "1": [
+      {
+        "term": "yhwh_the_eternal",
+        "rendering": "Render YHWH as 'the Eternal' across the psalm, following Moffatt's English and the French l'Éternel. This keeps YHWH as a personal name rather than 'the LORD,' which reads to contemporary ears as an ecclesial title in small caps. A footnote on first occurrence explains the convention and surfaces the divine-name tradition.",
+        "tradeOff": "Loses the immediate recognition value of 'the LORD' (familiar from English Bibles for four centuries) and asks the reader to accept an unfamiliar surrogate; gains a name that doesn't read as churchly register and that preserves YHWH's character as a name rather than a title.",
+        "confidence": 5
+      },
+      {
+        "term": "yhwh_roi_shepherd_king",
+        "rendering": "'The Eternal is my shepherd — the king who stands up for me himself.' The added gloss 'the king who stands up for me himself' surfaces the ANE royal-ideology load (Hammurabi, Ramses II, Cyrus as shepherd-kings; Ezek 34; Jer 23) directly in the line, so the modern reader hears political-theological weight rather than pastoral kitsch. The footnote still carries the historical apparatus.",
+        "tradeOff": "Trades surface compactness and the iconic 'is my shepherd' simplicity for an explicit political gloss not on the Hebrew's surface; recovers the metaphor as a power claim rather than a sentimental rural image and avoids the contemporary collapse of 'shepherd' into pastoral kitsch.",
+        "confidence": 4
+      },
+      {
+        "term": "lo_echsar",
+        "rendering": "'I lack nothing' — spare, declarative, contemporary literary register (Robinson/Howe). Avoids 'I shall not want' (KJV archaism) and 'I have everything I need' (flat therapeutic self-help). The three-syllable Hebrew absolute is honored with a three-word English absolute.",
+        "tradeOff": "Loses the iconic 'I shall not want' cadence and the recognition value that has carried the line liturgically; gains a present-tense declarative that lands in EN-P2 register and refuses the therapeutic flatness of 'I have everything I need.'",
+        "confidence": 5
+      },
+      {
+        "term": "pronoun_addressee_strategy",
+        "rendering": "Pronouns for YHWH are used only where prosodically load-bearing; the psalm prefers zero-pronoun verb chains and direct second-person address. v.1 names ('The Eternal') and uses a single 'himself' as the closing emphatic of the royal-shepherd gloss; vv.2–3 use sparse third-person 'he'; v.4 pivots to second person and vv.5–6 stay in second person all the way to the close ('your goodness... your house — this is home').",
+        "tradeOff": "Trades the natural English habit of stacked 'he/his/him' chains for sustained direct address; loses some of the third-person devotional register but minimizes the KJV-echo problem and the androcentric reading flagged by Gafney and feminist critics, while deepening intimacy from v.4 onward.",
+        "confidence": 5
+      }
+    ],
+    "2": [
+      {
+        "term": "binot_deshe",
+        "rendering": "'where it's green' — compact, image-first, contemporary. Carries the freshness of dešeʾ (new, tender grass) without the period costume of 'green pastures' (KJV cliché) or the rural-romantic 'pastures of new grass' (which reads as faux-archaic to urban readers).",
+        "tradeOff": "Loses the iconic 'green pastures' and its centuries of liturgical familiarity; gains a fresher image and avoids the pastoral-kitsch register that has accreted to the KJV phrase, at the cost of some readers feeling the line has been stripped of its weight.",
+        "confidence": 5
+      },
+      {
+        "term": "yarbitseni",
+        "rendering": "'He lays me down' — preserves the hiphil causativity in the verb itself through the physical agency of 'lays' without importing the coercive overtone of 'makes me lie down.' The shepherd's action is concrete and bodily.",
+        "tradeOff": "Trades a more literal causative ('makes me') for a verb that lands less coercively on the modern ear; the causative force is preserved in 'lays' as a physical act, but a reader looking for the explicit causative grammar will not find it.",
+        "confidence": 5
+      },
+      {
+        "term": "mei_menuchot",
+        "rendering": "'He leads me to quiet water — the place I'm finally allowed to land.' 'Quiet water' (singular) is more image-precise than 'still waters' (KJV echo with dead-lake connotation). The added gloss 'the place I'm finally allowed to land' carries mənûḥâ as theological destination — the rest of Sabbath and the promised land — directly in the surface text, so the reader feels the arrival rather than a placid scene.",
+        "tradeOff": "Trades the iconic 'still waters' for a fresher image and adds glossing material the Hebrew doesn't have on its surface; loses some recognition value but recovers mənûḥâ as theological rest and refuses the worship-cliché reading.",
+        "confidence": 5
+      },
+      {
+        "term": "pronoun_addressee_strategy",
+        "rendering": "v.2 uses sparse third-person 'he' only where prosodically required ('He lays me down', 'He leads me'), continuing the strategy of minimizing stacked male pronouns. The third-person chains that trigger KJV-echo and androcentric critique are kept to the minimum needed for prose flow.",
+        "tradeOff": "Loses some of the cumulative third-person devotional cadence that traditional renderings build; gains a leaner texture that prepares the pivot to second-person in v.4.",
+        "confidence": 5
+      }
+    ],
+    "3": [
+      {
+        "term": "nafshi_yeshovev",
+        "rendering": "'He pulls me back from the edge, back into my life' — resuscitation register matching the polel of šûb (causing to return, used of reviving a collapsing body in Ruth 4:15, Lam 1:11, 16) and nepeš as whole-person (throat, breath, body, self), not dualist 'soul.' Direct exegesis F.2 mandate. The brink-of-the-cliff image carries the polel force; 'back into my life' carries nepeš as whole-person.",
+        "tradeOff": "Loses the iconic and liturgically central 'restores my soul' with its centuries of CCM and devotional weight; gains the Hebrew's actual resuscitation urgency and refuses both the soul/body dualism and the weightless CCM register, at the cost of forfeiting the line's recognition value entirely.",
+        "confidence": 5
+      },
+      {
+        "term": "maagley_tsedeq",
+        "rendering": "'sets my feet on the right road' — preserves the physical wheel-rut/worn-track image of maʿgal and ṣedeq as rightness (covenant-justice, what is owed the weak), not personal morality. 'Sets my feet on' carries the shepherd's active placement of the sheep on the worn track. The footnote unpacks ṣedeq as covenant-justice.",
+        "tradeOff": "Trades 'paths of righteousness' — perhaps the most familiar phrase in the entire Psalter — for a concrete physical image; loses massive recognition value but recovers the wheel-rut concreteness and refuses the moralistic, hollowed-out register the KJV phrase has acquired.",
+        "confidence": 5
+      },
+      {
+        "term": "lemaan_shemo",
+        "rendering": "'because he is who he is' — carries Hebrew compactness AND surfaces the ancient honor-shame logic: God's name is his track record, and leading rightly is what faithfulness to that track record looks like. The footnote carries the šēm-as-reputation apparatus.",
+        "tradeOff": "Loses the literal 'name' word and the familiar 'for his name's sake' cadence (which reads as recoverable archaism but obscures the reputation logic); gains an identity-as-rationale phrasing that lands as contemporary idiom while still carrying the honor-shame load underneath.",
+        "confidence": 4
+      },
+      {
+        "term": "pronoun_addressee_strategy",
+        "rendering": "v.3 carries third-person 'he' through to the identity-rationale ('because he is who he is') and then hands off; this is the last third-person stretch before the v.4 pivot to direct address.",
+        "tradeOff": "The third-person continues just long enough to set up the pivot's contrast; risks a slight monotony if read as a stretch of 'he' verbs, but the payoff is the audible turn at v.4.",
+        "confidence": 5
+      }
+    ],
+    "4": [
+      {
+        "term": "gam_ki_elech",
+        "rendering": "'Even through' — collapses the concessive 'even when I walk' into a prepositional through-phrase that keeps the concessive force compact without the explicit walking verb. The ancient reader assumed the valley was certain; 'through' carries the same certainty more compactly in EN-P2 understatement.",
+        "tradeOff": "Loses the literal 'when I walk' verb and its sense of agency; gains compactness and preserves the concessive certainty without the slightly archaic 'when I walk through' construction.",
+        "confidence": 4
+      },
+      {
+        "term": "ge_tsalmavet",
+        "rendering": "'the darkest valley' in main text; the footnote preserves the textual question between ṣalmût (deep darkness, modern critical reading) and ṣēl-māwet (shadow of death, ancient folk etymology). The footnote also carries the Cone/spirituals reception — how Black churches heard death-shadow as the reality of lynching and read past it.",
+        "tradeOff": "Loses the iconic funeral cadence of 'valley of the shadow of death' that has carried generations of mourners; gains the contemporary critical reading and deliberately refuses the funeral-poem register that the broader EN-P2 strategy is not echoing. The footnote does the work of preserving the death-shadow tradition for readers who need it.",
+        "confidence": 5
+      },
+      {
+        "term": "lo_ira_ra",
+        "rendering": "'I'm not afraid.' — present tense, contraction, fragment with a hard period stop. EN-P3 fragment register. The period (not a continuing dash) lets the fragment land as its own breath, and the silence after it does the pivot work. Refuses the archaic inversion 'I will fear no evil.'",
+        "tradeOff": "Loses the famous archaic-inversion cadence ('I will fear no evil') and its scriptural weight; gains a contemporary fragment that names fear honestly and then refuses it, with the silence after the period carrying the theological pivot.",
+        "confidence": 5
+      },
+      {
+        "term": "ki_atta_immadi",
+        "rendering": "'you are with me.' on its own line, indented after a hard stanza break. Drops the 'because/for' connective entirely — the asyndeton makes the address feel uncaused, given, rather than logically inferred. Stands as the first direct address in the psalm and the theological center of the whole composition.",
+        "tradeOff": "Loses the explicit causal connective 'because/for thou art' that ties the address to the preceding fearlessness; the asyndeton risks reading as fragmentary, but in return the address lands as gift rather than as inference and the pivot is audible as a theological event rather than a syllogism.",
+        "confidence": 5
+      },
+      {
+        "term": "shevet_mishenet_yenachamuni",
+        "rendering": "'your club keeps the wolves off, your staff keeps me walking.' Each object gets a distinct functional gloss rather than the abstract 'they steady/comfort me.' 'Club keeps the wolves off' carries šēbeṭ as weapon for predators (per exegesis A.1: not a gentle crook); 'staff keeps me walking' carries mišʿenet as walking-support. The two verbs together do the work nāḥam did in the Hebrew, refracted into concrete protection and support.",
+        "tradeOff": "Loses the iconic 'thy rod and thy staff, they comfort me' and the abstract 'comfort' verb (nāḥam) entirely; gains the šēbeṭ-as-weapon register (David vs. lions and bears, 1 Sam 17) and removes the Hallmark sentimentality that has accreted to 'comfort me,' at the cost of forfeiting one of the most recognized lines in the psalm.",
+        "confidence": 5
+      },
+      {
+        "term": "pronoun_addressee_strategy",
+        "rendering": "v.4 is where the strategy executes its core move: the grammar pivots from 3rd-person to 2nd-person at 'you are with me,' and stays there. 'Your club... your staff' continues the direct address. This is the theological event of the psalm — God ceases to be talked about and becomes the one addressed.",
+        "tradeOff": "Loses the option of carrying third-person through to the end (the traditional English habit); gains the chiastic pivot at the center of the psalm and the sustained intimacy that runs from here to the close.",
+        "confidence": 5
+      }
+    ],
+    "5": [
+      {
+        "term": "taaroch_shulchan",
+        "rendering": "'You spread a table for me' — 'spread' is contemporary and physical (vs. cold 'arrange' or generic 'set'); 'for me' keeps the dative force warm and personal, the table is for the guest, not just before them.",
+        "tradeOff": "none — preserves the Hebrew's spread-out-banquet image and dative warmth with a verb that lands in contemporary register; little is lost from 'preparest a table.'",
+        "confidence": 5
+      },
+      {
+        "term": "neged_tsorerai",
+        "rendering": "'in front of my enemies — right where they have to watch.' Exegesis F.2 explicit mandate: the enemies must never be backgrounded. 'In front of' carries the neged spatially; the added gloss 'right where they have to watch' makes the public-vindication logic of the El Amarna parallel unmissable. The adversaries see the banquet and cannot intervene — this is the psalm's political edge.",
+        "tradeOff": "Loses the spatially neutral 'in the presence of mine enemies' (which lets the enemies be backgrounded as setting); gains the foregrounded confrontation and adds glossing material to make the public-vindication political logic audible to a modern reader who would otherwise miss the El Amarna parallel.",
+        "confidence": 5
+      },
+      {
+        "term": "dishshanta_bashshemen",
+        "rendering": "'Oil in my hair' — image-first fragment with the verb dropped because the image IS the welcome: the host has poured so much aromatic oil that it is now in the guest's hair. Avoids 'anoint' entirely (which would import the māšaḥ register of priestly/royal consecration). The footnote distinguishes this from liturgical anointing (cf. Luke 7:46, Jesus shamed for not being anointed as a guest).",
+        "tradeOff": "Loses the iconic 'anointest my head with oil' and its liturgical resonance; gains the extravagant-banquet register and refuses the māšaḥ/Messiah-consecration framing that the KJV verb tends to summon, at the cost of one of the psalm's best-known lines.",
+        "confidence": 5
+      },
+      {
+        "term": "kosi_revayah",
+        "rendering": "'the cup filled past its rim' — concrete, image-first. Avoids 'runs over' (cliché), 'overflows' (weak), and the possessive 'my cup' which the prosperity-gospel reception has poisoned (Bowler). 'Past its rim' carries the rəwāyâ excess without slipping into slogan territory.",
+        "tradeOff": "Loses the famous 'my cup runneth over' and its possessive intimacy; gains distance from the prosperity-gospel weaponization of the line and preserves the excess image without the slogan register.",
+        "confidence": 5
+      },
+      {
+        "term": "pronoun_addressee_strategy",
+        "rendering": "v.5 stays in second person throughout: 'You spread a table for me,' 'Oil in my hair, the cup filled past its rim,' 'You call me yours.' No return to third-person; the intimacy opened at v.4 sustains.",
+        "tradeOff": "none — the strategy here simply carries the v.4 pivot forward; no specific cost beyond what the pivot itself trades.",
+        "confidence": 5
+      }
+    ],
+    "6": [
+      {
+        "term": "akh_dropped",
+        "rendering": "The affirming particle ʾak (surely/only/nothing but) is dropped from the surface text. 'Surely' reads KJV; 'Yes —' tested as an opener but felt declamatory in front of the hunt-verb image. The asyndeton lets 'Your goodness and faithful love will hunt me down' begin with the subject and land directly; the affirming force of ʾak is carried by the matter-of-fact future-indicative rather than a particle.",
+        "tradeOff": "Loses the explicit affirming particle and the recognition value of 'surely'; gains a direct entry into the verse and avoids the declamatory register that 'Surely' or 'Yes' would impose in front of the hunt-verb.",
+        "confidence": 4
+      },
+      {
+        "term": "tov_chesed",
+        "rendering": "'Your goodness and faithful love' — preserves the covenant-fidelity load of ḥesed with 'faithful' carrying the unwillingness-to-let-go that distinguishes ḥesed from sentiment. Avoids 'mercy' (wrong word, that's raḥămîm), 'lovingkindness' (RSV-archaic), and 'steadfast love' (NRSV/JPS consensus but committee-formal). The added possessive 'Your' keeps the second-person address running unbroken from v.4. The footnote unpacks ḥesed as covenant-loyalty, not sentiment.",
+        "tradeOff": "Loses both the KJV 'mercy' (which is wrong but familiar) and the modern scholarly consensus 'steadfast love'; gains a register that lands more naturally in contemporary prose and a possessive that sustains the second-person address from v.4 through the close.",
+        "confidence": 5
+      },
+      {
+        "term": "yirdefuni",
+        "rendering": "'will hunt me down' — exegesis-mandated. rādap is a hunt-verb (enemies pursue, hunters pursue, Saul pursues David in 1 Sam 23:25, 26:18); the psalm's final move is that the pursuer has changed. 'Hunt me down' is contemporary idiom with the predatory edge intact and the theological reversal — predator-verb now describing grace — fully audible. The footnote carries the same-verb-as-Saul parallel.",
+        "tradeOff": "Loses the softened KJV 'shall follow me' (and its pastoral-comfort register that has carried the verse for centuries); gains the hunt-verb force the Hebrew actually has and recovers the theological reversal that the entire ending pivots on — the predator-verb now describing what goodness does.",
+        "confidence": 5
+      },
+      {
+        "term": "kol_yemei_orech_yamim",
+        "rendering": "'all my life' carries both Hebrew phrases (kol-yəmê ḥayyay + lə-ʾōrek yāmîm). Exegesis-mandated non-negotiable: no 'forever.' Both phrases are earthly-lifespan idioms (Hebrew has lə-ʿôlām for 'forever' and does not use it here); they collapse without loss into one compact English phrase. Refuses the KJV 'forever'/heaven-projection move and preserves the this-life horizon of the psalm. The footnote carries the lə-ʾōrek yāmîm ≠ lə-ʿôlām distinction.",
+        "tradeOff": "Loses 'forever' and its eschatological/heaven-doctrinal weight (which generations of readers have brought to this line, especially in funeral settings); gains the this-life horizon the Hebrew actually has and refuses the KJV heaven-projection that imports later Christian doctrine onto a psalm about the days the speaker actually has.",
+        "confidence": 5
+      },
+      {
+        "term": "shavti_beit_yhwh",
+        "rendering": "'And your house — this is home.' Honors the MT 'return/come back' reading (šûb) over the repointed 'dwell' (yāšab), but foregrounds the destination as recognition rather than the verb: each return is the speaker arriving at the place that is, finally, home. The second-person possessive 'your house' (not 'the house of the Eternal') keeps direct address running unbroken from v.4 through the psalm's close. The footnote carries the textual question and the Pss 22/23/24 temple-entrance triad.",
+        "tradeOff": "Loses 'I will dwell in the house of the LORD' — perhaps the most familiar closing line in the Psalter — and its static, titular register; gains return-as-recognition with sustained second-person intimacy, at the cost of forfeiting massive liturgical recognition value, especially in funeral settings.",
+        "confidence": 4
+      },
+      {
+        "term": "pronoun_addressee_strategy",
+        "rendering": "v.6 keeps the second person all the way through to the close: 'Your goodness and faithful love... all my life. And your house — this is home.' No return to third-person, no titular 'house of the Eternal.' The sustained second-person close deepens the intimacy the v.4 pivot opened.",
+        "tradeOff": "Loses the traditional third-person 'house of the LORD' framing and its centuries of liturgical use; gains a sustained intimacy from v.4 to the final word and refuses any return to the distant register the third-person chains would re-impose.",
+        "confidence": 5
+      }
+    ]
+  }
+}

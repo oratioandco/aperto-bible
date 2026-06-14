@@ -1,0 +1,163 @@
+{
+  "book": "PSA",
+  "chapter": 137,
+  "lang": "AB-DE",
+  "byVerse": {
+    "1": [
+      {
+        "term": "keyword_thread",
+        "rendering": "The zkr/škḥ pair is rendered with root-cognate German throughout the psalm: 'denken an' for narrated remembering (vv.1, 6), 'gedenken' for the v.7 petition imperative ('Gedenke'), and 'vergessen' for forgetting (v.5 ×2). At v.1 ('wenn wir an Zion dachten') the thread opens with the narrative pole; the antithesis with 'vergessen' stays visibly antithetical at every later occurrence (§F.3).",
+        "tradeOff": "We split the zkr root across two German forms ('denken an' for narration, 'gedenken' for petition) rather than collapsing them into a single colloquial 'sich erinnern'. The cost is two surface verbs where Hebrew has one root, but both are root-cognate and register-appropriate, and the antithesis with 'vergessen' stays sharp across vv.1, 5, 6, 7.",
+        "confidence": 5
+      },
+      {
+        "term": "supersessionism",
+        "rendering": "Babylon and Jerusalem stay concrete historical referents — the exile city and the fallen city — across the whole psalm. The Augustinian civitas terrena / civitas Dei allegory is named and costed in KONTEXT and HARM paratext, but never allowed to colonise the surface text; v.1's 'Strömen Babylons' is the Euphrates canal network, not an inner city of the soul.",
+        "tradeOff": "Reading Babylon/Jerusalem allegorically (the inner battle, the carnal vs spiritual city) is a long Christian tradition that we refuse on the surface. The cost is that some Christian readers lose a familiar interpretive key; we recover it in the paratext rather than in the verse line, and pay the price of looking less 'spiritual' on the page.",
+        "confidence": 4
+      }
+    ],
+    "2": [
+      {
+        "term": "supersessionism",
+        "rendering": "Babylon and Jerusalem stay concrete historical referents — the exile city and the fallen city — across the whole psalm. The Augustinian civitas terrena / civitas Dei allegory is named and costed in KONTEXT and HARM paratext, but never allowed to colonise the surface text; the hung-up lyres at v.2 stay a public act of renunciation, not a moral allegory.",
+        "tradeOff": "Reading Babylon/Jerusalem allegorically (the inner battle, the carnal vs spiritual city) is a long Christian tradition that we refuse on the surface. The cost is that some Christian readers lose a familiar interpretive key; we recover it in the paratext rather than in the verse line, and pay the price of looking less 'spiritual' on the page.",
+        "confidence": 4
+      }
+    ],
+    "3": [
+      {
+        "term": "supersessionism",
+        "rendering": "Babylon and Jerusalem stay concrete historical referents — the exile city and the fallen city — across the whole psalm. The Augustinian civitas terrena / civitas Dei allegory is named and costed in KONTEXT and HARM paratext, but never allowed to colonise the surface text; the captors' demand at v.3 is a historical scene of coerced performance, not a generic temptation.",
+        "tradeOff": "Reading Babylon/Jerusalem allegorically (the inner battle, the carnal vs spiritual city) is a long Christian tradition that we refuse on the surface. The cost is that some Christian readers lose a familiar interpretive key; we recover it in the paratext rather than in the verse line, and pay the price of looking less 'spiritual' on the page.",
+        "confidence": 4
+      }
+    ],
+    "4": [
+      {
+        "term": "supersessionism",
+        "rendering": "Babylon and Jerusalem stay concrete historical referents — the exile city and the fallen city — across the whole psalm. The Augustinian civitas terrena / civitas Dei allegory is named and costed in KONTEXT and HARM paratext, but never allowed to colonise the surface text; v.4's 'fremder Boden' is the literal foreign soil of deportation, not a figure of the unredeemed self.",
+        "tradeOff": "Reading Babylon/Jerusalem allegorically (the inner battle, the carnal vs spiritual city) is a long Christian tradition that we refuse on the surface. The cost is that some Christian readers lose a familiar interpretive key; we recover it in the paratext rather than in the verse line, and pay the price of looking less 'spiritual' on the page.",
+        "confidence": 4
+      }
+    ],
+    "5": [
+      {
+        "term": "textual_crux",
+        "rendering": "Verse 5b is rendered 'so vergesse meine rechte Hand' — keeping MT 'vergessen' and leaving the verb objectless, mirroring the Hebrew crux. The UEBERSETZUNG footnote at v.5 names the proposed consonantal re-reading ('so verdorre meine rechte Hand', tiybash) without importing it, and explains why the objectlessness is intentional rather than a defect (§F.7).",
+        "tradeOff": "We lose the smoother KJV-style 'lose its cunning' resolution and the emended 'verdorre' alternative; readers meet a half-finished Hebrew sentence rather than a tidy German one. In return, the zkr/škḥ thread stays root-consistent — the hand itself *forgets* — and the textual crux remains visible rather than silently resolved.",
+        "confidence": 5
+      },
+      {
+        "term": "keyword_thread",
+        "rendering": "The zkr/škḥ pair is rendered with root-cognate German throughout the psalm: 'denken an' for narrated remembering, 'gedenken' for the v.7 petition imperative, and 'vergessen' for forgetting. At v.5 ('Vergesse ich dich, Jerusalem' / 'so vergesse meine rechte Hand') the antonym pole appears twice in a single verse, holding the antithesis taut against the remembering of vv.1, 6, 7 (§F.3).",
+        "tradeOff": "We split the zkr root across two German forms ('denken an' / 'gedenken') rather than collapsing them into colloquial 'sich erinnern', and we use plain 'vergessen' rather than any of the literary alternatives. The cost is two German forms for one Hebrew root; the gain is that the antithesis between remembering and forgetting stays audibly antithetical at every occurrence.",
+        "confidence": 5
+      },
+      {
+        "term": "supersessionism",
+        "rendering": "Babylon and Jerusalem stay concrete historical referents — the exile city and the fallen city — across the whole psalm. The Augustinian civitas terrena / civitas Dei allegory is named and costed in KONTEXT and HARM paratext, but never allowed to colonise the surface text; v.5's Jerusalem is the destroyed city the speaker swears never to forget, not the heavenly Jerusalem of allegory.",
+        "tradeOff": "Reading Babylon/Jerusalem allegorically (the inner battle, the carnal vs spiritual city) is a long Christian tradition that we refuse on the surface. The cost is that some Christian readers lose a familiar interpretive key; we recover it in the paratext rather than in the verse line, and pay the price of looking less 'spiritual' on the page.",
+        "confidence": 4
+      }
+    ],
+    "6": [
+      {
+        "term": "keyword_thread",
+        "rendering": "The zkr/škḥ pair is rendered with root-cognate German throughout the psalm. At v.6 ('wenn ich nicht an dich denke') the narrative pole returns: 'denken an' echoes v.1's 'an Zion dachten', tying the chiasm shut. The thread stays root-consistent across vv.1, 5, 6, 7 — narration ('denken an'), petition ('gedenken'), and antonym ('vergessen') — visible at every occurrence (§F.3).",
+        "tradeOff": "We split the zkr root across two German forms ('denken an' / 'gedenken') rather than collapsing them into colloquial 'sich erinnern'. The cost is two surface verbs for one Hebrew root; the gain is that the antithesis with 'vergessen' stays sharp across the four verses of the keyword thread.",
+        "confidence": 5
+      },
+      {
+        "term": "supersessionism",
+        "rendering": "Babylon and Jerusalem stay concrete historical referents — the exile city and the fallen city — across the whole psalm. The Augustinian civitas terrena / civitas Dei allegory is named and costed in KONTEXT and HARM paratext, but never allowed to colonise the surface text; the Jerusalem the speaker places 'über mein höchstes Glück' at v.6 is the lost city, not a spiritual ideal.",
+        "tradeOff": "Reading Babylon/Jerusalem allegorically (the inner battle, the carnal vs spiritual city) is a long Christian tradition that we refuse on the surface. The cost is that some Christian readers lose a familiar interpretive key; we recover it in the paratext rather than in the verse line, and pay the price of looking less 'spiritual' on the page.",
+        "confidence": 4
+      }
+    ],
+    "7": [
+      {
+        "term": "trauma_informed",
+        "rendering": "The closing strophe (vv.7–9) is not rushed past. The LEBEN footnote at v.9 is written *for* the wounded — deportees, refugees, survivors of mass violence — not for the curious reader, and the petition at v.7 ('Gedenke, Ewiger, der Edomiter') is left to stand as a petition rather than re-framed as a moral lesson (§E.5).",
+        "tradeOff": "The closing strophe is given its full weight rather than buffered by editorial framing; the cost is that comfortable readers may find vv.7–9 hard to sit with, and the gain is that wounded readers find a prayer that does not rush past them toward resolution.",
+        "confidence": 5
+      },
+      {
+        "term": "liturgical_truncation",
+        "rendering": "The whole psalm is presented; vv.7–9 are never cut. Verse 7's petition against Edom — including the doubled raze-cry 'Reißt nieder, reißt nieder / bis auf den Grund!' — is rendered in full, and the 1971 Liturgia-Horarum truncation is named explicitly in the HARM footnote at v.9 as the counter-decision Aperto is refusing (§C.5 #4).",
+        "tradeOff": "We knowingly include verses that the modern Catholic daily office removed, and that many lectionaries quietly skip. The cost is liturgical and pastoral discomfort for some readers; the gain is that the psalm reaches the people it was written for — those who have nowhere else to put the worst.",
+        "confidence": 5
+      },
+      {
+        "term": "keyword_thread",
+        "rendering": "The zkr/škḥ pair is rendered with root-cognate German throughout the psalm. At v.7 the imperative petition uses 'Gedenke, Ewiger' — the solemn cognate of 'denken an' from vv.1, 6, fitting direct address to God while preserving the zkr root audibly. The thread stays root-consistent across vv.1, 5, 6, 7 — narration, petition, and antonym — visible at every occurrence (§F.3).",
+        "tradeOff": "We use 'gedenken' for petition rather than reusing 'denken an' verbatim or reaching for colloquial 'sich erinnern'. The cost is a register shift between narration and petition; the gain is that direct address to God reads in the solemn register Hebrew imperative demands, while staying root-cognate with the narrative form.",
+        "confidence": 5
+      },
+      {
+        "term": "supersessionism",
+        "rendering": "Babylon and Jerusalem stay concrete historical referents — the exile city and the fallen city — across the whole psalm. The Augustinian civitas terrena / civitas Dei allegory is named and costed in KONTEXT and HARM paratext, but never allowed to colonise the surface text; the Edomites at v.7 are the actual Bruder­volk who failed at the fall of the actual city.",
+        "tradeOff": "Reading Babylon/Jerusalem allegorically (the inner battle, the carnal vs spiritual city) is a long Christian tradition that we refuse on the surface. The cost is that some Christian readers lose a familiar interpretive key; we recover it in the paratext rather than in the verse line, and pay the price of looking less 'spiritual' on the page.",
+        "confidence": 4
+      }
+    ],
+    "8": [
+      {
+        "term": "gendered_personification",
+        "rendering": "'Tochter Babylon' is kept as bare apposition at v.8 — not 'Tochter Babylons' (genitive implies a parent), not neutralised to 'Stadt Babylon' or just 'Babylon'. The empire-as-woman personification is structurally load-bearing (§C.4, §F.2); the KONTEXT footnote at v.8 preserves the Hebrew bat-bābel and names the daughter-city convention, and the proleptic 'du Verwüstete' (haššᵉdûdâ) keeps the prophetic certainty that Babylon is already as-good-as-destroyed.",
+        "tradeOff": "Modern German readers may briefly stumble on 'Tochter Babylon' as bare apposition without a genitive 's'. We accept that surface roughness because smoothing it to 'Stadt Babylon' or 'Babylons Tochter' would erase exactly the gendered personification that the imprecation is built around, and would either swap the woman-empire figure for a neutered noun or invent a parent-Babylon that the Hebrew does not name.",
+        "confidence": 5
+      },
+      {
+        "term": "trauma_informed",
+        "rendering": "The closing strophe (vv.7–9) is not rushed past. The LEBEN footnote at v.9 is written *for* the wounded — deportees, refugees, survivors of mass violence — not for the curious reader, and the v.8 cry 'Glücklich, wer dir vergilt, was du uns angetan hast' is given the full force of a survivor's prayer rather than softened into pious wish (§E.5).",
+        "tradeOff": "The closing strophe is given its full weight rather than buffered by editorial framing; the cost is that comfortable readers may find vv.7–9 hard to sit with, and the gain is that wounded readers find a prayer that does not rush past them toward resolution.",
+        "confidence": 5
+      },
+      {
+        "term": "liturgical_truncation",
+        "rendering": "The whole psalm is presented; vv.7–9 are never cut. Verse 8's lex-talionis petition ('Glücklich, wer dir vergilt, was du uns angetan hast') is rendered in full, and the 1971 Liturgia-Horarum truncation is named explicitly in the HARM footnote at v.9 as the counter-decision Aperto is refusing (§C.5 #4).",
+        "tradeOff": "We knowingly include verses that the modern Catholic daily office removed, and that many lectionaries quietly skip. The cost is liturgical and pastoral discomfort for some readers; the gain is that the psalm reaches the people it was written for — those who have nowhere else to put the worst.",
+        "confidence": 5
+      },
+      {
+        "term": "supersessionism",
+        "rendering": "Babylon and Jerusalem stay concrete historical referents — the exile city and the fallen city — across the whole psalm. The Augustinian civitas terrena / civitas Dei allegory is named and costed in KONTEXT and HARM paratext, but never allowed to colonise the surface text; the KONTEXT footnote at v.8 even notes the near-verbatim echo of this petition in Revelation 18, to block the cliché that Old Testament wrath is replaced by New Testament gentleness.",
+        "tradeOff": "Reading Babylon/Jerusalem allegorically (the inner battle, the carnal vs spiritual city) is a long Christian tradition that we refuse on the surface. The cost is that some Christian readers lose a familiar interpretive key; we recover it in the paratext rather than in the verse line, and pay the price of looking less 'spiritual' on the page.",
+        "confidence": 4
+      }
+    ],
+    "9": [
+      {
+        "term": "imprecation_violence",
+        "rendering": "Verse 9 stays intact and terse: 'Glücklich, wer deine Kinder packt / und sie zerschmettert am Felsen.' Two hard native verbs ('packt'/'zerschmettert'), concrete 'deine Kinder' (never 'dein Volk' or 'Nachkommen'), concrete 'am Felsen' — no euphemism, no padding, no pastoral comment inside the line. The framing (lex talionis, the prayer-not-act move, Zenger's reading) is carried in the HARM footnote rather than smuggled into the verse (§F.6, §F.9).",
+        "tradeOff": "We accept that the bare curse-line lands cold on first reading — there is no in-line cushion to break the impact, and the verb 'packt'/'zerschmettert' is unflinching where Luther-tradition softens. The cost is paid in the HARM footnote rather than by softening the verse; readers who only scan the surface get the violence unmediated, which is precisely the Hebrew's force.",
+        "confidence": 5
+      },
+      {
+        "term": "harm_history",
+        "rendering": "The HARM footnote on v.9 names the weaponisation history of the verse, the neo-Marcionite impulse to discard it, the 1971 Liturgia-Horarum truncation, and the lex-talionis frame — including Zenger's reading that laying violence before God in prayer is the alternative to enacting it. The apparatus lets the verse land without becoming either trophy or scandal.",
+        "tradeOff": "Footnote real estate is spent on harm-history rather than on devotional or homiletic framing. We judged that without that history named, the verse is either dismissed as Old-Testament brutality or weaponised; the cost of leaving it unframed is greater than the cost of a long apparatus, even if the apparatus risks overshadowing the line.",
+        "confidence": 5
+      },
+      {
+        "term": "trauma_informed",
+        "rendering": "The LEBEN footnote at v.9 is written *for* the wounded — deportees, refugees, survivors of mass violence — not for the curious reader. It refuses to rush past vv.7–9 toward resolution, offers a practice (klagen, vor Gott legen, nicht selbst vollziehen) rather than an explanation, and ends without 'amen'. The closing strophe is not buffered or softened (§E.5).",
+        "tradeOff": "The LEBEN footnote is longer than most and resists the impulse to soften or resolve; the cost is footnote weight on the closing verse and a reading that explicitly does not end in comfort. The gain is that rushing past the imprecation — which is what most pastoral framings do — would betray exactly the readers the psalm was written for.",
+        "confidence": 5
+      },
+      {
+        "term": "liturgical_truncation",
+        "rendering": "The whole psalm is presented; v.9 is never cut. The 1971 Liturgia-Horarum truncation that removed exactly these verses from the Catholic daily office is named explicitly in the HARM footnote at v.9 as the counter-decision Aperto is refusing — 'a sanitised psalm leaves precisely the people it was written for' (§C.5 #4).",
+        "tradeOff": "We knowingly include the verse the modern Catholic daily office removed, and that many lectionaries quietly skip. The cost is liturgical and pastoral discomfort for some readers, and the risk that the verse will be read out of context; the gain is that the psalm reaches the people it was written for — those who have nowhere else to put the worst.",
+        "confidence": 5
+      },
+      {
+        "term": "supersessionism",
+        "rendering": "Babylon and Jerusalem stay concrete historical referents — the exile city and the fallen city — across the whole psalm. The Augustinian civitas terrena / civitas Dei allegory is named and costed in KONTEXT and HARM paratext, but never allowed to colonise the surface text; 'deine Kinder' at v.9 are not allegorised into 'evil thoughts' or 'sins in the cradle' (Augustine's reading) — they stay the literal children of the empire, and the HARM footnote takes the cost of that decision head-on.",
+        "tradeOff": "Reading Babylon/Jerusalem allegorically (the inner battle, the carnal vs spiritual city) — and specifically Augustine's 'dash your evil thoughts against Christ the rock' reading of v.9 — is a long Christian tradition that we refuse on the surface. The cost is that some Christian readers lose a familiar interpretive key, especially at v.9 where the allegory has historically done the work of making the verse pray-able; we recover the reading in the paratext rather than the verse line.",
+        "confidence": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "book": "PSA",
+  "chapter": 139,
+  "lang": "AB-DE",
+  "byVerse": {
+    "1": [
+      {
+        "term": "keyword_thread",
+        "rendering": "*erkennen* anchors the *yādaʿ* thread (v.2a 'weißt' the single domestic-register exception); the *erforschen* inclusio v.1 // v.23 — indicative 'du hast mich erforscht / und erkannt' returns as imperative 'Erforsche mich … erkenne mein Herz'.",
+        "tradeOff": "Trades a perfectly stitched thread for natural German at v.2a, where 'erkennst' would jar against the domestic verbs 'setzen/aufstehen'; the erkennen-thread resumes at v.2b via a colon-internal swap with *bîn* and carries the inclusio intact (erforscht/erkannt → Erforsche/erkenne, both *er-* prefixed). Picks 'erkennen' (the Gen 4:1 verb of intimate knowing) over stative 'kennen', which would make the v.23 imperative awkward.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it. Pastors and readers who wanted only the consolation half don't get it.",
+        "confidence": 5
+      }
+    ],
+    "2": [
+      {
+        "term": "keyword_thread",
+        "rendering": "v.2a takes 'weißt' as the single domestic-register exception ('Du weißt, wann ich mich setze und wann ich aufstehe'); v.2b 'meine Gedanken erkennst du' resumes the *erkennen* thread via the colon-internal swap with *bîn*.",
+        "tradeOff": "Trades a perfectly stitched thread for natural German at v.2a; the erkennen-thread resumes at v.2b and carries the inclusio intact. 'Gedanke' for *rēaʿ* preserves the deliberate v.2 // v.17 echo (Gott durchschaut die Gedanken des Beters / der Beter staunt über die Gedanken Gottes).",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "3": [
+      {
+        "term": "interpretive_ambiguity",
+        "rendering": "v.3 *zērîtā* → 'wahrnehmen' ('Mein Gehen, mein Ruhen, du nimmst es wahr') — the attentive perceiving, holding the care/awareness ambiguity; *sākan* → 'vertraut sein mit', the warmer parallel verb.",
+        "tradeOff": "Trades comfort-flattened 'kennen' for a verb that holds the genuine fork: the care of a guide *or* the awareness of a tracker. Distinct Hebrew verbs receive distinct German verbs; the line refuses to disambiguate toward reassurance.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "4": [
+      {
+        "term": "keyword_thread",
+        "rendering": "v.4 *yādaʿ* → 'erkennen' ('Kein Wort auf meiner Zunge — du, Ewiger, erkennst es schon ganz'); the erkennen-thread continues, with the vocative 'du, Ewiger' as the inline carrier of the Tetragramm.",
+        "tradeOff": "Trades the colloquial 'kennen' for the relational verb of intimate knowing; the vocative anchors the divine-name decision (Mendelssohn 'der Ewige') without resorting to the ecclesiastical 'Herr'.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "5": [
+      {
+        "term": "interpretive_ambiguity",
+        "rendering": "v.5 *ṣartānî* → 'umschließen' ('Von hinten und vorn umschließt du mich, legst deine Hand auf mich'). Holds protective embrace *and* enclosure/constraint; the footnote (TEXT) names the comfort/threat double reading and David Firth's argument that the ambiguity is deliberate poetic art, not slippage.",
+        "tradeOff": "Trades plain readability for held tension: refuses pure-comfort 'umgeben/umsorgen' and pure-threat 'belagern'. A reader looking for either reading finds neither; the same line speaks Geborgenheit to one and Enge to another. A translation that disambiguates destroys exactly the effect that does the work.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "6": [
+      {
+        "term": "keyword_thread",
+        "rendering": "v.6 *daʿat* → 'Erkennen' as a noun ('Zu wunderbar für mich, dieses Erkennen — zu hoch, ich erreiche es nicht'); the verb thread (erkennen) carries into the noun, keeping the *yādaʿ* root audible across word-classes.",
+        "tradeOff": "Trades a more idiomatic German noun ('Wissen', 'Erkenntnis') for one that preserves the lexical thread to the surrounding erkennen-verbs; the slight register-lift is welcome in the doxology zone of the psalm.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "7": [
+      {
+        "term": "surveillance_reading",
+        "rendering": "UNGLAUBLICH footnote v.7 — the panopticon question engaged honestly, never reassured. The footnote names Bentham's Panopticon (designed with a Ps 139 motto), the Stasi/Gestapo weight in a German context, and the mystical tradition (Augustinus' *Confessiones*, the Wüstenväter, Meister Eckhart, Edith Stein) that reads the verses as I–Du rather than surveillance. *Geist* / *Gegenwart* render *rûaḥ* / *pānîm* concretely; *bāraḥ* → 'fliehen' admits the wish to escape.",
+        "tradeOff": "Trades pastoral reassurance for honest engagement: the text does not tell readers what to feel. It surfaces the ancient Near Eastern Hofliteratur background (omniscience attributed to the king, here reassigned to JHWH so the beter becomes a Du, not an Untertan), then offers v.23's turn — the beter himself asks to be searched — as the way through. Cost: a long footnote that some readers will find heavy.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "8": [
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'. v.8 *šᵉʾôl* → 'das Totenreich' (footnote KULTUR), not 'Hölle' (wrong import) and not 'Scheol' (opaque); the deiktic 'dort … dort' binds heaven and the underworld concretely.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; the merism (heaven/Sheol) stays concrete, never collapsed to 'überall'. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "9": [
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout. v.9 *kanfê-šaḥar* → 'die Flügel der Morgenröte' — winged and concrete, current literary German, not church-archaic; the merism (dawn/sea) stays concrete, never collapsed to 'überall'.",
+        "tradeOff": "Trades the prosaic 'der Osten' or 'schnell' for the actual image — the geflügelte Morgenröte rising from the eastern horizon, the fastest conceivable Fluchtweg that nonetheless ends where Gott already is. Readers trained on systematic-theology vocabulary may notice the absence of abstract omniscience-talk.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "10": [
+      {
+        "term": "interpretive_ambiguity",
+        "rendering": "v.10 *tōʾḥăzēnî* → 'ergreifen' ('ergreift mich deine Rechte'). A grasp that rescues *or* restrains; the same verb *nāḥâ* ('leiten') will return at v.24 as the redemption echo.",
+        "tradeOff": "Trades softened 'stützen / sicher halten' for a verb that keeps both hands open — rescue *and* restraint. The line stays held in tension until v.24 resolves it, where the same 'leiten' returns as 'leite mich auf dem ewigen Weg' — the early threat is redeemed only at the end.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "11": [
+      {
+        "term": "textual_crux",
+        "rendering": "v.11 *yᵉšûpēnî* → 'verbergen' ('Finsternis verberge mich') — the consensus 'cover/hide' reading; a minor crux not worth a footnote.",
+        "tradeOff": "none — the standard consensus is taken; the rare/Aramaic-coloured dark/light sound-play (yaḥšîk/ḥōšek/kaḥăšêkâ/ʾôrâ) carried as register, not forced into single-word substitutes; no paratext at this verse.",
+        "confidence": 4
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; the merism (dark/light) stays concrete, never collapsed to 'überall'. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "12": [
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout. The merism (dark/light) stays concrete: 'Finsternis und Licht, eins' — never collapsed to 'überall' or to an abstract 'Allgegenwart'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register. The rare/Aramaic-coloured dark/light sound-play (yaḥšîk/ḥōšek/kaḥăšêkâ/ʾôrâ) is mentioned only in the commentary track and not forced into the German line.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "13": [
+      {
+        "term": "womb_creation_imagery",
+        "rendering": "concrete craft verbs at v.13: *qānîtā* → 'erschaffen', *tᵉsukkēnî* → 'weben' ('Du hast mein Innerstes erschaffen, mich gewoben im Leib meiner Mutter'). *kilyōtāy* → 'mein Innerstes' (footnote KULTUR carries the literal 'Nieren'); mother explicit; doxology register, not embryology.",
+        "tradeOff": "Trades smooth modern abstraction for concrete textile craft: 'erschaffen / weben' over abstract 'machen'; 'mein Innerstes' over 'Seele'. The mother stays explicit ('im Leib meiner Mutter') rather than neutralised to 'before I was born'; the Mutterleib is named as Werkstatt with Gott as Töpfer, Weber und Sticker — the Hebrew's concrete handwerklich register.",
+        "confidence": 5
+      },
+      {
+        "term": "abortion_weaponization",
+        "rendering": "HARM footnote at v.13 ('im Leib meiner Mutter') — engaged by name; the §218-debate use is named, the documented harm to pregnant readers is named, the feminist critique (Erin Runions) that the proof-text reading erases the very woman the psalm names is named; the mother is re-centred. Never a freestanding 'life' text.",
+        "tradeOff": "Trades quiet on a charged debate for explicit naming: a translation that lets the misuse stand by silence is refused. Cost: paratext that some readers will find politically pointed; gain: the psalm reads as a Danklied in which the Mutter stays sichtbar — beteiligt, not benutzt.",
+        "confidence": 5
+      },
+      {
+        "term": "supersessionism",
+        "rendering": "the womb-as-Synagogue allegory is named and costed in paratext (podcast/devotional track) rather than carried in the line; 'Leib meiner Mutter' stays concretely human — a real pregnant woman's body, not an allegorical Synagogue.",
+        "tradeOff": "Trades silence on a Christian reading-history for relocating the cost to paratext: the allegory is not erased but located where it belongs. The biblical line itself refuses the allegorical move that would dissolve the actual woman.",
+        "confidence": 4
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "14": [
+      {
+        "term": "keyword_thread",
+        "rendering": "v.14 *yādaʿ* → 'erkennen' ('ich erkenne es, durch und durch'); the erkennen-thread continues into the doxology. *nôrāʾôt niplêtî* → 'ein Staunen … ein Schauer' — awe at Gottes Tun, de-familiarising the KJV cliché 'wonderfully made'.",
+        "tradeOff": "Trades the familiar 'wunderbar gemacht' for a phrase that recovers what the Hebrew actually says: das Staunen *und* der Schauer, Ehrfurcht davor, dass es einen überhaupt gibt. The variant LXX/Syrische/Qumran reading ('*du* bist wunderbar') is acknowledged in the footnote; in either direction the Staunen lands on Gottes Tun, not on the self.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "15": [
+      {
+        "term": "womb_creation_imagery",
+        "rendering": "v.15 *ruqqamtî* → 'sticken' ('gestickt in den Tiefen der Erde') — the textile/needlework verb, the same one the Bible uses for the embroidery of the Stiftshütte; *ʿōṣmî* → 'meine Knochen', concrete and bodily.",
+        "tradeOff": "Trades a softened body-word for 'meine Knochen' (DE-P3 physical grounding); 'sticken' carries the tabernacle-craft register the Hebrew verb does, rather than a generic 'formen' or 'machen'. The Mutterleib stays a Werkstatt with Gott as Sticker.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "16": [
+      {
+        "term": "golem_hapax",
+        "rendering": "v.16 *golem* → 'ungeformter Stoff' ('Meinen ungeformten Stoff sahen deine Augen'); footnote KULTUR carries the Sanhedrin 38b reading on Adam as still-formless mass, Bereschit Rabba, and the Golem-von-Prag legend — Central-European cultural property the DE bridge can carry. *sēfer* → 'dein Buch' (the heavenly Schriftrolle).",
+        "tradeOff": "Trades biological specificity for the actual hapax: refuses 'Embryo/Fötus' (CEB's overspecific import, which feeds the proof-text misuse) for 'ungeformter Stoff' — unbearbeitete, gestaltlose Materie. The footnote unfolds the Jewish reception history without forcing it into the line.",
+        "confidence": 5
+      },
+      {
+        "term": "textual_crux",
+        "rendering": "v.16b ketiv (*wᵉlōʾ*) rendered honestly: 'als noch keiner von ihnen war' — the hard reading kept, refusing to glätten an awkward Hebrew construction.",
+        "tradeOff": "Trades smoothness for honest hardness: the line keeps its awkwardness rather than resolving the crux toward a more pastoral reading. The footnote names that the second half is absichtlich hart.",
+        "confidence": 4
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "17": [
+      {
+        "term": "interpretive_ambiguity",
+        "rendering": "v.17 *yāqᵉrû* → 'kostbar' ('Wie kostbar sind mir deine Gedanken, Gott'). The precious / weighty fork lands honestly on **precious** — 'kostbar' = treasured, valued; the parallel 'wie uferlos ihre Zahl' frames it as awe at abundance, a Schatz beyond reckoning, not sentimental possession. *rēaʿ* → 'Gedanke' preserves the v.2 // v.17 echo.",
+        "tradeOff": "Trades the weighty fork for the precious one — taken honestly, named in the footnote. Loses the 'wie schwer wiegen' reading inside the line itself, but the parallel ('wie uferlos ihre Zahl') makes the choice coherent; the v.2 // v.17 'Gedanke' echo binds Gott's reading of the beter to the beter's wonder at Gott's reading.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "18": [
+      {
+        "term": "textual_crux",
+        "rendering": "v.18 *hēqîṣōtî* → 'erwachen' ('Ich erwache: und bin noch bei dir') — the consensus 'I awake', not the conjectural 'come to the end'.",
+        "tradeOff": "Trades a difficulty-resolving emendation for the standard Hebrew reading; refuses to solve the crux by changing the meaning. The line lands on the surprise of finding oneself still 'bei dir' after the night.",
+        "confidence": 4
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "19": [
+      {
+        "term": "imprecation_violence",
+        "rendering": "v.19 optative: 'Wolltest du doch die Schuldigen töten, Gott' — Konjunktiv II ('wolltest') + 'doch' + Infinitiv ('töten'), the German optative wish; never a bare imperative ('Töte!'). v.19b *sûrû mennî*, addressed to the wicked → 'ihr Mörder, weg von mir!' — kept grammatically distinct from the wish to God. *rāšāʿ* → 'die Schuldigen' (plain, contemporary; not churchy 'die Gottlosen'); *ʾanšê dāmîm* → 'ihr Mörder'. The HARM footnote names the optative grammar and the Job-name *ʾĕlôah*.",
+        "tradeOff": "Trades softening for honest hardness: the v.19 break is not bridged. Hard native diction ('töten', 'Mörder') carries the turn. The beter neither befiehlt Gott nor handelt selbst; he places the Sehnsucht nach Gerechtigkeit ganz in Gottes Hand — Erich Zenger's reading: 'ein leidenschaftliches Festhalten an Gott, wenn alles wirklich gegen Gott zu sprechen scheint'. The rare poetic *ʾĕlôah* (Job-name) is necessarily flattened to 'Gott' in German, but the footnote names what is lost.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "20": [
+      {
+        "term": "imprecation_violence",
+        "rendering": "v.20 *laššāwʾ* → 'deinen Namen missbrauchen' ('Sie reden hinterlistig gegen dich, deine Feinde missbrauchen deinen Namen') — the Decalogue echo, plainly; the enemies are named as enemies of God, not of the beter's faction.",
+        "tradeOff": "Trades the abstract 'für nichtige Zwecke / zur Lüge' for the plain Decalogue echo. The line keeps the harsh charge but grounds it in covenant language, not in personal grievance; the beter speaks as one whose grievance lines up with God's.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "21": [
+      {
+        "term": "imprecation_violence",
+        "rendering": "v.21 *śānēʾ* / *qûṭ* → 'hassen / angewidert sein' ('Sollte ich nicht hassen, die dich hassen, Ewiger, von denen angewidert sein, die sich gegen dich erheben?') — the plain hate-words, no euphemism. The vocative 'Ewiger' carries the divine-name (Mendelssohn 'der Ewige'/vocative 'Ewiger') anchoring.",
+        "tradeOff": "Trades the option of softening for plain native diction: 'hassen' and 'angewidert sein' rather than churchy distance-words. The harsh affect is named, not beschönigt; the vocative pulls the line into direct address rather than letting it stand as a generalised statement about enemies.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "22": [
+      {
+        "term": "imprecation_violence",
+        "rendering": "v.22 *taklît śinʾâ* → 'von Grund auf' ('Ich hasse sie von Grund auf — zu Feinden sind sie mir geworden'). 'von Grund auf' = thoroughly, from the foundation — exactly *taklît* (totality, completeness); never 'vollkommener Hass' (which in modern German implies a flawless, virtuous hate — the documented harm). The footnote (UEBERSETZUNG) names the KJV-rooted harm and locates the speaker as Opfer, nicht Täter — 'einer, der von Männern des Blutes umringt ist'.",
+        "tradeOff": "Trades the churchy 'vollkommener Hass' (and its history of justifying contempt for Andersdenkende) for plain totality language. The hatred is named, not beschönigt; but it is named as Totalität, not as Vollkommenheit. The footnote re-frames the speaker as bedrängtes Opfer, not as one whose hate is endorsed.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "23": [
+      {
+        "term": "keyword_thread",
+        "rendering": "v.23 closes the inclusio: *ḥāqar* → 'Erforsche mich, Gott' (imperative), *yādaʿ* → 'erkenne mein Herz' (imperative); *bāḥan* → 'prüfen' (distinct verb); *śarʿappîm* → 'was mich umtreibt' (concrete, contemporary). The mood-shifted return of v.1: erforscht/erkannt → Erforsche/erkenne, both *er-* prefixed, the inclusio doubly bound phonically. The Schütz SWV 244 / Bach BWV 136 anchor is named in the v.1 footnote and lands here.",
+        "tradeOff": "Trades the stative 'kenne mein Herz' (which would jar as an imperative) for the relational 'erkenne mein Herz'; trades a generic 'sorgen / Gedanken' for the concrete 'was mich umtreibt'. The native du-form imperatives ('Erforsche', 'Prüfe', 'erkenne', 'leite') refuse the Kochbuch-Infinitiv and the churchy archaism — the beter speaks to a Du.",
+        "confidence": 5
+      },
+      {
+        "term": "imprecation_violence",
+        "rendering": "v.23 is part of the vv.19–24 unit kept intact; the LEBEN footnote names the move from feindgerichtete Bitte to selbstgerichtete Bitte — the Psalm doesn't end with victory over enemies, but with a request the beter turns against himself.",
+        "tradeOff": "Trades the option of letting vv.19–22 stand alone as Fluch for the integration the psalm itself performs: the Bitte 'erforsche mich' redirects the searching gaze from the enemies back to the speaker. The footnote names the ignatianische Examen and the jüdisches *cheschbon ha-nefesch* as living practices the line opens onto.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ],
+    "24": [
+      {
+        "term": "imprecation_violence",
+        "rendering": "v.24 closes the vv.19–24 unit: *derek-ʿōṣeb* → 'ein Weg, der in die Irre führt'; *derek ʿôlām* → 'der ewige Weg' (leaning 'everlasting'; the footnote also names the 'ancient' sense, vgl. Jer 6,16). *nāḥâ* → 'leiten' ('leite mich auf dem ewigen Weg') — the same verb as v.10, where it stood in the Schwebe between Führen und Festhalten; here at the end ganz und gar positiv. Two ways, the misleading one and the everlasting one.",
+        "tradeOff": "Trades the option of leaving the imprecation as the last word for the resolution the psalm builds toward: the v.10 verb of ambivalent grasp returns as the v.24 verb of unambiguous leading. The 'in die Irre führt' / 'ewiger Weg' antithesis keeps both ways concrete (no abstracted 'gut/böse'); the footnote names the *ʿôlām* fork (ewig / uralt) honestly rather than picking one and hiding the other.",
+        "confidence": 4
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "no 'allwissend / allgegenwärtig / Allmacht' anywhere; 2nd-person address throughout; the psalm speaks in 'du erkennst … du bist da … du hast mich gewoben'.",
+        "tradeOff": "Trades familiar church-vocabulary for the psalm's own register; 'Gegenwart' renders v.7 *pānîm* as concrete second-person presence, not the abstracted Allgegenwart guarded against here. Readers trained on systematic-theology vocabulary may notice its absence.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "all 24 verses, always together; vv.1–18 never freestanding; the lectionary cut named in the HARM footnote at v.19.",
+        "tradeOff": "Trades liturgical convenience for whole-psalm honesty: vv.19–22 are not cut as the Stundengebet and many lectionaries do; the v.19 footnote names the cut explicitly and argues that a psalm with its hard verses removed leaves behind exactly the people who most need it.",
+        "confidence": 5
+      }
+    ]
+  }
+}

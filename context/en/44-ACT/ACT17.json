@@ -1,0 +1,506 @@
+{
+  "book": "ACT",
+  "chapter": 17,
+  "lang": "AB-EN",
+  "byVerse": {
+    "1": [
+      {
+        "term": "place_names_amphipolis_apollonia_thessalonica",
+        "rendering": "Standard English place-names: Amphipolis, Apollonia, Thessalonica — used as the route markers Luke gives.",
+        "tradeOff": "none — these are conventional English transliterations of well-known ancient cities; no reasonable alternative.",
+        "confidence": 5
+      },
+      {
+        "term": "egnatian_way",
+        "rendering": "The implied Egnatian Way rendered as a light \\add gloss: 'the great Roman highway' — imperial-infrastructure context without naming the road.",
+        "tradeOff": "We lose the proper name 'Egnatian Way' and the specificity it carries for readers who would recognize it; we gain immediate legibility of the imperial road network for readers who would not.",
+        "confidence": 4
+      }
+    ],
+    "2": [
+      {
+        "term": "kata_to_eiothos",
+        "rendering": "Rendered 'as he always did' — preserves the near-formulaic phrase Luke deliberately reuses from Luke 4:16 (Jesus' synagogue custom). Footnoted to surface the echo.",
+        "tradeOff": "We give up the more formal 'as was his custom' that would mirror standard English of Luke 4:16; we keep a phrase that reads naturally in narrative prose and footnote the echo for readers who want it.",
+        "confidence": 5
+      },
+      {
+        "term": "dielexato_apo_ton_graphon",
+        "rendering": "Rendered 'worked through the Scriptures with them' — διαλέγομαι as disputation/reasoning, dialogical. Deliberately avoids 'preached'. γραφάς rendered as 'the Scriptures', not 'the Bible' (anachronistic).",
+        "tradeOff": "We lose the homiletic warmth of 'preached' that some readers expect at a synagogue scene; we gain the give-and-take register Luke actually marks, and we keep clear historical air around 'Scriptures' rather than retroject 'the Bible'.",
+        "confidence": 5
+      },
+      {
+        "term": "sabbata_tria",
+        "rendering": "Rendered 'three Sabbaths running' — duration with cumulative force, not a flat 'on three Sabbaths'.",
+        "tradeOff": "We lose a more literal numerical phrasing; we gain the sustained-engagement quality the count is doing.",
+        "confidence": 5
+      }
+    ],
+    "3": [
+      {
+        "term": "christos_v3_messiah_not_christ",
+        "rendering": "χριστός in v.3 rendered 'the Messiah' — 17:3 is explicitly an OT-Jewish argument (Paul reasoning from the Scriptures that the Messiah must suffer and rise).",
+        "tradeOff": "We give up the familiar 'Christ' that English-Christian readers expect; we gain the Jewish anointed-one claim Aperto's secular reader needs, and we avoid 'Christ' reading as a surname.",
+        "confidence": 5
+      },
+      {
+        "term": "dianoigon_paratithemenos",
+        "rendering": "Rendered 'Passage by passage he laid it out' — forensic-presentational register that carries both the opening and the setting-before of Luke's two participles.",
+        "tradeOff": "We lose the two-verb structure of the Greek as parallel verbs; we gain a single English phrase that lands the methodical text-by-text exposition.",
+        "confidence": 4
+      },
+      {
+        "term": "ton_christon_pathein_kai_anastēnai",
+        "rendering": "Rendered 'the Messiah had to go this way — through suffering, through death — and rise again' — the necessity-clause expanded across an em-dashed clause so the cost lands.",
+        "tradeOff": "We give up a compact 'the Messiah had to suffer and rise from the dead'; we gain the felt weight of the path Paul is arguing for, which the unrolled clause carries.",
+        "confidence": 4
+      }
+    ],
+    "4": [
+      {
+        "term": "epeisthēsan",
+        "rendering": "Rendered 'Some of them were persuaded' — argument worked, persuasion not just emotion.",
+        "tradeOff": "none — 'were persuaded' is the natural English of the verb and matches the disputation context.",
+        "confidence": 5
+      },
+      {
+        "term": "proseklērōthēsan",
+        "rendering": "Rendered 'threw in with Paul and Silas' — aorist passive with drawn-to quality, carried without forcing a visible divine-passive gloss onto the surface text.",
+        "tradeOff": "We lose the formal divine-passive that 'were allotted to' would surface; we gain a phrase that reads as decisive human choice while still bearing the middle-voice drawn-to quality.",
+        "confidence": 4
+      },
+      {
+        "term": "sebomenōn_hellēnōn",
+        "rendering": "Rendered as full descriptive phrase 'Greeks who worshiped the God of Israel' — the technical God-fearer category given in plain language, kept consistent across the chapter. Footnoted.",
+        "tradeOff": "We give up the academic shorthand 'God-fearers' that some readers will know; we gain immediate legibility of who these people actually were, and we put the technical term in the footnote.",
+        "confidence": 5
+      },
+      {
+        "term": "gynaikōn_tōn_prōtōn_ouk_oligai",
+        "rendering": "Rendered 'a good number of the city's leading women' — civic-rank, kept grammatically visible as a coordinate clause, not a subordinated throwaway.",
+        "tradeOff": "We lose the literal 'not a few' litotes; we gain a phrase that lets these women stand in their public-civic standing rather than as adornment to the male converts.",
+        "confidence": 5
+      }
+    ],
+    "5": [
+      {
+        "term": "hoi_ioudaioi",
+        "rendering": "Rendered 'the others' — specific local actors, not 'the Jews' as a people. Footnoted to name the binding HARM decision and the anti-Judaism reception history.",
+        "tradeOff": "We give up the literal surface 'the Jews' that the Greek uses; we gain a rendering that refuses to license centuries of anti-Jewish reading, and we surface the textual fact in the footnote.",
+        "confidence": 5,
+        "filtersFailed": [
+          "warsaw"
+        ]
+      },
+      {
+        "term": "zēlōsantes",
+        "rendering": "Rendered 'jealousy took them' — honor-displacement, the sting of watching standing pass to a stranger, not petty envy.",
+        "tradeOff": "We give up the plainer 'they became jealous'; we gain a phrase that registers honor-displacement as something that happens to them, not a small personal failing.",
+        "confidence": 4
+      },
+      {
+        "term": "agoraiōn_ponērous",
+        "rendering": "Rendered 'a few idlers from the marketplace' — urban underclass recruited as mob instruments.",
+        "tradeOff": "We lose 'wicked' / 'evil' as a moral adjective and the formal 'agora-loungers'; we gain a register that names the social fact without sermonizing about it.",
+        "confidence": 4
+      },
+      {
+        "term": "ethoryboun",
+        "rendering": "Rendered 'threw the city into an uproar' — crowd-noise, tumult, the visceral target.",
+        "tradeOff": "none — flat 'made noise' or 'caused a disturbance' would lose the active crowd-violence the verb marks.",
+        "confidence": 5
+      }
+    ],
+    "6": [
+      {
+        "term": "esyron",
+        "rendering": "Rendered 'dragged' — physical public humiliation kept visible.",
+        "tradeOff": "none — softer alternatives ('brought', 'took') would erase the violence.",
+        "confidence": 5
+      },
+      {
+        "term": "politarchas",
+        "rendering": "Rendered 'the politarchs, the city leaders' with light \\add gloss — the distinctive Macedonian title preserved, not flattened to generic 'officials' or 'rulers'. Footnoted (32 inscriptions).",
+        "tradeOff": "We give up generic English ease and risk an unfamiliar word; we gain Luke's verified civic accuracy and an opportunity for the footnote to show his precision.",
+        "confidence": 5
+      },
+      {
+        "term": "oikoumenēn_anastatōsantes",
+        "rendering": "Rendered 'turned the empire upside down' — οἰκουμένη as Roman world / empire (Luke 2:1), ἀναστατόω as seditious upheaval kept sharp.",
+        "tradeOff": "We give up generic 'turned the world upside down' and the flat 'disturbed'; we gain the imperial-political force of the actual charge and its treasonable register.",
+        "confidence": 5
+      }
+    ],
+    "7": [
+      {
+        "term": "dogmata_kaisaros",
+        "rendering": "Rendered 'Caesar's decrees' — concrete juridical edicts, not abstract 'commands'.",
+        "tradeOff": "none — 'decrees' is the precise English for imperial juridical acts.",
+        "confidence": 5
+      },
+      {
+        "term": "basilea_heteron_iēsoun",
+        "rendering": "Rendered 'there is another king — Jesus' — ἕτερον as rival / different in kind. The most dangerous phrase in the chapter; em-dash sets the punch. Footnoted (maiestas; Luke 23:2 parallel).",
+        "tradeOff": "We give up the smooth 'another king named Jesus'; we gain the treason-charge weight that the construction carries and the Luke 23:2 echo the footnote can name.",
+        "confidence": 5
+      }
+    ],
+    "9": [
+      {
+        "term": "labontes_to_hikanon",
+        "rendering": "Rendered 'made Jason and the others post bond' — Roman-Macedonian legal procedure: security pledge, not execution, made clear in narrative context.",
+        "tradeOff": "We lose the formal 'taking security from'; we gain a phrase a modern reader recognizes immediately as a legal release-on-pledge.",
+        "confidence": 4
+      }
+    ],
+    "10": [
+      {
+        "term": "dia_nyktos_exepempsan",
+        "rendering": "Rendered 'That same night the believers sent Paul and Silas on' — night-flight, covert mobility, restrained and atmospheric.",
+        "tradeOff": "none — the temporal phrase carries the urgency without melodrama.",
+        "confidence": 5
+      },
+      {
+        "term": "beroia_off_main_road",
+        "rendering": "Beroea named, with light \\add 'off the main road' — strategic withdrawal from the Egnatian Way.",
+        "tradeOff": "We give up the cleanness of the bare place-name; we gain the geographic point of the move (away from the imperial highway) without a full footnote.",
+        "confidence": 4
+      }
+    ],
+    "11": [
+      {
+        "term": "eugenesteroi",
+        "rendering": "Rendered 'people of a different kind — more open than the ones in Thessalonica had been' — moral receptivity, NOT aristocratic 'of more noble character' (KJV residue rejected per exegesis §F).",
+        "tradeOff": "We give up the venerable 'more noble' that carries the class connotation; we gain a reading that names what Luke actually praises — openness, not blue blood.",
+        "confidence": 5
+      },
+      {
+        "term": "meta_pasēs_prothymias",
+        "rendering": "Rendered 'took the message in eagerly' — full eagerness, energy kept.",
+        "tradeOff": "none — direct English equivalent.",
+        "confidence": 5
+      },
+      {
+        "term": "anakrinontes_tas_graphas",
+        "rendering": "Rendered 'Day after day they went back to the Scriptures and examined them' — ἀνακρίνω as forensic cross-examination; communal and daily. Footnoted (forensic verb; against individualist-biblicism misuse).",
+        "tradeOff": "We give up the compact 'searched the Scriptures daily'; we gain the courtroom register of the verb and the communal practice the footnote can develop against modern individualist proof-text readings.",
+        "confidence": 5
+      }
+    ],
+    "12": [
+      {
+        "term": "hellēnidōn_gynaikōn_euschēmonōn_kai_andrōn",
+        "rendering": "Rendered 'Greek women of standing, and men, a good number of them too' — civic-rank kept; women coordinate and visible with men, against the Western-text editing that diminishes them.",
+        "tradeOff": "We give up the smoother 'a number of prominent Greek men and women'; we gain the women's grammatical priority that the better text actually marks.",
+        "confidence": 5
+      }
+    ],
+    "13": [
+      {
+        "term": "thessalonikēs_ioudaioi",
+        "rendering": "Rendered 'the Thessalonian opponents' — specific local actors, not collective Jewish identity. Binding HARM decision (parallel to v.5).",
+        "tradeOff": "We give up the literal surface 'the Jews from Thessalonica'; we gain a phrase that names the specific group of opponents without licensing collective anti-Jewish reading.",
+        "confidence": 5,
+        "filtersFailed": [
+          "warsaw"
+        ]
+      },
+      {
+        "term": "saleuontes_kai_tarassontes",
+        "rendering": "Rendered 'stirred up the crowds again' — the long shadow of opposition, the same agitation following Paul.",
+        "tradeOff": "We collapse the two participles into a single English phrase; we gain narrative momentum and the felt return of the same pressure.",
+        "confidence": 4
+      }
+    ],
+    "15": [
+      {
+        "term": "ēgagon_heōs_athēnōn",
+        "rendering": "Rendered 'saw him all the way to Athens' — strangers escort a hunted man; care extended past the bare verb.",
+        "tradeOff": "We lose the literal 'brought him as far as Athens'; we gain the felt act of escort that the journey actually was.",
+        "confidence": 4
+      }
+    ],
+    "16": [
+      {
+        "term": "ekdechomenou",
+        "rendering": "Rendered 'Paul waited for them in Athens' — held tension, a man alone in the city.",
+        "tradeOff": "none — direct rendering of the participle as main-clause narration.",
+        "confidence": 5
+      },
+      {
+        "term": "parōxyneto_to_pneuma",
+        "rendering": "Rendered 'what he saw gave him no peace' (paired with 'the longer he looked, the less he could hold still') — imperfect of ongoing somatic agitation, NOT serene observation.",
+        "tradeOff": "We give up the traditional 'his spirit was provoked / stirred within him'; we gain the durative bodily registration the imperfect actually marks, and we keep πνεῦμα as the human spirit rather than a capitalized theological term.",
+        "confidence": 5
+      },
+      {
+        "term": "kateidōlon",
+        "rendering": "Rendered 'The place was full of idols — an altar at every corner, a god in every doorway' — Lukan hapax of image-saturation surfaced through concrete expansion.",
+        "tradeOff": "We give up the literal 'full of idols' kept as one phrase; we gain the visual density that the hapax marks — exactly the saturation that gave Paul no peace.",
+        "confidence": 5
+      },
+      {
+        "term": "pneuma_paul_human_spirit_lowercase",
+        "rendering": "πνεῦμα here as Paul's own spirit (lowercase) — somatic agitation, not a capitalized theological term.",
+        "tradeOff": "We give up the capital-S Spirit reading some pious traditions take here; we gain a clean read of the verse as a body reacting to what the eyes see.",
+        "confidence": 5
+      }
+    ],
+    "17": [
+      {
+        "term": "dielegeto",
+        "rendering": "Rendered 'He argued' — disputation again, give-and-take, the same verb as v.2.",
+        "tradeOff": "We give up the softer 'discussed' or 'reasoned'; we gain consistency with v.2 and the dialogical edge of διαλέγομαι.",
+        "confidence": 5
+      }
+    ],
+    "18": [
+      {
+        "term": "epikoureiōn_stoikōn",
+        "rendering": "Rendered 'followers of Epicurus, and Stoics' — named-after-the-founder phrasing that lands for readers who don't carry the technical labels. Footnoted on the two living schools.",
+        "tradeOff": "We give up the cleaner 'Epicureans and Stoics' that academic readers prefer; we gain accessibility for general readers, with the technical names available in the footnote.",
+        "confidence": 4
+      },
+      {
+        "term": "syneballon",
+        "rendering": "Rendered 'took him on' — engagement, dispute, public confrontation.",
+        "tradeOff": "We give up 'conversed with' or 'debated with'; we gain the combative register that συμβάλλω carries here.",
+        "confidence": 4
+      },
+      {
+        "term": "spermologos",
+        "rendering": "Rendered 'this seed-picker' with \\add gloss ('a bird hopping the market for crumbs, a scavenger of other people's scraps') — the seed-picking / scavenger image preserved per §F.",
+        "tradeOff": "We give up the conventional 'babbler' that reads as merely talkative; we gain the bird-of-the-market image the insult actually carries, with a gloss that lets a modern reader feel its bite.",
+        "confidence": 5
+      },
+      {
+        "term": "katangeleus",
+        "rendering": "Rendered 'proclaiming' — herald register, standard Lukan verb.",
+        "tradeOff": "none — 'proclaiming' is the right register for the herald noun in narrative English.",
+        "confidence": 5
+      },
+      {
+        "term": "xenōn_daimoniōn",
+        "rendering": "Rendered 'foreign gods' — δαιμόνιον as neutral / lesser-deity in Greek. NEVER 'demons'.",
+        "tradeOff": "We give up the surface-lexical 'demons' that some translations carry; we gain the actual Greek sense of the word in pagan religious vocabulary, and we avoid making the Athenians sound demonic.",
+        "confidence": 5
+      }
+    ],
+    "19": [
+      {
+        "term": "areion_pagon",
+        "rendering": "Rendered 'the Areopagus' with \\add gloss 'the council that had always decided which new gods, which foreign cults, would be given a home in Athens' — council / court, not just a hill. Footnoted.",
+        "tradeOff": "We give up the simpler 'Mars Hill' tradition and the bare 'Areopagus'; we gain the actual juridical setting of the speech — Paul is in something close to a hearing, not on a free-speech stage.",
+        "confidence": 5
+      }
+    ],
+    "20": [
+      {
+        "term": "xenizonta",
+        "rendering": "Rendered 'strange to our ears' — the council politely registering novelty before assessing it.",
+        "tradeOff": "We give up a flat 'unusual'; we gain the audial-evaluative register that the council's setting actually demands.",
+        "confidence": 4
+      }
+    ],
+    "21": [
+      {
+        "term": "kainoteron",
+        "rendering": "Rendered 'the latest thing' — comparative 'newer-still' with light narrator irony, universally legible.",
+        "tradeOff": "We give up 'some new thing' (KJV residue) and 'something newer'; we gain the cosmopolitan-novelty edge Luke's comparative carries.",
+        "confidence": 5
+      }
+    ],
+    "22": [
+      {
+        "term": "statheis_en_mesō",
+        "rendering": "Rendered 'Paul stood up there in the middle of the council, and began' — oratorical posture and formality preserved.",
+        "tradeOff": "We give up the bare 'standing in the midst of the Areopagus'; we gain the staged formality of an ancient set-speech opening.",
+        "confidence": 5
+      },
+      {
+        "term": "deisidaimonesterous",
+        "rendering": "Rendered 'how seriously you take the gods, and how thoroughly the divine has been worked into the very texture of your common life' — positive captatio benevolentiae, NEVER 'superstitious'. Footnoted (UEBERSETZUNG).",
+        "tradeOff": "We give up the older 'too superstitious' that opens the speech with an insult; we gain the rhetorical opening Paul actually makes — honoring the audience's search before redirecting it.",
+        "confidence": 5
+      }
+    ],
+    "23": [
+      {
+        "term": "sebasmata",
+        "rendering": "Rendered 'the things you worship' — objects of devotion, in plain language.",
+        "tradeOff": "none — direct equivalent.",
+        "confidence": 5
+      },
+      {
+        "term": "agnōstō_theō",
+        "rendering": "Rendered 'to an unknown god' with \\nd divine-name register, kept SINGULAR per the inscription. Footnoted.",
+        "tradeOff": "We give up flattening to 'an unknown god' in normal type; we gain the inscription-register marking via \\nd, and we hold to the singular against the looser plural that some discussions of Athenian altars import.",
+        "confidence": 5
+      },
+      {
+        "term": "agnoountes_eusebeite",
+        "rendering": "Rendered 'What you worship, then, without knowing what it is' — the worship / not-know wordplay preserved.",
+        "tradeOff": "We give up an unmarked smoothing into 'what you worship in ignorance'; we gain the deliberate Greek wordplay that the rhetoric turns on.",
+        "confidence": 5
+      }
+    ],
+    "24": [
+      {
+        "term": "cheiropoiētois_naois",
+        "rendering": "Rendered 'temples built by human hands' — LXX anti-idol echo; carries the anti-imperial-cult charge.",
+        "tradeOff": "We give up the slightly more literal 'made-by-hand temples'; we gain the LXX echo and the imperial-cult resonance the phrase has in Acts.",
+        "confidence": 5
+      },
+      {
+        "term": "kyrios_ouranou_kai_gēs",
+        "rendering": "Rendered 'Lord of heaven and earth' — total claim, standard divine-name rendering.",
+        "tradeOff": "none — the standard rendering carries the totality of the claim.",
+        "confidence": 5
+      }
+    ],
+    "25": [
+      {
+        "term": "prosdeomenos_tinos",
+        "rendering": "Rendered 'as though he stood in need of anything' — attack on transactional religion preserved.",
+        "tradeOff": "We give up a flat 'as if needing anything'; we gain the formal register that frames the reversal in the next clause.",
+        "confidence": 5
+      },
+      {
+        "term": "didous_zōēn_kai_pnoēn",
+        "rendering": "Rendered 'he is himself the one who gives to every living thing its life, its breath, everything it has' — expanded triplet that lands the totality of the reversal.",
+        "tradeOff": "We give up the compact 'gives to all life and breath and everything'; we gain a triplet that lets each gift land separately and totalize at the end.",
+        "confidence": 5
+      }
+    ],
+    "26": [
+      {
+        "term": "ex_henos",
+        "rendering": "Rendered 'From one' — ECM 2017 reading kept. NEVER 'from one man' (not in any Greek text). Footnoted with the 'from one blood' variant and the American reception history.",
+        "tradeOff": "We give up the familiar English-Christian 'from one man' that has no Greek manuscript support; we gain fidelity to the text Luke wrote, and we surface the manuscript history and the bitter American reception in the footnote.",
+        "confidence": 5
+      },
+      {
+        "term": "horisas_kairous_kai_horothesias",
+        "rendering": "Rendered 'he set the times appointed for them, and the boundaries of the lands in which they live' — God orders the nations.",
+        "tradeOff": "We give up a tighter 'fixing the times and boundaries'; we gain a clause that lets each ordering — temporal, geographic — land separately.",
+        "confidence": 4
+      }
+    ],
+    "27": [
+      {
+        "term": "zētein_ton_theon",
+        "rendering": "Rendered 'so that they would seek him' — the seeking, plain.",
+        "tradeOff": "none — direct equivalent that carries the purpose clause.",
+        "confidence": 5
+      },
+      {
+        "term": "psēlaphēseian",
+        "rendering": "Rendered 'reach out for him, the way a person feels for something in the dark, and perhaps in the end find him' — aorist optative carried by 'perhaps in the end', tactile verb 'feels for'. Subverts the visual episteme.",
+        "tradeOff": "We give up the older 'haply they might feel after him' and the smoother 'grope for him'; we gain the tactile half-light register the verb names, and the tentative mood the optative actually marks.",
+        "confidence": 5
+      },
+      {
+        "term": "ou_makran_apo_henos_hekastou",
+        "rendering": "Rendered 'he is not far from any one of us' — the spiritual center of the chapter, full unhurried weight in a short landed sentence.",
+        "tradeOff": "none — the phrase is allowed to stand alone, against the temptation to soften or to amplify.",
+        "confidence": 5
+      }
+    ],
+    "28": [
+      {
+        "term": "en_autō_zōmen_kai_kinoumetha_kai_esmen",
+        "rendering": "Rendered 'in him we live, in him we move, in him we are' — anaphora preserves the triple rhythm and strengthens the three-beat cadence.",
+        "tradeOff": "We give up the conventional 'in him we live and move and have our being' that fuses the three into one clause; we gain the rhythmic separation of the three Greek verbs and the felt cadence of three distinct acts.",
+        "confidence": 5
+      },
+      {
+        "term": "tou_gar_kai_genos_esmen",
+        "rendering": "Rendered 'We too are his children' — Aratus citation in-line, with γένος rendered as kinship through 'children'. Footnoted (Aratus, *Phaenomena*).",
+        "tradeOff": "We give up the literal 'we are his offspring' and the more abstract 'his race'; we gain the family register the Greek carries and Paul's generous use of pagan poetry as truth-bearing.",
+        "confidence": 5
+      }
+    ],
+    "29": [
+      {
+        "term": "charagmati_technēs",
+        "rendering": "Rendered 'an image shaped by human craft, human imagination' — asyndetic doublet replaces the smoothed 'and' to keep the kinship-against-idol force.",
+        "tradeOff": "We give up the smoother 'craft and imagination'; we gain the asyndetic punch that the argument lands with — craft, imagination, both human, neither divine.",
+        "confidence": 4
+      }
+    ],
+    "30": [
+      {
+        "term": "chronous_tēs_agnoias_hyperidōn",
+        "rendering": "Rendered 'The times of not-knowing — God has let them pass' — ὑπεροράω as overlooked / passed over, restraint not approval. NEVER 'winked at'. Footnoted to limit 'ignorance' to the Athenian elite, not all non-Christian humanity.",
+        "tradeOff": "We give up the older 'winked at' that softens divine forbearance into divine wink-and-nod, and the bare 'overlooked'; we gain the restraint the verb actually marks, and we surface the footnote that keeps the verse from becoming a blanket verdict on every other religion.",
+        "confidence": 5
+      },
+      {
+        "term": "metanoein",
+        "rendering": "Rendered 'to turn — to repent' — direction-change carried by 'turn', the traditional 'repent' kept visible parenthetically rather than as the lead word.",
+        "tradeOff": "We give up putting 'repent' alone as the call (which carries heavy church-English weight for many readers); we gain the direction-change sense first, with 'repent' retained for readers who want the traditional vocabulary.",
+        "confidence": 5
+      }
+    ],
+    "31": [
+      {
+        "term": "andri_hō_hōrisen",
+        "rendering": "Rendered 'a man he has appointed' — oblique Christology kept unnamed until the resurrection lands.",
+        "tradeOff": "We give up naming Jesus at this point, which a sermon-shaped reading would prefer; we gain the rhetorical structure Paul actually builds — the man is unnamed until the climactic resurrection clause.",
+        "confidence": 5
+      },
+      {
+        "term": "anastēsas_ek_nekrōn",
+        "rendering": "Rendered 'he raised that man from the dead' — the load-bearing climax of the speech.",
+        "tradeOff": "none — the phrase is allowed its full weight, exactly where the speech breaks.",
+        "confidence": 5
+      },
+      {
+        "term": "krinein_en_dikaiosynē",
+        "rendering": "Rendered 'he will judge the world, and judge it justly' — doubled clause lets the justice claim land twice; judgment-day frame recognizable to a court.",
+        "tradeOff": "We give up a single tighter 'judge the world in righteousness'; we gain the doubled rhythm that makes the justice claim land in front of a courtroom audience that knows justice when it hears it.",
+        "confidence": 4
+      }
+    ],
+    "32": [
+      {
+        "term": "echleuazon_akousometha_palin",
+        "rendering": "Two distinct responses honored: 'Some of them laughed out loud' (mockery) and 'We'll hear you on this another time' (deferral).",
+        "tradeOff": "We give up collapsing the two responses into a generic 'some mocked, others said they would hear him again'; we gain the two distinct social postures Luke marks — outright laughter and polite postponement — both honored as real human reactions.",
+        "confidence": 5
+      }
+    ],
+    "33": [
+      {
+        "term": "exēlthen_ek_mesou_autōn",
+        "rendering": "Rendered 'Paul left the council' — honor-graceful exit, not defeated retreat.",
+        "tradeOff": "We give up the literal 'went out from their midst' that can read as fleeing; we gain the formal departure-from-a-council register the verb carries in this setting.",
+        "confidence": 4
+      }
+    ],
+    "34": [
+      {
+        "term": "kollēthentes_episteusan",
+        "rendering": "Rendered 'some went with him and believed' — the third response (after mockery and deferral): belief.",
+        "tradeOff": "none — the clause lands the third, quieter response without ornament.",
+        "confidence": 5
+      },
+      {
+        "term": "dionysios_ho_areopagitēs",
+        "rendering": "Rendered 'Dionysius, a member of the council itself' — civic-judicial elite identified, a councillor himself. Footnoted.",
+        "tradeOff": "We give up the bare title 'the Areopagite' that few readers will parse; we gain the immediate civic fact — a member of the very council that was hearing Paul.",
+        "confidence": 5
+      },
+      {
+        "term": "gynē_onomati_damaris",
+        "rendering": "Rendered 'a woman named Damaris' — coordinate and equal with Dionysius, never subordinated. Footnoted on her recovery and the Western-text erasure as textual injustice.",
+        "tradeOff": "We give up syntactic options that would relegate her to a trailing clause; we gain the grammatical equality Luke gives her, and we surface in the footnote the manuscript tradition that tried to erase her.",
+        "confidence": 5,
+        "filtersFailed": [
+          "warsaw"
+        ]
+      }
+    ]
+  }
+}

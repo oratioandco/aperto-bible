@@ -1,0 +1,309 @@
+{
+  "book": "LUK",
+  "chapter": 15,
+  "lang": "AB-DE",
+  "byVerse": {
+    "1": [
+      {
+        "term": "telonai",
+        "rendering": "'Steuereintreiber' — plain modern term; the woven context 'im Auftrag römischer Pächter' carries the role footnote rather than forcing a parenthetical inside the verse line.",
+        "tradeOff": "Trades the older 'Zöllner' register echo (familiar to traditional German readers from Luther) for clarity; modern readers grasp 'Steuereintreiber' immediately without needing background on Roman tax-farming, and the cultural footnote restores the collaborator weight.",
+        "confidence": 4
+      },
+      {
+        "term": "hamartoloi",
+        "rendering": "'die anderen, mit denen man sich nicht abgab' — preserves the social-religious category as relational exclusion, not as moral diagnosis; the footnote keeps the keyword 'Sünder' available for the lexical echo.",
+        "tradeOff": "Trades the bare theological term 'Sünder' (which lands as moralized internal state in modern German) for the social reality the word actually named — the people one did not eat with. The footnote carries the lexical anchor.",
+        "confidence": 4
+      }
+    ],
+    "2": [
+      {
+        "term": "diegongyzon",
+        "rendering": "'ärgerten sich darüber, raunten unter sich, halblaut und beharrlich' — the durative quality of the Greek imperfect unfolded into audible texture; the footnote keyword 'murrten' is retained for the Septuagint echo (Numbers 14, Exodus 16).",
+        "tradeOff": "Trades a one-word German equivalent ('murrten') for the durative, sustained quality the Greek imperfect carries; the footnote keeps the Septuagint keyword so the wilderness echo is not lost.",
+        "confidence": 4
+      },
+      {
+        "term": "prosdechetai",
+        "rendering": "'nimmt diese Leute auf' — active, deliberate welcome rather than mere tolerance; the present tense preserves the ongoing pattern that the Pharisees are objecting to.",
+        "tradeOff": "none — the verb's active, intentional welcome and ongoing aspect are preserved directly without softening.",
+        "confidence": 4
+      },
+      {
+        "term": "synesthiei",
+        "rendering": "'isst mit ihnen' — direct, present tense; the preposition 'mit' carries the theological weight of table-fellowship that the cultural footnote then unfolds.",
+        "tradeOff": "none — direct present-tense rendering; the cost of the action is carried by the cultural footnote rather than by adjectival commentary inside the verse line.",
+        "confidence": 4
+      }
+    ],
+    "4": [
+      {
+        "term": "eremo",
+        "rendering": "'draußen auf der Weide' — open Galilean pastureland, NOT 'Wüste' or 'Einöde'; the cultural footnote explains the cooperative shepherd practice that makes leaving the ninety-nine intelligible rather than reckless.",
+        "tradeOff": "Trades the conventional 'Wüste' sound (which generated centuries of allegorical readings about a rocky desert path) for the realistic Galilean hill country the Greek actually names; the footnote restores the cooperative-herding context.",
+        "confidence": 4
+      },
+      {
+        "term": "apololos",
+        "rendering": "'verloren' / 'verlorenen' — the single German participle held consistent across sheep (v.4, v.6), coin (v.8, v.9), and son (v.24, v.32) to preserve the chapter's semantic unity.",
+        "tradeOff": "none — one word holds the three-parable architecture together; the cost of choosing 'verloren' once is paid in exchange for the structural echo across all six verses.",
+        "confidence": 4
+      }
+    ],
+    "5": [
+      {
+        "term": "epitithesin_epi_tous_omous",
+        "rendering": "'nimmt es auf die Schultern, voller Freude' — the concrete physical image is preserved together with the simultaneous joy the participle χαίρων carries; the Isaiah 40:11 shepherd echo is audible in the gesture.",
+        "tradeOff": "Trades a flat narrative summary ('trug es nach Hause') for the bodily image plus the simultaneous affect; the joy is not consequent but co-present, which the comma carries.",
+        "confidence": 4
+      }
+    ],
+    "6": [
+      {
+        "term": "syncharete_moi",
+        "rendering": "'Freut euch mit mir.' — imperative preserved; sentence-final period rather than exclamation mark, so the joy lands quiet rather than performative; identical formulation at v.6 and v.9.",
+        "tradeOff": "Trades the conventional exclamation mark (which would make the call sound theatrical) for a quiet sentence-final period; the joy is real but not loud, and the identical wording at v.9 carries the male/female pairing.",
+        "confidence": 4
+      },
+      {
+        "term": "apololos",
+        "rendering": "'verlorenes' — same 'verloren' as in v.4 and parallel to the coin and son; the German participle sustains the chapter's semantic unity.",
+        "tradeOff": "none — the consistency is the point; one word holds the three parables together.",
+        "confidence": 4
+      }
+    ],
+    "8": [
+      {
+        "term": "drachmas",
+        "rendering": "'Drachmen' — the foreign currency name is kept; the cultural footnote explains that a drachma was roughly a day's wage and that ten drachmas could be most of a modest household's liquid assets.",
+        "tradeOff": "Trades the familiarity of a domesticated equivalent ('Münzen', 'Geldstücke') for the foreign currency name; the footnote restores the economic stake so the search is not trivialized.",
+        "confidence": 4
+      },
+      {
+        "term": "epimelos",
+        "rendering": "'sorgfältig, Ecke für Ecke' — the quality of the search is unfolded through doubling; the German rhythm of the two phrases carries the durative, exhaustive force of the adverb.",
+        "tradeOff": "none — the doubling unfolds the durative search quality the single adverb carries, without lengthening the sentence past the natural German cadence.",
+        "confidence": 4
+      },
+      {
+        "term": "apololos",
+        "rendering": "'verlorene' — same 'verloren' as sheep and son; the semantic unity of the chapter holds across the coin parable as well.",
+        "tradeOff": "none — single-word consistency sustains the three-parable architecture.",
+        "confidence": 4
+      }
+    ],
+    "9": [
+      {
+        "term": "tas_philas_kai_geitonas",
+        "rendering": "'die Freundinnen und Nachbarinnen' — the feminine plural is grammatically unambiguous in the Greek and must be carried over; the deliberate male/female pairing of shepherd (v.4–6) and woman (v.8–9) only becomes audible if the feminine forms are visible in German.",
+        "tradeOff": "Trades the conventional generic plural ('Freunde und Nachbarn', which collapses the structural parallel) for the grammatical truth; the feminine plural makes Luke's male/female Gottesbild pairing audible — a structural fact that disappears in most translations.",
+        "confidence": 5
+      },
+      {
+        "term": "syncharete_moi",
+        "rendering": "'Freut euch mit mir.' — identical to v.6, sentence-final period; the repeated formula carries the structural parallel between shepherd's call and woman's call.",
+        "tradeOff": "none — verbatim repetition with the shepherd's call is the structural point.",
+        "confidence": 4
+      },
+      {
+        "term": "apololos",
+        "rendering": "'verloren' — same word as sheep and son; semantic unity preserved.",
+        "tradeOff": "none — single-word consistency sustains the three-parable architecture.",
+        "confidence": 4
+      }
+    ],
+    "12": [
+      {
+        "term": "to_epiballon_meros_tes_ousias",
+        "rendering": "'den Anteil, der mir zusteht' — the legal register is preserved; the relative clause 'der mir zusteht' conveys entitlement rather than request; the cultural cost of this demand (a public death-wish toward the father) is carried in the footnote and the bracketed line.",
+        "tradeOff": "Trades the more polite 'meinen Anteil' (which reads as a reasonable request to modern German ears) for the legal-entitlement register; the sting is necessary so that the breach of decorum lands as the audience of Jesus' day heard it.",
+        "confidence": 4
+      }
+    ],
+    "13": [
+      {
+        "term": "asotos",
+        "rendering": "'ohne Maß, ohne Vorsicht' — financial recklessness only; NOT 'ausschweifend' or 'zügellos' (both connote sexuality in German); the doubling stays inside the money register, and a HARM footnote explicitly disowns the sexual reading and names the harm done by centuries of moralized translation.",
+        "tradeOff": "Trades centuries of moralized translation tradition ('ausschweifend', 'zügellos', 'in Saus und Braus') for the BDAG-confirmed sense — financial recklessness, not sexual excess; the HARM footnote does the work of naming why the older readings caused damage (conversion therapy, anti-gay preaching) so the translation does not silently underwrite them.",
+        "confidence": 5
+      }
+    ],
+    "15": [
+      {
+        "term": "choirous",
+        "rendering": "'Schweine' — direct; the cultural footnote explains the ritual defilement and the sequence of identity losses (money, homeland, purity) that locates this verse at the lowest point of the parable.",
+        "tradeOff": "none — direct rendering; the footnote carries the cultic weight rather than the verse line.",
+        "confidence": 4
+      }
+    ],
+    "16": [
+      {
+        "term": "keratia",
+        "rendering": "'Johannisbrotschoten' — specific term; the footnote explains both the cattle-feed function and the rabbinic saying (Leviticus Rabba 35:6, b. Berakhot 63a) that 'when Israelites need carob, they repent.'",
+        "tradeOff": "Trades a generic 'Schoten' or 'Hülsen' (which would mean nothing to a German reader) for the specific carob pod; the footnote restores the rabbinic saying so the proverbial weight of the image lands.",
+        "confidence": 4
+      },
+      {
+        "term": "epethymei_chortasthenai_ek_ton_keration",
+        "rendering": "'hätte sich am liebsten den Bauch mit den Johannisbrotschoten gefüllt, vom Schweinefutter' — the degradation is visceral; the colon-tag 'vom Schweinefutter' lands hard after a brief hold, naming the depth of the fall without commentary.",
+        "tradeOff": "Trades a flat 'wollte die Schoten essen' for the visceral, bodily image of belly-filling plus the explicit pig-feed tag; the cost is one extra clause, the gain is that modern readers actually feel how low the son has fallen.",
+        "confidence": 4
+      }
+    ],
+    "17": [
+      {
+        "term": "eis_heauton_elthon",
+        "rendering": "'Da besann er sich.' — the German idiom for recovered judgment; two words, full stop, the turning point sits in the brevity; the footnote keeps the literal 'Da kam er zu sich' for the Greek echo and notes the classical (not initially geistlich) register.",
+        "tradeOff": "Trades the literal 'Da kam er zu sich' (which in modern German leans toward a sudden religious awakening) for the pragmatic, sober idiom 'besann sich'; the footnote restores the literal phrasing and notes that the Greek itself is classical-pragmatic, not pious.",
+        "confidence": 4
+      }
+    ],
+    "20": [
+      {
+        "term": "esplagchnisthe",
+        "rendering": "'Es ging ihm durch und durch' — visceral, gut-level compassion; the German idiom carries the bodily passage that σπλάγχνα (Eingeweide) names, without resorting to anatomical literalism that would sound clinical in German.",
+        "tradeOff": "Trades the conventional 'hatte Mitleid' (intellectual, distant, philanthropic in modern German) for the visceral idiom; the cost is leaving the anatomical literalism to the footnote, the gain is that the compassion lands in the body where the Greek puts it.",
+        "confidence": 5
+      },
+      {
+        "term": "dramon",
+        "rendering": "'Er lief los, ein alter Mann, in einer Welt, in der alte Männer nicht laufen' — the inserted bracketed line makes the breach of protocol audible; the cultural footnote (Bailey, Keener, the qetsatsah possibility) carries the further weight.",
+        "tradeOff": "Trades a clean 'lief ihm entgegen' for an inserted explanatory clause inside the verse line; the cost is one added clause in the narrative, the gain is that the dignity cost lands for readers who have no cultural memory of old men not running.",
+        "confidence": 4
+      },
+      {
+        "term": "katephilesen",
+        "rendering": "'küsste ihn' — tender, intensive; the public, demonstrative kiss is preserved in plain German without being over-explained.",
+        "tradeOff": "none — direct rendering carries the tender, public weight; the surrounding clauses ('fiel ihm um den Hals') already supply the demonstrative force.",
+        "confidence": 4
+      }
+    ],
+    "21": [
+      {
+        "term": "na28_shorter_text_v21",
+        "rendering": "Speech ends mid-sentence at 'Ich verdiene es nicht mehr, dein Sohn zu heißen –' (em-dash); 'Nimm mich auf wie einen deiner Tagelöhner' is NOT spoken; the father interrupts, signalled by the em-dash and the bracketed narrator-line 'Weiter kam er nicht.' opening v.22.",
+        "tradeOff": "Trades the longer manuscript tradition (the scribal harmonization that completes the rehearsed speech) for the older witnesses (P75, ℵ, B) that NA28 follows; the gap IS the theological point — the father will not let the son finish renouncing sonship, and only the shorter text carries this.",
+        "confidence": 5
+      }
+    ],
+    "22": [
+      {
+        "term": "stolen_ten_proten",
+        "rendering": "'das beste Gewand' — the Greek superlative is preserved; the woven context and footnote signal that this is likely the father's own festive robe, publicly conferring status restoration.",
+        "tradeOff": "none — the superlative is preserved directly; the cultural weight (the father's own robe) is carried by the consolidated four-symbol footnote.",
+        "confidence": 4
+      },
+      {
+        "term": "daktylion",
+        "rendering": "'Einen Ring' — the footnote identifies this as a signet ring (Siegelring) carrying legal authority in the family name.",
+        "tradeOff": "Trades an explicit 'Siegelring' in the verse body (which would over-explain) for the plain 'Ring' plus footnote; the legal-authority weight is carried by the footnote so the narrative cadence is preserved.",
+        "confidence": 4
+      },
+      {
+        "term": "hypodemata",
+        "rendering": "'Sandalen' — the footnote explains that sandals mark a free person; slaves went barefoot.",
+        "tradeOff": "none — plain rendering; the footnote does the cultural work of marking the slave/free distinction the son had proposed to cross.",
+        "confidence": 4
+      }
+    ],
+    "23": [
+      {
+        "term": "moschon_ton_siteuton",
+        "rendering": "'das Mastkalb' — specific, festive; the woven context and footnote signal that a fatted calf feeds a village, not a family, making this a public celebration.",
+        "tradeOff": "none — specific term is preserved; the village-scale weight is carried by the consolidated footnote at v.22.",
+        "confidence": 4
+      }
+    ],
+    "24": [
+      {
+        "term": "apololos_kai_heurethe",
+        "rendering": "'er war verloren und ist gefunden' — the same 'verloren' as the sheep and the coin; semantic unity of the chapter preserved at the father's mouth.",
+        "tradeOff": "none — single-word consistency across the three parables is the architectural point; one word does six verses of work.",
+        "confidence": 4
+      },
+      {
+        "term": "nekros_en_kai_anezesen",
+        "rendering": "'war tot und lebt wieder' — STARK, no softening; resurrection vocabulary (ἀνέζησεν is LXX resurrection language); identical wording at v.24 and v.32 to carry the structural echo.",
+        "tradeOff": "Trades the centuries-old softening 'war wie tot' (which downgrades the Greek to simile) for the stark resurrection language the Greek actually uses; the cost is a metaphysically loaded sentence in a parable, the gain is that the Ezekiel 37 / Jeremiah 31 echoes the footnote names actually land.",
+        "confidence": 5
+      }
+    ],
+    "28": [
+      {
+        "term": "orgisthe",
+        "rendering": "'Da wurde er zornig' — sudden anger (Aorist); direct, named; the heat sits in 'zornig' itself rather than in any added intensifier.",
+        "tradeOff": "Trades the conventional softening 'ärgerte sich' (which lands as 'got annoyed' in modern German) for the named affect 'zornig'; the heat must sit in the word itself so the elder son's controlled fury in the following speech is grounded in actual anger, not irritation.",
+        "confidence": 4
+      }
+    ],
+    "29": [
+      {
+        "term": "douleuo",
+        "rendering": "'schufte ich für dich wie ein Sklave' — NOT 'diene ich dir'; slave-labor vocabulary, not free service; the simile 'wie ein Sklave' is spelled out so the slave register is unmistakable.",
+        "tradeOff": "Trades the polite 'diene ich dir' (which lands as free, dignified service in modern German) for the slave-labor vocabulary the Greek root δοῦλος demands; the simile spells out the felt exploitation so the elder son's self-understanding (he has lived as a slave in his father's house) is audible — and the father's 'Kind' in v.31 lands as a correction.",
+        "confidence": 5
+      },
+      {
+        "term": "eriphon",
+        "rendering": "'Ziegenbock' — lesser animal, in deliberate contrast with the Mastkalb of v.23; the contrast preserves the elder son's grievance proportionally.",
+        "tradeOff": "none — direct rendering; the contrast with Mastkalb does the structural work.",
+        "confidence": 4
+      },
+      {
+        "term": "oudepote_edokas_eriphon",
+        "rendering": "'mir hast du nie auch nur einen Ziegenbock gegeben' — the 'nie auch nur' must sting; the bitter understatement is what carries the grievance.",
+        "tradeOff": "Trades a flat negation ('hast mir nie einen gegeben') for the stinging 'nie auch nur'; the cost is two extra words, the gain is that the contempt and accumulated resentment become audible.",
+        "confidence": 4
+      }
+    ],
+    "30": [
+      {
+        "term": "ho_huios_sou_houtos",
+        "rendering": "'dein Sohn da' — pointed distancing; the elder son refuses 'mein Bruder' and shoves the returnee onto the father with the deictic 'da'; the contempt is carried by the deictic itself.",
+        "tradeOff": "Trades a neutral pronoun construction ('dieser dein Sohn' as found in older translations, which reads as awkwardly formal in modern German) for the deictic 'da'; the cost is one short word, the gain is that the father's correction in v.32 ('dein Bruder da') can mirror the grammar exactly.",
+        "confidence": 4
+      },
+      {
+        "term": "pornon",
+        "rendering": "'Prostituierten' — modern term; the footnote flags this as the elder brother's unsupported accusation, not the narrator's report, and cross-references the HARM footnote at v.13 which disowns the sexual reading the harmonized tradition built.",
+        "tradeOff": "Trades the older 'Huren' (which reads as moralizing church register in modern German) for the modern, neutral 'Prostituierten'; the cost is sounding contemporary in the elder son's mouth, the gain is that the footnote can do the careful work of locating this as accusation rather than narration.",
+        "confidence": 5
+      }
+    ],
+    "31": [
+      {
+        "term": "teknon",
+        "rendering": "'Kind' — most tender address available; NOT 'Sohn' (which collapses τέκνον into the same word the elder son uses about himself in v.29) and NOT 'Mein Sohn' (which would add a possessive the Greek does not have); bare vocative.",
+        "tradeOff": "Trades the conventional 'Sohn' (which sounds neutral and slightly formal in modern German) for the more tender 'Kind'; the cost is a register risk (Kind can sound diminutive), the gain is that the contrast with the elder son's slave-labor register becomes audible — the father answers fury with the softest word the language has.",
+        "confidence": 4
+      }
+    ],
+    "32": [
+      {
+        "term": "ho_adelphos_sou_houtos",
+        "rendering": "'dein Bruder da' — the father CORRECTS the elder son's distancing using the same deictic 'da' the son weaponized in v.30; the matched grammar is the correction.",
+        "tradeOff": "Trades a neutral 'dein Bruder' (which would lose the mirroring) for the matched deictic; the cost is preserving a grammar that on its own might read as cool, the gain is that the father's correction lands quietly through structural symmetry rather than rebuke.",
+        "confidence": 4
+      },
+      {
+        "term": "edei",
+        "rendering": "'Wie hätten wir nicht feiern sollen?' — moral-theological necessity rendered as rhetorical question; the obligation arrives as something self-evident, not as compulsion or directive.",
+        "tradeOff": "Trades a directive 'wir mussten feiern' or 'wir sollten feiern' (which lands as either external command or weak suggestion in modern German) for the rhetorical question; the cost is the modal nuance of ἔδει being recast as interrogative, the gain is that the moral fittingness arrives as self-evident rather than imposed.",
+        "confidence": 5
+      },
+      {
+        "term": "apololos_kai_heurethe",
+        "rendering": "'er war verloren und ist gefunden' — identical to v.24; same 'verloren' as sheep and coin; the verbatim repetition is the structural seal of the parable.",
+        "tradeOff": "none — identical to v.24 by design; the repetition is the structural point and any variation would weaken it.",
+        "confidence": 4
+      },
+      {
+        "term": "nekros_en_kai_anezesen",
+        "rendering": "'war tot und lebt wieder' — identical to v.24; resurrection vocabulary repeated verbatim; what was said at the feast is now said again at the door, to the one standing outside.",
+        "tradeOff": "none — verbatim repetition with v.24 is the point; the matched wording is what makes the father's correction of the elder son land with the same weight as the welcome of the younger.",
+        "confidence": 5
+      }
+    ]
+  }
+}

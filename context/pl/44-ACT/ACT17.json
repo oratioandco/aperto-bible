@@ -1,0 +1,497 @@
+{
+  "book": "ACT",
+  "chapter": 17,
+  "lang": "AB-PL",
+  "byVerse": {
+    "1": [
+      {
+        "term": "amfipolis_apolonia_tesalonika",
+        "rendering": "Standard Polish place-names retained: Amfipolis, Apolonia, Tesalonika. No translation, transliteration follows established Polish convention.",
+        "tradeOff": "none — these are canonical Polish forms of the place-names; nothing is traded.",
+        "confidence": 5
+      },
+      {
+        "term": "via_egnatia",
+        "rendering": "The implied Roman road is made explicit as an \\add expansion: 'wielkim rzymskim traktem, tym samym, którym maszerowały legiony' — imperial-infrastructure context with legion-march register foregrounded.",
+        "tradeOff": "We trade a leaner surface for a load-bearing image; without it the geography reads as travelogue rather than as movement along Rome's military spine, and a footnote would have forced an interruption the \\add avoids.",
+        "confidence": 4
+      }
+    ],
+    "2": [
+      {
+        "term": "kata_to_eiothos",
+        "rendering": "Near-formulaic 'jak miał w zwyczaju' deliberately echoes Łk 4,16 (Jesus entering the Nazareth synagogue 'według swego zwyczaju'); footnote names the echo.",
+        "tradeOff": "We trade a smoother rendering ('jak zwykle') for a continuity-claim: Paul does not break from his Jewish life, he continues it. The footnote is needed because the echo would otherwise be invisible to most readers.",
+        "confidence": 5
+      },
+      {
+        "term": "dielexato_apo_ton_graphon",
+        "rendering": "'rozprawiał z zebranymi ... Pisma rozkładane przed nimi jak mapa' — διαλέγομαι rendered as disputation/reasoning, dialogical mode made physical with the scroll-as-map image. γραφάς = 'Pisma', not 'Biblia'.",
+        "tradeOff": "We trade the easy familiarity of 'głosił'/'głosił kazanie' (which §F explicitly forbids) for the reasoning register; we also refuse the anachronism 'Biblia' to keep the first-century book-form visible.",
+        "confidence": 5
+      },
+      {
+        "term": "sabbata_tria",
+        "rendering": "'Przez trzy szabaty z rzędu' — sustained, iterative engagement made explicit by 'z rzędu'.",
+        "tradeOff": "none — straightforward temporal phrase; 'z rzędu' just locks in the sustained-pattern force the bare numeral would leave underspecified.",
+        "confidence": 5
+      }
+    ],
+    "3": [
+      {
+        "term": "christos",
+        "rendering": "χριστός at 17:3 rendered as 'Mesjasz' (not 'Chrystus') because Paul is reasoning from the Pisma that the anointed one must suffer and rise — the Jewish messianic claim is the whole substance of the argument.",
+        "tradeOff": "We trade reader familiarity ('Chrystus' is the default Polish form) for theological accuracy: 'Chrystus' would here read as a surname and erase the OT-Jewish argument; Lexicon §A governs.",
+        "confidence": 5
+      },
+      {
+        "term": "dianoigon_paratithemenos",
+        "rendering": "'Pokazywał, fragment po fragmencie' / 'zawsze docierał do tego samego zdania' — forensic-presentational register rendered as patient demonstration that lands on a refrain.",
+        "tradeOff": "We trade a more compact verb pair for the iterative texture; the doubled rendering shows Paul's method (open + lay alongside) rather than just naming it.",
+        "confidence": 4
+      },
+      {
+        "term": "christon_pathein_kai_anastenai",
+        "rendering": "'Mesjasz musiał przejść przez cierpienie, musiał umrzeć i wrócić żywy' — the triple 'musiał ... musiał ...' marks the messianic necessity (δεῖ-force) and continuity/fulfillment claim.",
+        "tradeOff": "We trade conciseness for the hammering modal weight; a flat 'musiał cierpieć i zmartwychwstać' would lose the rhythmic insistence the Greek aspect carries.",
+        "confidence": 5
+      }
+    ],
+    "4": [
+      {
+        "term": "epeisthesan",
+        "rendering": "'dała się przekonać' — persuasion, the argument worked. Cognitive assent, not emotional reaction.",
+        "tradeOff": "none — direct and load-bearing; we resist any softening toward 'poruszeni' which would shift the register from reasoning to affect.",
+        "confidence": 5
+      },
+      {
+        "term": "proseklerothesan",
+        "rendering": "Aorist passive rendered as concrete visible alignment: 'Stanęli przy Pawle i Sylasie' — solidarity made physical.",
+        "tradeOff": "We trade the explicit divine-passive theology ('zostali przyłączeni przez Boga') for surface naturalness; the passive-agency is left implicit in the syntax rather than forced into the surface text.",
+        "confidence": 4
+      },
+      {
+        "term": "sebomenon_hellenon",
+        "rendering": "'Grecy bojący się Boga' — technical Diaspora category preserved as a consistent term across the chapter; footnoted as a recognized civic-religious class.",
+        "tradeOff": "We trade a smoother but anachronistic 'pobożni Grecy' or 'sympatycy judaizmu' for the category-precise idiom; the footnote carries the inscriptional evidence (Aphrodisias, Sardis).",
+        "confidence": 5
+      },
+      {
+        "term": "gynaikon_ton_proton",
+        "rendering": "'niemało kobiet z wyższych sfer' — civic-rank vocabulary, grammatically coordinate with Grecy and visible (not a subordinated throwaway).",
+        "tradeOff": "We trade the aesthetic misreading 'wytworne kobiety' and the temporal misreading 'pierwsze, które uwierzyły' for the social-class force §F binds; grammatical coordination defends against editorial subordination.",
+        "confidence": 5
+      }
+    ],
+    "5": [
+      {
+        "term": "hoi_ioudaioi",
+        "rendering": "οἱ Ἰουδαῖοι as antagonists rendered 'Pozostałych' — specific local actors (the synagogue members who did not align), never the Jewish people as a collective. Footnoted as a HARM decision.",
+        "tradeOff": "We trade literal lexical correspondence ('Żydzi') for ethical accuracy: Paul is himself Jewish, this is intramural Diaspora conflict, and a 'the Jews' rendering carries centuries of murderous reception. The footnote names that history.",
+        "confidence": 5
+      },
+      {
+        "term": "zelosantes",
+        "rendering": "'ogarnęła zazdrość' with \\add expansion showing what was being displaced (esteem, listeners, named women) — honor-displacement, not petty envy.",
+        "tradeOff": "We trade a flat 'pozazdrościli' for the social-status weight; without the \\add the modern reader hears domestic jealousy rather than honor-economy displacement.",
+        "confidence": 4
+      },
+      {
+        "term": "agoraion_ponerous",
+        "rendering": "'Ściągnęli z rynku kilku próżniaków' — urban underclass recruited as mob instruments; the contempt is preserved without slipping into a slur.",
+        "tradeOff": "We trade a more sanitized 'niegodziwych ludzi' for the marketplace-loiterer specificity; 'próżniaków' lands the contempt the Greek carries without overshooting.",
+        "confidence": 4
+      },
+      {
+        "term": "ethoryboun",
+        "rendering": "'podburzyli tłum, i w jedną godzinę całe miasto wrzało' — visceral-force expansion: speed and totality of the riot, not flat 'narobili hałasu'.",
+        "tradeOff": "We trade brevity for the kinetic force of the imperfect; the temporal compression ('w jedną godzinę') makes the speed visible.",
+        "confidence": 4
+      }
+    ],
+    "6": [
+      {
+        "term": "esyron",
+        "rendering": "'wywlekli' — physical public humiliation; visceral, dragging rather than escorting.",
+        "tradeOff": "We trade neutrality ('zaprowadzili'/'przyprowadzili') for the dragging-by-force image the verb carries.",
+        "confidence": 5
+      },
+      {
+        "term": "politarchas",
+        "rendering": "'politarchów' transliterated, with \\add 'miejskich zwierzchników' as gloss; footnoted with the 32 inscriptions confirming Luke's civic accuracy.",
+        "tradeOff": "We trade a smoother generic 'urzędników' for the distinctive Macedonian title; without it Luke's documented civic precision is erased and the historical-accuracy point is lost.",
+        "confidence": 5
+      },
+      {
+        "term": "oikoumenen_anastatosantes",
+        "rendering": "'wywrócili świat do góry nogami' — οἰκουμένη carries the imperial register, ἀναστατόω = seditious upheaval. §F explicit: keep revolutionary tone.",
+        "tradeOff": "We trade legalistic accuracy ('zakłócili porządek') for the revolutionary sharpness §F binds; the imperial-cosmos resonance is non-negotiable.",
+        "confidence": 5
+      }
+    ],
+    "7": [
+      {
+        "term": "dogmata_kaisaros",
+        "rendering": "'rozporządzeniom cesarza' — concrete juridical edicts, not vague 'praw'.",
+        "tradeOff": "We trade a softer 'prawom' for the imperial-edict specificity that makes the maiestas charge plausible.",
+        "confidence": 4
+      },
+      {
+        "term": "basilea_heteron",
+        "rendering": "'jest inny król – Jezus'. ἕτερον preserved as rival-kind; em-dash pause sets the punch. Footnote names the maiestas charge and the Łk 23,2 parallel.",
+        "tradeOff": "We trade syntactic smoothness for the political danger of the sentence; the em-dash isolates 'Jezus' as the rival name and the footnote names the dual-sovereignty stakes the Polish reader will recognize from a century under three foreign crowns.",
+        "confidence": 5
+      }
+    ],
+    "9": [
+      {
+        "term": "labontes_to_hikanon",
+        "rendering": "'Zażądali od Jazona poręki' — Roman-Macedonian legal procedure as security pledge, not execution.",
+        "tradeOff": "We trade obscurity ('przyjąwszy zadośćuczynienie') for legibility; the procedural specificity makes the politarchs' restraint visible.",
+        "confidence": 4
+      }
+    ],
+    "10": [
+      {
+        "term": "dia_nyktos_exepempsan",
+        "rendering": "'Jeszcze tej samej nocy wyprowadzili Pawła i Sylasa' — night-flight, covert mobility kept restrained and atmospheric.",
+        "tradeOff": "none — direct rendering; the 'jeszcze tej samej nocy' lands the urgency the genitive of time carries.",
+        "confidence": 5
+      },
+      {
+        "term": "beroia",
+        "rendering": "'Berei' + \\add 'bocznymi ścieżkami, z dala od głównej drogi' — strategic withdrawal from the Via Egnatia made visible.",
+        "tradeOff": "We trade a bare place-name for the route-specificity that connects with the v.1 Egnatia framing; without the \\add the withdrawal reads as routine travel.",
+        "confidence": 4
+      }
+    ],
+    "11": [
+      {
+        "term": "eugenesteroi",
+        "rendering": "'okazali się z innej gliny niż ludzie z Tesaloniki' + \\add 'Otwarci, lecz nie bezkrytyczni' — moral receptivity rendered as a clay-metaphor that lands the qualitative difference idiomatically.",
+        "tradeOff": "We trade lexical literalism ('szlachetniejszego rodu') — which §F explicitly forbids as it imports an aristocratic misreading — for the moral-receptivity force; the idiomatic clay image is the cost of preventing the class misreading.",
+        "confidence": 5
+      },
+      {
+        "term": "meta_pases_prothymias",
+        "rendering": "'z prawdziwym zapałem' — full eagerness, energy preserved.",
+        "tradeOff": "none — the modifier 'prawdziwym' carries the πάσης intensifier without inflation.",
+        "confidence": 5
+      },
+      {
+        "term": "anakrinontes_tas_graphas",
+        "rendering": "'Dzień w dzień rozkładali zwoje i sprawdzali w Pismach, czy rzeczywiście tak jest' — forensic cross-examination + iterative + communal + physical (scroll-unrolling). Imperfective aspect ('sprawdzali', not 'sprawdzili') per grammar gate. Two footnotes (KULTUR + LEBEN, the latter anchoring in lectio divina and Solidarność-era underground reading circles).",
+        "tradeOff": "We trade a compact 'badali Pisma' for the verb's forensic weight, the iterative texture, and the communal frame; this is a HARM-flagged verse because the modern Western tradition has weaponized it for individualist proof-texting. The expansion and footnotes are the cost of restoring the communal-forensic dimension.",
+        "confidence": 5
+      }
+    ],
+    "12": [
+      {
+        "term": "hellenidon_gynaikon_ton_euschemonon",
+        "rendering": "'Greczynki z wyższych sfer, mężczyźni – także niemało' — civic-rank vocabulary, women named first and grammatically visible alongside the men (against Western-text editing).",
+        "tradeOff": "We trade the natural Polish word order (men-then-women) for fidelity to the Greek sequence; the em-dash structure keeps both grammatically coordinate and refuses to subordinate the women's names.",
+        "confidence": 5
+      }
+    ],
+    "13": [
+      {
+        "term": "hoi_apo_thessalonikes_ioudaioi",
+        "rendering": "'tych z Tesaloniki' / 'ci sami ludzie' — specific actors, never the Jewish collective; same HARM logic as 17:5.",
+        "tradeOff": "We trade lexical literalism ('Żydzi z Tesaloniki') for ethical accuracy; the demonstrative phrase names the persons without invoking the people. The 17:5 footnote covers the reception-history reasoning.",
+        "confidence": 5
+      },
+      {
+        "term": "saleuontes_tarassontes",
+        "rendering": "'zaczęli podburzać tłum' — the long shadow of opposition; durative force of the participles carried by 'zaczęli'.",
+        "tradeOff": "We trade the doubled Greek participles for a single Polish verb; the redundancy would have been heavy in Polish and 'podburzać' already carries the agitation force.",
+        "confidence": 4
+      }
+    ],
+    "15": [
+      {
+        "term": "egagon_heos_athenon",
+        "rendering": "'Towarzysze szli z nim długo, aż do samych Aten' — strangers escorting a hunted man, the duration ('długo', 'aż do samych') made visible.",
+        "tradeOff": "We trade a bare 'odprowadzili do Aten' for the care-extended texture; the temporal expansion lands the human cost the Greek verb leaves implicit.",
+        "confidence": 4
+      }
+    ],
+    "16": [
+      {
+        "term": "ekdechomenou",
+        "rendering": "'Czekał na nich w Atenach' — held tension, a man alone; the \\add expansion gives the reader the texture of waiting.",
+        "tradeOff": "none — direct rendering; the participle's durative force is carried by the imperfective verb.",
+        "confidence": 5
+      },
+      {
+        "term": "paroxyneto_to_pneuma",
+        "rendering": "Imperfect rendered as durative somatic agitation: 'nie dawało mu spokoju' + 'Coś się w nim burzyło, narastało pod skórą'. NOT serene observation. The under-the-skin image lands the imperfective force.",
+        "tradeOff": "We trade the comfortable 'był zmartwiony' or 'oburzał się' for the visceral, somatic rendering §F binds; the cost is two clauses where Greek has one verb, but the imperfective texture requires it.",
+        "confidence": 5
+      },
+      {
+        "term": "kateidolon",
+        "rendering": "Lukan hapax rendered with image-saturation: \\add 'Na każdym rogu ołtarz. W każdej bramie jakiś bóg' performs the saturation rhythmically before the summary 'Miasto było pełne bożków' lands.",
+        "tradeOff": "We trade brevity for the performative texture the hapax demands; the staccato \\add does the work a footnote couldn't and the summary couldn't on its own.",
+        "confidence": 4
+      },
+      {
+        "term": "pneuma_paul",
+        "rendering": "Paul's spirit (πνεῦμα at 17:16) rendered implicitly through the somatic agitation ('coś się w nim burzyło, narastało pod skórą') — human spirit, not a capitalized theological term.",
+        "tradeOff": "We trade an explicit anthropological vocabulary ('jego duch') for surface naturalness; capitalization would have misimported a Trinitarian register that does not belong here.",
+        "confidence": 5
+      }
+    ],
+    "17": [
+      {
+        "term": "dielegeto",
+        "rendering": "'Rozprawiał' — disputation, give-and-take. \\add 'Nigdy nie był to wykład. Zawsze spór: pytanie i odpowiedź, i odpowiedź na odpowiedź' makes the dialogical mode unmistakable.",
+        "tradeOff": "We trade the easy default 'głosił'/'nauczał' (forbidden by §F) for the disputational register; the \\add is the cost of making 'rozprawiał' read as Socratic exchange rather than monological lecture.",
+        "confidence": 5
+      }
+    ],
+    "18": [
+      {
+        "term": "epikoureion_stoikon",
+        "rendering": "'epikurejczycy i stoicy' — standard Polish forms; footnoted as two living schools (Epicurean atomism vs. Stoic logos) to explain why both balked at resurrection.",
+        "tradeOff": "We trade the museum-label flatness of bare names for the footnote that makes their objections legible; without it the reader cannot tell why this audience is the hardest for Paul.",
+        "confidence": 5
+      },
+      {
+        "term": "syneballon",
+        "rendering": "'zmierzyli się z nim' — engagement/dispute in combative register, not casual conversation.",
+        "tradeOff": "We trade neutrality ('rozmawiali z nim') for the combative force the Greek carries; 'zmierzyli się' frames it as a duel of arguments.",
+        "confidence": 4
+      },
+      {
+        "term": "spermologos",
+        "rendering": "'zbieracz nasion' + \\add 'Tak nazywano ptaka, który dziobie okruchy na rynku – kogoś, kto żywi się cudzymi resztkami' — seed-picking/scavenger image preserved with cultural force.",
+        "tradeOff": "We trade the obvious-to-Polish-ears 'papla'/'gaduła' (§F: too thin) for the literal image plus inline ornithological gloss; the \\add carries the metaphor without a footnote and lets the contempt land culturally rather than merely lexically.",
+        "confidence": 5
+      },
+      {
+        "term": "kataggeleus",
+        "rendering": "'głosi' — neutral herald register; the philosophers' description of what Paul is doing.",
+        "tradeOff": "none — neutral verb appropriate to the philosophers' framing; we resist any apologetic intensification.",
+        "confidence": 4
+      },
+      {
+        "term": "xenon_daimonion",
+        "rendering": "'obce bóstwa' — δαιμόνιον as neutral/lesser-deity in Greek register. §F binding: NEVER 'demony'.",
+        "tradeOff": "We trade the lexically-familiar 'demony' (which §F forbids) for the historically-accurate 'bóstwa'; importing later Christian demonology here would distort what the philosophers are actually saying.",
+        "confidence": 5
+      }
+    ],
+    "19": [
+      {
+        "term": "areion_pagon",
+        "rendering": "'Areopag' + \\add 'przed radę, która od zawsze rozstrzygała, jakim nowym bogom wolno zamieszkać w Atenach' — council/court function carried by the \\add; footnote adds the founding-myth resurrection-and-bloodshed dimension.",
+        "tradeOff": "We trade a bare place-name for the regulatory specificity that makes Paul's situation legible as something like a vetting hearing rather than a free public lecture; the \\add prevents the modern mountaintop-oratory misreading.",
+        "confidence": 5
+      }
+    ],
+    "20": [
+      {
+        "term": "xenizonta",
+        "rendering": "'brzmi dla nas obco' — the council assessing novelty, registering unfamiliarity without yet judging.",
+        "tradeOff": "none — direct rendering of the polite assessor's idiom.",
+        "confidence": 5
+      }
+    ],
+    "21": [
+      {
+        "term": "kainoteron",
+        "rendering": "'o czymś jeszcze nowszym' — the comparative 'newer-still' preserved; light narrator irony, universally legible.",
+        "tradeOff": "none — the comparative form is straightforward in Polish and the irony lands without extra scaffolding.",
+        "confidence": 5
+      }
+    ],
+    "22": [
+      {
+        "term": "statheis_en_meso",
+        "rendering": "'Stanął pośród nich, w środku rady, i zaczął' — oratorical posture/formality preserved; the participle's set-up force carried by the doubled spatial phrase.",
+        "tradeOff": "We trade a bare 'stanął' for the formal-oratory weight; the doubling ('pośród nich, w środku rady') lands the deliberate setting that the Greek aorist participle marks.",
+        "confidence": 4
+      },
+      {
+        "term": "deisidaimonesterous",
+        "rendering": "'jak poważnie traktujecie bogów, ile uwagi i staranności im poświęcacie' — positive captatio benevolentiae. §F binding: NEVER 'przesądni'. The doubled clause carries the recognition register. Footnoted under UEBERSETZUNG.",
+        "tradeOff": "We trade the lexically-tempting 'przesądni' (which §F forbids) and the bare 'religijni' for a doubled phrase that performs the captatio Paul is actually doing; the cost is the surface compression but the exordium cannot open with an insult.",
+        "confidence": 5
+      }
+    ],
+    "23": [
+      {
+        "term": "sebasmata",
+        "rendering": "'to, co czcicie' — objects of devotion, neutral.",
+        "tradeOff": "none — clean and non-prejudicial; resists 'wasze bożki' which would import the pejorative early.",
+        "confidence": 5
+      },
+      {
+        "term": "agnosto_theo",
+        "rendering": "'NIEZNANEMU BOGU' kept singular, in small-caps as inscription register. §F binding. Footnoted (KULTUR) with the Athenian hedging-piety background and Paul's singularization move.",
+        "tradeOff": "We trade the better-attested 'nieznanym bogom' plural variant for the §F-bound singular; without the singular, Paul's whole rhetorical hinge (acknowledgment-and-redirection rather than erasure-and-replacement) collapses.",
+        "confidence": 5
+      },
+      {
+        "term": "agnountes_eusebeite",
+        "rendering": "'czcicie, nie wiedząc, kim jest' — preserves the worship/not-know wordplay that is the rhetorical hinge of the speech.",
+        "tradeOff": "We trade a smoother subordination for the paratactic punch; the wordplay must be visible because it carries the whole argument that follows.",
+        "confidence": 5
+      }
+    ],
+    "24": [
+      {
+        "term": "cheiropoietois_naois",
+        "rendering": "'świątyniach zbudowanych ludzką ręką' — LXX anti-idol echo; anti-imperial-cult resonance preserved.",
+        "tradeOff": "We trade compactness ('świątyniach ręką zrobionych') for the explicit human-construction force; the periphrasis is what the LXX-resonance demands.",
+        "confidence": 4
+      },
+      {
+        "term": "kyrios_ouranou_kai_ges",
+        "rendering": "'pan nieba i ziemi' (lowercase) — total-sovereignty claim rendered as appositive descriptor of Bóg; sovereignty carried by the syntax, not by capitalization.",
+        "tradeOff": "We trade typographic emphasis (capitalized 'Pan') for syntactic emphasis; capitalizing would have made it a stand-alone title and pulled focus from Bóg as the load-bearing referent.",
+        "confidence": 5
+      }
+    ],
+    "25": [
+      {
+        "term": "prosdeomenos_tinos",
+        "rendering": "'jak gdyby czegoś Mu brakowało' — attack on transactional religion; the hypothetical-marker 'jak gdyby' refuses the premise outright.",
+        "tradeOff": "none — direct and pointed; the rendering performs the rhetorical denial the Greek participle carries.",
+        "confidence": 5
+      },
+      {
+        "term": "didous_zoen_kai_pnoen",
+        "rendering": "'to On daje wszystkim życie, oddech i każdą rzecz, jaką mają' — the reversal of the transactional logic; 'każda rzecz' lands the totality the τὰ πάντα carries.",
+        "tradeOff": "We trade a tighter list ('życie, oddech i wszystko') for the colloquial 'każdą rzecz, jaką mają' that lands the universal-scope force the Greek totality phrase demands.",
+        "confidence": 4
+      }
+    ],
+    "26": [
+      {
+        "term": "ex_henos",
+        "rendering": "'Z jednego' — ECM 2017 reading preserved. §F binding: NEVER 'z jednego człowieka' (not in any Greek text). TEXT footnote names the variant ('z jednej krwi') and the reception history.",
+        "tradeOff": "We trade the smoother but exegetically-invented 'z jednego człowieka' for the ambiguous 'Z jednego'; the indeterminacy is the cost of textual honesty and the footnote carries the reception-history that this verse was weaponized in both directions.",
+        "confidence": 5
+      },
+      {
+        "term": "horisas_kairous_kai_horothesias",
+        "rendering": "'każdemu wyznaczył jego własny czas i własne granice' + \\add 'porę, w której naród się podnosi, i porę, w której opada' — God orders the nations; the \\add lands the rise-and-fall implication.",
+        "tradeOff": "We trade compactness for the historical-arc force; without the \\add the verse reads as static-allocation rather than the dynamic ordering the Greek nouns imply.",
+        "confidence": 4
+      }
+    ],
+    "27": [
+      {
+        "term": "zetein_ton_theon",
+        "rendering": "'żeby Go szukali' — the seeking, simple and load-bearing.",
+        "tradeOff": "none — direct and clean; this is the hinge clause the next two renderings build on.",
+        "confidence": 5
+      },
+      {
+        "term": "pselapheseian",
+        "rendering": "'żeby wyciągali ku Niemu ręce i może Go dotknęli' + \\add 'jak ktoś, kto idzie po omacku w ciemności' — aorist optative → tentative mood ('może'); tactile verb + groping-in-the-dark image. §F binding. Subverts the visual episteme.",
+        "tradeOff": "We trade the natural 'znaleźli' confidence-tone for the optative tentativeness §F binds; the tactile-not-visual rendering refuses the Athenian theoria-as-knowing assumption, and the \\add is the cost of making the groping force land.",
+        "confidence": 5
+      },
+      {
+        "term": "ou_makran_apo_henos_hekastou",
+        "rendering": "'A przecież On nie jest daleko. Od żadnego z nas.' — the spiritual center of the speech given full unhurried weight; sentence-break after 'daleko' lets the universal scope ('od żadnego z nas') land separately.",
+        "tradeOff": "We trade the smoother single-clause rendering for the punctuation-engineered pause; the cost is grammatical sharpness but the typographic break is what makes this the speech's emotional fulcrum rather than just another clause.",
+        "confidence": 5
+      }
+    ],
+    "28": [
+      {
+        "term": "en_auto_zomen_kai_kinoumetha_kai_esmen",
+        "rendering": "'To w Nim żyjemy, w Nim się poruszamy, w Nim jesteśmy' — triple anaphoric 'w Nim' preserved for liturgical weight.",
+        "tradeOff": "We trade the more idiomatic single 'w Nim' with three verbs for the threefold repetition; the cost is mild redundancy but the cost of not doing it is losing the hymnic rhythm that gives this verse its memorability.",
+        "confidence": 5
+      },
+      {
+        "term": "tou_gar_kai_genos_esmen",
+        "rendering": "'jesteśmy z Jego rodu' — Aratus citation rendered in-line; γένος = kinship/offspring. Footnote (KONTEXT) names Aratus and observes that Paul cites pagan poetry as truth-bearing.",
+        "tradeOff": "We trade an explicit citation marker ('jak powiedział wasz poeta') for the in-line flow Paul himself uses; the footnote carries the attribution without breaking the speech's rhythm and names the generosity the later polemical tradition often lacked.",
+        "confidence": 5
+      }
+    ],
+    "29": [
+      {
+        "term": "charagmati_technes",
+        "rendering": "'kształt nadany przez ludzkie rzemiosło, ludzki pomysł' — kinship argument against idols; doubled phrase lands both the craft and the conception.",
+        "tradeOff": "We trade a compact 'wytworowi ludzkiej sztuki' for the doubled rendering; the cost is verbosity but the Greek χάραγμα + τέχνη + ἐνθύμησις range requires both the manual and the conceptual to land.",
+        "confidence": 4
+      }
+    ],
+    "30": [
+      {
+        "term": "chronous_tes_agnoias_hyperidon",
+        "rendering": "'patrzył na te czasy niewiedzy przez palce' — ὑπεροράω = overlooked/passed over, restraint not approval. §F binding: NEVER 'przymykał oko z aprobatą'. Footnote (KONTEXT) limits 'niewiedza' to the Athenian elite, not a universal verdict.",
+        "tradeOff": "We trade the easy idiomatic 'przymykał oko' (which carries unwanted approval) for 'patrzył przez palce' (restraint without endorsement); the footnote prevents the reading from collapsing into a blanket verdict on non-Christian cultures — for Polish readers, this is the Catholic-missionary self-image reckoning point.",
+        "confidence": 5
+      },
+      {
+        "term": "metanoein",
+        "rendering": "'żeby się odwrócili – i zmienili swoje życie' — direction-change rendered with em-dash for the consequential force.",
+        "tradeOff": "We trade the narrowly church-register 'pokutować' (§F: avoid) for the direction-change gloss; the cost is two clauses where Greek has one verb, but 'pokutować' would have flattened the term into ritual penance.",
+        "confidence": 5
+      }
+    ],
+    "31": [
+      {
+        "term": "andri_ho_horisen",
+        "rendering": "'przez człowieka, którego sam do tego wybrał' — oblique Christology, kept unnamed until the resurrection lands. 'sam do tego' intensifies the divine agency.",
+        "tradeOff": "We trade explicit naming ('przez Jezusa') for the rhetorical buildup the Greek text engineers; the cost is reader suspense but Paul's strategy depends on the climax being the resurrection, not the name.",
+        "confidence": 5
+      },
+      {
+        "term": "anastesas_ek_nekron",
+        "rendering": "'wskrzesił go z martwych' — the load-bearing climax; the speech's whole architecture lands here. UNGLAUBLICH footnote acknowledges the difficulty for modern readers and structures the path forward as faith-primary, not apologetic-coercive.",
+        "tradeOff": "We trade the more theological 'zmartwychwstał' (intransitive) for the active 'wskrzesił' (God as agent); the cost is repeating the Greek causative force, but the speech's whole point is that God did this, not that it happened.",
+        "confidence": 5
+      },
+      {
+        "term": "krinein_en_dikaiosyne",
+        "rendering": "'sprawiedliwie osądzi cały świat' — judgment-day frame, recognizable to a court audience.",
+        "tradeOff": "none — direct juridical register appropriate to the Areopagus setting.",
+        "confidence": 5
+      }
+    ],
+    "32": [
+      {
+        "term": "echleuazon_akousometha_palin",
+        "rendering": "'Jedni się roześmiali' / 'Posłuchamy cię innym razem' + \\add 'grzecznie, wymijająco' — two distinct, honored responses: mockery and polite deferral. The \\add names the politeness of the brush-off.",
+        "tradeOff": "We trade lexical compactness for the social-texture distinction; without the \\add the two responses collapse into one 'rejection' and the second response's coded dismissal-as-courtesy is lost.",
+        "confidence": 5
+      }
+    ],
+    "33": [
+      {
+        "term": "exelthen_ek_mesou_auton",
+        "rendering": "'Paweł odszedł' — honor-graceful exit, not defeated retreat; left bare for finality.",
+        "tradeOff": "We trade descriptive amplification for terseness; the bare clause is the rendering, anything more would have editorialized the exit one way or the other.",
+        "confidence": 5
+      }
+    ],
+    "34": [
+      {
+        "term": "kollethentes_episteusan",
+        "rendering": "'Kilkoro zostało przy nim, kilkoro uwierzyło' — the third response: belief. 'kilkoro' (mixed-gender collective) anticipates the named pair that follows.",
+        "tradeOff": "We trade 'niektórzy' (masculine-default) for 'kilkoro' (mixed-gender); the cost is mild archaism but the morphology lands the gender-inclusive force that the subsequent naming requires.",
+        "confidence": 5
+      },
+      {
+        "term": "dionysios_ho_areopagites",
+        "rendering": "'Dionizy, który sam zasiadał w radzie Areopagu' — civic-judicial elite, a councillor himself. Footnoted on his identity.",
+        "tradeOff": "We trade the bare title 'Areopagita' for the explanatory relative clause; the cost is a longer rendering but without it the modern reader misses that this is a member of the very court that just heard the speech.",
+        "confidence": 5
+      },
+      {
+        "term": "gyne_onomati_damaris",
+        "rendering": "'oraz kobieta o imieniu Damaris' — coordinate construction, grammatically equal with Dionysius. §F binding: NEVER subordinated. HARM footnote on the Western-text erasure as textual injustice and the recovery of her name in Polish feminist Catholic scholarship.",
+        "tradeOff": "We trade the more compact 'i Damaris' for the explicit 'oraz kobieta o imieniu' to defeat the long history of subordinating or erasing her presence; the footnote names the Western-text manuscript family that struck her out and the contemporary recovery.",
+        "confidence": 5
+      }
+    ]
+  }
+}

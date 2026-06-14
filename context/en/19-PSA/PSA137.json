@@ -1,0 +1,343 @@
+{
+  "book": "PSA",
+  "chapter": 137,
+  "lang": "AB-EN",
+  "byVerse": {
+    "1": [
+      {
+        "term": "sham_there",
+        "rendering": "Open v.1 with \"There —\" (em-dash) to front the deictic *šām*, not drop it; the same word recurs in v.3. *šām* is the deictic engine of strophe 1 — \"we are here, not there.\"",
+        "tradeOff": "Traded NIV's smoother opening (which drops *šām* altogether). The em-dash front-loads a pointer word and breaks the line at the head, sacrificing rhythmic ease for the geographical accusation the Hebrew makes.",
+        "confidence": 5
+      },
+      {
+        "term": "naharot_rivers",
+        "rendering": "\"Rivers of Babylon\" — the known English phrase (Byron, the spiritual lineage). The canal/irrigation sense is supplied in the KULTUR footnote rather than over-specified in the line.",
+        "tradeOff": "Traded the historically more accurate \"canals\" for the inherited English idiom; precision in the line is sacrificed to keep the phrase recognizable and let the footnote do the cultural work.",
+        "confidence": 4
+      },
+      {
+        "term": "gam_bachinu",
+        "rendering": "\"we sat down and wept\" — the bare verb carries the weight; *gam* (Dahood reads \"loudly\") is left unrendered in the line.",
+        "tradeOff": "Traded Dahood's \"loudly\" gloss; an adverb would explain the weeping rather than letting the action speak for itself.",
+        "confidence": 4
+      },
+      {
+        "term": "zakar_shakach_thread",
+        "rendering": "Render *zākar* as \"remember\" (vv.1, 6, 7) and *šākaḥ* as \"forget\" (vv.5, 6) — only these English verbs, every time. At v.1 the verb is \"remembered\" (Zion).",
+        "tradeOff": "Traded all the variation an English translator would normally reach for — \"recall,\" \"call to mind,\" \"be mindful of.\" Repetition reads as flatter prose, but the remember/forget keyword has to be visibly the same word across the four occurrences or the §F.3 thread disappears.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "Three strophes (vv.1–4 / 5–6 / 7–9) marked by \\b breaks; no \\d superscription (the LXX \"of David\" is a later addition, not imported); zero \\add amplifications anywhere — everything not in the Hebrew goes to footnotes.",
+        "tradeOff": "Traded the smoothing devices most modern English Bibles use (clarifying additions, implied subjects, connective words). The English reads more elliptical, but the terseness IS the lament register and the §F.8 architecture survives.",
+        "confidence": 5
+      },
+      {
+        "term": "en_p3_register_guards",
+        "rendering": "Zero KJV archaisms (no \"O Lord,\" \"behold,\" \"thou/thine,\" \"-eth/-est\"); zero CCM clichés (no \"cry out,\" \"lift up,\" \"in your presence\"); zero exclamation marks across the whole psalm — captors' demand carried by colon, Edomites' shout by comma.",
+        "tradeOff": "Traded the gravitas KJV diction lends a lament and the immediate force an \"!\" would give the doubled \"Tear it down\" shout. Lament register is preserved instead, and the EN-P3 zero-exclamation metric passes.",
+        "confidence": 5
+      }
+    ],
+    "2": [
+      {
+        "term": "arabim_poplars",
+        "rendering": "\"Poplars\" — the Euphrates poplar that lined the Babylonian canals; a KULTUR footnote notes it.",
+        "tradeOff": "Traded the famous KJV \"willows\" and its centuries of musical/literary echo (\"By the waters of Babylon … upon the willows\"). Botanical fidelity wins; the inherited image is sacrificed.",
+        "confidence": 4
+      },
+      {
+        "term": "kinnor_lyres",
+        "rendering": "\"Lyres\" — the Temple praise-instrument; the cultic weight (silenced Temple song) is carried in the footnote, not in the line.",
+        "tradeOff": "Traded the more generic \"harps\" and the option to amplify the cultic charge in the line itself. The line stays bare; the footnote loads the meaning.",
+        "confidence": 4
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "Three strophes (vv.1–4 / 5–6 / 7–9) marked by \\b breaks; no \\d superscription; zero \\add amplifications — everything not in the Hebrew goes to footnotes.",
+        "tradeOff": "Traded smoothing devices for terseness — the English reads more elliptical, but the §F.8 architecture survives.",
+        "confidence": 5
+      },
+      {
+        "term": "en_p3_register_guards",
+        "rendering": "Zero KJV archaisms, zero CCM clichés, zero exclamation marks across the whole psalm.",
+        "tradeOff": "Traded KJV gravitas and the immediacy of exclamatory punctuation; the lament register and EN-P3 metric are preserved.",
+        "confidence": 5
+      }
+    ],
+    "3": [
+      {
+        "term": "sham_there",
+        "rendering": "Kept at v.3 as \"there our captors,\" mirroring the v.1 deictic — the pointer-word recurs to hold strophe 1 together.",
+        "tradeOff": "Traded a more idiomatic English opening (e.g., \"For our captors asked us…\"). The slightly clunky double-\"there\" is the price of letting *šām* echo across the strophe.",
+        "confidence": 4
+      },
+      {
+        "term": "shobenu_tolalenu",
+        "rendering": "Synonym pair: \"captors\" for *šôḇênû*, \"tormentors\" for the rarer/sharper *tôlālênû*. The second escalates the first. *tôlālênû* is a hapax — \"tormentors\" is chosen over the conjectural \"plunderers.\"",
+        "tradeOff": "Traded the more etymologically adventurous \"plunderers\" reading; the line over-claims less and the synonym escalation is audible in the English.",
+        "confidence": 4
+      },
+      {
+        "term": "simchah_cheerful",
+        "rendering": "\"our tormentors wanted us cheerful\" — *śimḥâ* (audible, performed gladness) woven into the line as \"cheerful,\" with the KULTUR footnote unpacking the demand-for-performed-joy without naming the lexeme in the verse.",
+        "tradeOff": "Traded the option to render *śimḥâ* as \"joy\" (its usual gloss). \"Cheerful\" is colloquial and slightly off-register against \"songs of Zion,\" but that off-register sting is exactly the point — be cheerful on command.",
+        "confidence": 4
+      },
+      {
+        "term": "shir_song",
+        "rendering": "\"Song\" / \"songs\" for *šîr* at all three occurrences (v.3 ×2, v.4) — one English lexeme. The v.3 \"songs of Zion\" vs. v.4 \"song of the Eternal\" contrast is carried by the genitive, not by varying the head noun.",
+        "tradeOff": "Traded the option to differentiate the two genitives by English vocabulary (e.g., \"hymn\" / \"chant\"). The contrast the exiles make — captors ask for \"of Zion,\" exiles answer with \"of the Eternal\" — only lands if the noun itself stays identical.",
+        "confidence": 5
+      },
+      {
+        "term": "zakar_shakach_thread",
+        "rendering": "Render *zākar* as \"remember\" and *šākaḥ* as \"forget\" — only these English verbs at every occurrence (vv.1, 5, 6, 7).",
+        "tradeOff": "Traded synonym variation for keyword visibility; the §F.3 thread requires identical English verbs.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "Three strophes (vv.1–4 / 5–6 / 7–9) marked by \\b breaks; no \\d superscription; zero \\add amplifications.",
+        "tradeOff": "Traded smoothing for terseness; the §F.8 architecture survives.",
+        "confidence": 5
+      },
+      {
+        "term": "en_p3_register_guards",
+        "rendering": "Zero KJV archaisms, zero CCM clichés, zero exclamation marks. The captors' demand at v.3 is carried by colon + content, not \"!\".",
+        "tradeOff": "Traded the obvious force a \"!\" would give the captors' demand; punctuation stays flat, and the line's content does the work.",
+        "confidence": 5
+      }
+    ],
+    "4": [
+      {
+        "term": "divine_name_the_eternal",
+        "rendering": "Render YHWH as \"the Eternal\" (Moffatt; French *l'Éternel*), plain capital, no \\nd. At v.4 the genitive contrast must read as *the Eternal's* song vs. the captors' \"songs of Zion\" (v.3) — one exchanged word is the psalm's quiet theological resistance. First occurrence carries a UEBERSETZUNG footnote noting the departure from the small-caps \"LORD\" convention.",
+        "tradeOff": "Traded the traditional small-caps \"LORD\" — instantly recognizable to English Bible readers — for a name that stays a name rather than vanishing into a churchly title. Readers who expect \"LORD\" will notice the change; the footnote at v.4 explains it.",
+        "confidence": 5
+      },
+      {
+        "term": "shir_song",
+        "rendering": "\"Song of the Eternal\" — single lexeme *šîr* held constant across v.3 and v.4 so the Zion/Eternal contrast lands on the genitive.",
+        "tradeOff": "Traded the chance to vary English vocabulary across the two genitives; the contrast only works if the noun is identical.",
+        "confidence": 5
+      },
+      {
+        "term": "ekh_how",
+        "rendering": "\"How\" kept first in the strophe-4 hinge — the dirge-opening word (Lam 1:1). The line begins \"How can we sing…\".",
+        "tradeOff": "Traded smoother openings (\"Can we…\", \"And how shall we…\"). The English fronts a slightly stilted interrogative, but the Lam 1 echo is audible.",
+        "confidence": 5
+      },
+      {
+        "term": "zakar_shakach_thread",
+        "rendering": "Render *zākar* as \"remember\" and *šākaḥ* as \"forget\" — only these verbs at every occurrence.",
+        "tradeOff": "Traded variation for keyword visibility across vv.1, 5, 6, 7.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "Three strophes marked by \\b breaks; no \\d; zero \\add amplifications.",
+        "tradeOff": "Traded smoothing for terseness; the §F.8 architecture survives.",
+        "confidence": 5
+      },
+      {
+        "term": "en_p3_register_guards",
+        "rendering": "Zero KJV archaisms, zero CCM clichés, zero exclamation marks.",
+        "tradeOff": "Traded KJV gravitas and exclamatory immediacy; lament register and EN-P3 metric are preserved.",
+        "confidence": 5
+      }
+    ],
+    "5": [
+      {
+        "term": "tishkach_yemini",
+        "rendering": "\"may my right hand forget\" — keep the MT objectless reading; do NOT import KJV's \"its cunning\" or supply an object. The keyword of the whole psalm (forget) turns back on the body of the musician. A UEBERSETZUNG footnote gives the consonantal \"wither/fail\" fork.",
+        "tradeOff": "Traded the smoother emendation \"wither/fail\" (which fits the parallel line at v.6 about the tongue sticking) and the KJV's added \"its cunning.\" The English line reads grammatically incomplete, but the *šākaḥ* keyword stays audible and the punishment-for-forgetting irony is preserved.",
+        "confidence": 5
+      },
+      {
+        "term": "zakar_shakach_thread",
+        "rendering": "Render *šākaḥ* as \"forget\" at both v.5 occurrences (\"If I forget you, Jerusalem, / may my right hand forget\"). Only this English verb.",
+        "tradeOff": "Traded synonym variation for keyword visibility across vv.1, 5, 6, 7.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "Three strophes (vv.1–4 / 5–6 / 7–9) marked by \\b breaks; zero \\add amplifications.",
+        "tradeOff": "Traded smoothing for terseness; the §F.8 architecture survives.",
+        "confidence": 5
+      },
+      {
+        "term": "en_p3_register_guards",
+        "rendering": "Zero KJV archaisms, zero CCM clichés, zero exclamation marks.",
+        "tradeOff": "Traded KJV gravitas and exclamatory immediacy; lament register and EN-P3 metric are preserved.",
+        "confidence": 5
+      }
+    ],
+    "6": [
+      {
+        "term": "tidbaq_leshoni",
+        "rendering": "\"May my tongue stick to the roof of my mouth\" — physical, not abstract. The verb keeps the visceral image of the singing voice being taken away as the punishment-for-forgetting.",
+        "tradeOff": "Traded the abstract gloss \"let me be silent\" (which is what the line MEANS but not what it SAYS). The English keeps the body in view, which costs concision but preserves the oath-form's force.",
+        "confidence": 4
+      },
+      {
+        "term": "lechikki_roof_of_mouth",
+        "rendering": "\"the roof of my mouth\" — contemporary idiom; not the clinical \"palate,\" not the KJV \"cleave to.\"",
+        "tradeOff": "Traded the lexically tighter \"palate\" (which sounds medical in English) and KJV's \"cleave\" (archaism gate). The idiom is plain; the physicality survives.",
+        "confidence": 4
+      },
+      {
+        "term": "rosh_simchah",
+        "rendering": "\"my highest joy\" — the Hebrew \"head/chief of my joy\" rendered as a superlative.",
+        "tradeOff": "Traded the literal \"chief of my joy\" (clunky in English) and the lexical link to *śimḥâ* in v.3 (\"cheerful\"). The Hebrew echo across the psalm is sacrificed; clarity in the line wins.",
+        "confidence": 4
+      },
+      {
+        "term": "zakar_shakach_thread",
+        "rendering": "Render *zākar* as \"remember\" and *šākaḥ* as \"forget\" — only these verbs. At v.6 \"if I do not remember you\" carries the remember thread.",
+        "tradeOff": "Traded synonym variation for keyword visibility across vv.1, 5, 6, 7.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "Three strophes marked by \\b breaks; zero \\add amplifications.",
+        "tradeOff": "Traded smoothing for terseness; the §F.8 architecture survives.",
+        "confidence": 5
+      },
+      {
+        "term": "en_p3_register_guards",
+        "rendering": "Zero KJV archaisms, zero CCM clichés, zero exclamation marks.",
+        "tradeOff": "Traded KJV gravitas and exclamatory immediacy; lament register and EN-P3 metric are preserved.",
+        "confidence": 5
+      }
+    ],
+    "7": [
+      {
+        "term": "bene_edom",
+        "rendering": "\"the Edomites\" — contemporary word. A KULTUR footnote supplies the kin-betrayal backstory (Esau/Jacob, Obadiah 10–14).",
+        "tradeOff": "Traded the literal \"sons of Edom\" (which reads biblical-archaic in English) and the chance to load the kin-tie into the line. The footnote carries the betrayal weight.",
+        "confidence": 4
+      },
+      {
+        "term": "yom_yerushalayim",
+        "rendering": "\"the day of Jerusalem\" — bitter idiom kept; not glossed in the line. A footnote explains (\"the day the city fell\").",
+        "tradeOff": "Traded immediate intelligibility (the modern English reader does not automatically hear this as \"the day Jerusalem fell\"); the idiom's bitterness is preserved instead of paraphrased away.",
+        "confidence": 4
+      },
+      {
+        "term": "aru_aru_tear_it_down",
+        "rendering": "\"Tear it down, / tear it down to its foundations.\" — the doubled imperative is the mob shout (onlookers, not soldiers). Comma between the repetitions; EN-P3 keeps the punctuation flat — no exclamation.",
+        "tradeOff": "Traded the immediate force an \"!\" would lend the doubled shout. The line carries the urgency by content (repetition + escalation \"to its foundations\") rather than by punctuation, to pass the EN-P3 zero-exclamation metric.",
+        "confidence": 5
+      },
+      {
+        "term": "divine_name_the_eternal",
+        "rendering": "Vocative \"O Eternal\" at v.7 (\"Remember the Edomites, O Eternal\"). The vocative \"O\" is retained with the proper-name rendering; the EN-P3 archaism ban applies to \"O Lord\" / \"thou\" / \"-eth\" forms, not to vocative marking on the personal Name (Moffatt usage).",
+        "tradeOff": "Traded the cleaner archaism-free form \"Remember the Edomites, Eternal\" (which sounds odd in English direct address). The \"O\" risks reading KJV-archaic at a glance, so the trade is documented: this vocative is permitted because the Name carries it.",
+        "confidence": 5
+      },
+      {
+        "term": "zakar_shakach_thread",
+        "rendering": "Render *zākar* as \"remember\" — only this English verb. At v.7 the imperative \"Remember\" opens both bicola.",
+        "tradeOff": "Traded synonym variation for keyword visibility across vv.1, 5, 6, 7.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "Three strophes (vv.1–4 / 5–6 / 7–9) marked by \\b breaks; zero \\add amplifications. The shifting addressee (Eternal → Daughter Babylon) is the architecture.",
+        "tradeOff": "Traded smoothing connectors; the strophe break + addressee shift carries the §F.8 architecture.",
+        "confidence": 5
+      },
+      {
+        "term": "en_p3_register_guards",
+        "rendering": "Zero KJV archaisms, zero CCM clichés, zero exclamation marks. The vocative \"O Eternal\" is exempt from the archaism ban.",
+        "tradeOff": "Traded KJV gravitas and exclamatory immediacy; lament register and EN-P3 metric are preserved.",
+        "confidence": 5
+      }
+    ],
+    "8": [
+      {
+        "term": "daughter_babylon",
+        "rendering": "\"Daughter Babylon\" — bare apposition (not \"daughter of Babylon,\" which implies a parent). The appositional personification is load-bearing; a KONTEXT footnote spells out the figure (city-as-woman, Daughter Zion / Daughter Edom / Daughter Babylon).",
+        "tradeOff": "Traded the smoother \"Babylon\" gloss (which loses the personification entirely) and the more transparent \"daughter of Babylon\" (which misreads the construct). The bare apposition reads slightly opaque to a modern English ear but preserves the load-bearing figure.",
+        "confidence": 5
+      },
+      {
+        "term": "hashshedudah_laid_waste",
+        "rendering": "\"you who are laid waste\" — keep the MT passive participle, read proleptically (prophetic perfect: a destruction so certain it can already be spoken of as accomplished). Do NOT emend to active \"destroyer.\"",
+        "tradeOff": "Traded the smoother active reading \"destroyer\" (which fits the lex talionis context grammatically). The English line reads paradoxical (Babylon addressed as already-fallen while still standing), but the prophetic perfect is the theological point.",
+        "confidence": 5
+      },
+      {
+        "term": "yeshallem_pays_back",
+        "rendering": "\"pays you back / for what you did to us\" — *lex talionis* in plain modern English.",
+        "tradeOff": "Traded the *yᵉšallēm* / *yᵉrûšālaim* sound-pun in the Hebrew — there is no English equivalent and forcing one would be precious. The pun is let go; the legal-retribution sense is what survives.",
+        "confidence": 4
+      },
+      {
+        "term": "ashre_happy_the_one",
+        "rendering": "\"happy the one who…\" at v.8 and v.9 — bleak, not benedictory. NOT \"blessed\" (cultic register; also flagged by LEXICON_EN §F as a verb).",
+        "tradeOff": "Traded the more familiar \"blessed is the one who…\" (the standard Psalter formula) for the colder \"happy.\" English readers will miss the macarism cue, but the wrongness of the word in this speaker's mouth — happy about smashing babies — is the design.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "Three strophes (vv.1–4 / 5–6 / 7–9) marked by \\b breaks; zero \\add amplifications.",
+        "tradeOff": "Traded smoothing for terseness; the §F.8 architecture survives.",
+        "confidence": 5
+      },
+      {
+        "term": "en_p3_register_guards",
+        "rendering": "Zero KJV archaisms, zero CCM clichés, zero exclamation marks.",
+        "tradeOff": "Traded KJV gravitas and exclamatory immediacy; lament register and EN-P3 metric are preserved.",
+        "confidence": 5
+      }
+    ],
+    "9": [
+      {
+        "term": "ashre_happy_the_one",
+        "rendering": "\"Happy the one who seizes your little ones…\" — same macarism formula as v.8; cold, not warm.",
+        "tradeOff": "Traded the familiar \"blessed\" for \"happy\"; the wrongness of \"happy\" in this mouth is the point.",
+        "confidence": 5
+      },
+      {
+        "term": "olalayik_little_ones",
+        "rendering": "\"your little ones\" for *ʿōlālayik* — concrete, tender register; the tenderness makes the dashing more unbearable. LOCKED at Stage 5b (user did not override the proposed default); the German precedent used *Kinder*.",
+        "tradeOff": "Traded the starker, more lexically precise \"infants\" (*ʿōlāl* = nursling) — colder and more visceral. \"Little ones\" reads warmer, which deepens the cruelty of the next verb but loses some of the clinical precision \"infants\" would deliver.",
+        "confidence": 4
+      },
+      {
+        "term": "nipets_dashes",
+        "rendering": "\"dashes them against the rock\" — the visceral verb; \"dashes\" is hard and exact.",
+        "tradeOff": "None — softer options (\"kills,\" \"destroys,\" \"strikes down\") all blunt the line. The HARM footnote handles framing; the verb in the line stays raw.",
+        "confidence": 5
+      },
+      {
+        "term": "sala_rock",
+        "rendering": "\"the rock\" — concrete; not abstracted (\"stones,\" \"hard ground\").",
+        "tradeOff": "None — abstraction would soften the image and undercut the §F.6 terseness mandate.",
+        "confidence": 5
+      },
+      {
+        "term": "v9_terseness",
+        "rendering": "Two verbs (\"seizes,\" \"dashes\"), two nouns (\"little ones,\" \"rock\"), no padding. All framing (historical context, theological handling, the \"prays the wish, does not act\" reading) goes to the HARM footnote, never into the line.",
+        "tradeOff": "Traded every available softening device — qualifying clauses, framing words, distancing language. The English line is brutal and unaccommodated, which is the point and also what makes the HARM footnote indispensable.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "Psalm ends here, on v.9, with no added resolution — no \"and yet I will trust,\" no return to praise. The §F.8 architecture is the silence after the last line.",
+        "tradeOff": "Traded the homiletically convenient move of adding a soft landing. The ending is meant to hurt and to stay open; closure would betray the lament.",
+        "confidence": 5
+      },
+      {
+        "term": "en_p3_register_guards",
+        "rendering": "Zero KJV archaisms, zero CCM clichés, zero exclamation marks — even at the hardest line.",
+        "tradeOff": "Traded KJV gravitas and exclamatory immediacy; lament register and EN-P3 metric are preserved.",
+        "confidence": 5
+      }
+    ]
+  }
+}

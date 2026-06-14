@@ -1,0 +1,217 @@
+{
+  "book": "PSA",
+  "chapter": 23,
+  "lang": "AB-DE",
+  "byVerse": {
+    "1": [
+      {
+        "term": "der_ewige_divine_name",
+        "rendering": "Render YHWH as *Der Ewige*, following Moses Mendelssohn's 1783 Pentateuch translation and the project-wide divine-name canonicalisation. The Tetragrammaton is a proper Name, not a title: *Der Herr* is the Lutherbibel/churchy default and triggers the funeral-psalm reception, *Gott* flattens YHWH into category language, *Adonaj* feels imported, *JHWH* too alien. *Der Ewige* keeps the Name audibly a name, carries the *ehyeh ašer ehyeh* of Ex 3:14, and avoids both the Lutherbibel echo and the Adonaj-importation feel. An UEBERSETZUNG footnote at v.1 names the choice explicitly.",
+        "tradeOff": "Sacrifices instant Lutherbibel recognizability — exactly the cadence we want to interrupt — for an audible Name that resists collapse into either *Herr* (churchy, funeral-coded) or *Gott* (generic). Some readers will pause on the unfamiliar formula; the pause is intentional, since the goal is to break the anesthesia of the inherited *Der Herr ist mein Hirte* opening.",
+        "confidence": 5
+      },
+      {
+        "term": "roi_hirte_royal_shepherd",
+        "rendering": "*Hirte* is the correct German word, but the royal-shepherd register (Hammurabi, ANE kings, Ezechiel 34) is established through a woven amplification: *\\add der König, der persönlich für mich einsteht.\\add\\**. This says *king* outright instead of asking the reader to infer it. *Schäfer* (occupational/folkloric), *Hüter* (too abstract), and *Führer* (historically compromised) are all rejected. A KULTUR footnote at v.1 sets the ANE backdrop and the *Keule am Gürtel* image against the Lutherbibel pastoral idyll.",
+        "tradeOff": "Spelling out the royal register in an inline amplification adds words to a famously compressed opening verse. The trade is reception-clarity: without it the German reader hears pastoral idyll (centuries of Lutherbibel framing); with it the political weight of the royal-shepherd image lands immediately.",
+        "confidence": 5
+      },
+      {
+        "term": "lo_ehsar_mir_fehlt_nichts",
+        "rendering": "*Mir fehlt nichts* — contemporary, unfussy, exact. Present tense (not future) lands as a confident report of present reality rather than a projection of future sufficiency. *mir mangelt nichts* (Lutherbibel archaic) and *ich habe alles was ich brauche* (therapeutic-affirmative) are rejected; the future *mir wird nichts fehlen* is considered but the present is the more confident landing — a statement, not an anticipation.",
+        "tradeOff": "Choosing the present indicative loses the futural confidence the future tense could project. The trade is post-crisis grounding: the speaker is reporting sufficiency from the other side of v.3's resuscitation, not anticipating it.",
+        "confidence": 5
+      },
+      {
+        "term": "divine_name_frame",
+        "rendering": "Open the frame on *Der Ewige* at v.1 and sustain it as direct *du*-address through v.6. The Name is spoken once at v.1 and then carried through the rest of the psalm as 2nd-person address established at v.4 (*Du bist bei mir*) and held to the close (*Deine Güte… dein Haus*). The frame is closed not by name-repetition at v.6 but by the address itself — the speaker remains face-to-face with the Name spoken at v.1. Non-Negotiable #1.",
+        "tradeOff": "Sustaining the *du* through v.6 instead of returning to 3rd-person *im Hause des Herrn* at the close breaks the symmetric A-B-A' frame the Lutherbibel preserves. The trade is the asymmetric chiasm the Hebrew actually has: post-pivot the speaker stays face-to-face with the Name, which is what the psalm structurally performs.",
+        "confidence": 5
+      },
+      {
+        "term": "pronoun_pivot_3rd_to_2nd",
+        "rendering": "vv. 1–3 in 3rd person (*er*); v. 4 pivots to 2nd person (*du*) and the address sustains through v. 6 (*dein/Deine*). No return to 3rd-person reference at v.6. The pivot is placed at *Du bist bei mir.* as its own sentence on its own line — the load-bearing line of the psalm. We do NOT smooth the shift for prose flow, do NOT break the 2nd person anywhere between v.4 and v.6, and do NOT introduce *du* prematurely in v.3. Non-Negotiable #2.",
+        "tradeOff": "An audible mid-psalm pronoun shift risks reading as inconsistency to a reader who doesn't track the grammatical pivot. The trade is that the Hebrew encodes its theological heart in exactly this grammatical fact (Hossfeld-Zenger / Goldingay chiastic axis); a German that smooths it loses the structural center.",
+        "confidence": 5
+      }
+    ],
+    "2": [
+      {
+        "term": "neot_deshe_ins_gruene",
+        "rendering": "*Er legt mich ins Grüne* — the idiomatic German *ins Grüne* (\"into the green\") carries pastoral arrival without churchy floral excess; the causative is preserved by *legt mich*. *auf grünen Weiden* (Lutherbibel, triggers reception) rejected. Considered but rhythmically heavier: *auf Wiesen mit frischem Grün* and the less-idiomatic *auf jungen Weiden*.",
+        "tradeOff": "Idiomatic *ins Grüne* loses some of the botanical specificity of *dešeʾ* as tender new growth. The KONTEXT footnote at v.2 carries the Hesekiel-34 background and the causative grammar that the compressed phrase cannot.",
+        "confidence": 4
+      },
+      {
+        "term": "yarbitseni_legt_mich_causative",
+        "rendering": "*Er legt mich* — direct active causative, no *lassen*-periphrase. The shepherd makes the sheep lie down; agency belongs to the shepherd, not the sheep's choice. *er lässt mich lagern* (slightly old-fashioned, camp-like), *er bettet mich* (too soft), and *er legt mich nieder* (medical/submissive) all rejected.",
+        "tradeOff": "*legt mich* is so direct it could read as merely physical without the surrounding pastoral cue. The KONTEXT footnote at v.2 names the Hesekiel-34 hirten-prophecy and the causative grammar behind *yarbîṣēnî* explicitly, recovering what the bare verb cannot.",
+        "confidence": 5
+      },
+      {
+        "term": "me_menuhot_stille_wasser_destination",
+        "rendering": "*ans stille Wasser, \\add dorthin, wo ich ankommen darf.\\add\\** — keep the recognizable Lutherbibel-echo *stille Wasser* as phonic ground, then redirect its semantics through the woven amplification: *dorthin, wo ich ankommen darf* makes the water a destination, not an adjective for water-character. *am stillen Wasser* alone inverts the semantics (water-as-quiet vs. water-as-rest-place); *am Wasser der Ruhe* loses the inherited cadence; *am ruhigen Wasser* reverses the relation. The KULTUR footnote spells out *mənûḥâ* as Sabbath/promised-land rest.",
+        "tradeOff": "Keeping the Lutherbibel echo risks importing the very reception we want to interrupt. The bet is that the amplification *dorthin, wo ich ankommen darf* plus the KULTUR footnote correct the semantics in real time, while a clean break would lose the cadence that anchors the line for the reader. \"Keep the echo, fix the meaning.\"",
+        "confidence": 4
+      },
+      {
+        "term": "divine_name_frame",
+        "rendering": "Open the frame on *Der Ewige* at v.1 and sustain it as direct *du*-address through v.6. The Name is spoken once at v.1 and then carried through the rest of the psalm as 2nd-person address established at v.4 (*Du bist bei mir*) and held to the close (*Deine Güte… dein Haus*). The frame is closed not by name-repetition at v.6 but by the address itself — the speaker remains face-to-face with the Name spoken at v.1. Non-Negotiable #1.",
+        "tradeOff": "Sustaining the *du* through v.6 instead of returning to 3rd-person *im Hause des Herrn* at the close breaks the symmetric A-B-A' frame the Lutherbibel preserves. The trade is the asymmetric chiasm the Hebrew actually has: post-pivot the speaker stays face-to-face with the Name, which is what the psalm structurally performs.",
+        "confidence": 5
+      },
+      {
+        "term": "pronoun_pivot_3rd_to_2nd",
+        "rendering": "vv. 1–3 in 3rd person (*er*); v. 4 pivots to 2nd person (*du*) and the address sustains through v. 6 (*dein/Deine*). No return to 3rd-person reference at v.6. The pivot is placed at *Du bist bei mir.* as its own sentence on its own line — the load-bearing line of the psalm. We do NOT smooth the shift for prose flow, do NOT break the 2nd person anywhere between v.4 and v.6, and do NOT introduce *du* prematurely in v.3. Non-Negotiable #2.",
+        "tradeOff": "An audible mid-psalm pronoun shift risks reading as inconsistency to a reader who doesn't track the grammatical pivot. The trade is that the Hebrew encodes its theological heart in exactly this grammatical fact (Hossfeld-Zenger / Goldingay chiastic axis); a German that smooths it loses the structural center.",
+        "confidence": 5
+      }
+    ],
+    "3": [
+      {
+        "term": "napshi_compressed_mich_not_seele",
+        "rendering": "Render *napšî* as the compressed pronoun *mich* in *er holt mich zurück ins Leben*. The destination *ins Leben* is named separately, so the body of the speaker is object and life is the place he is returned to. *meine Seele* is rejected as anti-pattern (anthropology error, pietistic dualism, churchy). *mein Leben* would double up with *ins Leben*; *alles in mir* is too exuberant for DE-P2. A TEXT footnote at v.3 explains *napšî* as Atem/Kehle/Leib/Selbst against the platonic *Seele*.",
+        "tradeOff": "*mich* loses the explicit anthropological term — the reader doesn't hear *napšî* named at all. The trade is that *Seele* would actively mislead (captured by Platonic dualism in German); a flat-but-correct *mich* plus a footnote teaches more than a familiar-but-wrong *Seele*.",
+        "confidence": 5
+      },
+      {
+        "term": "yeshovev_holt_zurueck_ins_leben",
+        "rendering": "*Er holt mich zurück ins Leben* — Polel of *šûb* as resuscitation register, not refreshment. *er erquickt meine Seele* (Lutherbibel) is rejected: it drains the dramatic weight. The verb-plus-destination pairing in one line carries the Ruth 4:15 / Klagelieder parallels — someone at the brink, called back. *er weckt mich wieder auf* (medical-literal) and *er gibt mir das Leben zurück* (warmer but less sharp) considered and rejected. A TEXT footnote spells out the parallels; a LEBEN footnote lands the line pastorally (Koosed, disability-studies).",
+        "tradeOff": "Naming the resuscitation explicitly makes the line longer and more dramatic than the inherited German cadence. The risk is melodrama; the gain is that the verb does what the Hebrew does — names a real rescue, not a refreshment. Loses the gentle pastoral tone for the post-crisis testimony the psalm is actually giving.",
+        "confidence": 5
+      },
+      {
+        "term": "maagale_sedeq_rechte_spur",
+        "rendering": "*führt mich wieder auf die rechte Spur* — *Spur* is the precise spatial cognate of *maʿgal* (wheel-rut, road-rut, ausgefahrene Fuhrmannsspur); *rechte* = correct/true, not moral. *wieder* picks up the return-motion of *holt mich zurück* from the previous clause. *auf Pfade der Gerechtigkeit* (moralistic Lutherbibel echo) rejected; *auf rechten Wegen* too abstract; *auf Wege, die zum Ziel führen* verbose. A TEXT footnote at v.3 explains *maʿgal* as ausgefahrene Fuhrmannsspur, not moralischer Pfad.",
+        "tradeOff": "Choosing *Spur* over *Wege* sacrifices the broader ethical register *Wege* carries in German. The gain is fidelity to the Hebrew's concrete spatial image: a track you can fall into and follow, not a moral category.",
+        "confidence": 5
+      },
+      {
+        "term": "lemaan_shemo_weil_er_ist",
+        "rendering": "*\\add weil er ist, wer er ist.\\add\\** — woven amplification that paraphrases the Hebrew theological logic (God acts from his own character) and echoes Ex 3:14 / Ezechiel 36:22. Marked as `\\add...\\add*` because the phrasing unpacks the Hebrew theological logic rather than translating its surface. *um seines Namens willen* (Lutherbibel forensic register, archaic *willen* construction) rejected; *seinem Wesen treu* too philosophical. A TEXT footnote at v.3 makes the Ex 3:14 backdrop explicit.",
+        "tradeOff": "Paraphrase loses surface-literalness — the reader doesn't hear *Name* at all. The trade is theological clarity: the Lutherbibel formula reads in modern German as a forensic claim (Gott handelt, um seinen Ruf zu wahren), which inverts the Hebrew. The amplification recovers what the literal would obscure.",
+        "confidence": 4
+      },
+      {
+        "term": "divine_name_frame",
+        "rendering": "Open the frame on *Der Ewige* at v.1 and sustain it as direct *du*-address through v.6. The Name is spoken once at v.1 and then carried through the rest of the psalm as 2nd-person address established at v.4 (*Du bist bei mir*) and held to the close (*Deine Güte… dein Haus*). The frame is closed not by name-repetition at v.6 but by the address itself — the speaker remains face-to-face with the Name spoken at v.1. Non-Negotiable #1.",
+        "tradeOff": "Sustaining the *du* through v.6 instead of returning to 3rd-person *im Hause des Herrn* at the close breaks the symmetric A-B-A' frame the Lutherbibel preserves. The trade is the asymmetric chiasm the Hebrew actually has: post-pivot the speaker stays face-to-face with the Name, which is what the psalm structurally performs.",
+        "confidence": 5
+      },
+      {
+        "term": "pronoun_pivot_3rd_to_2nd",
+        "rendering": "vv. 1–3 in 3rd person (*er*); v. 4 pivots to 2nd person (*du*) and the address sustains through v. 6 (*dein/Deine*). No return to 3rd-person reference at v.6. The pivot is placed at *Du bist bei mir.* as its own sentence on its own line — the load-bearing line of the psalm. We do NOT smooth the shift for prose flow, do NOT break the 2nd person anywhere between v.4 and v.6, and do NOT introduce *du* prematurely in v.3. Non-Negotiable #2.",
+        "tradeOff": "An audible mid-psalm pronoun shift risks reading as inconsistency to a reader who doesn't track the grammatical pivot. The trade is that the Hebrew encodes its theological heart in exactly this grammatical fact (Hossfeld-Zenger / Goldingay chiastic axis); a German that smooths it loses the structural center.",
+        "confidence": 5
+      }
+    ],
+    "4": [
+      {
+        "term": "ge_tsalmavet_finsterste_tal",
+        "rendering": "*Auch durch das finsterste Tal* — prefixed *Auch* renders *gam kî* concessive (\"even through\"); superlative *finsterste* carries the existential pitch *finstere* would lose. *durchs Tal des Todesschattens* (Lutherbibel, triggers funeral reception) rejected. *durch ein finsteres Tal* cleaner but less intense; *durch das Tal der tiefsten Dunkelheit* too baroque; *im finsteren Tal* loses the walking-through motion. A TEXT footnote covers the *ṣalmāwet* philology (Luther's *ṣēl-māwet* etymology vs. modern *ṣalmût*).",
+        "tradeOff": "Choosing the modern *finsternis* over the inherited *Todesschatten* breaks the most recognizable single line in German liturgy. The risk is alienation from readers who hold the funeral cadence; the gain is recovery — the Hebrew is *deep darkness*, not literal death-shadow, and the modern philology has been settled for decades.",
+        "confidence": 5
+      },
+      {
+        "term": "lo_ira_ra_furchte_nichts",
+        "rendering": "*ich fürchte nichts* — compressed, present-tense, declarative. *nichts* absorbs *rāʿ* without metaphysicalising it. The DE-P3 register at v.4 wants the line stripped to its load-bearing core. *fürchte ich kein Unglück* lengthens the line; *fürchte ich mich nicht* loses the object; *fürchte ich nichts Böses* (Lutherbibel trap — metaphysical evil) explicitly rejected since *rāʿ* is concrete harm, not moral evil.",
+        "tradeOff": "Dropping the explicit object (*Unglück*, *Böses*) sacrifices direct lexical correspondence to *rāʿ*. The trade: *nichts* doesn't classify the harm — the speaker isn't naming it; he is reporting that none of it gets through. Compression matches the DE-P3 v.4 register the exegesis authorizes.",
+        "confidence": 4
+      },
+      {
+        "term": "ki_atta_immadi_du_bist_bei_mir_pivot",
+        "rendering": "*Du bist bei mir.* — freestanding declarative sentence on its own line. No *denn*, no *weil*. The 2nd person enters cold with the full weight of a sentence-final period. The grammatical pivot from 3rd to 2nd person is unmarked syntactically and therefore felt all the more sharply: three verses of *er*, then *Du*. *denn du bist bei mir* softens by linking backward; *weil du bei mir bist* subordinates; *du bist ja bei mir* is conversational filler. A KONTEXT footnote names the Hossfeld-Zenger / Goldingay analysis; an UNGLAUBLICH footnote handles the skeptical \"what about Ps 88?\" question.",
+        "tradeOff": "Dropping the *kî* causal severs the syntactic link backward to the preceding clause — the line stands alone instead of being grammatically grounded. The trade is theological force: as a freestanding sentence the pivot lands as the load-bearing line of the psalm; as a subordinated clause it would soften into prose flow.",
+        "confidence": 5
+      },
+      {
+        "term": "shevet_mishenet_stock_hirtenstab",
+        "rendering": "*Dein Stock beschützt mich, dein Hirtenstab weist mir den Weg.* — the verse is restructured so each implement carries its own action verb. *Stock* = *šēbeṭ* (the weapon-club) with *beschützt mich* naming its defensive function; *Hirtenstab* = *mišʿenet* (support staff) with *weist mir den Weg* naming its guiding function. The Hebrew *yənaḥămûnî* (they comfort me) is dispersed across both verbs — protection and direction are what the comfort consists of. *Stecken und Stab* (Lutherbibel, *Stecken* barely used in contemporary German) rejected; *Knüppel* has thug register; *Waffe und Stab* too modernist. A KULTUR footnote at v.4 explains the *šēbeṭ*/*mišʿenet* distinction (1 Sam 17:34–36; Ps 2:9).",
+        "tradeOff": "Dispersing *yənaḥămûnî* into two function verbs loses the single compact \"they comfort me\" clause the Hebrew has. The gain: German recovers what the inherited *Stecken und Stab trösten mich* has flattened — protection and direction are what the comfort consists of, made explicit instead of left to a generic *trösten*.",
+        "confidence": 5
+      },
+      {
+        "term": "divine_name_frame",
+        "rendering": "Open the frame on *Der Ewige* at v.1 and sustain it as direct *du*-address through v.6. The Name is spoken once at v.1 and then carried through the rest of the psalm as 2nd-person address established at v.4 (*Du bist bei mir*) and held to the close (*Deine Güte… dein Haus*). The frame is closed not by name-repetition at v.6 but by the address itself — the speaker remains face-to-face with the Name spoken at v.1. Non-Negotiable #1.",
+        "tradeOff": "Sustaining the *du* through v.6 instead of returning to 3rd-person *im Hause des Herrn* at the close breaks the symmetric A-B-A' frame the Lutherbibel preserves. The trade is the asymmetric chiasm the Hebrew actually has: post-pivot the speaker stays face-to-face with the Name, which is what the psalm structurally performs.",
+        "confidence": 5
+      },
+      {
+        "term": "pronoun_pivot_3rd_to_2nd",
+        "rendering": "vv. 1–3 in 3rd person (*er*); v. 4 pivots to 2nd person (*du*) and the address sustains through v. 6 (*dein/Deine*). No return to 3rd-person reference at v.6. The pivot is placed at *Du bist bei mir.* as its own sentence on its own line — the load-bearing line of the psalm. We do NOT smooth the shift for prose flow, do NOT break the 2nd person anywhere between v.4 and v.6, and do NOT introduce *du* prematurely in v.3. Non-Negotiable #2.",
+        "tradeOff": "An audible mid-psalm pronoun shift risks reading as inconsistency to a reader who doesn't track the grammatical pivot. The trade is that the Hebrew encodes its theological heart in exactly this grammatical fact (Hossfeld-Zenger / Goldingay chiastic axis); a German that smooths it loses the structural center.",
+        "confidence": 5
+      }
+    ],
+    "5": [
+      {
+        "term": "shulchan_neged_tsorerai_ehrenplatz",
+        "rendering": "*Du deckst mir den Tisch, vor den Augen meiner Feinde. \\add Den Ehrenplatz.\\add\\** … *\\add Du nennst mich deinen. Kein Feind rührt mich an.\\add\\** — *vor den Augen* renders *neged* concretely (their eyes are on the scene); the woven amplification *Den Ehrenplatz* names what the table-setting actually performs (public honor-vindication). A second amplification closes v.5 on the relational reality the meal performs (belonging as protection). *im Angesicht meiner Feinde* (Lutherbibel archaic) rejected; *Gegner* too euphemistic for this verse.",
+        "tradeOff": "Two amplifications plus *vor den Augen* expand the verse beyond literal compactness. The trade is reception-clarity: contemporary readers will hear *Tisch im Angesicht der Feinde* as metaphorical (enemies as inner demons or the like); the amplifications keep the social scene visible — a real meal under real surveillance, public honor enacted.",
+        "confidence": 5
+      },
+      {
+        "term": "dishshanta_oel_ins_haar",
+        "rendering": "*Das Öl ins Haar* — verbless ellipsis as pure gesture, no liturgical verb. *Haar* (not *Haupt*) shows where the oil actually lands. *du salbst mein Haupt mit Öl* (Lutherbibel, triggers liturgical anointing) rejected — *diššantā* is piel of *dāšēn* (luxuriant), Bankettsprache, not *māšaḥ*-ceremonial-anointing. *du gießt Öl über mein Haar* and *du tränkst mein Haar mit Öl* considered but break the compressed gesture-sequence. A KULTUR footnote at v.5 explains *diššantā* as Bankettsprache and the *Haar*/*Haupt* shift.",
+        "tradeOff": "Eliding the verb risks reading as fragmentary or stage-direction. The trade is rhythmic: by v.5 the action is so embedded that the host's gestures land as a sequence (*Das Öl ins Haar, den Becher randvoll*); a fully-verbed form would interrupt the gesture sequence.",
+        "confidence": 5
+      },
+      {
+        "term": "kosi_revaya_becher_randvoll",
+        "rendering": "*den Becher randvoll* — compressed, paired with *Das Öl ins Haar* as two beats of the same hospitality movement. \"To the rim\" without overflow. *mein Becher fließt über* (Lutherbibel, but the exegesis explicitly notes \"abundance, not overflow\") rejected; *mein Becher ist randvoll* fuller but breaks the gesture-sequence rhythm. A LEBEN footnote at v.5 lands the line pastorally (Kate Bowler on hospitality at the table when the table sits in the middle of the crisis).",
+        "tradeOff": "Dropping the verb (*ist*, *läuft*) sacrifices a complete clause. The gain is participation in the gesture-sequence with the preceding oil image: two compressed beats land harder than two fully-verbed clauses, and the saturation-rim image is more faithful to *rəwāyâ* (saturation) than the inherited overflow.",
+        "confidence": 5
+      },
+      {
+        "term": "divine_name_frame",
+        "rendering": "Open the frame on *Der Ewige* at v.1 and sustain it as direct *du*-address through v.6. The Name is spoken once at v.1 and then carried through the rest of the psalm as 2nd-person address established at v.4 (*Du bist bei mir*) and held to the close (*Deine Güte… dein Haus*). The frame is closed not by name-repetition at v.6 but by the address itself — the speaker remains face-to-face with the Name spoken at v.1. Non-Negotiable #1.",
+        "tradeOff": "Sustaining the *du* through v.6 instead of returning to 3rd-person *im Hause des Herrn* at the close breaks the symmetric A-B-A' frame the Lutherbibel preserves. The trade is the asymmetric chiasm the Hebrew actually has: post-pivot the speaker stays face-to-face with the Name, which is what the psalm structurally performs.",
+        "confidence": 5
+      },
+      {
+        "term": "pronoun_pivot_3rd_to_2nd",
+        "rendering": "vv. 1–3 in 3rd person (*er*); v. 4 pivots to 2nd person (*du*) and the address sustains through v. 6 (*dein/Deine*). No return to 3rd-person reference at v.6. The pivot is placed at *Du bist bei mir.* as its own sentence on its own line — the load-bearing line of the psalm. We do NOT smooth the shift for prose flow, do NOT break the 2nd person anywhere between v.4 and v.6, and do NOT introduce *du* prematurely in v.3. Non-Negotiable #2.",
+        "tradeOff": "An audible mid-psalm pronoun shift risks reading as inconsistency to a reader who doesn't track the grammatical pivot. The trade is that the Hebrew encodes its theological heart in exactly this grammatical fact (Hossfeld-Zenger / Goldingay chiastic axis); a German that smooths it loses the structural center.",
+        "confidence": 5
+      }
+    ],
+    "6": [
+      {
+        "term": "tov_vahesed_guete_treue_liebe",
+        "rendering": "*Deine Güte und treue Liebe* — *Deine* anchors the line in the continuing 2nd-person address; *Güte und treue Liebe* is a hendiadys-aware pair that doesn't feel additive (the second term unpacks the first rather than adding to it). *Güte und Gnade* (*Gnade* churchy) and *Glück und Güte* (wrong semantics) rejected; *Gutes und Treue* flatter. The *ʾak* intensifier is dropped because the hunt-verb *jagen mir nach* in the next clause carries enough force.",
+        "tradeOff": "Choosing *treue Liebe* for *ḥesed* uses two everyday words where the Hebrew has one untranslatable covenant term. The gain is that the pair *Güte und treue Liebe* avoids both the churchy *Gnade* and the additive feel a flat conjunction would carry; the unpacking is felt rather than additive. Dropping *ʾak* loses an emphatic particle the Hebrew has.",
+        "confidence": 4
+      },
+      {
+        "term": "yirdefuni_jagen_nach",
+        "rendering": "*jagen mir nach* — separable verb *nachjagen* in split form. §A.3 names this \"the most important single lexical item in the psalm\"; §F.1 makes the standard German *folgen* an absolute non-negotiable rejection. The reversal — the verb that usually hunts the psalmist (*rādap*, 144× in HB, almost always enemies pursuing) now hunts on his behalf — is the theological payoff. *jagen mich* loses the *nach* directionality; *verfolgen* also means \"persecute\" in German; *hetzen mir hinterher* overshoots. Pairs with the recommended song-hook *die Gnade jagt mir nach*.",
+        "tradeOff": "Choosing *jagen nach* breaks the gentle German cadence the inherited *werden mir folgen* sets up. The risk is jarring contemporary readers; the gain is recovery of the hunt-register reversal — without it the psalm's theological payoff is lost, so the trade is non-negotiable per §F.1. Non-Negotiable #3.",
+        "confidence": 5
+      },
+      {
+        "term": "veshavti_beit_yhwh_dein_haus_zuhause",
+        "rendering": "*Und dein Haus, \\add das ist mein Zuhause.\\add\\** — equative copula structure with *Haus* in 2nd-person possessive (*dein Haus*) keeps the post-pivot *du*-address holding to the end. The verb *wohnen* is gone; in its place an equative — *dein Haus = mein Zuhause* — that carries both MT-pointing readings of *wəšabtî* (returning is the same act as dwelling because the house is already home). *Zuhause* (relational belonging) chosen over *Haus* (mere building) on the right side. *ich werde wohnen im Haus des Herrn* (Lutherbibel archaic), *im Haus Gottes* (breaks 2nd-person address), and *ich kehre zurück ins Haus Gottes* (breaks *du*-address) all rejected.",
+        "tradeOff": "Dropping the verb sacrifices the explicit motion *wəšabtî* ambiguates between (returning vs. dwelling). The gain: the equative carries both readings simultaneously, and the 2nd-person possessive *dein Haus* holds the *du*-address through to the close instead of breaking back to 3rd-person *Haus Gottes* — preserving Non-Negotiable #1.",
+        "confidence": 4
+      },
+      {
+        "term": "le_orekh_yamim_mein_leben_lang",
+        "rendering": "*mein Leben lang* — natural, warm, idiomatic; carries \"the length of days\" in everyday German. *immerdar* and *für immer* (afterlife overreach) explicitly rejected — Brettler, Levenson, Alter all confirm the Hebrew is modest about temporal scope, and *lə-ʾōrek yāmîm* is not *lə-ʿôlām*. *solange ich lebe* equally modest but more clause-like; *all meine Tage* slightly poetic. A TEXT footnote at v.6 explains *lə-ʾōrek yāmîm* as irdische Lebenszeit and the Horizont as volles Leben in der Gegenwart, nicht Himmel.",
+        "tradeOff": "Refusing the eternity-rendering loses the heavenly-horizon reading centuries of Christian devotion have attached to the line. The gain is fidelity to the Hebrew's modest measure: the Horizont des Psalms is volles Leben in der Gegenwart Gottes, nicht Himmel.",
+        "confidence": 5
+      },
+      {
+        "term": "divine_name_frame",
+        "rendering": "Open the frame on *Der Ewige* at v.1 and sustain it as direct *du*-address through v.6. The Name is spoken once at v.1 and then carried through the rest of the psalm as 2nd-person address established at v.4 (*Du bist bei mir*) and held to the close (*Deine Güte… dein Haus*). The frame is closed not by name-repetition at v.6 but by the address itself — the speaker remains face-to-face with the Name spoken at v.1. Non-Negotiable #1.",
+        "tradeOff": "Sustaining the *du* through v.6 instead of returning to 3rd-person *im Hause des Herrn* at the close breaks the symmetric A-B-A' frame the Lutherbibel preserves. The trade is the asymmetric chiasm the Hebrew actually has: post-pivot the speaker stays face-to-face with the Name, which is what the psalm structurally performs.",
+        "confidence": 5
+      },
+      {
+        "term": "pronoun_pivot_3rd_to_2nd",
+        "rendering": "vv. 1–3 in 3rd person (*er*); v. 4 pivots to 2nd person (*du*) and the address sustains through v. 6 (*dein/Deine*). No return to 3rd-person reference at v.6. The pivot is placed at *Du bist bei mir.* as its own sentence on its own line — the load-bearing line of the psalm. We do NOT smooth the shift for prose flow, do NOT break the 2nd person anywhere between v.4 and v.6, and do NOT introduce *du* prematurely in v.3. Non-Negotiable #2.",
+        "tradeOff": "An audible mid-psalm pronoun shift risks reading as inconsistency to a reader who doesn't track the grammatical pivot. The trade is that the Hebrew encodes its theological heart in exactly this grammatical fact (Hossfeld-Zenger / Goldingay chiastic axis); a German that smooths it loses the structural center.",
+        "confidence": 5
+      }
+    ]
+  }
+}

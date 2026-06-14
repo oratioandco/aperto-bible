@@ -1,0 +1,379 @@
+{
+  "book": "PSA",
+  "chapter": 137,
+  "lang": "AB-PL",
+  "byVerse": {
+    "1": [
+      {
+        "term": "tam_deictic",
+        "rendering": "Kept *šām* as bare \"Tam –\" at the head of v.1 (and again at the head of v.3, \"Bo tam\"). The deictic engine of strophe 1 — a finger pointing at *there* (Babylon, present) versus *here* (Jerusalem, absent). Pulled into the \\s1 heading too (\"Tam – nad rzekami Babilonu\") so the architecture is visible before the first verse opens.",
+        "tradeOff": "A bare \"Tam –\" feels rougher than the smoother opening Polish Psalters usually take (\"Nad rzekami Babilonu…\"); NIV drops it altogether. We trade stylistic smoothness for §F.8's deictic engine.",
+        "confidence": 5
+      },
+      {
+        "term": "naharot_rivers",
+        "rendering": "\"rzeki Babilonu\" — the known Polish collocation. The KULTUR footnote at 137:1 supplies the canal/irrigation-network sense (\"gęsta sieć kanałów\"); the line itself stays at \"rzeki\".",
+        "tradeOff": "We give up the historically precise \"kanały\" inside the line; a reader who skips the footnote will picture natural rivers (§A.2). Trading literal exactness for the idiomatic phrase the Polish ear already carries.",
+        "confidence": 5
+      },
+      {
+        "term": "yashavnu_imperfective",
+        "rendering": "\"Siedzieliśmy.\" — imperfective past for *yāšaḇnû*, rendered as a bare standalone line with a hard stop. Carries the durative mourning-posture: the state of sitting in grief, not a single act.",
+        "tradeOff": "A perfective \"Usiedliśmy\" would land harder as a moment of decision but would collapse the grief-state into a single completed act. We trade momentary punch for durative weight.",
+        "confidence": 5
+      },
+      {
+        "term": "bakhinu_bare_line",
+        "rendering": "\"Płakaliśmy.\" — bare standalone line, full stop, no amplification, no interior emotion-talk. *gam-bāḵînû*: Dahood reads *gam* as \"loudly\"; the weight is left in the bare verb plus the silence after it.",
+        "tradeOff": "We give up the softer \"byliśmy smutni\" register entirely. \"Płakaliśmy.\" is harder, more public, less interior — that *is* the point, but we forfeit any subtler grief register.",
+        "confidence": 5
+      },
+      {
+        "term": "zakar_shakach_thread",
+        "rendering": "One verb pair across the whole psalm: *pamiętać* / *zapomnieć*, used only these and every time (vv.1, 5, 6, 7). In v.1 it surfaces as \"Pamiętaliśmy o Syjonie.\" — locative complement (Polish *pamiętać o kimś*). No \"wspominać\", \"przypominać sobie\", or \"mieć w pamięci\" anywhere inside this psalm.",
+        "tradeOff": "We give up the natural Polish variation a translator would normally reach for to keep prose moving. Trading lexical variety for §F.3's visible antithesis — the keyword pair has to be heard as a pair.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "The psalm is translated and presented whole, with no truncation of vv.7-9, no \"yet I trust\" added, no resolution patched on. The 1971 Brevarium cut vv.7-9 (papal decision against the revision commission's majority); Aperto does not. The HARM footnote at v.9 carries the moral weight, never an interior softening of the line.",
+        "tradeOff": "We accept that the chapter, taken whole, resists liturgical use. The alternative — the Brevarium cut — abandons exactly the wronged exiles this psalm was written for.",
+        "confidence": 5
+      },
+      {
+        "term": "pl_p3_raw_lament_register",
+        "rendering": "PL-P3 raw lament register, Bargielska anchor: \"prosta, twarda polszczyzna\". Zero Wujek / Biblia-Tysiąclecia survivals — no \"zaiste\", \"albowiem\", \"oto\", \"rzekł\", \"pomsta\", \"na wieki wieków\", \"O Panie\"; *ʾašrê* never rendered \"błogosławiony\" (cultic blessing register, forbidden by `LEXICON_PL` §F and §F.5). Exactly one exclamation mark in the chapter — at the end of v.7's Edomite shout (\"aż do fundamentów!\").",
+        "tradeOff": "We give up the cathedral cadence the Polish religious ear is conditioned to and lose the warmth of liturgical Polish. The rawness of Ps 137 must not be sentimentalised by Sunday-liturgy register.",
+        "confidence": 5
+      }
+    ],
+    "2": [
+      {
+        "term": "aravim_topole",
+        "rendering": "\"topole\" for *ʿărābîm* — the Euphrates poplar, the tree that actually grew along Babylon's irrigation canals. The KULTUR footnote at 137:2 closes with \"Drzewa to topole, nie wierzby: topola eufracka obrastała kanały babilońskiej równiny.\"",
+        "tradeOff": "We give up the famous traditional \"wierzby\" (willows), which carries centuries of European resonance from Wujek through Bach (\"An Wasserflüssen Babylon\") to schoolroom anthologies. Trade: a botanically/geographically correct tree against a culturally dense mistranslation.",
+        "confidence": 5
+      },
+      {
+        "term": "kinnor_liry",
+        "rendering": "\"liry\" for *kinnôr* — the Temple praise-instrument. The KULTUR footnote carries the cultic weight: \"Lira nie była zwykłym instrumentem. Należała do Świątyni…\".",
+        "tradeOff": "We give up the more familiar Polish \"harfy\". The lyre is the specifically cultic, Temple-bound instrument; \"harfa\" is generic and softens the religious specificity §F.4 needs.",
+        "confidence": 5
+      },
+      {
+        "term": "talinu_perfective",
+        "rendering": "\"zawiesiliśmy swoje liry\" — perfective past for *tālînû*, marking a completed, deliberate act of hanging the instruments up. Sequenced after the imperfective \"siedzieliśmy / płakaliśmy\" of v.1: the durative grief-state breaks into one decisive action.",
+        "tradeOff": "An imperfective \"wieszaliśmy\" would parallel v.1's tense more smoothly but would dissolve the decisive single act into ongoing background. We trade tense-parallelism for the deliberate finality of the gesture.",
+        "confidence": 5
+      },
+      {
+        "term": "swoj_reflexive_possessive",
+        "rendering": "Reflexive possessive *swoje* in \"zawiesiliśmy swoje liry\" — subject is the possessor, so Polish grammar requires *swój*, not *nasze* (grammar gate Risk 2.7).",
+        "tradeOff": "none — \"nasze liry\" would be a grammar error in this clause; the reflexive is mandatory, not a stylistic choice.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "The psalm is translated and presented whole, with no truncation of vv.7-9 and no resolution patched on at the end. The HARM footnote at v.9 carries the moral weight.",
+        "tradeOff": "We accept that the chapter, taken whole, resists liturgical use. The alternative — the Brevarium cut — abandons exactly the wronged exiles this psalm was written for.",
+        "confidence": 5
+      },
+      {
+        "term": "pl_p3_raw_lament_register",
+        "rendering": "PL-P3 raw lament register, Bargielska anchor: \"prosta, twarda polszczyzna\". Zero Wujek / Biblia-Tysiąclecia survivals; *ʾašrê* never \"błogosławiony\". One exclamation mark in the whole chapter, in v.7 only.",
+        "tradeOff": "We give up the cathedral cadence the Polish religious ear is conditioned to. The rawness of Ps 137 must not be sentimentalised by Sunday-liturgy register.",
+        "confidence": 5
+      }
+    ],
+    "3": [
+      {
+        "term": "tam_deictic",
+        "rendering": "*šām* kept at the head of v.3 too — \"Bo tam porywacze żądali pieśni\". Strophe 1's deictic engine returns: the place that anchored sitting-and-weeping in v.1 is now the place of the demand. (§F.8)",
+        "tradeOff": "A natural Polish opening would drop the redundant deictic on the second pass; we keep it because §F.8 needs the structural repetition. Trading prose-smoothness for architectural visibility.",
+        "confidence": 5
+      },
+      {
+        "term": "shovenu_tolalenu_synonym_pair",
+        "rendering": "Synonym pair \"porywacze\" / \"oprawcy\" for *šôḇênû* / *tôlālênû* — single hard nouns, the second intensifies. \"porywacze\" (captors/abductors) for the common noun; \"oprawcy\" (tormentors/executioners) for the hapax *tôlālênû*. The pair carries the synonymous-parallelism architecture of the line.",
+        "tradeOff": "We give up the over-claim of \"grabieżcy\" (plunderers) and refuse the soft \"dręczyciele\" (those-who-vex). The hapax invites guesswork; we trade interpretive ambition for two hard, plain nouns that pitch sharper without over-reading.",
+        "confidence": 4
+      },
+      {
+        "term": "sheelu_demanded",
+        "rendering": "\"żądali\" (imperfective) for *šᵉʾēlûnû* — demanded, ordered. Imperfective carries the ongoing, repeated demand, not a single polite request.",
+        "tradeOff": "We give up the literal \"prosili o\" / \"pytali\" (asked) the verb's root would normally suggest in Polish. The captors do not ask — they order; trading lexical fidelity for the demand's true weight.",
+        "confidence": 5
+      },
+      {
+        "term": "simcha_gapped_clause",
+        "rendering": "\"oprawcy – radości\" — gapped clause with a Polish dash carrying the elided verb. The captors demand not just a song but *gladness* — the extracted cheer is the cruelty (§F.4 / KULTUR footnote). Terse synonymous parallelism: \"porywacze żądali pieśni, / oprawcy – radości\".",
+        "tradeOff": "A fully spelled-out \"oprawcy żądali radości\" would be smoother but would lose the gapped-parallelism punch the Hebrew has. We trade prose-completeness for the two-beat cruelty of the dash.",
+        "confidence": 5
+      },
+      {
+        "term": "shir_song_lexeme",
+        "rendering": "Single Polish lexeme \"pieśń\" for *šîr* across vv.3 (×2) and 4 — \"pieśni\", \"pieśni Syjonu\", \"pieśń Wiekuistego\". The Syjon / Wiekuisty contrast is carried purely by the genitive (§F.4).",
+        "tradeOff": "We give up the natural Polish variation between \"pieśń\" / \"śpiew\" / \"piosenka\". Trading variety for §F.4's lexical thread: the same noun under two different genitives is what makes the captors' demand and the exiles' refusal hinge.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "The psalm is translated and presented whole, with no truncation of vv.7-9. The HARM footnote at v.9 carries the moral weight, never an interior softening of the line.",
+        "tradeOff": "We accept that the chapter, taken whole, resists liturgical use. The alternative — the Brevarium cut — abandons exactly the wronged exiles this psalm was written for.",
+        "confidence": 5
+      },
+      {
+        "term": "pl_p3_raw_lament_register",
+        "rendering": "PL-P3 raw lament register, Bargielska anchor: \"prosta, twarda polszczyzna\". Zero Wujek / Biblia-Tysiąclecia survivals; one exclamation mark in the whole chapter, at the end of v.7's Edomite shout only. The captors' demand here stays unmarked — carried by content and word choice, not punctuation.",
+        "tradeOff": "We give up the cathedral cadence Polish religious ear is conditioned to. The rawness of Ps 137 must not be sentimentalised by Sunday-liturgy register.",
+        "confidence": 5
+      }
+    ],
+    "4": [
+      {
+        "term": "ekh_jak",
+        "rendering": "\"Jak\" as the dirge-opening word — the *ʾêḵ* of Lam 1:1, the hinge of strophe 1, kept first in the line. Matches Aperto Psalter house style (cf. \"Jak długo—?\", Ps 6).",
+        "tradeOff": "We give up the slightly elevated \"Jakże\" that would feel more poetic to a Polish religious ear. The bare \"Jak\" is the rawer PL-P3 register; trading elevation for register-fit.",
+        "confidence": 5
+      },
+      {
+        "term": "divine_name_wiekuisty",
+        "rendering": "\"Wiekuisty\" for the Tetragrammaton, declined per Polish case — here genitive \"Wiekuistego\" in \"pieśń Wiekuistego\". The established Aperto PL Psalter convention (after Izaak Cylkow). Rendering the personal Name rather than substituting a title is what §F.1 calls for, because the Name itself is what the captors implicitly try to extract and the exiles withhold. The UEBERSETZUNG footnote at 137:4 explains the convention.",
+        "tradeOff": "We give up \"Pan\" (the default Polish religious instinct for YHWH), \"PAN\" (small-caps convention), and \"Pan Bóg\" (Wujek archaism — forbidden by `LEXICON_PL` §F). Substituting a title would blur §F.4's hinge — captors demand \"pieśni Syjonu\" (national/folkloric), exiles reframe to \"pieśń Wiekuistego\" (covenantal, name-bound). That contrast is the point.",
+        "confidence": 5
+      },
+      {
+        "term": "shir_song_lexeme",
+        "rendering": "\"pieśń\" for *šîr* — \"pieśń Wiekuistego\". Same noun as v.3's \"pieśni Syjonu\"; only the genitive shifts. §F.4's lexical hinge.",
+        "tradeOff": "We give up the natural Polish variation between \"pieśń\" / \"śpiew\" / \"piosenka\". Trading lexical variety for §F.4's audible same-noun contrast.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "The psalm is translated and presented whole, with no truncation of vv.7-9. The HARM footnote at v.9 carries the moral weight.",
+        "tradeOff": "We accept that the chapter, taken whole, resists liturgical use. The alternative — the Brevarium cut — abandons exactly the wronged exiles this psalm was written for.",
+        "confidence": 5
+      },
+      {
+        "term": "pl_p3_raw_lament_register",
+        "rendering": "PL-P3 raw lament register, Bargielska anchor: \"prosta, twarda polszczyzna\". Zero Wujek / Biblia-Tysiąclecia survivals; *ʾašrê* never \"błogosławiony\".",
+        "tradeOff": "We give up the cathedral cadence the Polish religious ear is conditioned to. The rawness of Ps 137 must not be sentimentalised by Sunday-liturgy register.",
+        "confidence": 5
+      }
+    ],
+    "5": [
+      {
+        "term": "shakach_zapomne_accusative",
+        "rendering": "\"Jeśli cię zapomnę, Jerozolimo\" — accusative \"cię\" for *šākaḥ* + accusative pronoun (poetic, exegesis-sanctioned in §A.1). Verbatim repetition of the keyword from §F.3's thread; same root then immediately turned on the speaker's own right hand in the next clause.",
+        "tradeOff": "We give up the more idiomatic Polish \"jeśli o tobie zapomnę\" (locative). Trading idiomatic ease for the accusative the §A.1 exegesis blesses — and for the harder, more direct sound the accusative carries.",
+        "confidence": 4
+      },
+      {
+        "term": "yemini_prawa_reka",
+        "rendering": "\"prawa ręka\" (two-word phrase) for *yᵉmînî* — the right hand, the lyre-striking hand, the body-part that strikes the kinnôr in v.2. The plain two-word phrase sits closer to ordinary speech than the elevated single-word \"prawica\".",
+        "tradeOff": "We give up the elevated \"prawica\", which Polish religious tradition associates with God's mighty hand and which would lend a faintly liturgical aura to the line. PL-P3's \"prosta, twarda polszczyzna\" requires the plain phrase; trading elevation for register-fit.",
+        "confidence": 5
+      },
+      {
+        "term": "tishkach_objectless_mt",
+        "rendering": "\"moja prawa ręka niech zapomni\" — MT objectless, in natural Polish word order (subject-verb). Indicative \"niech zapomni\" carries the jussive force; the verb has no object, exactly as in the Hebrew (§F.7). The UEBERSETZUNG footnote at 137:5 explains the textual fork (consonant-swap → \"niech uschnie\" / \"zawiedzie\") and our choice to keep MT.",
+        "tradeOff": "We give up the smoother \"niech uschnie moja prawa ręka\" (the conjectured emendation, which parallels v.6's withering tongue). Trading parallelism with v.6 for the keyword *šākaḥ* turned on the speaker's own body — the keyword has to surface here too for §F.3's thread to land. We also refuse the KJV-style \"its cunning\" gloss; the line stays bare.",
+        "confidence": 5
+      },
+      {
+        "term": "zakar_shakach_thread",
+        "rendering": "One verb pair across the whole psalm: *pamiętać* / *zapomnieć*. In v.5 it surfaces twice — once as the speaker's potential forgetting (\"Jeśli cię zapomnę\") and once as the body's self-forgetting (\"niech zapomni\"). The keyword is now used against the speaker.",
+        "tradeOff": "We give up the natural Polish variation a translator would normally reach for (e.g., \"niech mi się nie uda grać\"). Trading variety for §F.3's visible antithesis — the keyword pair has to be heard as a pair.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "The psalm is translated and presented whole, with no truncation of vv.7-9. The HARM footnote at v.9 carries the moral weight.",
+        "tradeOff": "We accept that the chapter, taken whole, resists liturgical use. The alternative — the Brevarium cut — abandons exactly the wronged exiles this psalm was written for.",
+        "confidence": 5
+      },
+      {
+        "term": "pl_p3_raw_lament_register",
+        "rendering": "PL-P3 raw lament register, Bargielska anchor: \"prosta, twarda polszczyzna\". Zero Wujek / Biblia-Tysiąclecia survivals.",
+        "tradeOff": "We give up the cathedral cadence the Polish religious ear is conditioned to. The rawness of Ps 137 must not be sentimentalised by Sunday-liturgy register.",
+        "confidence": 5
+      }
+    ],
+    "6": [
+      {
+        "term": "tidbaq_leshoni_physical",
+        "rendering": "\"Język przylgnie mi do podniebienia\" — indicative future for *tidbaq*, read as oath-consequence (the conditional \"jeśli…\" follows in the next line); no jussive \"niech\". \"podniebienie\" is the everyday Polish word for the roof of the mouth — not clinical, not anatomical. Ethical/possessor dative \"mi\".",
+        "tradeOff": "We give up the abstract \"niech zamilknę\" (let me fall silent), which is what a soft translation would offer. Trading abstraction for the physical, bodily image — the tongue gluing to the palate is the consequence we want named, not silence.",
+        "confidence": 5
+      },
+      {
+        "term": "rosh_simcha_superlative",
+        "rendering": "\"największa radość\" (superlative) for *rōʾš śimḥâ* — \"the head/chief of my joy\" rendered as the highest joy. \"radość\" preserves the *śimḥâ* echo from v.3 (captors demanding *gladness*); Jerusalem is the gladness above all gladness, including the gladness the captors tried to extract.",
+        "tradeOff": "We give up the literal \"szczyt radości\" / \"czoło radości\" idiom that would be closer to the Hebrew construction but would feel translatorese in Polish. Trading literalism for the *śimḥâ* echo and the natural superlative.",
+        "confidence": 5
+      },
+      {
+        "term": "genitive_of_negation",
+        "rendering": "Genitive of negation observed: \"Jerozolimy nie wyniosę\" (gen. for direct object under negation). Locative object \"o tobie nie pamiętam\" is grammatically unaffected by the negation, kept as locative. Grammar gate compliance.",
+        "tradeOff": "none — Polish grammar requires the genitive shift under negation for the verb in this clause; this is grammar gate compliance, not a stylistic option.",
+        "confidence": 5
+      },
+      {
+        "term": "zakar_shakach_thread",
+        "rendering": "One verb pair across the whole psalm: *pamiętać* / *zapomnieć*. In v.6 both surface: \"o tobie nie pamiętam\" (negated *pamiętać*) is the speaker's potential failure; the §F.3 keyword pair stays visible.",
+        "tradeOff": "We give up the natural Polish variation a translator would normally reach for. Trading variety for §F.3's visible antithesis — the keyword pair has to be heard as a pair.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "The psalm is translated and presented whole, with no truncation of vv.7-9. The HARM footnote at v.9 carries the moral weight.",
+        "tradeOff": "We accept that the chapter, taken whole, resists liturgical use. The alternative — the Brevarium cut — abandons exactly the wronged exiles this psalm was written for.",
+        "confidence": 5
+      },
+      {
+        "term": "pl_p3_raw_lament_register",
+        "rendering": "PL-P3 raw lament register, Bargielska anchor: \"prosta, twarda polszczyzna\". Zero Wujek / Biblia-Tysiąclecia survivals.",
+        "tradeOff": "We give up the cathedral cadence the Polish religious ear is conditioned to. The rawness of Ps 137 must not be sentimentalised by Sunday-liturgy register.",
+        "confidence": 5
+      }
+    ],
+    "7": [
+      {
+        "term": "divine_name_wiekuisty_vocative",
+        "rendering": "\"Pamiętaj, Wiekuisty\" — vocative of \"Wiekuisty\" (Aperto PL Psalter Tetragrammaton convention, after Cylkow). The vocative form is the same as the nominative here. §F.1 binding.",
+        "tradeOff": "We give up \"O Panie\" — the Wujek archaism explicitly forbidden by `PL_POETRY.md` and grammar gate Tolerance 4.5 — and \"Panie\" the natural Polish religious instinct. Trading liturgical recognition for the Aperto Psalter convention and §F.1's name-bound address.",
+        "confidence": 5
+      },
+      {
+        "term": "benei_edom_kin_betrayal",
+        "rendering": "\"o synach Edomu\" — \"sons of Edom\" kept as the kin-nation idiom. The KULTUR footnote at 137:7 carries the Esau backstory and the Obadiah 10-14 indictment — that this is the betrayal of a brother-people, not abuse by a stranger.",
+        "tradeOff": "We give up the smoother \"o Edomitach\" (Edomites), which a Polish ear would expect. Trading idiomatic ease for the kinship-of-Jacob-and-Esau resonance that makes v.7's invective an indictment of family betrayal, not generic enemy-cursing.",
+        "confidence": 5
+      },
+      {
+        "term": "zekor_li_locative_remember",
+        "rendering": "\"Pamiętaj … o synach Edomu\" — Polish *pamiętać o kimś* with locative complement, the standard syntactic frame. The keyword *zākar* preserved (§F.3 thread). The juridical \"remember *against*\" sense (Kidner) is carried by content (Edom's day-of-Jerusalem complicity) and by the dative-of-disadvantage tone of the whole strophe — not by syntactic case alone.",
+        "tradeOff": "We give up trying to encode \"remember against\" in Polish case morphology (which has no clean equivalent). Trading explicit juridical force for the natural Polish syntactic frame; the curse-force lands through the content, not the grammar.",
+        "confidence": 4
+      },
+      {
+        "term": "yom_yerushalaim_bare_idiom",
+        "rendering": "\"w dniu Jerozolimy\" — bitter, opaque Hebrew idiom kept bare. The KULTUR footnote at 137:7 explains it (\"dzień, w którym miasto padło\"). No gloss inside the verse line (POETRY RULE 1).",
+        "tradeOff": "We give up explanatory glosses inside the line (\"w dniu upadku Jerozolimy\" / \"w dniu zagłady Jerozolimy\") that would help the reader without the footnote. Trading reader-ease for the idiom's bare bitterness — the strangeness of \"day of Jerusalem\" is part of how the line wounds.",
+        "confidence": 5
+      },
+      {
+        "term": "aru_aru_mob_shout",
+        "rendering": "\"Rozbijcie ją, rozbijcie, aż do fundamentów!\" — doubled imperative for *ʿārû ʿārû*, the mob shout of the Edomite bystanders. Hard plain verb *rozbić* (smash/shatter). The doubling itself plus the line-final \"!\" carry the shout; this is the *only* exclamation mark in the whole chapter — the captors' demand in v.3 stays unmarked.",
+        "tradeOff": "We give up the softer \"zniszczcie to\" (destroy it) and refuse to flatten the doubling into a single imperative. Trading restraint for the mob-shout texture — the §F.6/§F.8 demand is that the shout be heard.",
+        "confidence": 5
+      },
+      {
+        "term": "zakar_shakach_thread",
+        "rendering": "One verb pair across the whole psalm: *pamiętać* / *zapomnieć*. In v.7 the keyword is now turned outward in the imperative: \"Pamiętaj, Wiekuisty\" — the same verb the exiles used of themselves in v.1, now demanded of God.",
+        "tradeOff": "We give up the natural Polish variation a translator would normally reach for. Trading variety for §F.3's visible antithesis — the keyword pair has to be heard as a pair.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "The psalm is translated and presented whole, with no truncation of vv.7-9. The HARM footnote at v.9 carries the moral weight, never an interior softening of the line.",
+        "tradeOff": "We accept that the chapter, taken whole, resists liturgical use. The alternative — the Brevarium cut — abandons exactly the wronged exiles this psalm was written for.",
+        "confidence": 5
+      },
+      {
+        "term": "pl_p3_raw_lament_register",
+        "rendering": "PL-P3 raw lament register, Bargielska anchor: \"prosta, twarda polszczyzna\". Zero Wujek / Biblia-Tysiąclecia survivals; one exclamation mark in the whole chapter, at the end of v.7's Edomite shout only.",
+        "tradeOff": "We give up the cathedral cadence the Polish religious ear is conditioned to. The rawness of Ps 137 must not be sentimentalised by Sunday-liturgy register.",
+        "confidence": 5
+      }
+    ],
+    "8": [
+      {
+        "term": "bat_babel_daughter_babylon",
+        "rendering": "\"Córo Babilonu\" — appositional vocative feminine *Córo* + genitive *Babilonu*: the daughter that *is* Babylon, not someone's daughter. The KONTEXT footnote at 137:8 disambiguates explicitly. Carries the gendered personification natively (cf. \"Córa Syjon\", \"Córa Edom\"). §F.2 binding.",
+        "tradeOff": "We give up flattening to \"Babilonie\" (vocative of \"Babilon\"), which would smooth the line but erase one of the load-bearing personifications of the verse. Trading prose-smoothness for the gendered embodiment §F.2 demands.",
+        "confidence": 5
+      },
+      {
+        "term": "hashshedudah_proleptic_passive",
+        "rendering": "\"ty zburzona\" — MT passive participle read proleptically (prophetic certainty): you, already razed. Deictic \"ty\" + bare participle delivers the perfect-aspect doom in two words, no abstraction. The KONTEXT footnote glosses the prophetic-perfect logic.",
+        "tradeOff": "We give up the conjectured active emendation \"pustoszycielka\" (the despoiler) — refused by §A.2. Trading the smoother \"you who plundered us\" reading for MT's harder, more theologically saturated proleptic doom: the city is named as already destroyed.",
+        "confidence": 5
+      },
+      {
+        "term": "yeshallem_odplaci",
+        "rendering": "\"odpłaci\" for *yᵉšallēm* — *lex talionis* sense, repays/pays back. Standard Polish verb for retribution; no theological softening.",
+        "tradeOff": "We give up the *yᵉšallēm* / *yᵉrûšālaim* sound-pun that the Hebrew carries — it cannot cross into Polish (§A.3). Trading aural play for clean semantic fidelity; the pun is a documented loss.",
+        "confidence": 5
+      },
+      {
+        "term": "ashrei_szczesliwy_cold",
+        "rendering": "\"szczęśliwy, kto…\" for *ʾašrê* (vv.8 and 9) — bleak, not benedictory; pitched cold. The wrongness of this word in *this* mouth, applied to *this* act, is the design of v.9. §F.5 binding.",
+        "tradeOff": "We give up \"błogosławiony\" — the cultic blessing register flagged in `LEXICON_PL` §F and explicit in §F.5 — and refuse any warm-benediction reading. Trading liturgical fluency for the §F.5 cold register; \"szczęśliwy\" lets the cruelty land naked, where \"błogosławiony\" would dress it as cult.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "The psalm is translated and presented whole, with no truncation of vv.7-9. The HARM footnote at v.9 carries the moral weight.",
+        "tradeOff": "We accept that the chapter, taken whole, resists liturgical use. The alternative — the Brevarium cut — abandons exactly the wronged exiles this psalm was written for.",
+        "confidence": 5
+      },
+      {
+        "term": "pl_p3_raw_lament_register",
+        "rendering": "PL-P3 raw lament register, Bargielska anchor: \"prosta, twarda polszczyzna\". Zero Wujek / Biblia-Tysiąclecia survivals; *ʾašrê* never \"błogosławiony\".",
+        "tradeOff": "We give up the cathedral cadence the Polish religious ear is conditioned to. The rawness of Ps 137 must not be sentimentalised by Sunday-liturgy register.",
+        "confidence": 5
+      }
+    ],
+    "9": [
+      {
+        "term": "ashrei_szczesliwy_cold",
+        "rendering": "\"Szczęśliwy, kto…\" for *ʾašrê* — repeated from v.8, pitched cold. The wrongness of \"szczęśliwy\" in the mouth speaking the v.9 act is the design. §F.5 binding.",
+        "tradeOff": "We give up \"błogosławiony\" entirely — `LEXICON_PL` §F and §F.5 explicit. Trading liturgical fluency for the cold register; \"szczęśliwy\" lets the cruelty land naked.",
+        "confidence": 5
+      },
+      {
+        "term": "olalayik_niemowleta",
+        "rendering": "\"twoje niemowlęta\" for *ʿōlālayik* — concrete, lexically precise (*ʿōlāl* = nursling). The first of §F.6's three sanctioned options (\"niemowlęta / maleństwa / ssące dzieci\"), the coldest in register and the most stark. Presented at the Stage 5b stop against the tenderer \"maleństwa\"; user declined to override → locked.",
+        "tradeOff": "We give up \"twoje maleństwa\" — the tenderer Polish register that would intensify the horror through tenderness (EN \"little ones\" / DE \"Kinder\" parallel). Also refused: \"lud\" (folk) and \"potomstwo\" (offspring), both abstractions. Trading the warmth that would intensify by contrast for the §F.6 principle *nie łagodzić* — non-softening; the HARM footnote, not the noun, carries the unbearable weight.",
+        "confidence": 4
+      },
+      {
+        "term": "yochez_nippets_imperfective_gnomic",
+        "rendering": "\"chwyta\" / \"roztrzaskuje\" — two visceral verbs in imperfective present (gnomic, the *ʾašrê*-saying form, per §A.1). \"chwyta\" (seizes/grabs) for *yōʾḥēz*; \"roztrzaskuje\" (smashes/dashes to pieces) for *nippēṣ* (\"roztrzaskać o coś\" = smash *against* — hard and exact).",
+        "tradeOff": "We give up perfective renderings that would convert the gnomic saying into a single narrated event. Trading event-specificity for the §A.1 gnomic aspect that makes the *ʾašrê* line a chilling general principle, not a one-off report.",
+        "confidence": 5
+      },
+      {
+        "term": "sala_skala_concrete",
+        "rendering": "\"o skałę\" (accusative after *o* = striking-against; grammar gate Rule 1.1) for *sālaʿ* — concrete rock. No abstraction.",
+        "tradeOff": "We give up any softening to \"kamień\" (stone) or any abstraction. Trading register-options for the concrete §F.6 image; the rock is named exactly.",
+        "confidence": 5
+      },
+      {
+        "term": "v9_terseness_no_padding",
+        "rendering": "Two verbs, two nouns, no padding inside the line. §F.6 binding: framing only in the HARM footnote, never in the verse. The HARM footnote at 137:9 carries the moral weight — historical context (Babylonian/Assyrian practice), theological function (Zenger: surrender of rage as alternative to its enactment), reception history (the 1971 Brevarium cut).",
+        "tradeOff": "We give up any interior commentary that would warn, hedge, or theologically soften the line as it is read. Trading reader-protection for §F.6's non-softening rule — and trusting the HARM footnote to do that work outside the line.",
+        "confidence": 5
+      },
+      {
+        "term": "no_resolution_ending",
+        "rendering": "The psalm ends on v.9 with no resolution — no \"yet I trust\", no return to praise, no internal turn. The LEBEN footnote at 137:9 names this explicitly (\"Psalm kończy się tutaj, na swoim najtwardszym wersie, bez rozwiązania. Żadnego »a jednak ufam«, żadnego powrotu do uwielbienia. Tak ma być.\"). §F.8 binding.",
+        "tradeOff": "We give up the consolation move that would let the chapter close as devotional reading. Trading liturgical usability for §F.8's structural integrity — the psalm's refusal of resolution is what makes it the prayer of the displaced.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "The psalm is translated and presented whole, with no truncation of vv.7-9. The HARM footnote at v.9 carries the moral weight, never an interior softening of the line. Aperto refuses the 1971 Brevarium cut.",
+        "tradeOff": "We accept that the chapter, taken whole, resists liturgical use. The alternative — the Brevarium cut — abandons exactly the wronged exiles this psalm was written for.",
+        "confidence": 5
+      },
+      {
+        "term": "pl_p3_raw_lament_register",
+        "rendering": "PL-P3 raw lament register, Bargielska anchor: \"prosta, twarda polszczyzna\". Zero Wujek / Biblia-Tysiąclecia survivals; *ʾašrê* never \"błogosławiony\".",
+        "tradeOff": "We give up the cathedral cadence the Polish religious ear is conditioned to. The rawness of Ps 137 must not be sentimentalised by Sunday-liturgy register.",
+        "confidence": 5
+      }
+    ]
+  }
+}

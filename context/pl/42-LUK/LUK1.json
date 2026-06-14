@@ -1,0 +1,527 @@
+{
+  "book": "LUK",
+  "chapter": 1,
+  "lang": "AB-PL",
+  "byVerse": {
+    "1": [
+      {
+        "term": "pepleroforemenon",
+        "rendering": "Divine completion, not mere occurrence. Perfect passive = God's agency; doubled verb captures the perfect aspect — 'dokonało się i wypełniło'.",
+        "tradeOff": "none — perfect passive is unambiguous, and the doubled verb adds load but matches the aspect required by the prologue's historiographical register.",
+        "confidence": 5
+      },
+      {
+        "term": "diegesis",
+        "rendering": "Literary term; formal register for PL-Pr1 — 'uporządkowana relacja'.",
+        "tradeOff": "none — the formal register is required by the prologue's historiographical opening and 'uporządkowana relacja' carries it cleanly.",
+        "confidence": 5
+      }
+    ],
+    "2": [
+      {
+        "term": "autoptai",
+        "rendering": "Natural Polish; carries epistemic authority — 'naoczni świadkowie'.",
+        "tradeOff": "none — standard Polish that preserves the technical historiographical sense without specialist diction.",
+        "confidence": 5
+      },
+      {
+        "term": "hyperetai_tou_logou",
+        "rendering": "Servants of the word — formal service language, retains διακονέω-adjacent register — 'sługami tego słowa'.",
+        "tradeOff": "none — formal service register fits PL-Pr1 and keeps the διακονέω-adjacent register audible.",
+        "confidence": 5
+      }
+    ],
+    "3": [
+      {
+        "term": "kratiste",
+        "rendering": "Formal Polish honorific that preserves the official Roman honorific without anachronism — 'dostojny Teofilu'.",
+        "tradeOff": "Rejected 'ekscelencjo' (too contemporary-official) and 'szanowny' (too generic); 'dostojny' is chosen to keep the Roman honorific weight without modernizing it into a current state title.",
+        "confidence": 5
+      },
+      {
+        "term": "akribos",
+        "rendering": "Precision in investigation — 'dokładnie'.",
+        "tradeOff": "none — standard rendering that carries the investigative-precision sense in natural Polish.",
+        "confidence": 5
+      },
+      {
+        "term": "kathexes",
+        "rendering": "Sequential ordering; natural Polish that preserves the methodical sense without academic stiffness — 'po kolei'.",
+        "tradeOff": "Traded academic stiffness ('w porządku', 'sukcesywnie') for natural Polish so the methodical sense lands without sounding like a scholarly treatise.",
+        "confidence": 5
+      }
+    ],
+    "4": [
+      {
+        "term": "asfaleia",
+        "rendering": "Grounded confidence — something to stand on; the literal etymology (a-sfallō, 'not to slip') supports the grounded-footing image — 'pewny grunt'.",
+        "tradeOff": "Rejected 'dowód' (proof) to avoid aggressive certainty that closes questions; Łukasz invites further inquiry rather than issuing a verdict, so the rendering offers footing rather than finality.",
+        "confidence": 5
+      },
+      {
+        "term": "katechethes",
+        "rendering": "Prior formal instruction; root of 'catechesis' — 'czego cię nauczono'.",
+        "tradeOff": "none — natural Polish that carries the formal-instruction sense without importing the technical term 'katecheza' onto the surface.",
+        "confidence": 5
+      }
+    ],
+    "5": [
+      {
+        "term": "egeneto_en_tais_hemerais",
+        "rendering": "Anchored to political reality immediately — Herod's reign as the temporal anchor. The shift from prologue formality to historical narrative is carried by the concrete political naming rather than by Septuagintal phrasing — 'Za panowania Heroda...'.",
+        "tradeOff": "Traded the LXX-formula register ('I stało się w dniach...') for concrete political naming so the register shift from PL-Pr1 to PL-N1 lands as historical anchor, not as biblical calque.",
+        "confidence": 5
+      },
+      {
+        "term": "efemeria_abia",
+        "rendering": "'Zmiana' (shift/course) is natural Polish; footnote for priestly division system — 'zmiana Abiasza'.",
+        "tradeOff": "none — the technical priestly-division term is carried by surface plus footnote rather than by a foreign-sounding loanword.",
+        "confidence": 5
+      }
+    ],
+    "6": [
+      {
+        "term": "dikaioi_amemptoi",
+        "rendering": "Covenantal faithfulness rendered adverbially; ἄμεμπτοι unpacked as a relative clause ('no one could level a charge') — captures the forensic sense — 'sprawiedliwie... nikt nie mógłby im niczego zarzucić'.",
+        "tradeOff": "Traded a tight adjectival rendering for adverbial-plus-relative-clause so the forensic sense of ἄμεμπτοι (no legal charge could be brought) lands without sounding like canon-law jargon.",
+        "confidence": 5
+      }
+    ],
+    "7": [
+      {
+        "term": "steira",
+        "rendering": "'Bezdzietna' rather than medical 'bezpłodna' — social condition, not diagnosis.",
+        "tradeOff": "Rejected 'bezpłodna' to avoid medicalizing what was a public social condition in the 1st-century world; the social-shame load is the actual subject of the verse, not a clinical diagnosis.",
+        "confidence": 5
+      }
+    ],
+    "9": [
+      {
+        "term": "elache",
+        "rendering": "Divine selection through lot — NOT random chance. Two-stage rendering preserves the casting-of-lots ritual and the falling-out as providential — 'wyciągnięto losy – i jemu wypadło'.",
+        "tradeOff": "Rejected a single verb to keep both the ritual act (casting lots) and the providential dimension (the lot fell on him) visible; the dash construction is the cost of preserving both beats.",
+        "confidence": 5
+      },
+      {
+        "term": "thymiasai",
+        "rendering": "Once-in-lifetime honor; 'ofiara z kadzidła' reads naturally and signals the priestly act — 'złożyć ofiarę z kadzidła'.",
+        "tradeOff": "none — natural Polish noun-phrase carries the priestly act and lets the footnote handle the once-in-a-lifetime cultural load.",
+        "confidence": 5
+      }
+    ],
+    "12": [
+      {
+        "term": "fobos_epepesen",
+        "rendering": "VISCERAL — fear seizes him. The footnote keeps the 'falls upon' image accessible to the reader; the surface reads as Polish, not as calque — 'Strach ogarnął Zachariasza'.",
+        "tradeOff": "Traded the literal 'fear fell upon him' calque for natural Polish ('ogarnął'); the falling-upon image is preserved only in the footnote, costing some visual punch but gaining Polish-shaped surface.",
+        "confidence": 5
+      }
+    ],
+    "13": [
+      {
+        "term": "eisekousthe_he_deesis",
+        "rendering": "Divine passive — God heard; the door that seemed permanently closed — 'Twoja modlitwa została wysłuchana'.",
+        "tradeOff": "none — the Polish passive carries the passivum divinum naturally; no register cost.",
+        "confidence": 5
+      }
+    ],
+    "15": [
+      {
+        "term": "oinon_kai_sikera",
+        "rendering": "Nazirite vow echo (Num 6:3); footnote the connection. 'Niczego mocnego' reads as natural Polish, broader than 'mocnego napoju' — 'wina ani niczego mocnego'.",
+        "tradeOff": "Traded the narrower 'mocny napój' (strong drink) for the broader 'niczego mocnego' so the Nazirite intent of full abstinence reads as a wide vow rather than as a single beverage category.",
+        "confidence": 5
+      }
+    ],
+    "17": [
+      {
+        "term": "pneumati_kai_dynamei_eliou",
+        "rendering": "Prophetic continuity; footnote Malachi 3:23-24 — 'w duchu i mocy Eliasza'.",
+        "tradeOff": "none — standard rendering with footnote carrying the Mal 3 link; the prophetic continuity reads cleanly.",
+        "confidence": 5
+      }
+    ],
+    "19": [
+      {
+        "term": "parestekos_enopion_tou_theou",
+        "rendering": "Gabriel's credentials — angelic hierarchy; throne-room language — 'Stoję przed obliczem Boga'.",
+        "tradeOff": "none — the throne-room idiom fits the angelic-credentials register and signals Gabriel's standing without modern flattening.",
+        "confidence": 5
+      }
+    ],
+    "20": [
+      {
+        "term": "siopon_me_dynamenos_lalesai",
+        "rendering": "Discipline, not condemnation. Nine months of embodied silence; future indicative preserves the announced character of the silence — 'będziesz milczał, niezdolny do mówienia'.",
+        "tradeOff": "Traded a punitive register for an announced-discipline register so the silence reads as preparation for what is going to happen, not as raw punishment for asking.",
+        "confidence": 5
+      }
+    ],
+    "26": [
+      {
+        "term": "parthenos",
+        "rendering": "Descriptive, not titular — 'dziewczyny'. The descriptive form lets v.34 carry the explicit confirmation of virginity; the footnote unpacks the rationale.",
+        "tradeOff": "Rejected 'Dziewica' (anachronistic Marian title that pre-loads later dogma); the explicit confirmation of virginity is left to v.34 ('not slept with a man') rather than carried by a titular form on first mention. Cost: some Polish Catholic readers will feel the absence of the familiar title.",
+        "confidence": 4
+      }
+    ],
+    "27": [
+      {
+        "term": "memnesteumenen",
+        "rendering": "Legally binding arrangement; NOT yet married. The inline aside makes the legal weight visible to modern readers — 'zaręczonej'.",
+        "tradeOff": "Traded 'narzeczonej' (which sounds modern-romantic) for 'zaręczonej' plus inline aside that names the legal-marriage-without-cohabitation status; this prevents modern readers from collapsing the situation into Western engagement.",
+        "confidence": 5
+      }
+    ],
+    "28": [
+      {
+        "term": "chaire_kecharitomene",
+        "rendering": "The greeting and the perfect-passive participle are rendered together as God's completed and ongoing act of favor — 'Bóg spojrzał na ciebie z niezwykłą przychylnością. Jest przy tobie.' The focus is on what GOD did and continues to do — not a state of being and not a titular formula.",
+        "tradeOff": "Rejected 'Bądź pozdrowiona' (Tysiąclecia liturgical), 'Zdrowaś' (Ave Maria reflex), and 'pełna łaski' (which imports later Catholic dogma); the rendering trades familiar Polish liturgical cadence for theological precision about the perfect-passive aspect, knowing some readers will miss the Ave Maria echo.",
+        "confidence": 4
+      }
+    ],
+    "29": [
+      {
+        "term": "dietarachthe",
+        "rendering": "VISCERAL — deeply shaken, disturbed. Stronger verb than the one used of Zechariah in v.12 — 'te słowa nią wstrząsnęły'.",
+        "tradeOff": "Rejected 'zaniepokoiła się' (mild worry); the stronger verb is required to mark Maria's reaction as deeper than Zechariah's — what shakes her is the WORDS, not the angel.",
+        "confidence": 5
+      }
+    ],
+    "32": [
+      {
+        "term": "hyios_hypsistou",
+        "rendering": "Christological title; enormous claim in Jewish monotheism — 'Synem Najwyższego'.",
+        "tradeOff": "none — standard divine-transcendence title carried straight through; the theological weight is left intact.",
+        "confidence": 5
+      },
+      {
+        "term": "thronon_dauid_basileusei",
+        "rendering": "Davidic messianic promise; political-theological dynamite. Naming Dawid as ancestor ('ojca') strengthens the dynastic link — 'tron Jego ojca, Dawida... Będzie panował'.",
+        "tradeOff": "Traded a generic 'tron Dawida' for the explicit ancestral framing ('ojca') so the dynastic-promise weight registers; the political dimension is left undampened rather than spiritualized.",
+        "confidence": 5
+      }
+    ],
+    "33": [
+      {
+        "term": "thronon_dauid_basileusei",
+        "rendering": "Davidic messianic promise; political-theological dynamite. Naming Dawid as ancestor ('ojca') strengthens the dynastic link — 'tron Jego ojca, Dawida... Będzie panował'.",
+        "tradeOff": "Traded a generic 'tron Dawida' for the explicit ancestral framing ('ojca') so the dynastic-promise weight registers; the political dimension is left undampened rather than spiritualized.",
+        "confidence": 5
+      }
+    ],
+    "35": [
+      {
+        "term": "episkiasei",
+        "rendering": "Shekinah/tabernacle echo (Ex 40:35); the overshadowing is protective, creative — like the cloud over the tabernacle. The inline aside ('tak, jak obłok kiedyś okrył Namiot Spotkania') makes the OT echo audible — 'osłoni'.",
+        "tradeOff": "Rejected 'zstąpi na ciebie' (too aggressive) and 'okryje cieniem' (which can imply concealment of wrong); the protective/creative overshadowing image is preserved by surface + inline aside rather than by a forceful verb.",
+        "confidence": 5
+      },
+      {
+        "term": "to_gennomenon_hagion",
+        "rendering": "The holy one being born — divine passive. Dashes set 'święte' apart so the holiness is read as predicated, not as the subject's quality — 'to, co się narodzi – święte – będzie nazwane Synem Bożym'.",
+        "tradeOff": "Traded a smoother sentence for dashed predication so 'święte' lands as predication about the child rather than as a passive adjective absorbed by 'narodzi'.",
+        "confidence": 5
+      }
+    ],
+    "38": [
+      {
+        "term": "doule_kyriou",
+        "rendering": "Self-chosen radical availability to God. 'Należę do Pana' preserves the total belonging implied by δούλη while sounding like a real young woman speaking in a specific hour. The footnote retains the 'niewolnica/służebnica' gloss for readers who want the literal weight.",
+        "tradeOff": "Rejected the liturgical 'służebnica Pańska' (which sounds like a prayer-book formula); the rendering trades familiar Polish devotional cadence for the radical-belonging sense voiced in real human speech, with the literal gloss preserved in the footnote.",
+        "confidence": 4
+      },
+      {
+        "term": "genoito_moi",
+        "rendering": "Optative mood = willing consent. Active, courageous YES. The 'jak powiedziałeś' anchors the consent to Gabriel's specific announcement, not to fate in general — 'Niech tak się stanie, jak powiedziałeś'.",
+        "tradeOff": "Traded a generic 'niech mi się stanie' for 'jak powiedziałeś' so the consent is bound to Gabriel's specific announcement and reads as active free assent, not passive fatalism.",
+        "confidence": 5
+      }
+    ],
+    "39": [
+      {
+        "term": "meta_spoudes",
+        "rendering": "Urgency — multi-day journey through Judean hills. 'Spiesznie' is leaner than 'z pośpiechem' and matches the narrative tempo — 'Spiesznie'.",
+        "tradeOff": "Traded 'z pośpiechem' (correct but heavier) for 'spiesznie' so the narrative tempo stays tight and matches the multi-day-journey's urgency at PL-N1 register.",
+        "confidence": 5
+      }
+    ],
+    "41": [
+      {
+        "term": "eskirtesen_to_brephos",
+        "rendering": "PHYSICAL — strong, sudden fetal movement. The footnote preserves the lambs-leaping intensity and the LXX dancing-mountains echo — 'dziecko poruszyło się w niej gwałtownie'.",
+        "tradeOff": "Rejected bare 'poruszyło się' (stirred) as too flat; the visceral 'gwałtownie' carries the leaping-with-joy intensity on the surface, with the LXX dancing-mountains echo in the footnote.",
+        "confidence": 5
+      }
+    ],
+    "42": [
+      {
+        "term": "anefonesen_kraugei_megalei",
+        "rendering": "Prophetic intensity — Elizabeth SHOUTS — 'zawołała donośnym głosem'.",
+        "tradeOff": "Rejected a demure-whisper register ('powiedziała głośno'); the prophetic shout is preserved on the surface so the Spirit-filled outburst lands as prophecy, not as polite remark.",
+        "confidence": 5
+      },
+      {
+        "term": "eulogemene_su_en_gunaixin",
+        "rendering": "Keep 'kobietami' (not archaic 'niewiastami'). Polish readers know this phrase well — let it land — 'Błogosławiona jesteś między kobietami'.",
+        "tradeOff": "Rejected the archaic 'niewiastami' so the familiar Polish phrase lands in contemporary register rather than in Tysiąclecia-liturgical diction; some readers will miss the older cadence.",
+        "confidence": 5
+      }
+    ],
+    "43": [
+      {
+        "term": "meter_tou_kyriou_mou",
+        "rendering": "Christological confession; Theotokos seed. Enormously significant in Polish Catholic culture — 'matka mojego Pana'.",
+        "tradeOff": "none — the Christological title is carried verbatim; the Theotokos resonance is left for the reader to hear without inflation or dampening.",
+        "confidence": 5
+      }
+    ],
+    "45": [
+      {
+        "term": "makaria_he_pisteusasa",
+        "rendering": "Beatitude form, addressed directly to Maria. Implicit contrast with Zechariah's doubt. 'Masz szczęście' delivers the makarism as a real second-person address rather than a third-person formula, while keeping the well-being sense of μακάριος — 'masz szczęście, że uwierzyłaś'.",
+        "tradeOff": "Traded the third-person liturgical 'błogosławiona, która uwierzyła' for direct second-person 'masz szczęście' so the makarism lands as a real address between two women rather than as a creedal formula; some readers will feel the loss of the familiar beatitude cadence.",
+        "confidence": 4
+      }
+    ],
+    "46": [
+      {
+        "term": "megalynei_he_psyche_mou",
+        "rendering": "POETRY, not liturgical formula. PL-P1 Ironic Wisdom — punchy, direct. The doubled 'wszystko' with em-dashes opens with embodied totality rather than the Tysiąclecia liturgical cadence — 'Wszystko we mnie – wszystko! – wielbi Pana'.",
+        "tradeOff": "Rejected the Tysiąclecia liturgical 'Wielbi dusza moja Pana' so the Magnificat opens with embodied totality rather than with the familiar prayer-book cadence; readers familiar with the liturgical form will feel the rupture, which is the intended effect.",
+        "confidence": 4
+      }
+    ],
+    "47": [
+      {
+        "term": "egalliasen_to_pneuma_mou",
+        "rendering": "VISCERAL exultation, not polite happiness. 'Wybucha' carries the explosive sense of ἀγαλλιάω without sounding like ad copy — 'mój duch wybucha radością'.",
+        "tradeOff": "Traded polite 'raduje się' for 'wybucha' so the explosive force of ἀγαλλιάω lands; the risk is that 'wybucha' could read commercially, accepted in this PL-P1 context where the spoken-word register tolerates it.",
+        "confidence": 5
+      }
+    ],
+    "48": [
+      {
+        "term": "tapeinosin_tes_doules",
+        "rendering": "SOCIAL LOCATION, not virtue. Mary is low-status — young, female, peasant, from insignificant Nazareth. The fragmentary repetition ('Mnie – niezauważoną') names exactly what her society saw — 'spojrzał na mnie. Mnie – niezauważoną, nikomu nieznaną'.",
+        "tradeOff": "Rejected reading ταπείνωσις as the virtue of humility ('pokora'); the fragmentary syntax is used to name the social pomijanie that her world actually saw, at the cost of smoother liturgical diction.",
+        "confidence": 5
+      }
+    ],
+    "49": [
+      {
+        "term": "ho_dunatos",
+        "rendering": "God's power — personal, almost name-like. Capital 'T' treats it as a designation rather than a generic adjective — 'Ten Mocny'.",
+        "tradeOff": "Traded a generic adjectival rendering ('Mocny Bóg') for designation-like capitalization so 'Mocny' reads as God's name-quality rather than as a routine epithet.",
+        "confidence": 5
+      }
+    ],
+    "51": [
+      {
+        "term": "kratos_en_brachioni",
+        "rendering": "Physical, embodied — God's arm. The two-fragment rendering ('Pokazał, co umie. Ramieniem.') delivers the warrior gesture with poetic punch rather than narrative smoothness — 'Pokazał, co umie. Ramieniem.'.",
+        "tradeOff": "Rejected a smooth narrative line ('okazał swoją moc ramieniem') for a fragmentary punch that lands the warrior gesture in PL-P1 register; the syntactic break is the cost of the prophetic punch.",
+        "confidence": 5
+      },
+      {
+        "term": "dieskorpisen_hyperephanous",
+        "rendering": "Scattered the arrogant — and the prepositional phrase locates the scattering inside their own scheming, sharpening the irony — 'Rozproszył pyszniących się – w samych ich własnych planach'.",
+        "tradeOff": "Traded a tight 'rozproszył pysznych' for the longer prepositional location ('w samych ich własnych planach') so the irony — the arrogant scattered inside their own schemes — registers; the line is denser but the ironic edge sharpens.",
+        "confidence": 5
+      }
+    ],
+    "52": [
+      {
+        "term": "katheilen_dynastas_apo_thronon",
+        "rendering": "POLITICAL reversal. This is not metaphor — it's prophetic announcement. The compressed dash-form makes it land as a verdict rather than a sentence. Polish historical resonance (partitions, foreign rulers) — 'Władców – z tronów.'.",
+        "tradeOff": "Traded a smooth narrative line for the compressed verdict form; readers expecting prose are forced into prophetic poetry, which is the intended PL-P1 register.",
+        "confidence": 5
+      },
+      {
+        "term": "hypsosen_tapeinous",
+        "rendering": "The lowly raised up; social reversal. Compressed parallel to the previous line — same syntactic mold delivers the inversion — 'Tych z dołu – w górę.'.",
+        "tradeOff": "Traded a tighter Polish phrase for the parallel-mold so the reversal lands as a structured inversion of v.52a; the parallelism is the point, even at the cost of more idiomatic phrasing.",
+        "confidence": 5
+      }
+    ],
+    "53": [
+      {
+        "term": "peinontas_eneplesen_agathon",
+        "rendering": "Hungry FILLED — material, not just spiritual. The fragment preserves the prophetic shorthand — 'Głodnych – do syta.'.",
+        "tradeOff": "Rejected spiritualized 'głodnych nakarmił' for the compressed fragment that preserves the prophetic-shorthand register and refuses to abstract away the material dimension of feeding the hungry.",
+        "confidence": 5
+      },
+      {
+        "term": "ploutountas_exapesteilen_kenous",
+        "rendering": "Rich sent away EMPTY — devastating reversal. The terminal 'Z niczym.' stands alone, doing the emptying it describes — 'Bogatych odprawił. Z niczym.'.",
+        "tradeOff": "Traded a smooth sentence for the terminal isolated 'Z niczym.' so the line performs the emptying it describes; the layout is part of the meaning, costing readability.",
+        "confidence": 5
+      }
+    ],
+    "54": [
+      {
+        "term": "eleos",
+        "rendering": "חֶסֶד — covenant faithfulness; 'miłosierdzie' (mercy) is deeper in Polish than 'litość' (pity) — 'miłosierdzie'.",
+        "tradeOff": "Rejected 'litość' (pity, which sounds condescending in Polish); 'miłosierdzie' carries the covenant-faithfulness weight of חֶסֶד without slipping into condescension.",
+        "confidence": 5
+      }
+    ],
+    "55": [
+      {
+        "term": "to_abraam_eis_ton_aiona",
+        "rendering": "Abrahamic covenant anchor; the promise continues. 'Na zawsze' as a standalone closing line gives the eternal scope a beat of its own — 'Abrahamowi i jego potomstwu. Na zawsze.'.",
+        "tradeOff": "Traded smooth syntactic continuity for the standalone closing line so the εἰς τὸν αἰῶνα gets its own poetic beat as the hymn closes.",
+        "confidence": 5
+      }
+    ],
+    "58": [
+      {
+        "term": "emegalynen_kyrios_to_eleos",
+        "rendering": "God's mercy made visible, public. 'Obszedł się... hojnie' personalizes the public act around Elizabeth; the footnote preserves the μεγαλύνω echo with the Magnificat — 'Pan obszedł się z nią tak hojnie'.",
+        "tradeOff": "Traded the literal 'okazał wielkie miłosierdzie' for 'obszedł się hojnie' which personalizes the act around Elizabeth; the verbal echo with the Magnificat μεγαλύνω moves to the footnote, costing intratextual signal.",
+        "confidence": 4
+      }
+    ],
+    "59": [
+      {
+        "term": "peritemein",
+        "rendering": "Standard; footnote covenant sign + naming custom — 'obrzezaniu'.",
+        "tradeOff": "none — standard rendering with footnote carrying the cultural-religious load; the Jewish-practice presentation stays respectful per the sensitivity note.",
+        "confidence": 5
+      }
+    ],
+    "60": [
+      {
+        "term": "ouchi_alla_klethesetai_ioannes",
+        "rendering": "Elizabeth's defiance — breaking naming convention. The terminal period after 'Nie' is emphatic in its restraint: a flat refusal, not a shout — 'Nie. Będzie nazywał się Jan.'.",
+        "tradeOff": "Traded a smoother 'Nie, lecz...' construction for the terminal period so the refusal lands as restrained defiance rather than as a complete sentence with subordinate clause.",
+        "confidence": 5
+      }
+    ],
+    "63": [
+      {
+        "term": "ioannes_estin_onoma_autou",
+        "rendering": "Present-tense declaration — this IS his name, not a proposal. 'Ma na imię' is the natural Polish present-tense possessive of a name, capturing the assertive force of ἐστίν — 'Jan ma na imię'.",
+        "tradeOff": "Rejected 'będzie nazywał się' or 'ma się nazywać' (future/intentional) for present-tense possessive so the assertive force of ἐστίν lands — the name already IS, it is not being proposed.",
+        "confidence": 5
+      }
+    ],
+    "64": [
+      {
+        "term": "aneochthe_to_stoma",
+        "rendering": "Nine months of silence broken — first words are BLESSING. The doubled clause ('odzyskał mowę. Mówił.') makes the recovery and the immediate act of speaking land separately — 'odzyskał mowę. Mówił.'.",
+        "tradeOff": "Traded a single verb ('zaczął mówić') for the doubled clause so the recovery and the immediate act of speaking are felt as two separate beats; the syntactic redundancy is the cost.",
+        "confidence": 5
+      }
+    ],
+    "66": [
+      {
+        "term": "cheir_kyriou",
+        "rendering": "The surface renders the idiom's force ('the LORD was with him') in clean Polish; the footnote preserves the literal 'ręka Pana' idiom and its OT background — 'Bo Pan był z nim'.",
+        "tradeOff": "Traded the literal 'ręka Pana' idiom on the surface for clean Polish; the Hebrew idiom is preserved in the footnote, stripping ambiguity at the surface while keeping the OT flavor accessible to readers who want it.",
+        "confidence": 5
+      }
+    ],
+    "68": [
+      {
+        "term": "eulogetos_kyrios_ho_theos_tou_israel",
+        "rendering": "Berakah opening; Jewish liturgical form. Polish readers know this from Morning Prayer/Lauds — 'Błogosławiony Pan, Bóg Izraela'.",
+        "tradeOff": "none — the berakah form is the obvious choice and is recognizable to Polish readers from Lauds, where Benedictus is sung daily.",
+        "confidence": 5
+      },
+      {
+        "term": "epeskepsato",
+        "rendering": "God actively comes to his people — the Hebrew פָּקַד carries intervention, not casual visit. The surface renders the active-coming dimension directly; the footnote keeps the 'nawiedził' reading available for readers familiar with the older diction — 'przyszedł do swego ludu'.",
+        "tradeOff": "Traded the traditional 'nawiedził' (visited) for active-coming 'przyszedł do swego ludu' so the intervention sense of פָּקַד lands; the older liturgical diction is preserved in the footnote, costing some readers their familiar phrase.",
+        "confidence": 4
+      },
+      {
+        "term": "lytrosis",
+        "rendering": "Exodus redemption language; ransom/release rendered as the verb of God's action — 'wykupił'.",
+        "tradeOff": "Traded a noun ('odkupienie') for the verb 'wykupił' so the action lands as a completed deed rather than as an abstract category; the Exodus-political weight stays intact.",
+        "confidence": 5
+      }
+    ],
+    "69": [
+      {
+        "term": "keras_soterias",
+        "rendering": "'Potężnego wybawcę' delivers the strength-and-deliverance sense for modern readers without the bull's-horn image stalling them; the footnote preserves the OT idiom and its political weight — 'potężnego wybawcę'.",
+        "tradeOff": "Traded the OT 'róg zbawienia' idiom on the surface so the strength-and-deliverance sense reaches modern readers; the bull's-horn image and its political-resistance load are preserved in the footnote, at the cost of OT-imagery on the page.",
+        "confidence": 4
+      }
+    ],
+    "71": [
+      {
+        "term": "soterian_ex_echthron",
+        "rendering": "Political + spiritual deliverance; don't spiritualize away. 'Ratunek' is concrete, physical — 'Ratunek od naszych wrogów'.",
+        "tradeOff": "Rejected liturgical 'wybawienie' or spiritualized 'zbawienie'; 'ratunek' keeps the political-physical edge that Zechariasz actually means and refuses to abstract away the deliverance from real enemies.",
+        "confidence": 5
+      }
+    ],
+    "72": [
+      {
+        "term": "eleos",
+        "rendering": "Covenant faithfulness (חֶסֶד) — 'miłosierdzie'.",
+        "tradeOff": "Rejected 'litość' (pity); 'miłosierdzie' carries חֶסֶד at PL-P1 register and matches the v.54 rendering for intra-chapter consistency.",
+        "confidence": 5
+      }
+    ],
+    "76": [
+      {
+        "term": "prophetes_hypsistou",
+        "rendering": "John's prophetic vocation; Zechariah now speaks what he was silenced for doubting — 'prorokiem Najwyższego'.",
+        "tradeOff": "none — standard rendering; the irony of Zechariah's restored speech declaring his son a prophet is left for the reader to perceive.",
+        "confidence": 5
+      }
+    ],
+    "78": [
+      {
+        "term": "splanchna_eleous",
+        "rendering": "VISCERAL — literally 'bowels of mercy.' 'Czułość' (tenderness) lands the affective, gut-level dimension of σπλάγχνα without anatomy; 'z głębi' preserves the depth. The footnote restores the literal viscera for readers who want them — 'Z głębi czułości naszego Boga'.",
+        "tradeOff": "Traded the literal viscera ('wnętrzności miłosierdzia') for 'z głębi czułości' so the affective gut-level dimension lands in modern Polish without anatomical reading; the literal idiom is preserved in the footnote, costing surface-level shock.",
+        "confidence": 4
+      },
+      {
+        "term": "anatole_ex_hypsous",
+        "rendering": "Messianic title; solar + branch imagery (Jer 23:5 LXX). 'Świt' (dawn/sunrise) preserves the light imagery; the capital 'Ś' signals the messianic title and lets the double load (sunrise + Davidic branch) read as one image — 'Świt z wysoka'.",
+        "tradeOff": "Traded a more explicit 'Latorośl' (branch) reading for 'Świt' so the dawn-light imagery lands; the Davidic-branch load rides on the capital 'Ś' and the footnote, at the cost of explicit branch metaphor on the surface.",
+        "confidence": 4
+      }
+    ],
+    "79": [
+      {
+        "term": "skotei_kai_skiai_thanatou",
+        "rendering": "Psalm 23:4 echo — preserve connection. Standard Polish phrase, well-known — 'w ciemności i w cieniu śmierci'.",
+        "tradeOff": "none — preserving the well-known Polish phrasing keeps the Ps 23 echo audible without modification; the familiarity is the asset.",
+        "confidence": 5
+      },
+      {
+        "term": "hodon_eirenes",
+        "rendering": "שָׁלוֹם — comprehensive well-being, not just absence of conflict. The hymn's destination: peace. Final isolated 'Pokoju.' stands alone as the closing beat — 'drogę pokoju'.",
+        "tradeOff": "Traded a smooth syntactic closure for the standalone 'Pokoju.' line so the hymn's destination lands as a stand-alone beat; the comprehensive shalom sense rides on the simple Polish word rather than on a longer gloss.",
+        "confidence": 5
+      }
+    ],
+    "80": [
+      {
+        "term": "euxane_kai_ekrataiouto_pneumati",
+        "rendering": "Continuous growth (imperfect); divine strengthening rendered as the gradual gaining of 'moc ducha' rather than passive 'umacniał się' — more concrete — 'rosło i nabierało mocy ducha'.",
+        "tradeOff": "Traded the passive 'umacniał się' for the active 'nabierało mocy ducha' so the imperfect-progressive growth reads as concrete becoming rather than as abstract strengthening.",
+        "confidence": 5
+      },
+      {
+        "term": "en_tais_eremois",
+        "rendering": "Plural 'wilderness places' — John moved around. The plural 'pustkowiach' captures the wandering across wildernesses, not a single Sahara — 'na pustkowiach'.",
+        "tradeOff": "Rejected 'na pustyni' (singular desert evoking Sahara) for the plural 'pustkowiach' so the wandering across wilderness places lands rather than a single iconic desert.",
+        "confidence": 5
+      },
+      {
+        "term": "anadeixis",
+        "rendering": "Formal commissioning; the public appearance to Israel. Verb form ('ukazał się') delivers the active beginning of ministry — 'ukazał się Izraelowi'.",
+        "tradeOff": "Traded a nominal 'ukazanie się' or 'objawienie' for the verb form so the active inception of public ministry lands rather than a static event noun.",
+        "confidence": 5
+      }
+    ]
+  }
+}

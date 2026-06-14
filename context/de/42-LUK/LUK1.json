@@ -1,0 +1,475 @@
+{
+  "book": "LUK",
+  "chapter": 1,
+  "lang": "AB-DE",
+  "byVerse": {
+    "1": [
+      {
+        "term": "ἐπεχείρησαν",
+        "rendering": "Rendered as 'Schon viele vor mir haben es unternommen', with 'unternommen' carrying formal/literary weight and 'vor mir' explicitly placing Luke in the line of his predecessors rather than dismissing them.",
+        "tradeOff": "Traded the more tentative 'versucht' (which would have read as faint dismissal) and the bare verb without 'vor mir' (which would have left Luke standing outside the chain). 'Vor mir' is an interpretive add, not in the Greek, but it locks in Luke's stance as continuation rather than correction.",
+        "confidence": 5
+      },
+      {
+        "term": "periodic_period",
+        "rendering": "Verses 1–3 are kept as one subordinated periodic sentence in the German, honouring the single Greek period of the prologue: relative clause for the eyewitnesses, parenthetical for Luke's own method, main verb 'mich entschlossen' carrying the whole arc.",
+        "tradeOff": "Traded the easier-to-scan chopped sentences a modern reader would prefer for the perceptible register of antique historiography. Readers who skim will feel the friction; readers who read aloud will feel why it has to be one breath.",
+        "confidence": 5
+      }
+    ],
+    "2": [
+      {
+        "term": "αὐτόπται",
+        "rendering": "'Augenzeugen' — the legal-historiographical term, kept verbatim because no German alternative carries the same forensic weight.",
+        "tradeOff": "none — softer alternatives ('die dabei waren', 'die es gesehen haben') would have leaked the historiographical claim.",
+        "confidence": 5
+      },
+      {
+        "term": "παρέδοσαν",
+        "rendering": "'überliefert haben' — transmission-chain language, not narrative storytelling.",
+        "tradeOff": "Traded the warmer 'erzählt haben' for the technical 'überliefern'. Modern readers without a churchy ear may hear it as bureaucratic; the alternative would have flattened the chain-of-custody claim Luke is making.",
+        "confidence": 5
+      },
+      {
+        "term": "hyperetai_tou_logou",
+        "rendering": "'das Wort weitergegeben haben' — verbal handing-on of the word, dissolving the compound noun into an active clause.",
+        "tradeOff": "Traded the literal 'Diener des Wortes' (a compact compound that survives in liturgical German) for a verb phrase that reads more naturally but loses the noun-as-title feel.",
+        "confidence": 4
+      },
+      {
+        "term": "periodic_period",
+        "rendering": "Verse 2 sits inside the single prologue period as the relative clause describing the eyewitness chain.",
+        "tradeOff": "Same trade as v.1: harder modern scan in exchange for honouring Luke's single Greek breath.",
+        "confidence": 5
+      }
+    ],
+    "3": [
+      {
+        "term": "κράτιστε",
+        "rendering": "The honorific is dropped from the main text — Theophilus is addressed by name alone, and the κράτιστε weight (Roman dignitary, parallel to Paul before Felix and Festus) is carried entirely by the footnote.",
+        "tradeOff": "Traded the explicit social signal ('hochverehrter Theophilus') in the surface text for a cleaner address. Readers who never read the footnote miss the standing; readers who do get it fully. The judgement is that keeping the honorific in-line would read as Sunday-pulpit pomp to a secular reader, while the footnote lands historically.",
+        "confidence": 4
+      },
+      {
+        "term": "parekoloutheekoti_anothen_pasin_akribos",
+        "rendering": "'allem von Anfang an sorgfältig nachgegangen war' — preserves the active, investigative claim ('sorgfältig nachgegangen' = traced down, not merely 'studied').",
+        "tradeOff": "Traded the more compact 'allem genau erforscht hatte' for a phrase that lets each piece of the method claim land: ἄνωθεν (von Anfang an), πᾶσιν (allem), ἀκριβῶς (sorgfältig), παρηκολουθηκότι (nachgegangen).",
+        "confidence": 5
+      },
+      {
+        "term": "periodic_period",
+        "rendering": "Verse 3 closes the long subordinated period with 'mich entschlossen, dir, Theophilus, das Ganze in geordneter Folge aufzuschreiben'.",
+        "tradeOff": "Same trade as vv.1–2.",
+        "confidence": 5
+      }
+    ],
+    "4": [
+      {
+        "term": "ἀσφάλεια",
+        "rendering": "'steht auf festem Grund' — grounded stability you can build on and walk from, not cognitive certainty. The image is of standing, not of having proved.",
+        "tradeOff": "Traded the traditional 'Gewissheit' / 'Beweis' (which read as a closed cognitive case) for an image of ground. Modern readers raised on 'evidence' may feel something is missing; the judgement is that ἀσφάλεια is a stability word (cf. σφάλλομαι, to stumble), not an epistemic one, and the German has to enact that.",
+        "confidence": 5
+      },
+      {
+        "term": "concluding_beat_v4",
+        "rendering": "Verse 4 is broken out of the periodic period and lands as its own concluding beat ('So sollst du erkennen: Was man dir erzählt hat, steht auf festem Grund'), so that 'steht auf festem Grund' is the last image readers carry into the rest of the book.",
+        "tradeOff": "Traded the unbroken single-period flow of the Greek (which keeps v.4 inside one breath) for a structural pause that gives the ἀσφάλεια its weight. Greek-purist readers lose the period; everyone else gains the landing.",
+        "confidence": 5
+      }
+    ],
+    "5": [
+      {
+        "term": "egeneto_en_tais_hemerais",
+        "rendering": "Rendered 'Zur Zeit, als Herodes \\add im Auftrag Roms\\add* König von Judäa war' — political-historical anchor with the Rome qualifier inserted in \\add to locate Herod under Rome for a modern reader.",
+        "tradeOff": "Traded the Septuagintal echo of 'Es geschah in den Tagen' (which would have signalled biblical genre to a churchy ear) for a concrete political frame. Readers familiar with the LXX cadence lose that resonance; readers without it get a date.",
+        "confidence": 4
+      }
+    ],
+    "7": [
+      {
+        "term": "στεῖρα",
+        "rendering": "Plain childlessness — 'kein Kind … Elisabet war kinderlos geblieben' — with the social devastation woven in via \\add ('Kinderlosigkeit – das war in ihrer Welt kein privates Unglück. Es war Schande.').",
+        "tradeOff": "Traded the clinical 'unfruchtbar' (which reads medical, almost diagnostic) for plain childlessness plus an explicit \\add that surfaces the honor-shame dimension the original audience heard automatically. The risk is over-explaining; the alternative was letting modern readers miss the entire social wound the verse turns on.",
+        "confidence": 5
+      }
+    ],
+    "9": [
+      {
+        "term": "ἔλαχε",
+        "rendering": "'Das Los fiel auf ihn' — keeps the divine-selection weight that ἔλαχε carries in cultic context; the \\add expands the once-in-a-lifetime stakes.",
+        "tradeOff": "Traded a colloquial 'er wurde ausgelost' (which would have sounded like a raffle) for the older biblical idiom. The German 'Los fiel' still works in everyday speech; the cost is small.",
+        "confidence": 5
+      }
+    ],
+    "12": [
+      {
+        "term": "φόβος_ἐπέπεσεν",
+        "rendering": "'Zacharias erschrak, als er ihn sah' — surface verb is the ordinary German shock verb. The visceral 'Furcht fiel auf ihn' reading (object falling from outside/above) is held in the TEXT footnote.",
+        "tradeOff": "Traded the visceral force of the Greek (a physical 'falling' of fear) in the surface text for narrative naturalness. The judgement is that 'Furcht fiel über ihn' would read as Luther-period archaism to a secular reader; pushing the heavy reading into the footnote keeps the line readable while preserving the lexical claim for anyone who looks.",
+        "confidence": 4
+      }
+    ],
+    "19": [
+      {
+        "term": "παρεστηκώς",
+        "rendering": "'einer, der Gott unmittelbar gegenübersteht' — woven recognition of Gabriel's Daniel-background, reading as confidence rather than throne-room cliché.",
+        "tradeOff": "Traded the more literal 'der vor Gott steht' (which a churchy ear hears, but a secular ear reads as kitsch/protocol) for an interpretive expansion. Loses concision; gains the Daniel echo without forcing footnote-dependence.",
+        "confidence": 4
+      }
+    ],
+    "25": [
+      {
+        "term": "ὀνειδισμόν",
+        "rendering": "'meine Schande' — social, public shame, not private embarrassment.",
+        "tradeOff": "Traded the softer 'meine Verlegenheit' or 'mein Vorwurf' for the harder 'Schande'. The harder word is the cost of honouring an honor-shame culture in German, where 'Schande' carries weight a secular reader may flinch at.",
+        "confidence": 5
+      }
+    ],
+    "27": [
+      {
+        "term": "ἐμνηστευμένην",
+        "rendering": "'verlobt' on the surface; the legal weight (rechtlich bereits Josefs Frau, lived still at her parents') is carried by the \\add line immediately following.",
+        "tradeOff": "Traded the option to overload 'verlobt' with explanatory adjectives for a clean noun plus an honest \\add explanation. Readers who skip the \\add will read 'engagement' in a modern sense and miss the legal binding; readers who read it understand the social risk the next verses turn on.",
+        "confidence": 5
+      }
+    ],
+    "28": [
+      {
+        "term": "κεχαριτωμένη",
+        "rendering": "Rendered in two short sentences: 'Gott hat dich gewählt. Gott ist mit dir.' — the act of being chosen first, then the abiding presence. The perfect-passive aspect (already chosen, effect continuing) is carried in the TEXT footnote.",
+        "tradeOff": "Rejected Option A 'du Begnadete' (preserves passive but reads ecclesial), rejected the traditional 'voll der Gnade' / 'Gnadenreiche' (Marian title, fifteen centuries of Mariological development the verse itself doesn't carry), and rejected 'Hochbegünstigte' (collapses the perfect into a one-off favor). The cost of the two-sentence rendering is concision; the gain is that neither Catholic nor evangelical reflex closes the verse before it lands.",
+        "confidence": 4
+      }
+    ],
+    "29": [
+      {
+        "term": "διεταράχθη",
+        "rendering": "'Diese Worte erschreckten sie' on the surface, with the διά-intensification (stronger than Zechariah's ἐταράχθη in v.12) carried in the TEXT footnote.",
+        "tradeOff": "Same trade as v.12: traded surface visceral force ('sie wurde durch und durch erschüttert') for narrative naturalness. The footnote preserves the comparative ranking — Mary's shock is one step deeper than Zechariah's — for anyone who reads it.",
+        "confidence": 4
+      }
+    ],
+    "35": [
+      {
+        "term": "ἐπισκιάσει",
+        "rendering": "'wird dich umhüllen, \\add so wie einst die Wolke das Heiligtum erfüllte\\add*' — Mary set parallel to the tabernacle via an explicit \\add that surfaces the Shekinah / Ex 40:35 echo.",
+        "tradeOff": "Traded a more literal 'überschatten' (which a secular ear hears as ominous, not as cultic) plus the cost of carrying the tabernacle echo purely in a footnote, for an in-text \\add that lets the parallel land in reading. The verbosity is the price.",
+        "confidence": 5
+      }
+    ],
+    "38": [
+      {
+        "term": "δούλη_κυρίου",
+        "rendering": "'Ich gehöre Gott' — freely chosen belonging, in Mary's own voice. The variant uses 'Gott' rather than 'dem Herrn' (the divine-names rule kicks in: first-person speech of Mary/Zechariah uses 'Gott', not 'der Herr'), so that the address stays direct and personal.",
+        "tradeOff": "Rejected Luther's 'Magd des Herrn' (carries servile patina, fifteen centuries of Marian-hymn weight) and the middle path 'seine Dienerin' (still reads hierarchical). The cost is losing the servant/δούλη register entirely — there's no slave language left on the surface; the gain is Mary's self-chosen identity standing out as the act it is in the Greek.",
+        "confidence": 4
+      },
+      {
+        "term": "genoito_moi",
+        "rendering": "'Dann soll geschehen, was du sagst' — active resolute consent, reading the optative as Mary speaking the event toward herself, not passive submission.",
+        "tradeOff": "Traded the traditional 'Mir geschehe, wie du gesagt hast' (preserves the optative shape but reads passive to a modern German ear) for a phrasing that surfaces Mary's willing as active. The cost is losing the liturgical familiarity of the older line; the gain is that 'soll geschehen' carries a chosen quality the optative actually has.",
+        "confidence": 5
+      }
+    ],
+    "39": [
+      {
+        "term": "meta_spoudes",
+        "rendering": "'eilig' — urgency without dramatization.",
+        "tradeOff": "none — 'in großer Eile' would have overplayed; 'schnell' would have underplayed. 'Eilig' is the right register.",
+        "confidence": 5
+      }
+    ],
+    "41": [
+      {
+        "term": "ἐσκίρτησεν",
+        "rendering": "'hüpfte das Kind in ihrem Leib auf' — physical, unmistakable, with the Ps 114 dance-verb resonance ('die Berge hüpften wie Widder').",
+        "tradeOff": "Rejected 'bewegte sich' (flat, fetal-movement chart language) and 'zappelte' (random thrashing). The cost of 'hüpfte auf' is that it sounds almost childlike in German; the gain is that the joy-reaction is unmistakable and the LXX dance-verb resonance survives.",
+        "confidence": 5
+      }
+    ],
+    "42": [
+      {
+        "term": "kraugē_megalē",
+        "rendering": "'da brach es aus ihr heraus, mit lauter Stimme' — the eruption sits inside the verb 'brach … heraus', not in an added adjective.",
+        "tradeOff": "Traded 'rief mit lauter Stimme' (the standard, which reads as a controlled announcement) for the heavier 'brach … heraus' with its prophetic-rupture overtones. The cost is a slight loss of narrative cool; the gain is that the prophetic speech mode is enacted, not merely labelled.",
+        "confidence": 5
+      }
+    ],
+    "43": [
+      {
+        "term": "meter_tou_kyriou_mou",
+        "rendering": "'die Mutter meines Herrn' — preserved verbatim because the christological weight (first Lukan use of κύριος in a messianic, not divine-Israel sense) needs to land.",
+        "tradeOff": "none — any softening ('meines Meisters', 'des Herrn') would have either trivialized or duplicated the divine-Israel sense of vv.6–28. The footnote carries the 2 Sam 6:9 / ark-of-the-covenant echo.",
+        "confidence": 5
+      }
+    ],
+    "46": [
+      {
+        "term": "μεγαλύνει",
+        "rendering": "'feiert' in the present tense, as part of the opening 'Alles in mir – alles! – feiert Gott' — the smaller voice making big the One who is sowieso big.",
+        "tradeOff": "Traded the literal 'macht groß' (which the Latin 'Magnificat' actually preserves) for a verb the German naturally hears as ongoing celebration. The cost is losing the 'enlarging' image and the resonance with the liturgical Latin title; the gain is that the line reads as song, not as a literal transcription.",
+        "confidence": 5
+      },
+      {
+        "term": "magnificat_short_lines",
+        "rendering": "DE-P1 style: short declarative lines, hard verbs, proclamation rather than hymn. The opening enacts this with 'Alles in mir – alles! – feiert Gott. Mein Geist jubelt. Gott, mein Retter.' — three beats, each its own breath.",
+        "tradeOff": "Traded the long, subordinated, hymnic line of the Einheitsübersetzung tradition ('Meine Seele preist die Größe des Herrn, und mein Geist jubelt über Gott, meinen Retter') for a proclamation style that risks reading staccato to readers used to the older cadence. The judgement is that the Magnificat is slam, not hymn; the smoothness of the EÜ line muffles that.",
+        "confidence": 5
+      }
+    ],
+    "47": [
+      {
+        "term": "ἠγαλλίασεν",
+        "rendering": "'jubelt' in the present — the German present captures the gnomic/declarative quality, and 'Gott, mein Retter' stands as its own apposed beat.",
+        "tradeOff": "Traded the past 'jubelte' (which would have flattened the present-tense character voice) and the long subordinated 'jubelt über Gott, meinen Retter' (which would have re-hymnified the line) for a clipped declarative.",
+        "confidence": 5
+      },
+      {
+        "term": "magnificat_short_lines",
+        "rendering": "Continues the DE-P1 proclamation style with 'Mein Geist jubelt. Gott, mein Retter.' — clause break before the apposition.",
+        "tradeOff": "Same as v.46.",
+        "confidence": 5
+      }
+    ],
+    "48": [
+      {
+        "term": "ταπείνωσιν",
+        "rendering": "'die Kleine' inside the three-clause beat 'Er hat mich angesehen. Mich. Die Kleine.' — social location, not moral virtue. The three short clauses enact the smallness.",
+        "tradeOff": "Rejected 'die Niedrigkeit seiner Magd' (the liturgical line, which a Sunday-attending German reader hears as 'her humility', her virtue — a sense the Greek does not have here). Traded the Marian-Demut reading for sociological honesty; the cost is that some pious readers will feel something has been removed.",
+        "confidence": 5
+      },
+      {
+        "term": "magnificat_short_lines",
+        "rendering": "The three-clause beat ('Er hat mich angesehen. Mich. Die Kleine.') is the clearest in-text demonstration of the DE-P1 style.",
+        "tradeOff": "Same as v.46. Here the cost is borne fully: this is the line where readers most miss the smoother liturgical version.",
+        "confidence": 5
+      }
+    ],
+    "49": [
+      {
+        "term": "magnificat_short_lines",
+        "rendering": "DE-P1 short-line proclamation: 'der Mächtige hat Großes an mir getan. // Sein Name: heilig.' — colon break enacts the proclamation.",
+        "tradeOff": "Same as v.46.",
+        "confidence": 5
+      }
+    ],
+    "50": [
+      {
+        "term": "magnificat_short_lines",
+        "rendering": "DE-P1 short-line proclamation continues with 'Sein Erbarmen gilt – von Generation zu Generation. // Für alle, die ihn fürchten.' — the 'Für alle, die ihn fürchten' lands as its own beat.",
+        "tradeOff": "Same as v.46.",
+        "confidence": 5
+      }
+    ],
+    "51": [
+      {
+        "term": "ὑπερηφάνους",
+        "rendering": "'die Stolzen' — clear modern German with sharp edge: 'Die Stolzen? Er zerstreut sie samt all ihren Plänen.'",
+        "tradeOff": "Traded the more old-fashioned 'die Hoffärtigen' (which would have been more LXX-accurate but read archaic) for 'die Stolzen', which a modern reader recognizes as a political category, not merely a personal vice.",
+        "confidence": 5
+      },
+      {
+        "term": "διεσκόρπισεν",
+        "rendering": "'zerstreut' in the present tense, treated as gnomic aorist — God's characteristic action, not a past episode.",
+        "tradeOff": "Covered by the gnomic_aorist trigger below.",
+        "confidence": 5
+      },
+      {
+        "term": "gnomic_aorist_present_tense",
+        "rendering": "Verses 51–53 read the aorists as gnomic: present-tense proclamation of what God ALWAYS does ('Er zeigt seine Stärke … zerstreut sie … stürzt … hebt … füllt … schickt fort').",
+        "tradeOff": "Rejected the traditional past tense (Option B: 'er hat zerstreut') — which a German reader hears as 'this happened once', closing the verse off from present implication. Rejected the noun-verb fragment middle path (Option C). The cost of the present is that it sounds bolder, more political, less safely historical; the gain is that the gnomic force of the Greek aorist actually lands.",
+        "confidence": 4
+      },
+      {
+        "term": "magnificat_short_lines",
+        "rendering": "DE-P1 continues with 'Er zeigt seine Stärke, mit seinem Arm. // Die Stolzen? Er zerstreut sie samt all ihren Plänen.' — the rhetorical question 'Die Stolzen?' belongs to slam, not hymn.",
+        "tradeOff": "Same as v.46.",
+        "confidence": 5
+      }
+    ],
+    "52": [
+      {
+        "term": "καθεῖλεν",
+        "rendering": "'stürzt vom Thron' — present tense, gnomic. 'Herrscher stürzt er vom Thron. Die Kleinen hebt er hoch.'",
+        "tradeOff": "Covered by the gnomic_aorist trigger below.",
+        "confidence": 5
+      },
+      {
+        "term": "gnomic_aorist_present_tense",
+        "rendering": "Same gnomic-present reading applied to καθεῖλεν / ὕψωσεν.",
+        "tradeOff": "Same as v.51.",
+        "confidence": 4
+      },
+      {
+        "term": "magnificat_short_lines",
+        "rendering": "Two short antitheses: 'Herrscher stürzt er vom Thron. // Die Kleinen hebt er hoch.'",
+        "tradeOff": "Same as v.46.",
+        "confidence": 5
+      }
+    ],
+    "53": [
+      {
+        "term": "πεινῶντας",
+        "rendering": "'die Hungrigen' — kept literal, NOT spiritualized to 'die geistlich Hungrigen' or 'die nach Gott Hungernden'.",
+        "tradeOff": "Traded the pious spiritualization (which would have made the verse safe for affluent congregations) for the literal social category. The cost is that the line now reads politically; the gain is honesty to Mary's social location.",
+        "confidence": 5
+      },
+      {
+        "term": "πλουτοῦντας",
+        "rendering": "'die Reichen' — no softening, no 'die Selbstzufriedenen', no 'die Sattgewordenen'. 'Die Reichen schickt er fort. Leer.'",
+        "tradeOff": "Traded the softer paraphrase that would have spared comfortable readers for the direct word. The 'Leer.' standalone is the cost-bearing punch.",
+        "confidence": 5
+      },
+      {
+        "term": "gnomic_aorist_present_tense",
+        "rendering": "ἐνέπλησεν / ἐξαπέστειλεν as present: 'füllt' / 'schickt fort'.",
+        "tradeOff": "Same as v.51.",
+        "confidence": 4
+      },
+      {
+        "term": "magnificat_short_lines",
+        "rendering": "DE-P1 with the closing 'Leer.' as the hardest single-word beat of the whole song.",
+        "tradeOff": "Same as v.46.",
+        "confidence": 5
+      }
+    ],
+    "54": [
+      {
+        "term": "magnificat_short_lines",
+        "rendering": "DE-P1 closure begins: 'Er hat sich seines Dieners Israel angenommen, // hat sein Erbarmen nicht vergessen –' carried as short paired lines.",
+        "tradeOff": "Same as v.46.",
+        "confidence": 5
+      }
+    ],
+    "55": [
+      {
+        "term": "sperma_eis_ton_aiona",
+        "rendering": "'wie er es unseren Vätern versprochen hat: Abraham und seinen Nachkommen. Für immer.' — 'Für immer.' lands last as its own sentence, the covenant closing-beat.",
+        "tradeOff": "Traded the continuous flow of 'Abraham und seinen Nachkommen für immer' (one breath, smoother) for a hard stop that gives 'Für immer.' its own weight. The cost is a slight grammatical jolt; the gain is that the covenant promise is the last word readers carry out of the Magnificat.",
+        "confidence": 5
+      },
+      {
+        "term": "magnificat_short_lines",
+        "rendering": "DE-P1 closure: the hard final beat 'Für immer.' is the clearest demonstration of why the proclamation style was chosen.",
+        "tradeOff": "Same as v.46.",
+        "confidence": 5
+      }
+    ],
+    "59": [
+      {
+        "term": "ogdoe_hemera",
+        "rendering": "'Am achten Tag' — kept literal; the \\add line surfaces the naming-and-circumcision-day combination for readers who don't carry the Jewish calendar.",
+        "tradeOff": "none — paraphrase would have either over-explained ('eine Woche nach der Geburt') or under-explained.",
+        "confidence": 5
+      }
+    ],
+    "60": [
+      {
+        "term": "ioannes_naming",
+        "rendering": "'Nein. Er soll Johannes heißen.' — Elizabeth's firmness rendered as a refusal-clause plus the declarative 'soll', which in German carries the not-negotiable note.",
+        "tradeOff": "Traded the smoother 'Er soll Johannes heißen' (which lets the firmness sit politely) for an explicit 'Nein.' that enacts her opposition to the family chorus. The cost is a slightly harder Elizabeth than the German liturgical tradition usually paints; the gain is that her insistence is felt, not merely reported.",
+        "confidence": 5
+      }
+    ],
+    "63": [
+      {
+        "term": "estin_naming",
+        "rendering": "'Johannes ist sein Name.' — present tense: Zechariah is declaring, not deciding.",
+        "tradeOff": "Traded 'sein Name soll Johannes sein' (modal future, which would have read as a parental wish) for the present declarative 'ist'. The implication is that the name is already given (by the angel) and Zechariah is recognizing it, not choosing it.",
+        "confidence": 5
+      }
+    ],
+    "64": [
+      {
+        "term": "anoichthe_to_stoma",
+        "rendering": "'Und sogleich öffnete sich sein Mund' — 'sogleich' carries the Lukan παραχρῆμα beat (Luke's signature suddenness vocabulary).",
+        "tradeOff": "Traded plain 'da öffnete sich' (which would have read as a neutral narrative continuation) for 'sogleich', which signals the Lukan miracle-rhythm. The cost is one extra word; the gain is that the pattern (vertrauen → lösung) lands as a beat, not as a sequence.",
+        "confidence": 5
+      },
+      {
+        "term": "eulogon_ton_theon",
+        "rendering": "'er pries Gott' — the first words after nine months of silence are praise. The rendering lets the priority land as the closing beat of the verse, not as a participial afterthought.",
+        "tradeOff": "Traded the smoother participial 'und pries Gott' inside the same clause for a sentence-ending position. The cost is a minor grammatical break; the gain is that praise gets the last word.",
+        "confidence": 5
+      }
+    ],
+    "68": [
+      {
+        "term": "eulogetos_kyrios",
+        "rendering": "'Ich preise Gott, den Gott Israels' — the Berakah form rephrased as Zechariah's own first-person act of praise. The divine-names rule (first-person speech uses 'Gott' rather than 'der Herr') applies here.",
+        "tradeOff": "Traded the traditional 'Gelobt sei der Herr, der Gott Israels' (Luther/EÜ, classical Berakah-form German) for a warmer first-person opening that fits a new father singing over his son. The cost is breaking with fifteen centuries of liturgical opening; the gain is that the Benedictus sounds like Zechariah, not like a liturgist.",
+        "confidence": 4
+      },
+      {
+        "term": "ἐπεσκέψατο",
+        "rendering": "'hat sich seines Volkes angenommen und Erlösung gebracht' — 'sich annehmen' is a decisive turning-toward in care, paired with explicit 'Erlösung gebracht' to land the intervention.",
+        "tradeOff": "Rejected the archaic 'hat sein Volk heimgesucht' (which a modern reader hears as 'visited with calamity'). Rejected the softer 'hat sich gekümmert' (too domestic). The cost of 'hat sich angenommen' plus 'Erlösung gebracht' is verbosity; the gain is that both halves of ἐπισκέπτομαι — the turn AND the action — survive.",
+        "confidence": 5
+      }
+    ],
+    "69": [
+      {
+        "term": "keras_soterias",
+        "rendering": "'einen starken Retter' on the surface; the literal 'Horn der Rettung' image with its bull/sword/power resonance is held in the footnote.",
+        "tradeOff": "Traded the literal 'ein Horn der Rettung im Haus seines Dieners David' (which a modern reader hears as either zoological or operatic) for the unpacked political-power idiom. The cost is the loss of the bull image on the surface; the gain is that the verse reads as the muscular Davidic claim it is, not as ornament.",
+        "confidence": 5
+      }
+    ],
+    "76": [
+      {
+        "term": "kai_sy_paidion",
+        "rendering": "'Und du, mein Kind –' with a dash that holds the tenderness. First words from Zechariah to his newborn son after nine months of silence, with 'mein Kind' (interpretive add, not in the Greek παιδίον) marking the intimacy.",
+        "tradeOff": "Traded the literal 'Und du, Kindlein' (which a modern German reader hears as twee) and the more neutral 'Und du, mein Sohn' for 'Und du, mein Kind – '. The dash is doing real work: it holds the breath between covenant scope (vv.68–75) and one small face. The cost is interpretive expansion via 'mein'; the gain is that the tonal break is felt, not merely indicated.",
+        "confidence": 5
+      },
+      {
+        "term": "benedictus_tonal_shift",
+        "rendering": "Verse 76 is the structural pivot of the Benedictus: vv.68–75 are expansive third-person covenant praise (God, Israel, Abraham, the fathers); vv.76–79 turn to second-person fatherly address ('Und du, mein Kind –'). The tonal shift from national scope to one small face must be perceptible to the reader.",
+        "tradeOff": "Traded a uniform register across the song for a felt break. The cost is that the song doesn't read as a single hymnic flow; the gain is that the two halves of the Greek are honoured — the cosmic and the intimate are not flattened into the same voice.",
+        "confidence": 5
+      }
+    ],
+    "78": [
+      {
+        "term": "splanchna_eleous",
+        "rendering": "'das Erbarmen unseres Gottes aus tiefstem Innersten' — 'aus tiefstem Innersten' carries σπλάγχνα in the body (Greek seats strong feeling in the gut, not the heart).",
+        "tradeOff": "Rejected Luther's 'herzliche Barmherzigkeit' (Germanizes σπλάγχνα to the heart, losing the abdominal seat) and the EÜ's 'zärtliche Liebe' (saves warmth, loses bodily depth) and the bare 'seine Güte' (abstract virtue, no body at all). The cost of 'aus tiefstem Innersten' is that it reads slightly unusual in modern German; the gain is that the σπλάγχνα-as-body image actually lands.",
+        "confidence": 5
+      },
+      {
+        "term": "anatole",
+        "rendering": "'das Licht aus der Höhe' — holds both senses of ἀνατολή: the rising sun (Mal 3:20) AND the messianic Spross/Branch (Jer 23:5, Zech 3:8; 6:12).",
+        "tradeOff": "Traded the unambiguous 'die aufgehende Sonne' (which loses the Branch) and the unambiguous 'der Spross aus der Höhe' (which loses the dawn) for 'Licht aus der Höhe', which keeps both. The cost is that 'Licht' is less concrete than either 'Sonne' or 'Spross' individually; the gain is that no reader has to choose between dawn and Branch.",
+        "confidence": 4
+      }
+    ],
+    "79": [
+      {
+        "term": "εἰρήνη",
+        "rendering": "'Frieden.' as the final word of the Benedictus, broken out into its own line with nothing after — no verb, no relative clause, no continuation.",
+        "tradeOff": "Traded the continuous closing of 'auf den Weg des Friedens zu lenken' (a single flowing sentence-end) for a hard stop that gives 'Frieden.' the standalone landing. The cost is a grammatical break; the gain is that the last word of the whole birth-narrative cycle stands as its own beat.",
+        "confidence": 5
+      }
+    ],
+    "80": [
+      {
+        "term": "euxanen_kai_ekrataiouto",
+        "rendering": "'wuchs heran und reifte innerlich' — 'reifte innerlich' carries ἐκραταιοῦτο as inner formation, not muscular physical strength.",
+        "tradeOff": "Traded the literal 'wurde stark im Geist' (which a churchy ear hears, but a secular reader maps onto 'spiritual gifts' or 'religiosity') for the more neutral 'reifte innerlich'. The cost is that the explicit πνεύματι-resonance (LXX echo with Judges 13:24-25 Samson) is softened; the gain is that modern readers hear inner formation rather than charismatic empowerment.",
+        "confidence": 4
+      },
+      {
+        "term": "tais_eremois",
+        "rendering": "'in der Wüste' — kept literal, with the prophetic-formation resonance (Moses, Elijah, Israel itself) surfaced via the \\add line and footnote.",
+        "tradeOff": "none — 'in der Einöde' or 'in der Einsamkeit' would have lost the LXX biblical-geographical resonance. 'Wüste' is the right word.",
+        "confidence": 5
+      },
+      {
+        "term": "anadeixeos_autou",
+        "rendering": "'bis zu dem Tag, an dem es öffentlich in Israel auftrat' — keeps the narrative suspension toward Luke 3, where John will actually appear.",
+        "tradeOff": "Traded the compact 'bis zum Tag seiner Einsetzung' / 'seiner Offenbarung' (single noun, biblical-formula register) for a verbal clause that surfaces the public-emergence sense and explicitly names Israel. The cost is verbosity; the gain is that modern readers feel the narrative hinge — John has been formed; now he will appear — rather than reading a stock phrase.",
+        "confidence": 5
+      }
+    ]
+  }
+}

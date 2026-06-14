@@ -1,0 +1,1051 @@
+{
+  "book": "PSA",
+  "chapter": 139,
+  "lang": "AB-EN",
+  "byVerse": {
+    "1": [
+      {
+        "term": "yhwh_eternal",
+        "rendering": "Hebrew YHWH rendered as 'the Eternal' in third person and 'Eternal' in direct address — the Aperto EN project-wide divine-name canonicalisation. Keeps the name as a name rather than a churchly 'LORD' title. A UEBERSETZUNG footnote at v. 1 explains the divine name. The vocative anchor of the psalm: addressed to this specific name from first word to last.",
+        "tradeOff": "Traded the familiarity of 'the LORD' (the standard English convention) for a name that reads as a name rather than a title. The cost is unfamiliarity to readers raised on KJV-tradition English; the gain is that the I–Thou address of the psalm — a person being addressed by name from word one to word last — survives the translation.",
+        "confidence": 5
+      },
+      {
+        "term": "haqar_search",
+        "rendering": "Hebrew ḥāqar rendered 'search' at both ends of the psalm: v. 1 'you have searched me' (indicative) and v. 23 'Search me' (imperative). Only the mood changes; the verb stays identical so the inclusio is audible. Not 'examine,' not 'scan,' not 'know fully.'",
+        "tradeOff": "Traded lexical variation for frame integrity. 'Examine' or 'scan' would each render the line plausibly, but the reader must hear the end answer the beginning — the same verb returning in a different mood is the whole theological move of the psalm.",
+        "confidence": 5
+      },
+      {
+        "term": "yadac_know",
+        "rendering": "Hebrew yādaʿ held to one English verb — 'know' — across all seven occurrences (vv. 1, 2, 4, 6 as the noun daʿat, 14, 23×2). No variation to 'perceive,' 'discern,' 'be aware,' or 'recognise' for elegance, since those render other Hebrew verbs (bîn, zārâ, sākan) the psalm keeps distinct. v. 1: 'known me.'",
+        "tradeOff": "Traded English literary variation — the impulse to swap synonyms across a long poem — for the keyword integrity that is the psalm's main structural device. A reader who only ever meets 'know' across 24 verses cannot miss that this is the psalm's central verb.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together. NEVER publish vv. 1–18 freestanding (the standard mainline-Protestant lectionary cut); NEVER publish the imprecation excised. The hatred is named in full and then handed over; cutting the rage rewrites the psalm into a self-esteem text.",
+        "tradeOff": "Traded the easier liturgical reception (vv. 1–18 fit comfortably in a Sunday service; vv. 19–22 do not) for textual honesty. The cost: harder to use the psalm in some pastoral contexts; the gain: the psalm is what it is, not what we wish it were.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout: the psalm prays in 'you know… you are there… you wove me.' Zero abstract theology in the line — no 'omniscient,' 'omnipresent,' 'omnipotence' anywhere. The metaphysical categories belong (if anywhere) in the apparatus, not the line.",
+        "tradeOff": "Traded the abstract vocabulary that systematic-theology readers may want (which would let the psalm 'prove' classical attributes) for the relational vocabulary the Hebrew actually uses. The cost: the psalm cannot be quoted as a proof-text for divine attributes; the gain: the psalm prays as it actually prays — to a Thou, by name.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English (Marie Howe / Christian Wiman register). Zero KJV: no 'O Lord,' 'behold,' 'thee/thou,' '-eth/-est,' 'unto,' 'lo,' 'verily.' Zero CCM clichés: no 'cry out,' 'lift up,' 'in your presence,' 'fearfully and wonderfully made' as slogan.",
+        "tradeOff": "Traded the familiar devotional register (which many readers expect from biblical poetry) for the contemporary literary register the exegesis names. The cost: readers raised on KJV-tradition English may find the translation unfamiliar; the gain: the psalm's unsentimental honesty — which any pious register sentimentalises — survives.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust), with stanza 4 taking EN-P3 hardness. EN-P2 register: quiet, first-person, present-tense, understated. Literary Anchor: Marie Howe / Christian Wiman — the spare, noun-driven technique that is the English equivalent of the German DE-P3 the German edition chose. Poetry quality threshold: 48/60.",
+        "tradeOff": "Traded EN-P1 celebratory (which the psalm's awe-language could plausibly justify) and EN-P3 unrelieved raw (which the stanza-4 imprecation could plausibly justify) for the middle code that captures the dominant intimate-trust voice. The cost: a single code cannot fully name the stanza-4 turn (hence the EN-P3 hardness inflection); the gain: 18 of 24 verses sit exactly in the right register.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "Merisms across the psalm kept concrete: sit/rise (v. 2), going out/lying down (v. 3), behind/before (v. 5), heavens/Sheol (v. 8), wings of dawn/far side of sea (v. 9), darkness/light (vv. 11–12). NEVER collapsed to abstractions like 'always' or 'everywhere.'",
+        "tradeOff": "Traded the rhetorical compression an abstract gloss permits ('you are with me always, you are everywhere') for the concrete pairs the Hebrew uses. The cost: the lines run longer; the gain: the speaker is naming places and times, not addressing a metaphysical attribute. The I–Thou stays embodied.",
+        "confidence": 5
+      }
+    ],
+    "2": [
+      {
+        "term": "yadac_know",
+        "rendering": "v. 2 'you know when I sit and when I rise.' The sevenfold yādaʿ keyword sounded a second time — same English verb as v. 1, kept constant.",
+        "tradeOff": "Traded the chance to vary to 'you see' or 'you are aware of' for keyword constancy. The repetition is the architecture.",
+        "confidence": 5
+      },
+      {
+        "term": "rea_thoughts_echo",
+        "rendering": "Hebrew rēaʿ rendered 'thoughts' at v. 2 ('my thoughts' — what the speaker is thinking) so it can echo v. 17 ('your thoughts' — what God is thinking). The deliberate cross-reference: the speaker's intentions are known by God; God's thoughts are marvelled at by the speaker.",
+        "tradeOff": "Traded register specificity (some translators distinguish 'aims/desires' at v. 2 from 'thoughts' at v. 17) for echo audibility. Keeping one English word lets the reader hear the call-and-response across the psalm.",
+        "confidence": 4
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together. NEVER publish vv. 1–18 freestanding (the standard mainline-Protestant lectionary cut); NEVER publish the imprecation excised. The hatred is named in full and then handed over; cutting the rage rewrites the psalm into a self-esteem text.",
+        "tradeOff": "Traded the easier liturgical reception (vv. 1–18 fit comfortably in a Sunday service; vv. 19–22 do not) for textual honesty. The cost: harder to use the psalm in some pastoral contexts; the gain: the psalm is what it is, not what we wish it were.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout: the psalm prays in 'you know… you are there… you wove me.' Zero abstract theology in the line — no 'omniscient,' 'omnipresent,' 'omnipotence' anywhere.",
+        "tradeOff": "Traded the abstract vocabulary systematic-theology readers may want for the relational vocabulary the Hebrew actually uses. The cost: cannot be quoted as a proof-text for divine attributes; the gain: the psalm prays as it actually prays — to a Thou, by name.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English (Marie Howe / Christian Wiman register). Zero KJV ('O Lord,' 'behold,' 'thee/thou,' '-eth/-est,' 'unto,' 'lo,' 'verily'); zero CCM clichés ('cry out,' 'lift up,' 'in your presence,' 'fearfully and wonderfully made' as slogan).",
+        "tradeOff": "Traded the familiar devotional register for the contemporary literary register the exegesis names. The cost: readers raised on KJV-tradition English may find the translation unfamiliar; the gain: the psalm's unsentimental honesty survives.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust), with stanza 4 taking EN-P3 hardness. EN-P2 register: quiet, first-person, present-tense, understated. Literary Anchor: Marie Howe / Christian Wiman. Poetry quality threshold: 48/60.",
+        "tradeOff": "Traded EN-P1 celebratory and EN-P3 unrelieved raw for the middle code that captures the dominant intimate-trust voice. The cost: stanza-4 turn requires an EN-P3 hardness inflection; the gain: 18 of 24 verses sit exactly in the right register.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "v. 2 sit/rise — the first merism, kept as a concrete pair, not collapsed to 'all the time' or 'whatever I do.'",
+        "tradeOff": "Traded compression for embodiment. The Hebrew names two ordinary postures and lets the speaker stand in either; the gain is that the I–Thou is happening in actual bodily life, not in an abstract claim.",
+        "confidence": 5
+      }
+    ],
+    "3": [
+      {
+        "term": "zarah_sift",
+        "rendering": "Hebrew zārâ rendered 'sift' — 'My going out and my lying down — you sift them.' One of the §F.4 deliberately ambiguous verbs: zārâ can mean attend closely (sifting grain) or scatter (winnowing it away). English 'sift' carries both senses.",
+        "tradeOff": "Traded a single safe gloss ('discern' / 'observe' / 'know thoroughly') for an English verb that preserves the double-edged quality of the Hebrew. The reader who feels the threat in 'sift' is feeling the psalm correctly; resolving toward warmth would destroy the effect.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together. NEVER publish vv. 1–18 freestanding; NEVER publish the imprecation excised.",
+        "tradeOff": "Traded the easier liturgical reception for textual honesty. The cost: harder to use the psalm in some pastoral contexts; the gain: the psalm is what it is, not what we wish it were.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout: the psalm prays in 'you know… you are there… you wove me.' Zero abstract theology in the line.",
+        "tradeOff": "Traded abstract attribute-vocabulary for the relational vocabulary the Hebrew actually uses. The gain: the psalm prays as it actually prays — to a Thou, by name.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English (Marie Howe / Christian Wiman register). Zero KJV; zero CCM clichés.",
+        "tradeOff": "Traded familiar devotional register for the contemporary literary register the exegesis names. The gain: the psalm's unsentimental honesty survives.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust), with stanza 4 taking EN-P3 hardness. Marie Howe / Christian Wiman Literary Anchor.",
+        "tradeOff": "Traded EN-P1 celebratory and EN-P3 unrelieved raw for the middle code. The gain: 18 of 24 verses sit exactly in the right register.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "v. 3 going out / lying down — the second merism kept as a concrete pair of acts, not collapsed to 'everything I do.'",
+        "tradeOff": "Traded compression for embodied specificity. The Hebrew names departure and rest — the framing acts of a day — and lets them stand.",
+        "confidence": 5
+      }
+    ],
+    "4": [
+      {
+        "term": "yhwh_eternal",
+        "rendering": "v. 4 vocative 'Eternal, you know it whole' — Hebrew YHWH rendered as the name 'Eternal' in direct address. Same canonicalisation as v. 1.",
+        "tradeOff": "Traded 'O LORD' (the KJV-tradition vocative) for a name in plain direct address. The gain: the speaker is calling the deity by name, not by title.",
+        "confidence": 5
+      },
+      {
+        "term": "yadac_know",
+        "rendering": "v. 4 'you know it whole' — yādaʿ sounded again, the third occurrence. 'Know it whole' renders the Hebrew kullāh (all of it / wholly) without breaking the keyword.",
+        "tradeOff": "Traded 'you fully know' or 'you know it altogether' (smoother but with a different verb-feel) for 'know it whole' — the same English verb anchoring the line.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together. NEVER publish vv. 1–18 freestanding; NEVER publish the imprecation excised.",
+        "tradeOff": "Traded the easier liturgical reception for textual honesty. The gain: the psalm is what it is.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. Zero abstract theology in the line.",
+        "tradeOff": "Traded abstract attribute-vocabulary for the relational vocabulary the Hebrew uses. The gain: the psalm prays as it actually prays.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés.",
+        "tradeOff": "Traded familiar devotional register for the literary register the exegesis names. The gain: the psalm's unsentimental honesty survives.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust). Marie Howe / Christian Wiman Literary Anchor.",
+        "tradeOff": "Traded EN-P1 and EN-P3 for the middle code. The gain: the dominant voice sits in register.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "Merisms across the psalm kept concrete, never collapsed to 'always' or 'everywhere.'",
+        "tradeOff": "Traded rhetorical compression for embodied specificity.",
+        "confidence": 5
+      }
+    ],
+    "5": [
+      {
+        "term": "tsur_hem_in",
+        "rendering": "Hebrew ṣartānî rendered 'hem me in' — the central §F.4 ambiguous verb. English 'hem in' carries both protective enclosure (held by people who love you) and constraint (no exit). The TEXT footnote names the ambiguity explicitly, citing Alter's reading and the Welsh scholar David Firth's analysis.",
+        "tradeOff": "Traded 'surround me' (warm) or 'besiege me' (cold) for a phrase that lets the reader feel either, on any given reading. The comfort/threat double reading is the psalm's most sophisticated effect; resolving toward warmth destroys it.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together. NEVER publish vv. 1–18 freestanding; NEVER publish the imprecation excised.",
+        "tradeOff": "Traded the easier liturgical reception for textual honesty.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. Zero abstract theology in the line.",
+        "tradeOff": "Traded abstract attribute-vocabulary for the relational vocabulary the Hebrew uses.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés.",
+        "tradeOff": "Traded familiar devotional register for the literary register the exegesis names.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust). Marie Howe / Christian Wiman Literary Anchor.",
+        "tradeOff": "Traded EN-P1 and EN-P3 for the middle code.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "v. 5 'behind and before' — the spatial merism, kept as a concrete pair of directions, not collapsed to 'on every side.'",
+        "tradeOff": "Traded smoothing to abstraction for the concrete spatial pair the Hebrew uses. The reader stands enclosed front and back, not abstractly surrounded.",
+        "confidence": 5
+      }
+    ],
+    "6": [
+      {
+        "term": "yadac_know",
+        "rendering": "v. 6 'Such knowing is too much for me' — the noun daʿat from the same root as yādaʿ, rendered as the gerund 'knowing' so the keyword is visible at this fourth sounding. NOT 'such knowledge' (which loses the verbal kinship).",
+        "tradeOff": "Traded the smoother 'such knowledge is too wonderful for me' (KJV-derived, English-familiar) for 'such knowing is too much for me.' The cost: less elegance; the gain: the same word-family the Hebrew is sounding, and the speaker's actual sensation (overload, not philosophical wonder).",
+        "confidence": 5
+      },
+      {
+        "term": "v6_pelia_too_much_visceral",
+        "rendering": "v. 6 visceral-force rendering: 'Such knowing is too much for me — lifted beyond me, I cannot reach it.' The speaker is going under: not 'it is hard to understand' (flat) but the felt sense of being overwhelmed by the very knowing the psalm has just described.",
+        "tradeOff": "Traded the safer cognitive register ('too wonderful for me to understand') for an embodied register ('lifted beyond me'). The cost: less philosophical-sounding; the gain: the line moves as the speaker is actually moving — under, overwhelmed.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together. NEVER publish vv. 1–18 freestanding; NEVER publish the imprecation excised.",
+        "tradeOff": "Traded the easier liturgical reception for textual honesty.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. Zero abstract theology in the line.",
+        "tradeOff": "Traded abstract attribute-vocabulary for the relational vocabulary the Hebrew uses.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés.",
+        "tradeOff": "Traded familiar devotional register for the literary register the exegesis names.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust). Marie Howe / Christian Wiman Literary Anchor.",
+        "tradeOff": "Traded EN-P1 and EN-P3 for the middle code.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "Merisms across the psalm kept concrete, never collapsed to abstractions.",
+        "tradeOff": "Traded rhetorical compression for embodied specificity.",
+        "confidence": 5
+      }
+    ],
+    "7": [
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together. v. 7 opens stanza 2 (the flight-poem) — the question 'Where could I go from your Spirit?' carries the UNGLAUBLICH footnote on Bentham's panopticon (which used this very psalm as epigraph) and the contemporary surveillance reading. The footnote does not soothe the objection; it lets the reader test which reading they reach for first.",
+        "tradeOff": "Traded any glossing of the question itself for footnote-carried context. The cost: a long apparatus note; the gain: the psalm is honestly handed to a 21st-century reader who lives inside the surveillance world Bentham first sketched.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. v. 7 is the panopticon question — but framed as flight from a face, not from an abstract attribute. 'Where could I flee from your face' keeps the embodied addressee.",
+        "tradeOff": "Traded abstract 'your presence' or 'omnipresence' for the concrete 'your face' the Hebrew uses. The gain: the question is to a Thou with a face, not to a metaphysical category.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés. v. 7 specifically avoids 'flee from your presence' (CCM-coloured) in favour of 'flee from your face' (Hebrew-literal).",
+        "tradeOff": "Traded the worship-song phrase for the Hebrew image. The gain: the line sounds like prayer, not like a chorus.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust). Marie Howe / Christian Wiman Literary Anchor.",
+        "tradeOff": "Traded EN-P1 and EN-P3 for the middle code.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "v. 7 spirit/face — the pair the speaker tries to flee. Both kept concrete, neither collapsed to 'you.'",
+        "tradeOff": "Traded compression for embodied specificity.",
+        "confidence": 5
+      }
+    ],
+    "8": [
+      {
+        "term": "sheol_with_footnote",
+        "rendering": "Hebrew šᵉʾôl transliterated as 'Sheol' rather than translated as 'hell' or 'the grave.' A KULTUR footnote at v. 8 names what Sheol is and is not: the shadowy underworld of all the dead — not the Christian hell — and importantly, the one place even God was thought to leave alone. The daring of the line ('there you are') depends on that.",
+        "tradeOff": "Traded the easier 'the grave' (concrete, modern, no footnote needed) or 'hell' (familiar to Christian readers) for an unfamiliar Hebrew term with apparatus. The cost: the reader has to learn a word; the gain: the line's actual claim — God reaches even the one place imagined as outside God's reach — survives.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together.",
+        "tradeOff": "Traded the easier liturgical reception for textual honesty.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. v. 8 'there you are' is the relational claim — not 'you are omnipresent' but 'you, the one I am addressing, are there too.'",
+        "tradeOff": "Traded the easier abstract gloss for the I–Thou phrasing the Hebrew uses.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés.",
+        "tradeOff": "Traded familiar devotional register for the literary register the exegesis names.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust). Marie Howe / Christian Wiman Literary Anchor.",
+        "tradeOff": "Traded EN-P1 and EN-P3 for the middle code.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "v. 8 heavens/Sheol — the vertical merism kept as a concrete pair of places, never collapsed to 'everywhere.' The two are imagined as actual destinations.",
+        "tradeOff": "Traded the abstract 'wherever I go' for the concrete vertical span the Hebrew names.",
+        "confidence": 5
+      }
+    ],
+    "9": [
+      {
+        "term": "kanfei_shachar_wings_of_dawn",
+        "rendering": "Hebrew kanfê-šaḥar rendered 'the wings of the dawn' — winged, concrete, the dawn imagined as a winged being racing the sky from east to west. NEVER flattened to 'the east,' 'swiftly,' or 'at daybreak.' The KULTUR footnote at v. 9 names what the image is: velocity and beauty, the attempt to hitch a ride at light-speed to the world's far edge.",
+        "tradeOff": "Traded the smoothed-out modernising glosses for the concrete Hebrew image. The cost: a reader unfamiliar with the trope must do the imaginative work of seeing the dawn as winged; the gain: the psalm's most admired phrase survives intact.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together.",
+        "tradeOff": "Traded the easier liturgical reception for textual honesty.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. v. 9 is concrete flight — wings, sea — not abstract 'wherever I am.'",
+        "tradeOff": "Traded abstract for concrete.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés.",
+        "tradeOff": "Traded familiar devotional register for the literary register.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust). Marie Howe / Christian Wiman Literary Anchor.",
+        "tradeOff": "Traded EN-P1 and EN-P3 for the middle code.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "v. 9 wings of dawn / far side of sea — the horizontal merism kept as a concrete spatial pair, the eastern and western edges of the world.",
+        "tradeOff": "Traded the abstract 'anywhere' for the concrete horizontal span the Hebrew names.",
+        "confidence": 5
+      }
+    ],
+    "10": [
+      {
+        "term": "achaz_take_hold",
+        "rendering": "Hebrew ʾāḥaz rendered 'take hold of me' — 'your right hand take hold of me.' The verb carries both rescue (a grasp that saves) and capture (a grasp that seizes as prey). NOT softened to 'support me' as some translations do.",
+        "tradeOff": "Traded the easy reassurance of 'support' for honest ambiguity. A reader who hears menace in 'take hold' is hearing the Hebrew correctly; a reader who hears rescue is also hearing it correctly. The line is built to be heard either way.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together.",
+        "tradeOff": "Traded the easier liturgical reception for textual honesty.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. v. 10 is concrete — a hand, a right hand — not abstract divine action.",
+        "tradeOff": "Traded abstract for embodied.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés.",
+        "tradeOff": "Traded familiar devotional register for the literary register.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust). Marie Howe / Christian Wiman Literary Anchor.",
+        "tradeOff": "Traded EN-P1 and EN-P3 for the middle code.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "Merisms across the psalm kept concrete, never collapsed to abstractions.",
+        "tradeOff": "Traded rhetorical compression for embodied specificity.",
+        "confidence": 5
+      }
+    ],
+    "11": [
+      {
+        "term": "cover_not_bruise",
+        "rendering": "v. 11 rendered 'Surely the dark will cover me' — following the consensus 'cover/hide' reading of the Hebrew, NOT the alternative 'bruise' reading some commentators defend on lexical grounds. The exegesis §A.4 prefers cover; no footnote needed.",
+        "tradeOff": "Traded the more exotic 'bruise' (which keeps the line genuinely strange) for the consensus reading. The cost: a less arresting line; the gain: alignment with the dominant scholarly tradition without forcing the reader through an apparatus note for a debated minor reading.",
+        "confidence": 4
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together.",
+        "tradeOff": "Traded the easier liturgical reception for textual honesty.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. v. 11 is the speaker's interior speech ('If I said…') — still relational, addressing the same Thou.",
+        "tradeOff": "Traded abstract for concrete inner speech.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés.",
+        "tradeOff": "Traded familiar devotional register for the literary register.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust). Marie Howe / Christian Wiman Literary Anchor.",
+        "tradeOff": "Traded EN-P1 and EN-P3 for the middle code.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "v. 11 dark/light — the visual merism that pairs with v. 12, kept concrete.",
+        "tradeOff": "Traded rhetorical compression for the concrete pair.",
+        "confidence": 5
+      }
+    ],
+    "12": [
+      {
+        "term": "v12_darkness_light_one_visceral",
+        "rendering": "v. 12 closing line rendered 'Darkness and light, to you, are one.' Set as its own poetic line (\\q1) after the couplet, not as a third colon tucked in. The last exit dissolves; the line lands as theological summation of the whole flight-poem of stanza 2.",
+        "tradeOff": "Traded couplet symmetry (which would tuck the line at the end of v. 12b) for visual weight. The cost: the verse looks irregular against the rest of the psalm; the gain: the closing line of stanza 2 sits visually where it sits theologically — alone, decisive.",
+        "confidence": 4
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together.",
+        "tradeOff": "Traded the easier liturgical reception for textual honesty.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. v. 12 'to you, are one' — direct address, not abstract claim about light and dark.",
+        "tradeOff": "Traded abstract for direct-address phrasing.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés.",
+        "tradeOff": "Traded familiar devotional register for the literary register.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust). Marie Howe / Christian Wiman Literary Anchor.",
+        "tradeOff": "Traded EN-P1 and EN-P3 for the middle code.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "v. 12 darkness/light — the merism completed from v. 11, kept concrete and dissolved only in the final line.",
+        "tradeOff": "Traded abstract gloss for the concrete pair and its dissolution.",
+        "confidence": 5
+      }
+    ],
+    "13": [
+      {
+        "term": "qanah_created",
+        "rendering": "Hebrew qānâ rendered 'you created' (v. 13a) — concrete, not abstract 'formed' or 'brought into being.' Part of the §F.5 womb-creation vocabulary: doxology, not embryology.",
+        "tradeOff": "Traded the more lyrical 'formed me' or the acquisitive 'brought me into being' for the plainer 'created.' qānâ has possessive overtones some translators bring out; Aperto stays concrete and lets the next verbs (wove, embroidered) carry the craft register.",
+        "confidence": 5
+      },
+      {
+        "term": "sakak_wove",
+        "rendering": "Hebrew sākak rendered 'you wove me' — concrete craft verb. Part of the deliberate three-verb gestational vocabulary across vv. 13–16: created / wove / embroidered. The womb as workshop, not as abstract origin.",
+        "tradeOff": "Traded the more general 'knit together' (NIV) or 'fashioned' for a verb that names a specific craft. The cost: 'wove' is slightly unusual in English biblical register; the gain: the verb carries the sacred-craft register shared with the tabernacle texts.",
+        "confidence": 5
+      },
+      {
+        "term": "kilyotay_inmost_being",
+        "rendering": "Hebrew kilyōtay (literally 'my kidneys') rendered 'my inmost being' — the deep, hidden inner body, the self no one else can see. NOT 'soul' (importing a body/soul dualism the Hebrew does not have), NOT 'kidneys' (which reads as anatomical curiosity in English). The HARM footnote at v. 13 explains the literal sense and why English needs the gloss.",
+        "tradeOff": "Traded literal anatomy for register fidelity. 'Kidneys' is more literal but unreadable in English poetry; 'soul' is more familiar but theologically anachronistic. 'Inmost being' keeps the body-concreteness without making the line a medical note.",
+        "confidence": 5
+      },
+      {
+        "term": "mothers_womb_explicit",
+        "rendering": "Hebrew bᵉbeṭen ʾimmî rendered explicitly 'in my mother's womb.' The mother stays in view — NEVER neutralised to 'before I was born' or 'in the womb' or 'inside me.' The pregnant woman whose body is the subject of the poem must remain visible. The HARM footnote names the proof-text tradition that reliably erases her.",
+        "tradeOff": "Traded the politically convenient neutral phrasing (which crisis-pregnancy and proof-text traditions have preferred precisely because it erases the mother) for explicit reference. The cost: the line cannot be re-used as a freestanding 'life begins at' text; the gain: the embodied origin the psalm actually praises survives.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together. vv. 13–16 specifically refused as a freestanding proof-text — the HARM footnote at v. 13 names this directly.",
+        "tradeOff": "Traded the easier reception (lifting out the womb verses for devotional use) for textual honesty.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. v. 13 is doxology to a Thou who wove, not a doctrinal claim about pre-natal personhood.",
+        "tradeOff": "Traded the proof-text deployment for the actual doxological address.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés — including 'fearfully and wonderfully made' as a slogan (which lives at v. 14 but the v. 13 register sets up).",
+        "tradeOff": "Traded the familiar phrase for the actual sense.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust). Marie Howe / Christian Wiman Literary Anchor.",
+        "tradeOff": "Traded EN-P1 and EN-P3 for the middle code.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "Merisms across the psalm kept concrete, never collapsed to abstractions.",
+        "tradeOff": "Traded rhetorical compression for embodied specificity.",
+        "confidence": 5
+      }
+    ],
+    "14": [
+      {
+        "term": "yadac_know",
+        "rendering": "v. 14 'my whole self knows it well' — yādaʿ sounded again (the fifth occurrence), this time the speaker as subject rather than God. The keyword turns: the one who has been known now knows.",
+        "tradeOff": "Traded the safer 'my soul knows' (KJV-derived) for 'my whole self' — keeping the embodied integrity Hebrew nepeš carries without importing the body/soul dualism English 'soul' suggests.",
+        "confidence": 5
+      },
+      {
+        "term": "v14_awe_on_gods_act",
+        "rendering": "v. 14 rendered 'I thank you — I was made in awe — a wonder. Wondrous are your works; my whole self knows it well.' The MT reading followed (rather than LXX): the awe is directed at God's act, not at the speaker's own being. NOT 'I am fearfully and wonderfully made' as slogan (the CCM cliché). No footnote — exegesis §A.4: 'do not over-footnote.'",
+        "tradeOff": "Traded the famous KJV-derived 'fearfully and wonderfully made' (which English readers will hear and miss) for an English that aims the awe correctly: at God's making, not at the made self. The cost: loses a phrase that has become almost a tattoo in some English-speaking Christian cultures; the gain: the verse means what the Hebrew means.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together.",
+        "tradeOff": "Traded the easier liturgical reception for textual honesty.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. v. 14 is thanks to a Thou whose works are wondrous — not a doctrinal claim about the speaker's specialness.",
+        "tradeOff": "Traded the self-esteem reading for the God-ward reading.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés — including specifically 'fearfully and wonderfully made' as slogan.",
+        "tradeOff": "Traded the famous phrase for the actual aim of the awe.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust). Marie Howe / Christian Wiman Literary Anchor.",
+        "tradeOff": "Traded EN-P1 and EN-P3 for the middle code.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "Merisms across the psalm kept concrete, never collapsed to abstractions.",
+        "tradeOff": "Traded rhetorical compression for embodied specificity.",
+        "confidence": 5
+      }
+    ],
+    "15": [
+      {
+        "term": "ruqamti_embroidered",
+        "rendering": "Hebrew ruqqamtî rendered 'embroidered' — the tabernacle-needlework verb. v. 15: 'embroidered in the depths of the earth.' The womb as embroidery workshop; patient, skilled, sacred craft. Third verb in the deliberate gestational sequence (created/wove/embroidered).",
+        "tradeOff": "Traded the safer 'fashioned' or 'put together' for the unusual but accurate 'embroidered.' Some readers will hear it as quaint; the gain is the tabernacle-temple register: this body is woven the way the sanctuary is woven.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together.",
+        "tradeOff": "Traded the easier liturgical reception for textual honesty.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. v. 15 is concrete craft — bones, embroidery, depths of the earth — not abstract divine activity.",
+        "tradeOff": "Traded abstract for embodied craft.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés.",
+        "tradeOff": "Traded familiar devotional register for the literary register.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust). Marie Howe / Christian Wiman Literary Anchor.",
+        "tradeOff": "Traded EN-P1 and EN-P3 for the middle code.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "Merisms across the psalm kept concrete, never collapsed to abstractions.",
+        "tradeOff": "Traded rhetorical compression for embodied specificity.",
+        "confidence": 5
+      }
+    ],
+    "16": [
+      {
+        "term": "golem_unformed_substance",
+        "rendering": "Hebrew golem (hapax legomenon) rendered 'my unformed substance' — unworked matter, the lump of clay before it is a vessel, the timber before it is a chair. NEVER 'embryo' or 'foetus' (NICOT: 'probably overspecific and misleading' — imports biology the psalm does not state). The KULTUR footnote at v. 16 opens onto the wider Jewish golem tradition.",
+        "tradeOff": "Traded the biological precision the proof-text tradition wants ('embryo' is the gloss anti-abortion campaigning needs) for the psalm's actual semantic range. The cost: less rhetorically useful in a particular political fight; the gain: the line means what the word means, and the Jewish golem afterlife (impossible if collapsed to 'embryo') is preserved.",
+        "confidence": 5
+      },
+      {
+        "term": "sefer_scroll",
+        "rendering": "Hebrew sēfer rendered 'your scroll' — the heavenly record on which days are inscribed. Carried by the KULTUR footnote that names what the image is NOT (cold predestination) and what it IS (being kept in mind, attended to, held by name before the days are lived).",
+        "tradeOff": "Traded the modernised 'your book' for the more accurate 'your scroll,' which keeps the ancient-Near-Eastern register and prevents the line from reading as a Reformation-era proof-text for predestination. The cost: 'scroll' is slightly archaic; the gain: the image stays itself.",
+        "confidence": 4
+      },
+      {
+        "term": "ketiv_temporal_strangeness",
+        "rendering": "v. 16c follows the ketiv reading: 'the days that were shaped for me — before the first of them began.' Keeps the genuinely hard Hebrew syntax (lit. 'and not one of them was'): God's seeing precedes any finished shape, even the shape of the days themselves. The verse stays uncomfortable; it is meant to.",
+        "tradeOff": "Traded the smoother qere reading (which yields a tidier 'when as yet there were none of them') for the harder ketiv the exegesis §A.4 prefers. The reader has to slow down; that is the point.",
+        "confidence": 4
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together. v. 16 specifically refused as a 'God-knows-your-days' devotional clip detached from the harder syntax.",
+        "tradeOff": "Traded the easier devotional reception for textual honesty.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. v. 16 is a Thou seeing — not an abstract claim about foreknowledge.",
+        "tradeOff": "Traded abstract for direct-address phrasing.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés.",
+        "tradeOff": "Traded familiar devotional register for the literary register.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust). Marie Howe / Christian Wiman Literary Anchor.",
+        "tradeOff": "Traded EN-P1 and EN-P3 for the middle code.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "Merisms across the psalm kept concrete, never collapsed to abstractions.",
+        "tradeOff": "Traded rhetorical compression for embodied specificity.",
+        "confidence": 5
+      }
+    ],
+    "17": [
+      {
+        "term": "el_my_god",
+        "rendering": "Hebrew ʾēl in direct address rendered 'my God' at v. 17 — the wonder of weighty thoughts addressed to a personal deity. Differentiated from v. 23's 'O God' so the two appearances of ʾēl do different emotional work in English.",
+        "tradeOff": "Traded mechanical uniformity (one English word for one Hebrew word across both occurrences) for register sensitivity. The two appearances of ʾēl do different work — intimate wonder vs. opening of the closing petition — and the English captures the difference.",
+        "confidence": 4
+      },
+      {
+        "term": "yaqar_weighty",
+        "rendering": "Hebrew yāqar rendered 'weighty' — 'How weighty to me are your thoughts, my God.' Resolves the genuine translator fork (precious vs. weighty) toward weighty. The parallel colon 'how vast is the sum' (v. 17b) leans to weight; Goldingay reads 'weighty/formidable.' Carries gravity, not preciousness. The German edition chose the weighty reading; EN follows for consistency.",
+        "tradeOff": "Traded the NIV-familiar 'precious' for a word that carries awe rather than sentiment. 'Precious' is the safer, sweeter choice and the more emotionally accessible English; 'weighty' is colder and risks sounding clinical, but matches the psalm's gravity register and the parallel colon's vastness imagery.",
+        "confidence": 4
+      },
+      {
+        "term": "rea_thoughts_echo",
+        "rendering": "Hebrew rēaʿ rendered 'thoughts' — 'your thoughts.' Echoes 'my thoughts' at v. 2: speaker's intentions known by God; God's thoughts marvelled at by speaker. The cross-reference is deliberate.",
+        "tradeOff": "Traded register specificity (some translators distinguish 'aims' v. 2 / 'thoughts' v. 17) for echo audibility. The reader hears the call-and-response.",
+        "confidence": 4
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together.",
+        "tradeOff": "Traded the easier liturgical reception for textual honesty.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. v. 17 'my God' is intimate address — not 'the God of weight' as an attribute.",
+        "tradeOff": "Traded abstract for direct-address.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés.",
+        "tradeOff": "Traded familiar devotional register for the literary register.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust). Marie Howe / Christian Wiman Literary Anchor.",
+        "tradeOff": "Traded EN-P1 and EN-P3 for the middle code.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "Merisms across the psalm kept concrete, never collapsed to abstractions.",
+        "tradeOff": "Traded rhetorical compression for embodied specificity.",
+        "confidence": 5
+      }
+    ],
+    "18": [
+      {
+        "term": "v18_i_awake_not_end",
+        "rendering": "Hebrew hēqîṣōtî rendered 'I awake' — 'I awake — and I am still with you.' The exhausted-tender close of stanza 3. NOT 'when I come to the end' (which imports a different verb and a different theology). Exegesis §A.4: 'render I awake; do not import come to the end.'",
+        "tradeOff": "Traded the dramatic 'when I come to the end' (which lands more theologically heavily and has been a beloved rendering since Coverdale) for the simpler 'I awake.' The cost: less rhetorical heft; the gain: the verb is what the Hebrew says, and the tenderness of dawn-after-counting-the-sand survives.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together. v. 18's 'I am still with you' is the soft close of stanza 3 — the lectionary cut typically lands here, hiding the sharp break at v. 19. Aperto refuses the cut.",
+        "tradeOff": "Traded the comfortable stopping point for textual honesty.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. 'I am still with you' is direct address — the speaker remaining with a Thou, not in an abstract state.",
+        "tradeOff": "Traded abstract for direct-address.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés.",
+        "tradeOff": "Traded familiar devotional register for the literary register.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust). Marie Howe / Christian Wiman Literary Anchor.",
+        "tradeOff": "Traded EN-P1 and EN-P3 for the middle code.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "Merisms across the psalm kept concrete, never collapsed to abstractions.",
+        "tradeOff": "Traded rhetorical compression for embodied specificity.",
+        "confidence": 5
+      }
+    ],
+    "19": [
+      {
+        "term": "eloah_o_god",
+        "rendering": "Hebrew ʾĕlôah — the rare Job-name for God — rendered 'O God' in the line, with a HARM footnote at v. 19 carrying the Job-signal (the wisdom/innocent-sufferer kinship). English has no distinct poetic God-word to carry the rare register, so the line takes the available vocative and the footnote does the scholarship.",
+        "tradeOff": "Traded lexical distinction in the line for footnote-carried scholarship. Three different Hebrew divine names appear in this psalm; English has fewer registers to deploy. The compromise: differentiate where English permits (the Eternal / my God), let the footnote do the work where it doesn't.",
+        "confidence": 4
+      },
+      {
+        "term": "optative_if_only_kill",
+        "rendering": "Hebrew ʾim-tiqṭōl rendered 'If only you would kill the wicked, O God' — an optative, a wish handed wholly to God. NEVER an imperative ('Kill the wicked!') and NEVER a hypothetical conditional. The grammar is the ethics: the psalmist commands nothing, asks no human to act.",
+        "tradeOff": "Traded the punchier imperative (which the rage of the line invites) for the grammatically correct optative. The cost: 'If only you would' is slightly softer in English mouth-feel; the gain: the psalm's central ethical claim — violence is given to God, not enacted by the speaker — survives.",
+        "confidence": 5
+      },
+      {
+        "term": "qatal_kill",
+        "rendering": "Hebrew qāṭal rendered 'kill' — blunt and modern. NOT 'slay' (archaic in contemporary English, carries the KJV register Aperto avoids). The Hebrew verb is blunt; the English should be blunt.",
+        "tradeOff": "Traded the older devotional register ('slay' has biblical-poetic resonance for many readers) for contemporary plainness. The cost: 'kill' lands harder, can feel shocking in a psalm; the gain: that shock IS the psalm, not a translation overreach.",
+        "confidence": 5
+      },
+      {
+        "term": "turn_away_from_me",
+        "rendering": "v. 19b addressed to the killers (NOT to God): 'you who thirst for blood — turn away from me.' Distinct addressee from the wish in 19a. The line is dismissal of the violent, not petition to the deity.",
+        "tradeOff": "Traded the smoother continuous-address reading (everything in v. 19 to God) for the shift in addressee the Hebrew syntax requires. The cost: a sharper mid-verse turn the reader must catch; the gain: the speaker's actual ethical posture — handing rage to God, telling killers to leave — is preserved.",
+        "confidence": 4
+      },
+      {
+        "term": "stanza_4_en_p3_hardness",
+        "rendering": "Stanza 4 (vv. 19–24) takes EN-P3 hardness — fragmentary, harder syntax, sharper register — even though the governing style code for the whole psalm is EN-P2 (intimate trust). The blank-line break (\\b) before v. 19 is the sharpest turn in the psalm and is NOT softened, NOT bridged.",
+        "tradeOff": "Traded register uniformity (one style for the whole poem) for register accuracy (one poem with a turn). The cost: the translator and reader both have to handle two registers across a single text; the gain: the psalm's actual shape — wonder, then sudden hardness, then quiet petition — survives the translation.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together. v. 19 specifically refused as the excisable verse the Revised Common Lectionary cuts — the HARM footnote at v. 19 names this directly.",
+        "tradeOff": "Traded the easier liturgical reception for textual honesty. The rage is named in full and then handed over; cutting it rewrites the psalm.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. v. 19 is to a Thou (the optative wish) and to a 'you who thirst for blood' (the dismissal) — both in direct address.",
+        "tradeOff": "Traded abstract for direct-address.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés. v. 19 specifically: 'kill,' not 'slay'; 'thirst for blood,' not 'bloody men.'",
+        "tradeOff": "Traded the familiar KJV phrasing for contemporary bluntness.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust), with stanza 4 taking EN-P3 hardness — and v. 19 is where the hardness lands.",
+        "tradeOff": "Traded uniformity for accuracy.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "Merisms across the psalm kept concrete, never collapsed to abstractions.",
+        "tradeOff": "Traded rhetorical compression for embodied specificity.",
+        "confidence": 5
+      }
+    ],
+    "20": [
+      {
+        "term": "stanza_4_en_p3_hardness",
+        "rendering": "Stanza 4 (vv. 19–24) takes EN-P3 hardness. v. 20 stays in the harder register — 'they speak of you with malice; your enemies invoke your name in vain' — short clauses, sharper diction.",
+        "tradeOff": "Traded register uniformity for register accuracy across the stanza turn.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together.",
+        "tradeOff": "Traded the easier liturgical reception for textual honesty.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. v. 20 is to the same Thou — the enemies addressed as 'your enemies,' invoking 'your name.'",
+        "tradeOff": "Traded abstract for direct-address.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés.",
+        "tradeOff": "Traded familiar devotional register for the literary register.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2, with stanza 4 EN-P3 hardness inflection.",
+        "tradeOff": "Traded uniformity for accuracy.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "Merisms across the psalm kept concrete, never collapsed to abstractions.",
+        "tradeOff": "Traded rhetorical compression for embodied specificity.",
+        "confidence": 5
+      }
+    ],
+    "21": [
+      {
+        "term": "yhwh_eternal",
+        "rendering": "v. 21 vocative 'Do I not hate those who hate you, Eternal?' — Hebrew YHWH rendered as the name 'Eternal' in direct address. Same canonicalisation as vv. 1 and 4.",
+        "tradeOff": "Traded 'O LORD' (the KJV-tradition vocative) for a name in plain direct address. The gain: even in the hardest stanza, the speaker is calling the deity by name.",
+        "confidence": 5
+      },
+      {
+        "term": "stanza_4_en_p3_hardness",
+        "rendering": "Stanza 4 (vv. 19–24) takes EN-P3 hardness. v. 21 holds the harder register through the rhetorical questions: 'Do I not hate… do I not loathe…'",
+        "tradeOff": "Traded register uniformity for register accuracy.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together.",
+        "tradeOff": "Traded the easier liturgical reception for textual honesty.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. v. 21 the speaker reasons to the addressed Thou directly — 'Do I not hate those who hate you?'",
+        "tradeOff": "Traded abstract for direct-address.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés.",
+        "tradeOff": "Traded familiar devotional register for the literary register.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2, with stanza 4 EN-P3 hardness inflection.",
+        "tradeOff": "Traded uniformity for accuracy.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "Merisms across the psalm kept concrete, never collapsed to abstractions.",
+        "tradeOff": "Traded rhetorical compression for embodied specificity.",
+        "confidence": 5
+      }
+    ],
+    "22": [
+      {
+        "term": "taklit_sinah_complete_hatred",
+        "rendering": "Hebrew taklît śinʾâ rendered 'complete hatred' — taklît names totality / completeness / the full extent of a thing. NEVER 'perfect hatred' (KJV — implies morally flawless, virtuous hate; documented harm history at §C.5 #3). The UEBERSETZUNG footnote at v. 22 names the harm history explicitly: 'perfect hatred' has been used to license righteous-feeling contempt for enemies that the optative grammar of v. 19 refuses.",
+        "tradeOff": "Traded the rhetorical heft of the KJV phrase (which still echoes in many readers' ears as a beloved devotional line) for an English that means what the Hebrew means. 'Complete' is plainer than 'perfect'; that is the point — the hatred is total, not virtuous.",
+        "confidence": 5
+      },
+      {
+        "term": "stanza_4_en_p3_hardness",
+        "rendering": "Stanza 4 (vv. 19–24) takes EN-P3 hardness. v. 22 sits at the peak of the imprecation — 'I hate them with complete hatred; I count them my enemies.' Short clauses, hard register.",
+        "tradeOff": "Traded register uniformity for register accuracy.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together.",
+        "tradeOff": "Traded the easier liturgical reception for textual honesty.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. v. 22 still in the Thou-frame — the hatred is named to God, the same Thou.",
+        "tradeOff": "Traded abstract for direct-address.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés. v. 22 specifically refuses 'perfect hatred' (the KJV phrase).",
+        "tradeOff": "Traded the familiar phrase for the actual sense.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2, with stanza 4 EN-P3 hardness inflection.",
+        "tradeOff": "Traded uniformity for accuracy.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "Merisms across the psalm kept concrete, never collapsed to abstractions.",
+        "tradeOff": "Traded rhetorical compression for embodied specificity.",
+        "confidence": 5
+      }
+    ],
+    "23": [
+      {
+        "term": "el_o_god",
+        "rendering": "Hebrew ʾēl in direct address rendered 'O God' at v. 23 — the opening of the closing petition. Differentiated from v. 17's 'my God' so the two appearances of ʾēl do different emotional work in English.",
+        "tradeOff": "Traded mechanical uniformity for register sensitivity. The closing petition needs a vocative that opens (O God) rather than possesses (my God); the wonder of v. 17 needs the inverse.",
+        "confidence": 4
+      },
+      {
+        "term": "haqar_search",
+        "rendering": "Hebrew ḥāqar rendered 'Search me' (imperative) — answering v. 1's 'you have searched me' (indicative). The inclusio closes: the one who was searched without consent now asks to be. Only mood changed; verb identical.",
+        "tradeOff": "Traded lexical variation for frame integrity. The reader must hear the end answer the beginning — the same verb returning in a different mood is the whole theological move of the psalm.",
+        "confidence": 5
+      },
+      {
+        "term": "yadac_know",
+        "rendering": "v. 23 sounds yādaʿ twice — 'know my heart… know my anxious thoughts.' Sixth and seventh occurrences of the keyword, completing the sevenfold pattern. Same English verb throughout.",
+        "tradeOff": "Traded variation for keyword integrity. 'Know my heart… discern my thoughts' would smooth the line but break the count.",
+        "confidence": 5
+      },
+      {
+        "term": "stanza_4_en_p3_hardness",
+        "rendering": "Stanza 4 (vv. 19–24) takes EN-P3 hardness — but v. 23 begins the softening into the closing petition. The hardness is still in the air; the line is naked, direct, no buffer.",
+        "tradeOff": "Traded register uniformity for register accuracy.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together. v. 23's 'Search me' is the structural answer to v. 1; cutting the imprecation removes the rage that makes the offer costly.",
+        "tradeOff": "Traded the easier liturgical reception for textual honesty.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. v. 23 is the petition turned over: 'know my heart' is direct address, not a request for divine attribute-deployment.",
+        "tradeOff": "Traded abstract for direct-address.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés.",
+        "tradeOff": "Traded familiar devotional register for the literary register.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2, with stanza 4 EN-P3 hardness inflection.",
+        "tradeOff": "Traded uniformity for accuracy.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "Merisms across the psalm kept concrete, never collapsed to abstractions.",
+        "tradeOff": "Traded rhetorical compression for embodied specificity.",
+        "confidence": 5
+      }
+    ],
+    "24": [
+      {
+        "term": "derek_olam_everlasting_way",
+        "rendering": "Hebrew derek ʿôlām rendered 'the everlasting way' — resolving the translator fork toward §F.9's preferred reading. The contrast with v. 24a's derek-ʿōṣeb ('hurtful way') is kept: two 'ways.' The LEBEN footnote at v. 24 flags the dual sense of ʿôlām (everlasting / ancient — cf. Jer 6:16) and opens onto the contemplative-examen tradition ('Search me. Know my heart. Lead me.').",
+        "tradeOff": "Traded the equally defensible 'ancient way' (which has its own scriptural resonance via Jeremiah 6:16) for 'everlasting way.' Both senses live in ʿôlām; the line takes one, the footnote keeps both.",
+        "confidence": 4
+      },
+      {
+        "term": "stanza_4_en_p3_hardness",
+        "rendering": "Stanza 4 (vv. 19–24) takes EN-P3 hardness — but the closing line of v. 24 lands the softest of the stanza: 'lead me in the everlasting way.' The hardness has passed; what remains is the asking. The LEBEN footnote names the verb-echo with v. 10 ('your hand would lead me') — same verb, menace gone, gentle now.",
+        "tradeOff": "Traded register uniformity (which would keep v. 24 as hard as v. 22) for the closing shift the Hebrew makes. The cost: a register modulation inside a single stanza; the gain: the poem lands open-handed, as the exegesis says.",
+        "confidence": 5
+      },
+      {
+        "term": "whole_psalm_integrity",
+        "rendering": "All 24 verses always presented together. v. 24 is the final word — being led, not vindicated — and depends on every preceding verse to mean what it means.",
+        "tradeOff": "Traded the easier liturgical reception for textual honesty.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_not_metaphysical",
+        "rendering": "I–Thou throughout. v. 24's 'lead me' is the relational close — the speaker handing themselves to a Thou who leads, not invoking an attribute.",
+        "tradeOff": "Traded abstract for direct-address.",
+        "confidence": 5
+      },
+      {
+        "term": "register_no_kjv_no_ccm",
+        "rendering": "Contemporary literary English. Zero KJV; zero CCM clichés. v. 24 specifically: 'hurtful way' (not 'wicked way' as moralism); 'everlasting way' as plain noun phrase, not 'way everlasting' as KJV-inversion.",
+        "tradeOff": "Traded familiar devotional cadence for plain contemporary phrasing.",
+        "confidence": 5
+      },
+      {
+        "term": "style_en_p2_intimate_trust",
+        "rendering": "Governing style code EN-P2 (Intimate Trust) — and v. 24's closing petition is the verse the whole code is built for: quiet, first-person, present-tense, understated. The poem ends where its register lives.",
+        "tradeOff": "Traded EN-P1 celebration and EN-P3 unrelieved rawness for the middle code. The gain: the close is exactly in register.",
+        "confidence": 5
+      },
+      {
+        "term": "concrete_merisms",
+        "rendering": "v. 24 hurtful way / everlasting way — the two-ways merism that closes the psalm, kept as concrete contrasting paths rather than collapsed to a single 'right way.'",
+        "tradeOff": "Traded rhetorical compression for the explicit pair the Hebrew names.",
+        "confidence": 5
+      }
+    ]
+  }
+}

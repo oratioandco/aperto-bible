@@ -1,0 +1,277 @@
+{
+  "book": "PSA",
+  "chapter": 23,
+  "lang": "AB-PL",
+  "byVerse": {
+    "1": [
+      {
+        "term": "divine_name_yhwh",
+        "rendering": "Rendered the Tetragrammaton as \"Wiekuisty\" following Izaak Cylkow's Polish-Jewish tradition; the name is retained as a NAME rather than collapsed into the catechetical title \"Pan\" or the scholarly transliteration \"Jahwe.\" In footnote prose discussing what tradition has called the addressee, the small-cap \\nd PAN\\nd* marker is retained for tradition-internal reference, but the live translation surface always reads \"Wiekuisty.\"",
+        "tradeOff": "Trades the catechetical recognisability of \"Pan\" — and the scholarly precision of \"Jahwe\" — for distance from First-Communion register and signals to the secular Warsaw reader that this is the same God a Second Temple worshiper addressed by name; \"Chrystus\"/\"Jezus\" rejected absolutely to preserve the psalm's pre-Christian Jewish voice.",
+        "confidence": 5
+      },
+      {
+        "term": "yhwh_roi",
+        "rendering": "\"Wiekuisty jest moim pasterzem\" — copula \"jest\" required by Polish (Hebrew verbless clause cannot carry in Slavic). The possessive \"moim\" is placed BEFORE \"pasterzem\" — contemporary Polish word order, not the inverted Biblia Tysiąclecia \"pasterzem moim.\"",
+        "tradeOff": "Trades the archaic-liturgical resonance of the inverted Tysiąclecia order for clean register-distance from \"Church Polish\" — word order is the single clearest marker between catechetical Polish and contemporary literary Polish, and is deliberately rejected at the opening line.",
+        "confidence": 5
+      },
+      {
+        "term": "lo_echsar",
+        "rendering": "\"Niczego mi nie brak\" — three-syllable form mirroring the Hebrew's three-syllable lōʾ ʾeḥsār. Present-tense stative, compressed; what a Warsaw 28-year-old would actually say with the same weight a psalmist would have wanted.",
+        "tradeOff": "Trades the future-tense \"niczego mi nie zabraknie\" (v.1 is stative present, not promise), the one-syllable-longer \"niczego mi nie brakuje\" (softens the line), the material \"nie będę w biedzie\" (too economic), and the archaic \"nie zaznam niedostatku\" for compressed present-tense weight with no padding.",
+        "confidence": 5
+      },
+      {
+        "term": "possessive_pronoun_order",
+        "rendering": "Possessive pronouns placed BEFORE nouns throughout the psalm — \"moim pasterzem,\" \"twój kij,\" \"twoja laska,\" \"swoim stole.\" The inverted order is the single clearest Tysiąclecia marker and is deliberately avoided everywhere in the surface text.",
+        "tradeOff": "Trades the inherited liturgical-archaic resonance of inverted word order for the clearest possible register-distance from \"Church Polish\"; the order chosen is the one a Warsaw reader hears as living Polish, not memorised catechism.",
+        "confidence": 5
+      },
+      {
+        "term": "present_tense_dominant",
+        "rendering": "Present tense dominates the whole psalm including v.6 (\"ścigają mnie\") — the future-tense draft was dropped in revision. Every verb of shepherd-action is now (kładzie, prowadzi, przywraca, stawia, sadzasz, ścigają). The vector is now, not later.",
+        "tradeOff": "Trades the promise-shaped reading of a future Hebrew-imperfect (\"będą mnie ścigać\" / \"zamieszkam\") for sustained-present immediacy; the hunt is happening now, the table is set now, the home is inhabited now — continuity of present tense is the psalm's pulse.",
+        "confidence": 5
+      }
+    ],
+    "2": [
+      {
+        "term": "binot_deshe",
+        "rendering": "\"w trawie\" — pared back to the elemental noun without adjective. Hebrew deshe (tender/fresh) is carried by the bareness of the noun itself; a Warsaw reader hears a body laid in grass, not a postcard.",
+        "tradeOff": "Trades the inherited collocation \"zielone pastwiska\" and any adjectival cushioning for a body-felt image — what someone actually feels when laid down, not the picture they see from outside the scene.",
+        "confidence": 5
+      },
+      {
+        "term": "yarbitseni",
+        "rendering": "\"Kładzie mnie\" — hiphil causative held literal (he lays me down). Stage 5c verdict: directness wins; inside the full phrase \"Kładzie mnie w trawie\" the verb lands as care, not coercion — it is the verb a parent uses for a child, a nurse for a patient.",
+        "tradeOff": "Trades the softer permissive \"pozwala mi odpocząć\" (lets me rest) — which had survived the earlier draft — for strict hiphil causation; risks a coercive overtone but the elemental noun \"trawie\" neutralises it, and the ANE shepherd-as-enablement-causation reading is preserved without softening.",
+        "confidence": 5
+      },
+      {
+        "term": "mei_menuchot",
+        "rendering": "\"do wody\" plus the italicised add-text \"tam, gdzie wolno mi się zatrzymać\" (\"there, where I am allowed to stop\"). The KULTUR footnote carries the philological work on mənuḥôt (\"waters of rest\" = places where one can stop), so the surface text is elemental and the add-text names what the place is for.",
+        "tradeOff": "Trades the descriptive \"spokojna woda\" (too descriptive, rejected in revision) and the fuller \"nad wodami odpoczynku\" for elemental surface plus a permission-naming add-text; trusts the reader to feel the permission rather than being told the water is calm.",
+        "confidence": 5
+      },
+      {
+        "term": "yenahaleni",
+        "rendering": "\"Prowadzi mnie\" — plain leading. Polish \"prowadzi\" already carries the gentle-leading range of Hebrew nahal when the context is shepherd + water; no modifier needed.",
+        "tradeOff": "none — over-translating to \"łagodnie prowadzi\" would be redundant telegraphing; the context does the work the modifier would only repeat.",
+        "confidence": 4
+      },
+      {
+        "term": "possessive_pronoun_order",
+        "rendering": "Possessive pronouns placed BEFORE nouns throughout the psalm — \"moim pasterzem,\" \"twój kij,\" \"twoja laska,\" \"swoim stole.\" The inverted order is the single clearest Tysiąclecia marker and is deliberately avoided everywhere in the surface text.",
+        "tradeOff": "Trades the inherited liturgical-archaic resonance of inverted word order for the clearest possible register-distance from \"Church Polish\"; the order chosen is the one a Warsaw reader hears as living Polish, not memorised catechism.",
+        "confidence": 5
+      },
+      {
+        "term": "present_tense_dominant",
+        "rendering": "Present tense dominates the whole psalm including v.6 (\"ścigają mnie\") — the future-tense draft was dropped in revision. Every verb of shepherd-action is now (kładzie, prowadzi, przywraca, stawia, sadzasz, ścigają). The vector is now, not later.",
+        "tradeOff": "Trades the promise-shaped reading of a future Hebrew-imperfect (\"będą mnie ścigać\" / \"zamieszkam\") for sustained-present immediacy; the hunt is happening now, the table is set now, the home is inhabited now — continuity of present tense is the psalm's pulse.",
+        "confidence": 5
+      }
+    ],
+    "3": [
+      {
+        "term": "nafshi_yeshovev",
+        "rendering": "\"Przywraca mnie do życia\" — \"he restores me to life\" / \"brings me back to life.\" Resuscitation vocabulary — shuv + nefesh as deployed in Ruth 4:15 and Lamentations 1:11/16/19 (\"revive the dying\"). THE #1 CRITICAL DECISION OF THE ENTIRE PSALM. The phrase a Polish doctor uses after successful resuscitation; also what a Warsaw 28-year-old might sincerely say about emerging from burnout, depression, or grief.",
+        "tradeOff": "Trades the Sienkiewicz-era literary \"pokrzepia duszę moją\" (now kitsch) and the Gatorade-spirituality \"refreshes my soul\" for explicit resuscitation language; the entire Brueggemann \"reorientation-after-disorientation\" reading is delivered in this one phrase — someone was near death, he brought them back.",
+        "confidence": 5
+      },
+      {
+        "term": "yanheni_bemagle_tsedek",
+        "rendering": "\"znów stawia mnie na ścieżce, którą znam\" — \"he sets me again on the path I know.\" The verb stawia (sets, places) mirrors the resuscitation imagery of the preceding line (someone who fell being set back upright); \"ścieżka, którą znam\" lands as the path the reader walked before the dolina and had stopped trusting.",
+        "tradeOff": "Trades the abstract \"właściwą drogą\" (the right way — survived Stage 5b but too abstract) and the catechetical \"ścieżki sprawiedliwości\" (Tysiąclecia, immediate church-distance trigger) for a phrase resuscitation-continuous with the prior line; the tsedeq moral resonance is carried by \"the path one knows\" being a true one by implication, not by a fossilised abstract noun.",
+        "confidence": 5
+      },
+      {
+        "term": "lemaan_shemo",
+        "rendering": "\"bo jest tym, kim jest\" — \"because he is who he is.\" Living Polish idiom for someone whose character is non-negotiable, whose actions express identity rather than calculation. The shepherd's own identity is bound up in caring for this sheep. The TEXT footnote carries the philological note on ləmaʿan šəmô.",
+        "tradeOff": "Trades the faithful-juridical \"ze względu na swoje imię\" (too philosophical) and the liturgical \"dla swego imienia\" for an idiomatic phrase that delivers identity-bound responsibility without sounding juridical; preserves the Hebrew's \"his reputation is on the line\" force in living Polish.",
+        "confidence": 5
+      },
+      {
+        "term": "possessive_pronoun_order",
+        "rendering": "Possessive pronouns placed BEFORE nouns throughout the psalm — \"moim pasterzem,\" \"twój kij,\" \"twoja laska,\" \"swoim stole.\" The inverted order is the single clearest Tysiąclecia marker and is deliberately avoided everywhere in the surface text.",
+        "tradeOff": "Trades the inherited liturgical-archaic resonance of inverted word order for the clearest possible register-distance from \"Church Polish\"; the order chosen is the one a Warsaw reader hears as living Polish, not memorised catechism.",
+        "confidence": 5
+      },
+      {
+        "term": "present_tense_dominant",
+        "rendering": "Present tense dominates the whole psalm including v.6 (\"ścigają mnie\") — the future-tense draft was dropped in revision. Every verb of shepherd-action is now (kładzie, prowadzi, przywraca, stawia, sadzasz, ścigają). The vector is now, not later.",
+        "tradeOff": "Trades the promise-shaped reading of a future Hebrew-imperfect (\"będą mnie ścigać\" / \"zamieszkam\") for sustained-present immediacy; the hunt is happening now, the table is set now, the home is inhabited now — continuity of present tense is the psalm's pulse.",
+        "confidence": 5
+      }
+    ],
+    "4": [
+      {
+        "term": "gam_ki_elech",
+        "rendering": "\"Nawet\" — the line opens \"Nawet przez najciemniejszą dolinę\"; the verb drops out and the preposition \"przez\" carries the motion. Denser and more Tokarczuk: the walking is implied, not stated.",
+        "tradeOff": "Trades the explicit \"Nawet gdy idę\" of the Stage 5b draft for implicit-present compression; the reorientation-poetry effect (Brueggemann — speaker looking back at disorientation from the far side) is increased, not weakened, by the compression.",
+        "confidence": 5
+      },
+      {
+        "term": "begei_tsalmavet",
+        "rendering": "\"najciemniejszą dolinę\" — single superlative adjective. Tsalmavet is read philologically as \"deep darkness\" (Alter, Kraus, Hossfeld-Zenger) with an echo of death rather than a literal genitive of death. The TEXT footnote carries the full philological discussion and the explicit rejection of \"cień śmierci.\"",
+        "tradeOff": "Trades the Tysiąclecia \"doliną cienia śmierci\" (too Catholic-liturgical, triggers immediate church-distance) and the flattened \"doliną ciemności\" (loses the weight) and the earlier draft's \"głębokiego mroku\" for a clean compressed superlative; the death-resonance arrives through the larger image (valley, fearing nothing) rather than through a fossilised phrase.",
+        "confidence": 5
+      },
+      {
+        "term": "lo_ira_ra",
+        "rendering": "\"nie boję się niczego\" — present tense; \"niczego\" (nothing/anything) chosen over \"zła\" (evil). The breath of someone who has come out the other side, answering a totalising dark with a totalising answer. The UNGLAUBLICH footnote handles the moral-cosmic dimension for readers who want it.",
+        "tradeOff": "Trades philological literalness on the morally-weighted ra (\"nie boję się zła\" risks intellectualising the fear — which evil? whose?) for visceral truth in context; gives up moral specificity for the totalising answer the dolina demands.",
+        "confidence": 5
+      },
+      {
+        "term": "ki_atta_immadi",
+        "rendering": "\"Ty jesteś przy mnie\" — THE SPINE OF THE PSALM. The grammatical pronoun pivots from third person to second; Polish carries the pivot with devastating force because \"Ty\" can be dropped or made emphatic, and is here made emphatic. Preposition \"przy\" (by/beside, body-next-to-body) chosen over \"ze\" (with, accompanying). Stanza break before the line preserved. The KONTEXT footnote makes the ʾattā exposure explicit.",
+        "tradeOff": "Trades the smoother dropped-pronoun \"bo jesteś ze mną\" for emphatic typographic Ty and physical \"przy\"; the Polish freedom to drop or emphasise \"Ty\" is used deliberately for maximum pivot force, and \"przy\" delivers body-next-to-body presence where \"ze\" would only state companionship.",
+        "confidence": 5
+      },
+      {
+        "term": "shivtekha_umishantekha",
+        "rendering": "\"twój kij mnie broni / twoja laska prowadzi mnie w bezpieczne miejsce\" — Hebrew order restored (shebet/kij first, then mish'enet/laska), split across two lines with distinct function-verbs (rod defends, staff leads to safety). Doubled \"twój/twoja\" sustains second-person intimacy. The KULTUR footnote distinguishes rod (defence against predators) from staff (guidance and pulling out of crevices).",
+        "tradeOff": "Trades the Polish-rhythmic \"laska i kij pasterski\" of the Stage 5b draft for Hebrew-faithful order plus structural distinctness — each tool gets its own verb, matching the ANE shepherd-with-weapons reality. \"Różdżka\" (little rod, old Bibles) absolutely rejected as instant magic-wand laughter trigger in a secular Polish reader.",
+        "confidence": 5
+      },
+      {
+        "term": "hemma_yenachamuni",
+        "rendering": "Absorbed into the split-line function-verbs broni / prowadzi. Comfort is enacted by the rod defending and the staff leading to safety, not stated abstractly; the KULTUR footnote (\"the presence of the shepherd's weapons is paradoxically a comfort\") carries the conceptual link.",
+        "tradeOff": "Trades the explicit clause \"one mnie pocieszają\" (used in the earlier draft, tautological after the function-verbs) for action-shown comfort; the surface text shows what comforts rather than naming it, which is denser and more honest to how comfort actually works.",
+        "confidence": 5
+      },
+      {
+        "term": "second_person_sustained_from_v4",
+        "rendering": "Second-person address sustained from v.4 onward — Ty / ty / twój does not disappear once established. v.4 carries \"Ty jesteś przy mnie,\" \"twój kij,\" \"twoja laska\"; v.5 is entirely \"you\" addressed (\"ty sadzasz,\" \"nazywasz\"); v.6 is too (\"Twoja dobroć,\" \"twój dom\"). This is the psalm's spine.",
+        "tradeOff": "Trades the naturalness of third-person narrative (which would have been easier to sustain across the whole psalm) for relational intimacy; once the pronoun pivots, every subsequent line addresses the shepherd directly, and that sustained address is what carries the second-movement reading.",
+        "confidence": 5
+      },
+      {
+        "term": "possessive_pronoun_order",
+        "rendering": "Possessive pronouns placed BEFORE nouns throughout the psalm — \"moim pasterzem,\" \"twój kij,\" \"twoja laska,\" \"swoim stole.\" The inverted order is the single clearest Tysiąclecia marker and is deliberately avoided everywhere in the surface text.",
+        "tradeOff": "Trades the inherited liturgical-archaic resonance of inverted word order for the clearest possible register-distance from \"Church Polish\"; the order chosen is the one a Warsaw reader hears as living Polish, not memorised catechism.",
+        "confidence": 5
+      },
+      {
+        "term": "present_tense_dominant",
+        "rendering": "Present tense dominates the whole psalm including v.6 (\"ścigają mnie\") — the future-tense draft was dropped in revision. Every verb of shepherd-action is now (kładzie, prowadzi, przywraca, stawia, sadzasz, ścigają). The vector is now, not later.",
+        "tradeOff": "Trades the promise-shaped reading of a future Hebrew-imperfect (\"będą mnie ścigać\" / \"zamieszkam\") for sustained-present immediacy; the hunt is happening now, the table is set now, the home is inhabited now — continuity of present tense is the psalm's pulse.",
+        "confidence": 5
+      }
+    ],
+    "5": [
+      {
+        "term": "taaroch_lefanai_shulchan",
+        "rendering": "\"A ty sadzasz mnie przy swoim stole\" — \"you seat me at your table.\" Dynamic-equivalence reframing inside the honour/shame frame: the host is not just providing food, the host is seating the dishonoured guest at his own table. \"Sadzasz mnie\" makes the relational gesture explicit; \"swoim stole\" (your table, not \"a\" table) names the host's table specifically. Present tense; second person sustains from v.4.",
+        "tradeOff": "Trades the literal \"zastawiasz przede mną stół\" — which left the relational gesture abstract — for the honour/shame-frame explicit; gives up surface-level Hebrew faithfulness to recover what the verse actually means inside its cultural frame.",
+        "confidence": 5
+      },
+      {
+        "term": "neged_tsorerai",
+        "rendering": "\"naprzeciw moich wrogów, na ich oczach\" — both \"naprzeciw\" (opposite, facing) and \"na ich oczach\" (in their eyes / in full view of) stacked. Refuses any reading that turns the enemies into background noise: they are physically opposite, and they are watching. The KULTUR footnote develops the honour/shame frame and public-rehabilitation reading.",
+        "tradeOff": "Trades a single-clause rendering for emphatic doubling — the enemies must be PRESENT, not a rhetorical flourish; the doubling forecloses any private-comfort reading and makes the public-space dimension audible to a Warsaw reader who would otherwise read this as inner-life imagery.",
+        "confidence": 5
+      },
+      {
+        "term": "u_szczytu_stolu_add_text",
+        "rendering": "Explicit add-text \"U szczytu stołu.\" — \"at the head of the table.\" Names the place the seated guest occupies; the implicit royal/honoured position becomes visible to a contemporary Polish reader without a culture footnote in the body text. Flagged with \\add as translator-supplied.",
+        "tradeOff": "Trades faithfulness to the Hebrew surface (which has no such phrase) for transport of the honour-frame; the seat at the head is the seat for the publicly honoured one — making it explicit prevents the secular reader from missing the dimension on which the whole verse turns.",
+        "confidence": 5
+      },
+      {
+        "term": "dishanta_vashemen_roshi",
+        "rendering": "\"Olejek we włosach\" — the verb drops out entirely; sensory snapshot, almost a still image. The moment is named, not narrated. The KULTUR footnote carries the lexical work: diššantā from dāšēn (abundance, fat) = hospitality-overflow, not coronation. \"Olejek\" retained (not \"olej\" — \"olej\" is cooking oil).",
+        "tradeOff": "Trades the fuller verb-led \"Namaszczasz moją głowę olejkiem\" of the Stage 5b draft for a Tokarczuk-shaped sensory snapshot; gives up the explicit action-statement to let the reader feel the gesture before deciding what to think about it.",
+        "confidence": 5
+      },
+      {
+        "term": "kosi_revayah",
+        "rendering": "\"kielich po brzegi\" — bare nominal phrase; possessive drops, copula drops, line stands as a two-stroke image continuous with \"olejek we włosach.\" Revayah (saturation, overflow) is carried by \"po brzegi\" (to the brim). \"Kielich\" remains the correct word (wine cup, ceremonial), not \"kubek\" (mug). The KONTEXT footnote develops the anti-prosperity-gospel reading.",
+        "tradeOff": "Trades the fuller \"mój kielich jest pełen po brzegi\" of the Stage 5b draft for compressed bare image; gives up the explicit possessive and copula to pair this line typographically with the prior sensory snapshot.",
+        "confidence": 5
+      },
+      {
+        "term": "relational_claim_add_text",
+        "rendering": "Explicit add-text \"Nazywasz mnie swoim i żaden wróg mnie nie tknie.\" — \"You name me yours and no enemy will touch me.\" Surfaces the relational/protective logic of the hospitality scene that ancient hearers would have heard implicitly inside the table-image but a modern Polish reader needs surfaced: at the host's table, in the host's name, the guest is untouchable. Flagged with \\add.",
+        "tradeOff": "Trades surface-text minimalism for explicit transport of the honour/shame protective dimension; gives up faithfulness-to-Hebrew-surface (there is no such phrase in the source) to deliver the cultural-frame protection that the table-image alone does not convey to a Warsaw reader.",
+        "confidence": 5
+      },
+      {
+        "term": "second_person_sustained_from_v4",
+        "rendering": "Second-person address sustained from v.4 onward — Ty / ty / twój does not disappear once established. v.4 carries \"Ty jesteś przy mnie,\" \"twój kij,\" \"twoja laska\"; v.5 is entirely \"you\" addressed (\"ty sadzasz,\" \"nazywasz\"); v.6 is too (\"Twoja dobroć,\" \"twój dom\"). This is the psalm's spine.",
+        "tradeOff": "Trades the naturalness of third-person narrative (which would have been easier to sustain across the whole psalm) for relational intimacy; once the pronoun pivots, every subsequent line addresses the shepherd directly, and that sustained address is what carries the second-movement reading.",
+        "confidence": 5
+      },
+      {
+        "term": "possessive_pronoun_order",
+        "rendering": "Possessive pronouns placed BEFORE nouns throughout the psalm — \"moim pasterzem,\" \"twój kij,\" \"twoja laska,\" \"swoim stole.\" The inverted order is the single clearest Tysiąclecia marker and is deliberately avoided everywhere in the surface text.",
+        "tradeOff": "Trades the inherited liturgical-archaic resonance of inverted word order for the clearest possible register-distance from \"Church Polish\"; the order chosen is the one a Warsaw reader hears as living Polish, not memorised catechism.",
+        "confidence": 5
+      },
+      {
+        "term": "present_tense_dominant",
+        "rendering": "Present tense dominates the whole psalm including v.6 (\"ścigają mnie\") — the future-tense draft was dropped in revision. Every verb of shepherd-action is now (kładzie, prowadzi, przywraca, stawia, sadzasz, ścigają). The vector is now, not later.",
+        "tradeOff": "Trades the promise-shaped reading of a future Hebrew-imperfect (\"będą mnie ścigać\" / \"zamieszkam\") for sustained-present immediacy; the hunt is happening now, the table is set now, the home is inhabited now — continuity of present tense is the psalm's pulse.",
+        "confidence": 5
+      }
+    ],
+    "6": [
+      {
+        "term": "yirdefuni",
+        "rendering": "\"ścigają mnie\" — present tense, Polish hunt-verb. Hebrew rādap is the hunt/chase/pursue verb used throughout the Psalter for enemies pursuing the psalmist (Pss 7, 18, 31, 35, 69, 71, 143); the theological inversion is that the hunt-verb is turned on its head — what used to chase me with harm now chases me with good. Polish \"ścigać\" carries the weight of police pursuit, debt collection, the hunt — and that ceiling-weight, reversed onto goodness and faithful love, is the shock of the psalm. THE MOST IMPORTANT TRANSLATION DECISION IN THE PSALM. The KULTUR footnote develops the rādap reversal in full.",
+        "tradeOff": "Trades the domesticating \"towarzyszyć\" (to accompany — Tysiąclecia, absolute cardinal sin that kills the reversal) and the future-tense \"będą mnie ścigać\" of the Stage 5b draft for present-tense visceral pursuit bound to the second-person addressee; gives up the smoother \"accompany\" register entirely because anything softer destroys the theological inversion the verse exists to deliver.",
+        "confidence": 5
+      },
+      {
+        "term": "tov_vahesed",
+        "rendering": "\"Twoja dobroć i wierna miłość\" — \"wierna miłość\" (\"faithful love\" / \"loyal love\") names covenant-love directly. Pairs active goodness (ṭôb) with steadfast loyalty (ḥesed) as internally-distinct hendiadys; the second-person possessive \"Twoja\" added at the head of the line binds the pursuit to the addressee whose presence the speaker has been addressing since v.4. The TEXT footnote makes the philological case explicitly (covenant-love, hendiadys with ṭôb).",
+        "tradeOff": "Trades the credible-but-thin \"łaska\" (Stage 5b candidate — carries both theological grace and secular favour but landed too light against the hunt-verb) and the Catholic-coded \"miłosierdzie\" (rejected outright) for direct covenant-love naming; emotional warmth is delivered by ścigać, relational backbone by wierna miłość.",
+        "confidence": 5
+      },
+      {
+        "term": "kol_yemei_chayyai",
+        "rendering": "\"póki życia\" — two-word Polish vow-idiom (\"as long as life lasts\"), used in vows, poetry, obituaries. Same Hebrew temporal-frame meaning with one-third the syllables; absorbs le'orech yamim from the end of the verse so the temporal frame is named once and carried through.",
+        "tradeOff": "Trades the correct-but-heavy \"po wszystkie dni mego życia\" of the Stage 5b draft for compressed breath-length; gives up word-for-word literalness to let the line breathe and match the surface compression of the whole revised v.6.",
+        "confidence": 5
+      },
+      {
+        "term": "veshavti_beveit_yhwh",
+        "rendering": "\"A twój dom – w nim jestem u siebie.\" — second-person possessive \"twój\" sustains the pronoun pivot from v.4; \"jestem u siebie\" (\"I am at my own place\" / \"I am at home\") is a contemporary Polish idiom for belonging that lands without ecclesiastical scaffolding. The shuv reading (return) preferred by Alter, Hossfeld-Zenger, and Kraus — with the Ps 22–23–24 redactional triad as the frame — is retained at the philological level; the TEXT footnote names the manuscript variant and the scholarly preference.",
+        "tradeOff": "Trades the explicit verb-of-return \"wrócę do domu Pana\" for native-Polish belonging idiom — return is implied by being-at-home in it rather than narrated as future motion; gives up surface-level explicitness on the shuv verb to let secular Polish readers carrying their own return-stories (emigration, exile, diaspora, post-communist return) feel the return without being told.",
+        "confidence": 5
+      },
+      {
+        "term": "le_orech_yamim",
+        "rendering": "Absorbed into \"póki życia\" earlier in the verse — not translated twice. NON-NEGOTIABLE: no \"na wieki\" (forever/eternally), no \"po najdłuższe czasy.\" Le'orech yamim is the Hebrew idiom for \"for a long time / for the duration of life,\" not the eternal-afterlife phrase. The LEBEN footnote carries the philological argument against the eternal reading and the case for the Hebrew's this-world temporal frame.",
+        "tradeOff": "Trades the Tysiąclecia \"na wieki\" (the second great Tysiąclecia distortion, imports Christian eternity into a pre-hellenistic Hebrew text that has no afterlife doctrine) for Hebrew this-world temporal frame; trusts the reader to hear \"as long as life lasts\" once and read it through the whole verse rather than translating the idiom twice.",
+        "confidence": 5
+      },
+      {
+        "term": "twoj_dom_second_person_possessive",
+        "rendering": "\"twój dom\" with lowercase \"dom\" (not liturgical capitalisation). The v.4 pronoun pivot carries through to v.6: the referent is no longer named in the third person (\"dom Wiekuistego\") but addressed directly as \"twój dom.\" The referent is still the Temple, but \"Świątynia\" is rejected (too architectural, loses the relational intimacy), and the sustained second person carries the name.",
+        "tradeOff": "Trades the catechetical \"Dom Pański\" and the architecturally-precise \"Świątynia\" for sustained-second-person carrying the name; the referent is still the Temple but is delivered relationally rather than ecclesiastically, and the lowercase \"dom\" refuses the liturgical capitalisation reflex.",
+        "confidence": 5
+      },
+      {
+        "term": "second_person_sustained_from_v4",
+        "rendering": "Second-person address sustained from v.4 onward — Ty / ty / twój does not disappear once established. v.4 carries \"Ty jesteś przy mnie,\" \"twój kij,\" \"twoja laska\"; v.5 is entirely \"you\" addressed (\"ty sadzasz,\" \"nazywasz\"); v.6 is too (\"Twoja dobroć,\" \"twój dom\"). This is the psalm's spine.",
+        "tradeOff": "Trades the naturalness of third-person narrative (which would have been easier to sustain across the whole psalm) for relational intimacy; once the pronoun pivots, every subsequent line addresses the shepherd directly, and that sustained address is what carries the second-movement reading.",
+        "confidence": 5
+      },
+      {
+        "term": "possessive_pronoun_order",
+        "rendering": "Possessive pronouns placed BEFORE nouns throughout the psalm — \"moim pasterzem,\" \"twój kij,\" \"twoja laska,\" \"swoim stole.\" The inverted order is the single clearest Tysiąclecia marker and is deliberately avoided everywhere in the surface text.",
+        "tradeOff": "Trades the inherited liturgical-archaic resonance of inverted word order for the clearest possible register-distance from \"Church Polish\"; the order chosen is the one a Warsaw reader hears as living Polish, not memorised catechism.",
+        "confidence": 5
+      },
+      {
+        "term": "present_tense_dominant",
+        "rendering": "Present tense dominates the whole psalm including v.6 (\"ścigają mnie\") — the future-tense draft was dropped in revision. Every verb of shepherd-action is now (kładzie, prowadzi, przywraca, stawia, sadzasz, ścigają). The vector is now, not later.",
+        "tradeOff": "Trades the promise-shaped reading of a future Hebrew-imperfect (\"będą mnie ścigać\" / \"zamieszkam\") for sustained-present immediacy; the hunt is happening now, the table is set now, the home is inhabited now — continuity of present tense is the psalm's pulse.",
+        "confidence": 5
+      }
+    ]
+  }
+}

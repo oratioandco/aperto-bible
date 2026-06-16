@@ -10,64 +10,65 @@
 ## Kapitel 1
 
 
-### Dlaczego to piszę
+### Do Teofila
 
 
-**1** Wielu już podjęło się przed nami spisania uporządkowanej relacji o tym wszystkim, co dokonało się i wypełniło wśród nas[^1]
-**2** – tak, jak przekazali nam ci, którzy od samego początku byli naocznymi świadkami[^2] i którzy później stali się sługami tego słowa –  **3** postanowiłem i ja, kiedy sam dokładnie wszystko prześledziłem, spisać to po kolei dla ciebie, dostojny Teofilu,[^3]
-**4** abyś miał pewny grunt pod tym, czego cię nauczono.[^4]
+**1** Dostojny Teofilu,[^1] wielu już podjęło się przed nami spisania uporządkowanej relacji o tym wszystkim, co dokonało się i wypełniło wśród nas.[^2]
+**2** Tak, jak przekazali nam ci, którzy od samego początku byli naocznymi świadkami[^3] i którzy później stali się sługami tego słowa.
+**3** Postanowiłem i ja, kiedy sam dokładnie wszystko prześledziłem, spisać to dla ciebie po kolei,
+**4** abyś poznał pewny grunt tego, czego cię nauczono.[^4]
 
 ### Obietnica złożona staremu kapłanowi
 
 
-**5** Za panowania Heroda,[^5] króla Judei, żył w niej kapłan imieniem Zachariasz, z kapłańskiej zmiany Abiasza.[^6] Jego żona pochodziła z rodu Aarona i miała na imię Elżbieta.*Oboje z kapłańskich rodzin – dom, któremu we wsi wszyscy mieli powód zazdrościć błogosławieństwa.*
-**6** Oboje żyli przed Bogiem sprawiedliwie i nikt nie mógłby im niczego zarzucić – przestrzegali każdego przykazania, każdego nakazu Pana.[^7]
-**7** *A jednak.* Nie mieli dziecka – Elżbieta była bezdzietna, a oboje już posunięci w latach.[^8] *To nie był prywatny smutek. To była hańba – pytanie, które wisiało nad ich domem od dziesięcioleci: co zrobili nie tak.*
+**5** Za panowania Heroda,[^5] króla Judei, żył w niej kapłan imieniem Zachariasz, z kapłańskiej zmiany Abiasza.[^6] Jego żona pochodziła z rodu Aarona i miała na imię Elżbieta.*Oboje z kapłańskich rodzin. Dom, któremu we wsi wszyscy mieli powód zazdrościć błogosławieństwa.*
+**6** Oboje żyli przed Bogiem sprawiedliwie, i nikt nie mógłby im niczego zarzucić. Przestrzegali każdego przykazania, każdego nakazu Pana.[^7]
+**7** *A jednak.* Nie mieli dziecka. Elżbieta była bezdzietna, a oboje już posunięci w latach.[^8] *To nie był prywatny smutek. To była hańba. Pytanie, które wisiało nad ich domem od dziesięcioleci: co zrobili nie tak.*
 
 **8** Pewnego razu, gdy w kolejności przypadła jego zmiana, Zachariasz pełnił służbę kapłańską przed Bogiem.
-**9** Według zwyczaju kapłańskiego wyciągnięto losy – i jemu wypadło wejść do przybytku Pana i złożyć ofiarę z kadzidła.[^9] *Moment, na który kapłan czeka całe życie. Wielu nie doczekuje nigdy.*
-**10** Wszyscy modlili się na zewnątrz, w godzinie kadzielnej. *Wewnątrz – sam Zachariasz. Złoty ołtarz przed nim, dym kadzidła unosił się powoli, siedmioramienny świecznik rzucał migotliwe światło na zasłonę. Cisza.*
+**9** Według zwyczaju kapłańskiego wyciągnięto losy. Jemu wypadło wejść do przybytku Pana i złożyć ofiarę z kadzidła.[^9] *Moment, na który kapłan czeka całe życie. Wielu nie doczekuje nigdy.*
+**10** Wszyscy modlili się na zewnątrz, w godzinie kadzielnej. *Wewnątrz: sam Zachariasz. Złoty ołtarz przed nim, dym kadzidła unosił się powoli, siedmioramienny świecznik rzucał migotliwe światło na zasłonę. Cisza.*
 
-**11** Wtedy ukazał mu się anioł Pana[^10] – stał po prawej stronie ołtarza kadzielnego*– po stronie, z której przychodzi błogosławieństwo*.
+**11** Wtedy ukazał mu się anioł Pana[^10] Stał po prawej stronie ołtarza kadzielnego.*Po stronie, z której przychodzi błogosławieństwo.*
 **12** Strach ogarnął Zachariasza.[^11]
 
 **13** Ale anioł przemówił:
 
-**14** Będzie dla ciebie radością i weselem – i wielu będzie się cieszyć z jego narodzin.
+**14** Będzie dla ciebie radością i weselem. Wielu będzie się cieszyć z jego narodzin.
 **15** Bo będzie wielki w oczach Pana. Nie tknie wina ani niczego mocnego,[^12] a Duch Święty napełni go już w łonie matki.
 **16** Wielu synów Izraela nawróci do Pana, ich Boga.
-**17** Sam pójdzie przed Nim w duchu i mocy Eliasza,[^13] aby zwrócić serca ojców ku dzieciom, a nieposłusznych – ku mądrości sprawiedliwych. Aby przygotować Panu lud na Jego przyjście."
+**17** Sam pójdzie przed Nim w duchu i mocy Eliasza,[^13] aby zwrócić serca ojców ku dzieciom, a nieposłusznych ku mądrości sprawiedliwych. Aby przygotować Panu lud na Jego przyjście."
 
 **18** Zachariasz odpowiedział aniołowi: „Po czym to poznam? Ja jestem stary. I moja żona już w podeszłym wieku."
 
 **19** Anioł odrzekł: „Ja jestem Gabriel.[^14] Stoję przed obliczem Boga. Zostałem posłany, by przynieść ci tę dobrą nowinę.
-**20** A teraz – będziesz milczał, niezdolny do mówienia, aż do dnia, gdy się to spełni. Bo nie uwierzyłeś moim słowom, a one spełnią się w swoim czasie."[^15]
+**20** A teraz: będziesz milczał, niezdolny do mówienia, aż do dnia, gdy się to spełni. Bo nie uwierzyłeś moim słowom, a one spełnią się w swoim czasie."[^15]
 
 **21** Tymczasem lud czekał na Zachariasza. *Czekał zbyt długo.* Dziwili się, że tak długo jest w sanktuarium.
-**22** Kiedy wyszedł, nie mógł do nich mówić. Zrozumieli, że w przybytku miał widzenie. Pokazywał im na migi – i pozostawał niemy.
+**22** Kiedy wyszedł, nie mógł do nich mówić. Zrozumieli, że w przybytku miał widzenie. Pokazywał im na migi i pozostawał niemy.
 **23** A gdy upłynęły dni jego służby, wrócił do swojego domu.
 
 **24** Po jakimś czasie Elżbieta, jego żona, zaszła w ciążę i przez pięć miesięcy ukrywała się, mówiąc:
-**25** „To Pan dla mnie zrobił. Spojrzał – i zdjął ze mnie hańbę wśród ludzi."[^16]
+**25** „To Pan dla mnie zrobił. Spojrzał. I zdjął ze mnie hańbę wśród ludzi."[^16]
 
 ### Zwiastowanie narodzin Jezusa
 
 
 **26** W szóstym miesiącu Bóg posłał anioła Gabriela do miasta w Galilei zwanego Nazaret.*Nie do Jerozolimy. Nie do Świątyni. Do wioski, której prawie nikt nie umiał wskazać na mapie.*[^17]
-**27** Do dziewczyny[^18] zaręczonej z człowiekiem imieniem Józef, z rodu Dawida.*Zaręczyny w tym świecie były wiążące prawnie – Maria była już żoną Józefa, choć mieszkała jeszcze u rodziców. Ciąża w tym okresie mogła zostać uznana za cudzołóstwo.*[^19] Dziewczyna miała na imię Maria.
+**27** Do dziewczyny[^18] zaręczonej z człowiekiem imieniem Józef, z rodu Dawida.*Zaręczyny w tym świecie były wiążące prawnie. Maria była już żoną Józefa, choć mieszkała jeszcze u rodziców. Ciąża w tym okresie mogła zostać uznana za cudzołóstwo.*[^19] Dziewczyna miała na imię Maria.
 
 **28** Anioł przyszedł do niej i powiedział: „Bóg spojrzał na ciebie z niezwykłą przychylnością. Jest przy tobie."[^20]
 **29** Te słowa nią wstrząsnęły.[^21] Zastanawiała się, co właściwie miało znaczyć takie powitanie.
 
-**30** „Nie bój się, Mario" – powiedział anioł. „Bóg spojrzał na ciebie z życzliwością.
+**30** „Nie bój się, Mario," powiedział anioł. „Bóg spojrzał na ciebie z życzliwością.
 **31** Poczniesz i urodzisz syna, i nadasz mu imię Jezus.[^22]
 **32** Będzie wielki. Będą Go nazywać Synem Najwyższego. Pan Bóg da Mu tron Jego ojca, Dawida.[^23]
 **33** Będzie panował nad domem Jakuba na wieki, a Jego królestwu nie będzie końca."
 
 **34** Maria zapytała: „Jak to się stanie, skoro nie spałam z mężczyzną?"
 
-**35** Anioł odpowiedział: „Duch Święty zstąpi na ciebie i moc Najwyższego cię osłoni*– tak, jak obłok kiedyś okrył Namiot Spotkania.*[^24][^25] Dlatego to, co się narodzi – święte – będzie nazwane Synem Bożym.
-**36** I posłuchaj: Elżbieta, twoja krewna, *ta, o której mówiono, że nie może mieć dzieci,* też jest w ciąży, w swoim wieku – to już szósty miesiąc.
+**35** Anioł odpowiedział: „Duch Święty zstąpi na ciebie i moc Najwyższego cię osłoni,*tak, jak obłok kiedyś okrył Namiot Spotkania.*[^24][^25] Dlatego to, co się narodzi, święte, będzie nazwane Synem Bożym.
+**36** I posłuchaj: Elżbieta, twoja krewna, *ta, o której mówiono, że nie może mieć dzieci,* też jest w ciąży, w swoim wieku. To już szósty miesiąc.
 **37** Bo dla Boga nie ma rzeczy niemożliwej."[^26]
 
 **38** *Maria wiedziała, co to znaczy: niezamężna i w ciąży. Hańba. Wyrok.* Mimo to powiedziała: „Należę do Pana.[^27] Niech tak się stanie, jak powiedziałeś."[^28][^29]
@@ -76,38 +77,39 @@
 ### Maria u Elżbiety
 
 
-**39** Maria wyruszyła zaraz. Spiesznie – w górzysty kraj Judei.*Kilka dni drogi z Galilei.*
+**39** Maria wyruszyła zaraz. Spiesznie, w górzysty kraj Judei.*Kilka dni drogi z Galilei.*
 **40** Weszła do domu Zachariasza i pozdrowiła Elżbietę.
 **41** Gdy tylko Elżbieta usłyszała pozdrowienie Marii, dziecko poruszyło się w niej gwałtownie[^30][^31], a ją samą napełnił Duch Święty.
-**42** I zawołała donośnym głosem*– jak prorokini*[^32]:
+**42** I zawołała donośnym głosem,*jak prorokini*[^32]:
 
 **43** Skąd mi to, że przychodzi do mnie matka mojego Pana?[^33]
-**44** Bo gdy tylko twoje pozdrowienie zabrzmiało w moich uszach – dziecko w moim łonie podskoczyło z radości.
-**45** A masz szczęście, że uwierzyłaś – bo spełni się to, co ci powiedział Pan."[^34]
+**44** Bo gdy tylko twoje pozdrowienie zabrzmiało w moich uszach, dziecko w moim łonie podskoczyło z radości.
+**45** A masz szczęście, że uwierzyłaś. Spełni się to, co ci powiedział Pan."[^34]
 
 ### Pieśń Marii
 
 
-**46** Wszystko we mnie – wszystko! – wielbi Pana,[^35]
-> mój duch wybucha radością – \f + \fr 1:47 \fk TEXT \fq mój duch eksploduje radością \ft Greckie \fq ἠγαλλίασεν\fq* – „radować się gwałtownie, krzyczeć z radości". To nie cicha pogoda ducha; to ekstatyczna eksplozja. Łukasz świadomie wybiera mocniejszy z dwóch dostępnych greckich czasowników radości.\f*
+**46** Wszystko we mnie wielbi Pana. Wszystko![^35]
+> mój duch wybucha radością,\f + \fr 1:47 \fk TEXT \fq mój duch eksploduje radością\ft Greckie \fq ἠγαλλίασεν\fq* – „radować się gwałtownie, krzyczeć z radości". To nie cicha pogoda ducha; to ekstatyczna eksplozja. Łukasz świadomie wybiera mocniejszy z dwóch dostępnych greckich czasowników radości.\f*
 **47** w Bogu, który mnie ratuje.[^36]
-**48** Bo spojrzał na mnie. Mnie – niezauważoną, nikomu nieznaną.[^37][^38]
+**48** Bo spojrzał na mnie. Na mnie, niezauważoną, nikomu nieznaną.[^37][^38]
 > I od tej chwili każde pokolenie nazwie mnie szczęśliwą.
 
-**49** Bo zrobił dla mnie wielkie rzeczy – On, Ten Mocny.
+**49** Bo zrobił dla mnie wielkie rzeczy. On, Ten Mocny.
 > Święte jest Jego imię.
-**50** Jego miłosierdzie z pokolenia na pokolenie – \q2 nad tymi, którzy się Go boją.[^39]
+**50** Jego miłosierdzie z pokolenia na pokolenie,
+> nad tymi, którzy się Go boją.\f + \fr 1:50 \fk TEXT \fq którzy się Go boją \ft Greckie \fq φοβουμένοις αὐτόν\fq* – „bojących się go". Tradycyjne tłumaczenie zachowane: bojaźń Boża w Starym Testamencie i u Łukasza nie znaczy przerażenia ani neurotycznego lęku, lecz fundamentalne nastawienie czci, otwartości, gotowości słuchać. Aperto trzyma się tradycyjnej formy, bo każda zamiana („szanować" jest zbyt płaska, „drżeć przed Bogiem" zbyt mistyczna) traci centrum tego pojęcia.\f*
 
-**51** Pokazał, co umie. Ramieniem.[^40]
-> Rozproszył pyszniących się – w samych ich własnych planach.
-**52** Władców – z tronów.
-> Tych z dołu – w górę.
-**53** Głodnych – do syta.
+**51** Pokazał, co umie. Ramieniem.[^39]
+> Rozproszył pyszniących się, w samych ich własnych planach.
+**52** Władców strąca z tronów.
+> Tych z dołu podnosi w górę.
+**53** Głodnych nasyca do syta.
 > Bogatych odprawił. Z niczym.\f + \fr 1:51-53 \fk LEBEN \fq Władców – z tronów. Tych z dołu – w górę. \ft Magnificat stawia każdą epokę przed pytaniem: po której stronie Bożego odwrócenia stoisz? Teologia wyzwolenia (Gutiérrez, Sobrino) czyta te wersety jako Boży program konkretnej, materialnej sprawiedliwości. Tradycja monastyczna (Augustyn, Bernard z Clairvaux, Tomasz a Kempis) słyszy w nich wezwanie do wewnętrznej pokory – strącenia „władców" wewnątrz nas samych. Obie lektury mają oparcie w tekście; Łukasz pisze tak, że żadna z nich sama nie wystarczy. – W XX wieku Magnificat był zakazywany przez wojskowe reżimy Ameryki Łacińskiej – Argentyna lat siedemdziesiątych, Salwador, Gwatemala. Nie przypadkiem. Reżimy oparte na lęku rozpoznają od razu, kiedy tekst nazywa po imieniu właśnie ich zachowanie. – Pytanie, które działa dla każdego czytelnika, niezależnie od światopoglądu: w których obszarach życia jesteś tym, kogo się podnosi, a w których tym, czyj tron jest zagrożony? Uczciwa odpowiedź rzadko jest prosta. Senior w pracy bywa najmłodszym we własnej rodzinie. Osoba bezpieczna finansowo bywa tą, której zdrowie odmawia posłuszeństwa. Uprzywilejowany w jednym społeczeństwie staje się niepewnym w innym. Magnificat tych warstw nie spłaszcza – nazywa je. – Dla wierzących Magnificat jest jednym z najczęściej odmawianych psalmów chrześcijaństwa. Śpiewany codziennie w nieszporach przez katolików, anglikanów i prawosławnych – od kilkunastu wieków. To powtórzenie nie jest sentymentalne. Jest formacyjne. Mówić te słowa codziennie znaczy powoli stawać się kimś, dla kogo Boże odwrócenie brzmi jak dom, nie jak zagrożenie. – Polski kontekst dodaje wymiaru: pieśń ta była śpiewana w czasach zaborów i komunizmu jako modlitwa ludu, który nie miał głosu. Duchowość kard. Wyszyńskiego i Solidarności karmiła się tym samym tekstem – nie jako ideologią, lecz jako duchową architekturą oporu wobec aroganckich systemów. – Wokacyjnie wers stawia pytanie strukturalne każdemu, czyja praca dotyka władzy: gdzie w mojej działalności zawodowej jestem w pozycji podnoszenia tych pomijanych albo trzymania ich w dole? Decyzje kadrowe, awanse, architektura spotkań, kwestia tego, kto dostaje głos. – W tym tygodniu: przeczytaj Magnificat raz na głos. Zauważ, które wersety cię pocieszają, a które każą się wzdrygnąć.\f*
 
-**54** Stanął po stronie Izraela – swojego sługi.
+**54** Stanął po stronie Izraela, swojego sługi.
 > Pamiętał o miłosierdziu.
-**55** Tak jak obiecał naszym ojcom.[^41]
+**55** Tak jak obiecał naszym ojcom.[^40]
 > Abrahamowi i jego potomstwu.
 > Na zawsze.
 
@@ -117,16 +119,16 @@
 
 
 **57** Nadszedł czas Elżbiety i urodziła syna.
-**58** Sąsiedzi i krewni dowiedzieli się, że Pan obszedł się z nią tak hojnie – i cieszyli się razem z nią.[^42]
+**58** Sąsiedzi i krewni dowiedzieli się, że Pan obszedł się z nią tak hojnie, i cieszyli się razem z nią.[^41]
 
-**59** Ósmego dnia*– przy obrzezaniu –*[^43] przyszli i chcieli nazwać go po ojcu – Zachariasz.
-**60** Ale matka powiedziała: „Nie. Będzie nazywał się Jan."[^44]
+**59** Ósmego dnia,*przy obrzezaniu,*[^42] przyszli i chcieli nazwać go po ojcu Zachariaszu.
+**60** Ale matka powiedziała: „Nie. Będzie nazywał się Jan."[^43]
 **61** *Zdziwili się.* „W twojej rodzinie nikt nie nosi takiego imienia."
-**62** Zaczęli więc pytać ojca na migi*– bo mówić nie mógł*, jak chce nazwać dziecko.
+**62** Zaczęli więc pytać ojca na migi,*bo mówić nie mógł,* jak chce nazwać dziecko.
 **63** Poprosił o tabliczkę i napisał: „Jan ma na imię."
 
 
-**64** I w tym momencie*– po dziewięciu miesiącach milczenia –* odzyskał mowę. Mówił. A jego pierwsze słowa były chwałą.[^45]
+**64** I w tym momencie,*po dziewięciu miesiącach milczenia,* odzyskał mowę. Mówił. A jego pierwsze słowa były chwałą.[^44]
 **65** Strach ogarnął wszystkich w okolicy. W całych górach Judei opowiadano sobie tę historię.
 **66** Każdy, kto słyszał, brał ją sobie do serca i pytał: „Kim będzie to dziecko?"
 
@@ -134,30 +136,33 @@
 ### Proroctwo Zachariasza
 
 
-**67** Zachariasza, jego ojca, napełnił Duch Święty – i zaczął prorokować:[^46]
+**67** Zachariasza, jego ojca, napełnił Duch Święty, i zaczął prorokować:[^45]
 
-**68** Błogosławiony Pan, Bóg Izraela – [^47]
+**68** Błogosławiony Pan, Bóg Izraela,[^46]
 > bo przyszedł do swego ludu i wykupił go.\f + \fr 1:68 \fk TEXT \fq nawiedził \ft Greckie \fq ἐπεσκέψατο\fq* – „nawiedził, zatroszczył się, wejrzał". Aperto wybiera „nawiedził" zamiast słabszego „odwiedził": Bóg czynnie idzie do swojego ludu, nie tylko bierze pod uwagę z dystansu. To samo słowo wróci w wersecie 78. Greckie \fq λύτρωσιν\fq* – „odkupienie, wykup" – to język wyjściowy: oswobodzenie z niewoli, język Exodusu. Aperto trzyma słowo „odkupić" z jego polityczną wagą.\f*
-**69** Wzbudził dla nas potężnego wybawcę[^48]
+**69** Wzbudził dla nas potężnego wybawcę[^47]
 > w domu Dawida, swojego sługi.
 **70** Tak, jak obiecywał od dawna
-> – ustami swoich świętych proroków.
+> ustami swoich świętych proroków.
 
 **71** Ratunek od naszych wrogów,
 > z ręki tych, którzy nas nienawidzą.
-**72** Okazał miłosierdzie naszym ojcom[^49]
-> i pamiętał o swoim świętym przymierzu – \q1
-**73** o przysiędze złożonej Abrahamowi, naszemu ojcu.[^50]
+**72** Okazał miłosierdzie naszym ojcom[^48]
+> i pamiętał o swoim świętym przymierzu,
+**73** o przysiędze złożonej Abrahamowi, naszemu ojcu.[^49]
 > Że da nam:
-**74** uwolnionym z ręki wrogów – \q2 służyć Mu bez lęku,
-**75** w świętości i sprawiedliwości[^51] przed Nim
-> – przez wszystkie nasze dni.
+**74** uwolnionym z ręki wrogów,
+> służyć Mu bez lęku,
+**75** w świętości i sprawiedliwości[^50] przed Nim,
+> przez wszystkie nasze dni.
 
-**76** A ty, dziecko – [^52]
+**76** A ty, dziecko:[^51]
 > ty będziesz prorokiem Najwyższego.
-> Pójdziesz przed Panem – \q2 by przygotować Mu drogi.
-**77** By dać Jego ludowi poznanie zbawienia – \q2 w odpuszczeniu ich win.[^53]
-**78** Z głębi czułości naszego Boga,[^54]
+> Pójdziesz przed Panem,
+> by przygotować Mu drogi.
+**77** By dać Jego ludowi poznanie zbawienia,
+> w odpuszczeniu ich win.\f + \fr 1:77 \fk TEXT \fq odpuszczenie win \ft Greckie \fq ἄφεσιν ἁμαρτιῶν\fq* – tradycyjnie „odpuszczenie grzechów". Aperto pozostawia „odpuszczenie", bo to słowo niesie precyzyjny ładunek: \fq ἄφεσις\fq* znaczy też „uwolnienie, puszczenie wolno" (jak niewolnika). „Wina" zamiast „grzech" jest bardziej dostępna współczesnemu, świeckiemu czytelnikowi – i odpowiada szerszemu polu znaczeniowemu greckiego \fq ἁμαρτία\fq* (chybienie, zboczenie z drogi).\f*
+**78** Z głębi czułości naszego Boga,[^52]
 > w którym nawiedzi nas Świt z wysoka,\f + \fr 1:78 \fk TEXT \fq Świt z wysoka \ft Greckie \fq ἀνατολή ἐξ ὕψους\fq* (\it anatolē ex hypsous\it*) – „wschód/świt z wysokości". \fq ἀνατολή\fq* oznacza jednocześnie „wschód słońca, świt" (wschodzące światło, por. Ml 3,20) i – w Septuagincie – mesjańską „latorośl, odrośl" (Jr 23,5 LXX; Za 3,8; 6,12 LXX). Zachariasz trzyma oba obrazy naraz: światło wschodzi nad ludźmi w cieniu – i obiecany Dawidowy potomek się pojawia. Tłumaczenie samym „wschodem" gubi obraz świtu, samym „świtem" – mesjańską latorośl. Aperto: „Świt z wysoka" – z dużej litery, by zachować podwójny ładunek.\f*
 **79** by oświecić tych,
 > którzy siedzą w ciemności
@@ -170,17 +175,17 @@
 ### Dorastanie na pustkowiu
 
 
-**80** A dziecko rosło i nabierało mocy ducha. Mieszkał na pustkowiach[^55] – aż do dnia, gdy się ukazał Izraelowi.
+**80** A dziecko rosło i nabierało mocy ducha. Mieszkał na pustkowiach,[^53] aż do dnia, gdy się ukazał Izraelowi.
 
 ---
 
 
 ## Anmerkungen
 
-[^1]: **KULTUR** — *uporządkowana relacja*: Wersety 1–4 tworzą po grecku jedno długie, kunsztownie zbudowane zdanie okresowe – formę otwarcia, którą posługiwali się wielcy historycy starożytni: Tukidydes, Polibiusz, Józef Flawiusz, Diodor. Łukasz świadomie wpisuje się w ten gatunek: nie pisze pobożnej legendy, lecz uporządkowane sprawozdanie historyczne, oparte na świadectwie i krytycznym badaniu źródeł. Greckie \fq πεπληροφορημένων\fq* (perfectum) podkreśla, że chodzi o wydarzenia \it dokonane i wypełnione\it* – nie o przypadkowe fakty. Ponad 5800 zachowanych greckich rękopisów Nowego Testamentu daje temu dziełu mocniejszą bazę tekstową niż jakiemukolwiek innemu pismu starożytnemu (Homer: ok. 1900).
-[^2]: **TEXT** — *naoczni świadkowie*: Greckie \fq αὐτόπται\fq* to techniczny termin antycznej historiografii, używany m.in. przez Polibiusza i Józefa Flawiusza: świadek, który widział na własne oczy. Łukasz nie pisze ze słyszenia ani z natchnionego widzenia – opiera się na zeznaniach ludzi, którzy byli przy tym osobiście.
-[^3]: **KULTUR** — *dostojny Teofilu*: Greckie \fq κράτιστε\fq* (\it kratiste\it*) to oficjalny tytuł honorowy używany wobec wysokich rangą urzędników rzymskich – Łukasz używa go również wobec Feliksa i Festusa w Dziejach Apostolskich (Dz 23,26; 24,3; 26,25). Teofil (gr. „miłujący Boga") jest więc człowiekiem wykształconym, prawdopodobnie z klasy patronów, być może patronem samego Łukasza. Honoryfik sygnalizuje społeczny rejestr otwarcia: pismo kierowane jest do dorosłego, ustalonego społecznie czytelnika, nie do prozelity.
-[^4]: **UEBERSETZUNG** — *pewny grunt*: Greckie \fq ἀσφάλεια\fq* (\it asfaleia\it*) nie znaczy „dowód", „pewność absolutna" ani „niezbity argument". Etymologicznie: \it a-sfallō\it* – „nie poślizgnąć się, nie upaść". To grunt, na którym można stanąć – solidne oparcie, nie agresywna pewność, która zamyka pytania. Łukasz nie chce uciszyć wątpiącego czytelnika ułożoną z góry tezą; chce dać mu pod stopy coś trwałego, na czym może oprzeć dalsze szukanie. Różnica między dawnym tłumaczeniem („abyś się przekonał o pewności" – BT) a Aperto polega na tonie: Łukasz zaprasza do dochodzenia, nie wydaje wyroku.
+[^1]: **KULTUR** — *Dostojny Teofilu (κράτιστε)*: Greckie \fq κράτιστε\fq* (\it kratiste\it*) to oficjalny tytuł honorowy używany w starożytności wobec wysokich rangą urzędników rzymskich i wpływowych osób życia publicznego — Łukasz używa go również wobec Feliksa i Festusa w Dziejach Apostolskich (Dz 23,26; 24,3; 26,25). Teofil jest więc człowiekiem o określonej pozycji, z biblioteką, z otoczeniem, w którym to dzieło będzie czytane na głos. Imię (gr. „miłujący Boga") współgra z treścią, lecz pismo skierowane jest do realnego adresata z wykształconej warstwy. Adres umieszczamy na początku: w grece stoi dopiero w wersecie 3, ale współczesna dedykacja nazywa adresata jako pierwszego.
+[^2]: **KULTUR** — *uporządkowana relacja*: Wersety 1–4 tworzą po grecku jedno długie, kunsztownie zbudowane zdanie okresowe — formę otwarcia, którą posługiwali się wielcy historycy starożytni: Tukidydes, Polibiusz, Józef Flawiusz, Diodor. Nie oddajemy tego początku jako greckiego popisu retorycznego, lecz jako to, czym byłby dziś: dedykacja kierowana do adresata. Słuchać świadków, krytycznie przeglądać wcześniejsze relacje, uporządkować całość — to autodyscyplina historycznej prozy, nie skromność autora pobożnej legendy. Greckie \fq πεπληροφορημένων\fq* (perfectum) podkreśla, że chodzi o wydarzenia dokonane i wypełnione, nie o przypadkowe fakty. Ponad 5800 zachowanych greckich rękopisów Nowego Testamentu daje temu dziełu mocniejszą bazę tekstową niż jakiemukolwiek innemu pismu starożytnemu (Homer: ok. 1900).
+[^3]: **TEXT** — *naoczni świadkowie*: Greckie \fq αὐτόπται\fq* to techniczny termin antycznej historiografii, używany m.in. przez Polibiusza i Józefa Flawiusza: świadek, który widział na własne oczy. Łukasz nie pisze ze słyszenia ani z natchnionego widzenia, lecz opiera się na zeznaniach ludzi, którzy byli przy tym osobiście.
+[^4]: **UEBERSETZUNG** — *pewny grunt*: Greckie \fq ἀσφάλεια\fq* (\it asfaleia\it*) nie znaczy „dowód", „pewność absolutna" ani „niezbity argument". Etymologicznie: \it a-sfallō\it* — „nie poślizgnąć się, nie upaść". To grunt, na którym można stanąć: solidne oparcie, nie agresywna pewność, która zamyka pytania. Łukasz nie chce uciszyć wątpiącego czytelnika ułożoną z góry tezą; chce dać mu pod stopy coś trwałego, na czym może oprzeć dalsze szukanie.
 [^5]: **KULTUR** — *Heroda*: Herod Wielki, król Judei z mianowania Rzymu, panował w latach 37–4 p.n.e. – Idumejczyk, klient cesarstwa, budowniczy drugiej Świątyni Jerozolimskiej. Pod jego rządami kapłaństwo żyło w stałej politycznej niepewności: prawowici arcykapłani bywali odwoływani, a urząd kupowany. Łukasz otwiera narrację w realnym, twardym świecie okupacji – nie w nigdzie i nigdy.
 [^6]: **KULTUR** — *zmiana Abiasza*: Kapłaństwo jerozolimskie dzieliło się – od czasów Dawida (1 Krn 24) – na dwadzieścia cztery zmiany, które rotacyjnie pełniły służbę w Świątyni: każda po dwa tygodnie w roku. Zmiana Abiasza była ósma z kolei. To informacja techniczna, nie liturgiczna ozdoba – Łukasz lokuje Zachariasza w konkretnym, dającym się zweryfikować systemie.
 [^7]: **TEXT** — *sprawiedliwie... nikt nie mógłby im niczego zarzucić*: Łukasz używa dwóch różnych greckich słów: \fq δίκαιοι\fq* – „sprawiedliwi" w sensie przymierza, wierni Bogu w relacji; oraz \fq ἄμεμπτοι\fq* – „bez zarzutu", nikt nie mógł im postawić formalnego zarzutu naruszenia Prawa. To nie jest moralna doskonałość, lecz konsekwentna wierność. Łukasz przygotowuje czytelnika na zderzenie z następnym wersetem.
@@ -215,20 +220,18 @@
 [^36]: **TEXT** — *który mnie ratuje*: Greckie \fq σωτῆρι\fq* – „zbawca, wybawca". Aperto wybiera „ratuje" zamiast liturgicznego „zbawia": ratunek jest konkretny, fizyczny, w kontekście odwrócenia politycznego Magnificat – wyraźniejszy niż abstrakcyjne „zbawienie".
 [^37]: **TEXT** — *spojrzał na mnie. Mnie – niezauważoną.*: Greckie \fq ταπείνωσιν\fq* – nie „pokora" jako cnota, lecz \it społeczna pozycja\it*: niskość, bycie niezauważanym. Maria jest młoda, kobieta, wieśniaczka z nieistotnej miejscowości. Tekst nazywa to, co wszyscy w jej świecie i tak widzieli. Boży wzrok kieruje się ku tym, których społeczeństwo pomija – powracający motyw Łukasza (1,25; 1,48; 4,18; 7,22).
 [^38]: **KONTEXT** — *każde pokolenie nazwie mnie szczęśliwą*: Ten werset wyznacza jedną z głównych różnic interpretacyjnych między tradycjami chrześcijańskimi. Tradycja katolicka i prawosławna widzi tu fundament szczególnej godności Marii jako Matki Bożej (\fq Θεοτόκος\fq* – Sobór Efeski 431). Tradycja protestancka czyta Marię jako wzór wierzącego człowieka. Obie lektury mają oparcie w tekście. Aperto stara się nie zamykać tekstu w żadną z tych dwóch tradycji – werset mówi tylko, że Maria została wyróżniona Bożym spojrzeniem, a późniejsze pokolenia rozpoznają, że to spojrzenie było wyróżnieniem.
-[^39]: **TEXT** — *którzy się Go boją*: Greckie \fq φοβουμένοις αὐτόν\fq* – „bojących się go". Tradycyjne tłumaczenie zachowane: bojaźń Boża w Starym Testamencie i u Łukasza nie znaczy przerażenia ani neurotycznego lęku, lecz fundamentalne nastawienie czci, otwartości, gotowości słuchać. Aperto trzyma się tradycyjnej formy, bo każda zamiana („szanować" jest zbyt płaska, „drżeć przed Bogiem" zbyt mistyczna) traci centrum tego pojęcia.
-[^40]: **TEXT** — *Pokazał... Strącił... Posadził...*: Greckie czasowniki w wersach 51–53 stoją w aoryście – formie greckiego czasu przeszłego. Komentatorzy nazywają je „aorystem gnomicznym": opisują typowe, ponadczasowe działanie Boga, to, co Bóg \it zawsze\it* czyni, a nie jednorazowe wydarzenie w przeszłości. Maria opisuje charakter Boga, nie historyczny epizod. Niektóre nowsze przekłady oddają to w czasie teraźniejszym; Aperto pozostaje przy czasie dokonanym, oddając konkretność każdego aktu – ale czytelnik powinien wiedzieć, że nie chodzi o „kiedyś", lecz o „Bóg robi to zawsze".
-[^41]: **KONTEXT** — *tak jak obiecał naszym ojcom*: Przymierze z Abrahamem (Rdz 17,7; 22,17–18): wieczna wierność Boga wobec potomków Abrahama. Maria widzi przyjście Jezusa nie jako nowy początek, lecz jako wypełnienie obietnicy, której Bóg zaczynał dochowywać setki lat przed jej urodzeniem. Magnificat jest głęboko żydowski – celebruje wierność Boga w czasie, nie przerywa historii.
-[^42]: **TEXT** — *okazał wielkie miłosierdzie*: Greckie \fq ἐμεγάλυνεν κύριος τὸ ἔλεος αὐτοῦ\fq* – „uczynił wielkim swoje miłosierdzie". Łukasz świadomie powtarza tu czasownik \fq μεγαλύνω\fq* z otwarcia Magnificat (1,46: \fq Μεγαλύνει\fq* – „wielbi"). Maria wielbiła Boga, który czyni wielkie rzeczy; teraz sąsiedzi widzą, jak Bóg powiększa swoje miłosierdzie wśród nich. To samo słowo – opisuje to, co Bóg robi, i to, co człowiek w odpowiedzi mówi.
-[^43]: **KULTUR** — *ósmego dnia*: Obrzezanie ósmego dnia było znakiem przymierza zawartego z Abrahamem (Rdz 17,12). Przy tej samej ceremonii nadawano dziecku imię – było to wydarzenie wspólnotowe, prawie tak ważne jak narodziny. Łukasz pokazuje, jak społeczność rodziny i wsi próbuje nazwać dziecko zgodnie z dziedzicznym zwyczajem, co prowadzi do sporu z Elżbietą.
-[^44]: **NAME** — *Jan*: Hebrajskie \it Jochanan\it* – „JHWH okazał łaskę". Imię to teologiczne streszczenie całej tej narracji: dziecko narodzone z bezpłodnej kobiety, w starości, po dziewięciu miesiącach milczenia ojca. Elżbieta obstaje przy imieniu wyznaczonym przez anioła wbrew sprzeciwowi rodziny – i to ona, nie Zachariasz, jest tu pierwszą, która wypowiada na głos znaczenie, które trzymało rodzinę przez te dziewięć miesięcy.
-[^45]: **UNGLAUBLICH** — *w tym momencie*: Niewytłumaczalna medycznie niemota, która kończy się w chwili, gdy ojciec zapisuje na tabliczce konkretne imię – współczesny czytelnik słusznie się tu zatrzymuje. – Tradycja chrześcijańska czyta tę scenę jako zagęszczoną historię o posłuszeństwie i Bożym działaniu. Łukasz wybiera dla nagłości słowo \fq παραχρῆμα\fq* – „natychmiast, w tej samej chwili"; to jego ulubione słowo na bezpośrednie Boże wkroczenie i pojawia się w jego Ewangelii i Dziejach Apostolskich częściej niż we wszystkich innych pismach Nowego Testamentu razem wziętych (Łk 4,39; 5,25; 8,44.47.55; 18,43; 22,60). Kolejność wersetu jest teologicznie nośna: najpierw akt posłuszeństwa – ojciec zapisuje imię nadane przez anioła, wbrew oporowi rodziny – dopiero potem otwierają się usta. Milczenie nie ustępuje dlatego, że upłynęło dziewięć miesięcy, lecz dlatego, że Zachariasz robi teraz to, czego w wersecie 18 jeszcze nie potrafił. A pierwsze słowo po dziewięciu miesiącach nie jest skargą ani ulgą ani wyjaśnianiem – jest chwałą. Stara tradycja chrześcijańska czytała tę kolejność – zaufanie poprzedza rozwiązanie – jako duchowy wzorzec, nie jako magiczny mechanizm. – Kto nie potrafi tego unieść dosłownie, ten może w tekście odnaleźć inną drogę. Symbolicznie: scena opowiada to, co zna każdy, kto długo milczał, bo nie wiedział, co powiedzieć – i potem jednym jedynym aktem zgody znów odnalazł mowę. Zapisanie imienia jest gestem, którym Zachariasz przyznaje rację wydarzeniu, które go wyprzedziło; to, co się w nim rozwiązuje, nie jest pierwotnie językiem, lecz oporem. – Psychologicznie-porównawczo: zaburzenia mowy o podłożu funkcjonalnym, zapadające po szoku i ustępujące po decydującym akcie, są w literaturze klinicznej udokumentowane; czytany tak, opis u Łukasza opowiada w języku wiary o ruchu psychosomatycznym. – Niezależnie od tego, którą drogą czytasz: wers stawia zaufanie przed rozwiązaniem. Wszędzie, gdzie ten werset cię przyjmuje – tekst zaprasza cię, byś wsłuchał się w pierwsze słowo po milczeniu. Jest nim chwała.
-[^46]: **UNGLAUBLICH** — *napełnił Duch Święty*: Zachariasz po dziewięciu miesiącach wymuszonego milczenia wypowiada prorockie wersety, których w tej formie nie mógł się nauczyć na pamięć – to stawia pytanie, skąd te słowa pochodzą. – Tradycja chrześcijańska czyta Benedictus jako dzieło Ducha Świętego (tak też wyraźnie sam werset 67): nie jako produkt wykształcenia ani kapłańskiej rutyny, lecz jako duchowe oświecenie człowieka, który przeszedł przez milczenie i wie teraz więcej, niż wiedział przedtem. Łukasz buduje tu tę samą linię, co u Elżbiety (1,41) i Symeona (2,25–32): w decydujących momentach Duch mówi przez konkretne osoby, których słowa będą nieść lud Boży. Benedictus od IV wieku jest modlony codziennie w jutrzni – w tradycji katolickiej, prawosławnej, luterańskiej i anglikańskiej. Kościół przez półtora tysiąca lat traktował go jako tekst natchniony, nie prywatną improwizację. – Kto nie potrafi tego unieść dosłownie, ten może w tekście odnaleźć inną drogę. Symbolicznie: Zachariasz wypowiada to, co tradycja jego ludu dawała mu od dzieciństwa – obrazy z Psalmów, z proroków, z liturgii Świątyni – a cisza dziewięciu miesięcy zagęściła te obrazy w jedno, czego teraz nie da się już dłużej zatrzymać w środku. – Psychologicznie-porównawczo: dłuższe fazy wymuszonego milczenia w wielu tradycjach religijnych dokumentują zagęszczanie wewnętrznego poznania, które przy powrocie mowy wybucha jako język wizyjny – tradycja monastyczna, praktyka kontemplacyjna, ćwiczenia ignacjańskie znają ten mechanizm. – Niezależnie od tego, którą drogą czytasz: Benedictus niesie głębię, której samego upływu dziewięciu miesięcy nie wystarcza wyjaśnić. Wszędzie, gdzie tę głębię ulokujesz – tekst zaprasza cię, byś najpierw wsłuchał się w pieśń, zanim ją zaszufladkujesz.
-[^47]: **KONTEXT** — *Błogosławiony Pan, Bóg Izraela*: Benedictus (od łacińskiego początku \it Benedictus Dominus Deus Israel\it*) zaczyna się klasyczną żydowską formą \it berachy\it* – modlitwy pochwalnej, w której najpierw nazywa się Boga, potem wymienia Jego dzieła. To forma, której Zachariasz, kapłan, używał codziennie. Benedictus jest od wieków modlony codziennie podczas Jutrzni (\it Laudes\it*) w tradycji katolickiej, prawosławnej, luterańskiej i anglikańskiej.
-[^48]: **TEXT** — *potężnego wybawcę*: Greckie \fq κέρας σωτηρίας\fq* – dosłownie „róg zbawienia". Idiom starotestamentowy (1 Sm 2,1.10; Ps 18,3; 2 Sm 22,3): róg byka symbolizował siłę, władzę królewską, militarną moc. Pod rzymską okupacją obraz „rogu zbawienia" miał polityczny ładunek – był to język oporu. Tłumaczenie „potężny wybawca" zachowuje siłę bez zaciemniającego dla współczesnego ucha obrazu byczego rogu; przypis utrzymuje pełnię obrazu.
-[^49]: **LEBEN** — *przymierze... przysięga*: Benedictus wymienia Bożą wierność na przestrzeni pokoleń jako podstawę zaufania. Dla ludzi żyjących w niepewności – zawodowej, rodzinnej, egzystencjalnej – to perspektywa radykalna: charakter Boga nie zmienia się wraz z okolicznościami. To nie naiwny optymizm, lecz teologiczne przekonanie oparte na wykazanej historii. Zdania zbudowane są w stylu hebrajskim: Bóg działa, ponieważ powiedział, że będzie działał. Słowo i czyn pokrywają się. – Pytanie, od którego można zacząć bez teologicznego języka: komu dotrzymujesz słowa, nawet o tym nie myśląc? Które relacje w twoim życiu funkcjonują dlatego, że wzrosła w nich niewidoczna, niezauważana niezawodność? Zaufanie jest dziś rzadkim zasobem – politycznie, gospodarczo, w przyjaźniach. Wers zaprasza do pewnej inwentaryzacji: jaką niezawodność doświadczyłem, która dziś mnie niesie, choć już jej nie zauważam? – Dla wierzących Benedictus otwiera praktykę żyjącą w wielu tradycjach. Żydowska tradycja \it berachot\it* – ćwiczenie codziennego dziękowania Bogu za konkretne wierności – ma chrześcijańskie rodzeństwo w liturgii godzin, w benedyktyńskim oficjum, w ignacjańskim rachunku sumienia. Wszystkim wspólne jest rozpoznanie: zaufanie nie jest podejmowane jako decyzja, lecz przypominane. Kto regularnie spogląda wstecz, widzi wzory niewidoczne w codzienności. – Wokacyjnie wers ma poważną stronę. Zawody pracujące z obietnicami – lekarki, nauczyciele, prawnicy, kapłani, rodzice – wiedzą, jak krucha jest architektura zaufania. Złamana obietnica kosztuje lata budowania. Benedictus przypomina, że świat trzyma się wiernością, nie efektywnością. – Wspólnotowo: pokolenia trzymające sobie wierność są niewidoczną strukturą każdego Kościoła, każdej rodziny, każdego miasta. Tradycja liturgiczna – chrzestni, przysięga małżeńska, święcenia – traktuje to poważnie: obietnice składa się publicznie, ponieważ muszą być publicznie niesione. Polski katolicyzm zna głęboko ten gest pokoleniowej wierności – modlitwa za zmarłych, pamięć rodzinna, przekaz wiary z dziadków. – W tym tygodniu: dotrzymaj starego zobowiązania, którego nigdy formalnie nie złożyłeś, lecz o którym druga osoba pamięta.
-[^50]: **KONTEXT** — *przysiędze złożonej Abrahamowi*: Bezpośrednie nawiązanie do Rdz 22,16–18 – przysięga Boga złożona Abrahamowi po próbie Izaaka. Benedictus rysuje wielki łuk: od Abrahama, przez proroków, przez Dawida, przez Jana, do tego, kto przyjdzie. Cała historia Izraela trzymana jest tu jednym Bożym słowem, na które Bóg już raz przysiągł.
-[^51]: **TEXT** — *w świętości i sprawiedliwości*: Greckie \fq ἐν ὁσιότητι καὶ δικαιοσύνῃ\fq* – dwa odrębne słowa, dwie różne wartości. \fq ὁσιότης\fq* (\it hosiotēs\it*) to świętość, pełnia wobec Boga; \fq δικαιοσύνη\fq* (\it dikaiosynē\it*) – sprawiedliwość, uczciwość wobec ludzi. Razem opisują pełną postawę życia: wierność i Bogu, i drugiemu człowiekowi.
-[^52]: **TEXT** — *A ty, dziecko*: Tu zachodzi najbardziej intymny zwrot w całym rozdziale. Wersety 68–75 były wielką perspektywą przymierza – trzecia osoba: Izrael, Abraham, ojcowie. Od wersetu 76 Zachariasz odwraca się do swojego nowonarodzonego syna: druga osoba liczby pojedynczej. Ojciec do dziecka. Pierwsze słowa, które ojciec mówi do długo wyczekiwanego syna, po dziewięciu miesiącach milczenia. Czuły dystans z wersetów 68–75 ustępuje przed tą chwilą; cała kosmiczna architektura przymierza zatrzymuje się przed pojedynczą twarzą.
-[^53]: **TEXT** — *odpuszczenie win*: Greckie \fq ἄφεσιν ἁμαρτιῶν\fq* – tradycyjnie „odpuszczenie grzechów". Aperto pozostawia „odpuszczenie", bo to słowo niesie precyzyjny ładunek: \fq ἄφεσις\fq* znaczy też „uwolnienie, puszczenie wolno" (jak niewolnika). „Wina" zamiast „grzech" jest bardziej dostępna współczesnemu, świeckiemu czytelnikowi – i odpowiada szerszemu polu znaczeniowemu greckiego \fq ἁμαρτία\fq* (chybienie, zboczenie z drogi).
-[^54]: **TEXT** — *wnętrze miłosierdzia*: Greckie \fq σπλάγχνα ἐλέους\fq* – dosłownie „wnętrzności miłosierdzia". \fq σπλάγχνα\fq* (\it splanchna\it*) to dla starożytnych centrum emocji w ciele: żołądek, jelita, wątroba – miejsce, w którym czuje się litość, zanim się o niej pomyśli. Współczesne odpowiedniki: „głębokie miłosierdzie", „tkliwa litość" – gubią cielesność. Aperto: „wnętrze miłosierdzia" – by zachować fizyczną głębię. Boże miłosierdzie nie jest tu abstrakcją; to coś, co Boga ściska w środku, jak człowieka ściska na widok cierpiącego.
-[^55]: **KULTUR** — *na pustkowiach*: Greckie \fq ἐν ταῖς ἐρήμοις\fq* – liczba mnoga: nie jedno miejsce, lecz wędrówka po bezludnych terenach. Pustynia jest w tradycji biblijnej miejscem formacji proroków: Mojżesz, Eliasz, sam Izrael. Syn kapłana dorasta nie w Świątyni, lecz poza wszystkimi instytucjami religijnymi – z autorytetem, który pochodzi nie z dziedzictwa, lecz wyłącznie od Boga. Łukasz w jednym zdaniu zamyka trzydzieści lat ciszy.
+[^39]: **TEXT** — *Pokazał... Strącił... Posadził...*: Greckie czasowniki w wersach 51–53 stoją w aoryście – formie greckiego czasu przeszłego. Komentatorzy nazywają je „aorystem gnomicznym": opisują typowe, ponadczasowe działanie Boga, to, co Bóg \it zawsze\it* czyni, a nie jednorazowe wydarzenie w przeszłości. Maria opisuje charakter Boga, nie historyczny epizod. Niektóre nowsze przekłady oddają to w czasie teraźniejszym; Aperto pozostaje przy czasie dokonanym, oddając konkretność każdego aktu – ale czytelnik powinien wiedzieć, że nie chodzi o „kiedyś", lecz o „Bóg robi to zawsze".
+[^40]: **KONTEXT** — *tak jak obiecał naszym ojcom*: Przymierze z Abrahamem (Rdz 17,7; 22,17–18): wieczna wierność Boga wobec potomków Abrahama. Maria widzi przyjście Jezusa nie jako nowy początek, lecz jako wypełnienie obietnicy, której Bóg zaczynał dochowywać setki lat przed jej urodzeniem. Magnificat jest głęboko żydowski – celebruje wierność Boga w czasie, nie przerywa historii.
+[^41]: **TEXT** — *okazał wielkie miłosierdzie*: Greckie \fq ἐμεγάλυνεν κύριος τὸ ἔλεος αὐτοῦ\fq* – „uczynił wielkim swoje miłosierdzie". Łukasz świadomie powtarza tu czasownik \fq μεγαλύνω\fq* z otwarcia Magnificat (1,46: \fq Μεγαλύνει\fq* – „wielbi"). Maria wielbiła Boga, który czyni wielkie rzeczy; teraz sąsiedzi widzą, jak Bóg powiększa swoje miłosierdzie wśród nich. To samo słowo – opisuje to, co Bóg robi, i to, co człowiek w odpowiedzi mówi.
+[^42]: **KULTUR** — *ósmego dnia*: Obrzezanie ósmego dnia było znakiem przymierza zawartego z Abrahamem (Rdz 17,12). Przy tej samej ceremonii nadawano dziecku imię – było to wydarzenie wspólnotowe, prawie tak ważne jak narodziny. Łukasz pokazuje, jak społeczność rodziny i wsi próbuje nazwać dziecko zgodnie z dziedzicznym zwyczajem, co prowadzi do sporu z Elżbietą.
+[^43]: **NAME** — *Jan*: Hebrajskie \it Jochanan\it* – „JHWH okazał łaskę". Imię to teologiczne streszczenie całej tej narracji: dziecko narodzone z bezpłodnej kobiety, w starości, po dziewięciu miesiącach milczenia ojca. Elżbieta obstaje przy imieniu wyznaczonym przez anioła wbrew sprzeciwowi rodziny – i to ona, nie Zachariasz, jest tu pierwszą, która wypowiada na głos znaczenie, które trzymało rodzinę przez te dziewięć miesięcy.
+[^44]: **UNGLAUBLICH** — *w tym momencie*: Niewytłumaczalna medycznie niemota, która kończy się w chwili, gdy ojciec zapisuje na tabliczce konkretne imię – współczesny czytelnik słusznie się tu zatrzymuje. – Tradycja chrześcijańska czyta tę scenę jako zagęszczoną historię o posłuszeństwie i Bożym działaniu. Łukasz wybiera dla nagłości słowo \fq παραχρῆμα\fq* – „natychmiast, w tej samej chwili"; to jego ulubione słowo na bezpośrednie Boże wkroczenie i pojawia się w jego Ewangelii i Dziejach Apostolskich częściej niż we wszystkich innych pismach Nowego Testamentu razem wziętych (Łk 4,39; 5,25; 8,44.47.55; 18,43; 22,60). Kolejność wersetu jest teologicznie nośna: najpierw akt posłuszeństwa – ojciec zapisuje imię nadane przez anioła, wbrew oporowi rodziny – dopiero potem otwierają się usta. Milczenie nie ustępuje dlatego, że upłynęło dziewięć miesięcy, lecz dlatego, że Zachariasz robi teraz to, czego w wersecie 18 jeszcze nie potrafił. A pierwsze słowo po dziewięciu miesiącach nie jest skargą ani ulgą ani wyjaśnianiem – jest chwałą. Stara tradycja chrześcijańska czytała tę kolejność – zaufanie poprzedza rozwiązanie – jako duchowy wzorzec, nie jako magiczny mechanizm. – Kto nie potrafi tego unieść dosłownie, ten może w tekście odnaleźć inną drogę. Symbolicznie: scena opowiada to, co zna każdy, kto długo milczał, bo nie wiedział, co powiedzieć – i potem jednym jedynym aktem zgody znów odnalazł mowę. Zapisanie imienia jest gestem, którym Zachariasz przyznaje rację wydarzeniu, które go wyprzedziło; to, co się w nim rozwiązuje, nie jest pierwotnie językiem, lecz oporem. – Psychologicznie-porównawczo: zaburzenia mowy o podłożu funkcjonalnym, zapadające po szoku i ustępujące po decydującym akcie, są w literaturze klinicznej udokumentowane; czytany tak, opis u Łukasza opowiada w języku wiary o ruchu psychosomatycznym. – Niezależnie od tego, którą drogą czytasz: wers stawia zaufanie przed rozwiązaniem. Wszędzie, gdzie ten werset cię przyjmuje – tekst zaprasza cię, byś wsłuchał się w pierwsze słowo po milczeniu. Jest nim chwała.
+[^45]: **UNGLAUBLICH** — *napełnił Duch Święty*: Zachariasz po dziewięciu miesiącach wymuszonego milczenia wypowiada prorockie wersety, których w tej formie nie mógł się nauczyć na pamięć – to stawia pytanie, skąd te słowa pochodzą. – Tradycja chrześcijańska czyta Benedictus jako dzieło Ducha Świętego (tak też wyraźnie sam werset 67): nie jako produkt wykształcenia ani kapłańskiej rutyny, lecz jako duchowe oświecenie człowieka, który przeszedł przez milczenie i wie teraz więcej, niż wiedział przedtem. Łukasz buduje tu tę samą linię, co u Elżbiety (1,41) i Symeona (2,25–32): w decydujących momentach Duch mówi przez konkretne osoby, których słowa będą nieść lud Boży. Benedictus od IV wieku jest modlony codziennie w jutrzni – w tradycji katolickiej, prawosławnej, luterańskiej i anglikańskiej. Kościół przez półtora tysiąca lat traktował go jako tekst natchniony, nie prywatną improwizację. – Kto nie potrafi tego unieść dosłownie, ten może w tekście odnaleźć inną drogę. Symbolicznie: Zachariasz wypowiada to, co tradycja jego ludu dawała mu od dzieciństwa – obrazy z Psalmów, z proroków, z liturgii Świątyni – a cisza dziewięciu miesięcy zagęściła te obrazy w jedno, czego teraz nie da się już dłużej zatrzymać w środku. – Psychologicznie-porównawczo: dłuższe fazy wymuszonego milczenia w wielu tradycjach religijnych dokumentują zagęszczanie wewnętrznego poznania, które przy powrocie mowy wybucha jako język wizyjny – tradycja monastyczna, praktyka kontemplacyjna, ćwiczenia ignacjańskie znają ten mechanizm. – Niezależnie od tego, którą drogą czytasz: Benedictus niesie głębię, której samego upływu dziewięciu miesięcy nie wystarcza wyjaśnić. Wszędzie, gdzie tę głębię ulokujesz – tekst zaprasza cię, byś najpierw wsłuchał się w pieśń, zanim ją zaszufladkujesz.
+[^46]: **KONTEXT** — *Błogosławiony Pan, Bóg Izraela*: Benedictus (od łacińskiego początku \it Benedictus Dominus Deus Israel\it*) zaczyna się klasyczną żydowską formą \it berachy\it* – modlitwy pochwalnej, w której najpierw nazywa się Boga, potem wymienia Jego dzieła. To forma, której Zachariasz, kapłan, używał codziennie. Benedictus jest od wieków modlony codziennie podczas Jutrzni (\it Laudes\it*) w tradycji katolickiej, prawosławnej, luterańskiej i anglikańskiej.
+[^47]: **TEXT** — *potężnego wybawcę*: Greckie \fq κέρας σωτηρίας\fq* – dosłownie „róg zbawienia". Idiom starotestamentowy (1 Sm 2,1.10; Ps 18,3; 2 Sm 22,3): róg byka symbolizował siłę, władzę królewską, militarną moc. Pod rzymską okupacją obraz „rogu zbawienia" miał polityczny ładunek – był to język oporu. Tłumaczenie „potężny wybawca" zachowuje siłę bez zaciemniającego dla współczesnego ucha obrazu byczego rogu; przypis utrzymuje pełnię obrazu.
+[^48]: **LEBEN** — *przymierze... przysięga*: Benedictus wymienia Bożą wierność na przestrzeni pokoleń jako podstawę zaufania. Dla ludzi żyjących w niepewności – zawodowej, rodzinnej, egzystencjalnej – to perspektywa radykalna: charakter Boga nie zmienia się wraz z okolicznościami. To nie naiwny optymizm, lecz teologiczne przekonanie oparte na wykazanej historii. Zdania zbudowane są w stylu hebrajskim: Bóg działa, ponieważ powiedział, że będzie działał. Słowo i czyn pokrywają się. – Pytanie, od którego można zacząć bez teologicznego języka: komu dotrzymujesz słowa, nawet o tym nie myśląc? Które relacje w twoim życiu funkcjonują dlatego, że wzrosła w nich niewidoczna, niezauważana niezawodność? Zaufanie jest dziś rzadkim zasobem – politycznie, gospodarczo, w przyjaźniach. Wers zaprasza do pewnej inwentaryzacji: jaką niezawodność doświadczyłem, która dziś mnie niesie, choć już jej nie zauważam? – Dla wierzących Benedictus otwiera praktykę żyjącą w wielu tradycjach. Żydowska tradycja \it berachot\it* – ćwiczenie codziennego dziękowania Bogu za konkretne wierności – ma chrześcijańskie rodzeństwo w liturgii godzin, w benedyktyńskim oficjum, w ignacjańskim rachunku sumienia. Wszystkim wspólne jest rozpoznanie: zaufanie nie jest podejmowane jako decyzja, lecz przypominane. Kto regularnie spogląda wstecz, widzi wzory niewidoczne w codzienności. – Wokacyjnie wers ma poważną stronę. Zawody pracujące z obietnicami – lekarki, nauczyciele, prawnicy, kapłani, rodzice – wiedzą, jak krucha jest architektura zaufania. Złamana obietnica kosztuje lata budowania. Benedictus przypomina, że świat trzyma się wiernością, nie efektywnością. – Wspólnotowo: pokolenia trzymające sobie wierność są niewidoczną strukturą każdego Kościoła, każdej rodziny, każdego miasta. Tradycja liturgiczna – chrzestni, przysięga małżeńska, święcenia – traktuje to poważnie: obietnice składa się publicznie, ponieważ muszą być publicznie niesione. Polski katolicyzm zna głęboko ten gest pokoleniowej wierności – modlitwa za zmarłych, pamięć rodzinna, przekaz wiary z dziadków. – W tym tygodniu: dotrzymaj starego zobowiązania, którego nigdy formalnie nie złożyłeś, lecz o którym druga osoba pamięta.
+[^49]: **KONTEXT** — *przysiędze złożonej Abrahamowi*: Bezpośrednie nawiązanie do Rdz 22,16–18 – przysięga Boga złożona Abrahamowi po próbie Izaaka. Benedictus rysuje wielki łuk: od Abrahama, przez proroków, przez Dawida, przez Jana, do tego, kto przyjdzie. Cała historia Izraela trzymana jest tu jednym Bożym słowem, na które Bóg już raz przysiągł.
+[^50]: **TEXT** — *w świętości i sprawiedliwości*: Greckie \fq ἐν ὁσιότητι καὶ δικαιοσύνῃ\fq* — dwa odrębne słowa, dwie różne wartości. \fq ὁσιότης\fq* (\it hosiotēs\it*) to świętość, pełnia wobec Boga; \fq δικαιοσύνη\fq* (\it dikaiosynē\it*) — sprawiedliwość, uczciwość wobec ludzi. Razem opisują pełną postawę życia: wierność i Bogu, i drugiemu człowiekowi.
+[^51]: **TEXT** — *A ty, dziecko*: Tu zachodzi najbardziej intymny zwrot w całym rozdziale. Wersety 68–75 były wielką perspektywą przymierza – trzecia osoba: Izrael, Abraham, ojcowie. Od wersetu 76 Zachariasz odwraca się do swojego nowonarodzonego syna: druga osoba liczby pojedynczej. Ojciec do dziecka. Pierwsze słowa, które ojciec mówi do długo wyczekiwanego syna, po dziewięciu miesiącach milczenia. Czuły dystans z wersetów 68–75 ustępuje przed tą chwilą; cała kosmiczna architektura przymierza zatrzymuje się przed pojedynczą twarzą.
+[^52]: **TEXT** — *wnętrze miłosierdzia*: Greckie \fq σπλάγχνα ἐλέους\fq* – dosłownie „wnętrzności miłosierdzia". \fq σπλάγχνα\fq* (\it splanchna\it*) to dla starożytnych centrum emocji w ciele: żołądek, jelita, wątroba – miejsce, w którym czuje się litość, zanim się o niej pomyśli. Współczesne odpowiedniki: „głębokie miłosierdzie", „tkliwa litość" – gubią cielesność. Aperto: „wnętrze miłosierdzia" – by zachować fizyczną głębię. Boże miłosierdzie nie jest tu abstrakcją; to coś, co Boga ściska w środku, jak człowieka ściska na widok cierpiącego.
+[^53]: **KULTUR** — *na pustkowiach*: Greckie \fq ἐν ταῖς ἐρήμοις\fq* — liczba mnoga: nie jedno miejsce, lecz wędrówka po bezludnych terenach. Pustynia jest w tradycji biblijnej miejscem formacji proroków: Mojżesz, Eliasz, sam Izrael. Syn kapłana dorasta nie w Świątyni, lecz poza wszystkimi instytucjami religijnymi — z autorytetem, który pochodzi nie z dziedzictwa, lecz wyłącznie od Boga. Łukasz w jednym zdaniu zamyka trzydzieści lat ciszy.

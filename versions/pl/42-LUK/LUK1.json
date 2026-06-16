@@ -4,68 +4,126 @@
   "lang": "AB-PL",
   "versions": [
     {
-      "id": "99d86020d8bb",
-      "label": "2026-06-13 — publish: 5 updated",
-      "date": "2026-06-13T14:58:15+00:00",
-      "source_usfm_version": "v4.9.2",
-      "aperto_bible_sha": "99d86020d8bbc7353153ce04fabe46e9a0574da4",
+      "id": "bd8d4f60d326",
+      "label": "2026-06-16 — publish: 1 updated",
+      "date": "2026-06-16T17:46:10+00:00",
+      "source_usfm_version": "v5.0.1",
+      "aperto_bible_sha": "bd8d4f60d32678400da1f384db46e3e43a4a2b34",
       "current": true,
       "passages": [
         {
           "pericope_id": "luke_01_prologue",
-          "title": "Dlaczego to piszę",
+          "title": "Do Teofila",
           "verse_start": 1,
           "verse_end": 4,
-          "content_hash": "sha256:6f4e6895d6312bac3ba26135d9f9602e95e9b369f4ff025a0bf1f55931773bd0"
+          "content_hash": "sha256:8c6a09e6a647dab48b41b4f490a6b39ac9186a124de9e97149d212e2e8772e12"
         },
         {
           "pericope_id": "luke_01_zechariah_announcement",
           "title": "Obietnica złożona staremu kapłanowi",
           "verse_start": 5,
           "verse_end": 25,
-          "content_hash": "sha256:7d7734b898a842cc4dfeffac73fcc9f447d99eaa3016a685d2c98d008a401452"
+          "content_hash": "sha256:b938774e3a1b6f74106a972b61fefff79e89173a25e2a0583856e14711b73faf"
         },
         {
           "pericope_id": "luke_01_annunciation_to_mary",
           "title": "Zwiastowanie narodzin Jezusa",
           "verse_start": 26,
           "verse_end": 38,
-          "content_hash": "sha256:7d9c8e166e42947b60a43adc948bdaec068d624038c1bc6200d66365666917da"
+          "content_hash": "sha256:0cc9a3199ce01de6259f5aae744290bcdd262426954d56e3e2be6aba6dde4a1e"
         },
         {
           "pericope_id": "luke_01_visitation",
           "title": "Maria u Elżbiety",
           "verse_start": 39,
           "verse_end": 45,
-          "content_hash": "sha256:409df5dd5c33d65641b92560365fcb8ea2e58cbe014f362567b45738cdf62666"
+          "content_hash": "sha256:8ae617d475a2ca7cc8773e06de8839debb622cc617515b7cfbed759319268482"
         },
         {
           "pericope_id": "luke_01_magnificat",
           "title": "Pieśń Marii",
           "verse_start": 46,
           "verse_end": 56,
-          "content_hash": "sha256:c96c1f2b895e43312f9bf815df428a024e0fd72f7410dcc882ab1411c7de03bd"
+          "content_hash": "sha256:0707df7abf75c7169bb2c4fbb00a19edc08705ece4c513e66808a00e200473ce"
         },
         {
           "pericope_id": "luke_01_birth_and_naming",
           "title": "Narodziny Jana",
           "verse_start": 57,
           "verse_end": 66,
-          "content_hash": "sha256:053eb7a8a81f81d221ec99c2075e9642afdcfa03877f634b64ed6488798b740e"
+          "content_hash": "sha256:0c5397c65c0ae47906d6b779e690baa799699235ce05cc8561703fd466652f50"
         },
         {
           "pericope_id": "luke_01_benedictus",
           "title": "Proroctwo Zachariasza",
           "verse_start": 67,
           "verse_end": 79,
-          "content_hash": "sha256:8a45997e7678c6b8304575e8bf5f937a49312aacff7bebf47fdf1754431598db"
+          "content_hash": "sha256:d4c9e3c84e68e950946d2f2ec4d3cceef5a4c72d6d6bc2d7c81057841464504a"
         },
         {
           "pericope_id": "luke_01_coda",
           "title": "Dorastanie na pustkowiu",
           "verse_start": 80,
           "verse_end": 80,
-          "content_hash": "sha256:55737978237e4e3b97a1dbca649a0d3c41589b66d9ba5b67a58e3790c2707a70"
+          "content_hash": "sha256:2b3143a5f96cbef35905343aae0e460ab71dfd62759c6b8e9f621739aa3826ab"
+        }
+      ]
+    },
+    {
+      "id": "99d86020d8bb",
+      "label": "2026-06-13 — publish: 5 updated",
+      "date": "2026-06-13T14:58:15+00:00",
+      "source_usfm_version": "v4.9.2",
+      "aperto_bible_sha": "99d86020d8bbc7353153ce04fabe46e9a0574da4",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_01_prologue",
+          "title": "Do Teofila",
+          "verse_start": 1,
+          "verse_end": 4
+        },
+        {
+          "pericope_id": "luke_01_zechariah_announcement",
+          "title": "Obietnica złożona staremu kapłanowi",
+          "verse_start": 5,
+          "verse_end": 25
+        },
+        {
+          "pericope_id": "luke_01_annunciation_to_mary",
+          "title": "Zwiastowanie narodzin Jezusa",
+          "verse_start": 26,
+          "verse_end": 38
+        },
+        {
+          "pericope_id": "luke_01_visitation",
+          "title": "Maria u Elżbiety",
+          "verse_start": 39,
+          "verse_end": 45
+        },
+        {
+          "pericope_id": "luke_01_magnificat",
+          "title": "Pieśń Marii",
+          "verse_start": 46,
+          "verse_end": 56
+        },
+        {
+          "pericope_id": "luke_01_birth_and_naming",
+          "title": "Narodziny Jana",
+          "verse_start": 57,
+          "verse_end": 66
+        },
+        {
+          "pericope_id": "luke_01_benedictus",
+          "title": "Proroctwo Zachariasza",
+          "verse_start": 67,
+          "verse_end": 79
+        },
+        {
+          "pericope_id": "luke_01_coda",
+          "title": "Dorastanie na pustkowiu",
+          "verse_start": 80,
+          "verse_end": 80
         }
       ]
     },
@@ -79,7 +137,7 @@
       "passages": [
         {
           "pericope_id": "luke_01_prologue",
-          "title": "Dlaczego to piszę",
+          "title": "Do Teofila",
           "verse_start": 1,
           "verse_end": 4
         },
@@ -137,7 +195,7 @@
       "passages": [
         {
           "pericope_id": "luke_01_prologue",
-          "title": "Dlaczego to piszę",
+          "title": "Do Teofila",
           "verse_start": 1,
           "verse_end": 4
         },
@@ -195,7 +253,7 @@
       "passages": [
         {
           "pericope_id": "luke_01_prologue",
-          "title": "Dlaczego to piszę",
+          "title": "Do Teofila",
           "verse_start": 1,
           "verse_end": 4
         },
@@ -253,7 +311,7 @@
       "passages": [
         {
           "pericope_id": "luke_01_prologue",
-          "title": "Dlaczego to piszę",
+          "title": "Do Teofila",
           "verse_start": 1,
           "verse_end": 4
         },

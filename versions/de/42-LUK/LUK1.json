@@ -4,68 +4,126 @@
   "lang": "AB-DE",
   "versions": [
     {
-      "id": "39ef4df82704",
-      "label": "2026-06-12 — publish: 1 updated",
-      "date": "2026-06-12T10:09:00+00:00",
-      "source_usfm_version": "v5.0.1",
-      "aperto_bible_sha": "39ef4df827048038a832b63b745e21aa13e48394",
+      "id": "9376986d5638",
+      "label": "2026-06-16 — publish: 1 updated",
+      "date": "2026-06-16T15:05:13+00:00",
+      "source_usfm_version": "v5.0.4",
+      "aperto_bible_sha": "9376986d5638cc24869a1cbfdbdfc010e86e6b19",
       "current": true,
       "passages": [
         {
           "pericope_id": "luke_01_prologue",
-          "title": "Warum ich das schreibe",
+          "title": "An Theophilus",
           "verse_start": 1,
           "verse_end": 4,
-          "content_hash": "sha256:316324a009654d503ebb345782ca7c5f2efe556a3cb893c002421eef7e4b19b1"
+          "content_hash": "sha256:ed62ac2f0316990c4536b6654803cb8206ca7be25b601b38c9d97b370f5c8da7"
         },
         {
           "pericope_id": "luke_01_zechariah_announcement",
           "title": "Die Ankündigung der Geburt des Johannes",
           "verse_start": 5,
           "verse_end": 25,
-          "content_hash": "sha256:36917028999408d294da4cf22d7c130a1020196d2d2e750fec7e8af66bd2c778"
+          "content_hash": "sha256:8b0a20f2c47216d05ab4ce84938e85d419a70a3c7c2bc262e4c84bb578878b3d"
         },
         {
           "pericope_id": "luke_01_annunciation_to_mary",
           "title": "Die Ankündigung der Geburt Jesu",
           "verse_start": 26,
           "verse_end": 38,
-          "content_hash": "sha256:98c169ea78e9d88f8ac58c913581ed1b742d14c31a5db89572d440188fd509a3"
+          "content_hash": "sha256:e4ecd177ec214cc361005ceb43de714800166960bd880a2f3bf205d65df8504d"
         },
         {
           "pericope_id": "luke_01_visitation",
           "title": "Maria besucht Elisabet",
           "verse_start": 39,
           "verse_end": 45,
-          "content_hash": "sha256:890f150a7d5793f03723b9c41d425a9cdb59302a9e6b4bddcea116c4ad402b3e"
+          "content_hash": "sha256:a7ac5bcae309ffa41b68d711d94a42165ba3f829b03660e205cf4fa25e4d172d"
         },
         {
           "pericope_id": "luke_01_magnificat",
           "title": "Das Lied der Maria",
           "verse_start": 46,
           "verse_end": 56,
-          "content_hash": "sha256:b3b3fb8d22717f0ef515957452b1c9caa526e8a1d2fc460aa699a9b0bae9b5b9"
+          "content_hash": "sha256:f76a65778b970b1e045b8a77658401ed1c41505378db8a03ab09dd2a8617db95"
         },
         {
           "pericope_id": "luke_01_birth_and_naming",
           "title": "Die Geburt des Johannes",
           "verse_start": 57,
           "verse_end": 66,
-          "content_hash": "sha256:98a18643a4cb162d6b159350853ea48792b8650ec149c45bef16c35a00203a4d"
+          "content_hash": "sha256:934dd052a8171a2c76627de1351a440431262a96fbf2313151ed514eaa0ca2f8"
         },
         {
           "pericope_id": "luke_01_benedictus",
           "title": "Das Lied des Zacharias",
           "verse_start": 67,
           "verse_end": 79,
-          "content_hash": "sha256:0074af173ee4fff92182958783900dd9c6e42aaa052a79b0a076fa52cd51eaae"
+          "content_hash": "sha256:d11fa80ef38d2302ea0c1a2b962271fbaa0bf311fd00dd7150cb23eff99ecb88"
         },
         {
           "pericope_id": "luke_01_coda",
           "title": "Aufwachsen in der Wüste",
           "verse_start": 80,
           "verse_end": 80,
-          "content_hash": "sha256:318484a03449622cd23b8920096d051af80f0b9086a94fcf90c5e7a22d018531"
+          "content_hash": "sha256:c3dcd85f3facb72cb83014b8a8e056696185951a5e35e88b936ee86b2f9ff61d"
+        }
+      ]
+    },
+    {
+      "id": "39ef4df82704",
+      "label": "2026-06-12 — publish: 1 updated",
+      "date": "2026-06-12T10:09:00+00:00",
+      "source_usfm_version": "v5.0.1",
+      "aperto_bible_sha": "39ef4df827048038a832b63b745e21aa13e48394",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_01_prologue",
+          "title": "An Theophilus",
+          "verse_start": 1,
+          "verse_end": 4
+        },
+        {
+          "pericope_id": "luke_01_zechariah_announcement",
+          "title": "Die Ankündigung der Geburt des Johannes",
+          "verse_start": 5,
+          "verse_end": 25
+        },
+        {
+          "pericope_id": "luke_01_annunciation_to_mary",
+          "title": "Die Ankündigung der Geburt Jesu",
+          "verse_start": 26,
+          "verse_end": 38
+        },
+        {
+          "pericope_id": "luke_01_visitation",
+          "title": "Maria besucht Elisabet",
+          "verse_start": 39,
+          "verse_end": 45
+        },
+        {
+          "pericope_id": "luke_01_magnificat",
+          "title": "Das Lied der Maria",
+          "verse_start": 46,
+          "verse_end": 56
+        },
+        {
+          "pericope_id": "luke_01_birth_and_naming",
+          "title": "Die Geburt des Johannes",
+          "verse_start": 57,
+          "verse_end": 66
+        },
+        {
+          "pericope_id": "luke_01_benedictus",
+          "title": "Das Lied des Zacharias",
+          "verse_start": 67,
+          "verse_end": 79
+        },
+        {
+          "pericope_id": "luke_01_coda",
+          "title": "Aufwachsen in der Wüste",
+          "verse_start": 80,
+          "verse_end": 80
         }
       ]
     },
@@ -79,7 +137,7 @@
       "passages": [
         {
           "pericope_id": "luke_01_prologue",
-          "title": "Warum ich das schreibe",
+          "title": "An Theophilus",
           "verse_start": 1,
           "verse_end": 4
         },
@@ -137,7 +195,7 @@
       "passages": [
         {
           "pericope_id": "luke_01_prologue",
-          "title": "Warum ich das schreibe",
+          "title": "An Theophilus",
           "verse_start": 1,
           "verse_end": 4
         },
@@ -195,7 +253,7 @@
       "passages": [
         {
           "pericope_id": "luke_01_prologue",
-          "title": "Warum ich das schreibe",
+          "title": "An Theophilus",
           "verse_start": 1,
           "verse_end": 4
         },

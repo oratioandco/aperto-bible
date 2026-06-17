@@ -14,15 +14,15 @@
 
 
 **1** Verehrter Theophilus![^1] Schon viele haben es unternommen, einen geordneten Bericht über die Ereignisse zu verfassen, die sich unter uns erfüllt haben,[^2]
-**2** So haben es uns die weitergegeben, die von Anfang an dabei waren. Augenzeugen, die dann in den Dienst dieser Botschaft getreten sind.
+**2** So, wie es uns die überliefert haben, die von Anfang an dabei waren: Augenzeugen, die später in den Dienst dieser Botschaft getreten sind.
 **3** Darum habe auch ich mich entschlossen, allem von Anfang an sorgfältig nachzugehen und es für dich der Reihe nach aufzuschreiben,
-**4** So sollst du erkennen: Was man dir erzählt hat, steht auf festem Grund.[^3]
+**4** Damit du erkennst: Was man dir erzählt hat, steht auf festem Grund.[^3]
 
 ### Die Ankündigung der Geburt des Johannes
 
 
-**5** Zur Zeit, als Herodes *im Auftrag Roms* König von Judäa war, lebte dort ein Priester namens Zacharias. Er gehörte zur Dienstgruppe Abija.[^4] Seine Frau Elisabet stammte aus der alten Priesterfamilie Aarons. *Ein Haus, dem jeder im Dorf den Segen Gottes ansah.*
-**6** beide rechtschaffen vor Gott, ohne dass jemand ihnen etwas hätte vorwerfen können.[^5]
+**5** Zur Zeit, als Herodes *im Auftrag Roms* König von Judäa war, lebte dort ein Priester namens Zacharias. Er gehörte zur Dienstgruppe Abija.[^4] Seine Frau Elisabet stammte aus der alten Priesterfamilie Aarons. *Zwei Priesterlinien in einem Haus. Jeder im Dorf las daran den Segen Gottes ab.*
+**6** Beide lebten so, wie es vor Gott recht ist, ohne dass jemand ihnen etwas hätte vorwerfen können.[^5]
 **7** Und doch hatten sie kein Kind. Elisabet war kinderlos geblieben.[^6] *Kinderlosigkeit war in ihrer Welt kein privates Unglück. Sie war Schande.* Und nun waren sie beide schon alt.
 
 **8** Als seine Priesterabteilung an die Reihe kam, trat Zacharias zum Dienst vor Gott in den Tempel.
@@ -33,15 +33,15 @@
 **12** Als Zacharias ihn sah, packte ihn die Angst.[^9]
 
 **13** Doch der Engel sagte zu ihm: „Hab keine Angst, Zacharias. Dein Gebet ist erhört worden.[^10] Deine Frau Elisabet wird einen Sohn bekommen. Du wirst ihn Johannes nennen.
-**14** Er wird dir Freude und Jubel bringen, und viele werden sich über seine Geburt freuen,
+**14** Er wird dir Freude bringen, überschwängliche Freude. Und nicht nur dir: Viele werden sich freuen, wenn er zur Welt kommt,
 **15** denn er wird groß sein vor dem Herrn. Wein und alles, was berauscht, wird er nicht anrühren,[^11] und schon vor seiner Geburt wird ihn der Heilige Geist erfüllen.
 **16** Viele Menschen in Israel wird er zurückführen zu dem Herrn, ihrem Gott.
-**17** Er wird vor ihm hergehen mit dem Geist und der Wucht eines Elija,[^12] um Eltern und Kinder wieder zueinander zu bringen und alle, die sich abgewandt haben, zurückzuholen zu einem Leben nach Gottes Willen. So macht er dem Herrn ein Volk bereit, das auf ihn wartet."
+**17** Er wird dem Herrn vorausgehen, mit dem Geist und der Kraft des Elija:[^12] Er bringt Eltern und Kinder wieder zueinander und führt alle, die sich abgewandt haben, zurück zu einem Leben nach Gottes Willen. So macht er für den Herrn ein Volk bereit, das auf ihn wartet."
 
-**18** Zacharias fragte den Engel: „Woran soll ich erkennen, dass das so kommt? Ich bin alt, und meine Frau ist es auch."
+**18** Zacharias fragte den Engel: „Woran soll ich erkennen, dass das geschieht? Ich bin alt, und meine Frau ist es auch."
 
 **19** Der Engel antwortete ihm: „Ich bin Gabriel. Ich stehe unmittelbar vor Gott. Er hat mich gesandt, um dir das mitzuteilen.[^13]
-**20** Doch nun: Du wirst stumm sein, kein Wort mehr, bis zu dem Tag, an dem dies geschieht. Denn du hast meinen Worten nicht geglaubt, die sich zu ihrer Zeit erfüllen werden."[^14]
+**20** Von jetzt an wirst du stumm sein. Kein Wort mehr, bis zu dem Tag, an dem das geschieht. Denn du hast meinen Worten nicht geglaubt, und sie werden sich erfüllen, wenn ihre Zeit gekommen ist."[^14]
 
 **21** Draußen wartete das Volk auf Zacharias. Sie wunderten sich, dass er so lange im Heiligtum blieb.
 **22** Als er herauskam, konnte er nichts sagen. Sie erkannten, dass er im Heiligtum eine Erscheinung gehabt hatte; er gab ihnen Zeichen und blieb stumm.
@@ -53,8 +53,8 @@
 ### Die Ankündigung der Geburt Jesu
 
 
-**26** Sechs Monate waren vergangen, seit Elisabet schwanger geworden war. Gott sandte denselben Engel erneut: Gabriel. Nach Nasaret in Galiläa. *Nicht nach Jerusalem. Nicht in den Tempel.*
-**27** Dort lebte eine junge Frau namens Maria. Sie war verlobt mit einem Mann namens Josef aus dem Haus Davids.[^16] *Rechtlich war sie schon seine Frau.*
+**26** Sechs Monate waren vergangen, seit Elisabet schwanger geworden war. Gott sandte denselben Engel erneut: Gabriel. Nach Nazareth in Galiläa. *Nicht nach Jerusalem. Nicht in den Tempel.*
+**27** Dort lebte eine junge Frau namens Maria. Sie war verlobt mit einem Mann namens Josef aus dem Haus Davids.[^16] *Noch wohnte sie bei ihren Eltern. Und war rechtlich doch schon Josefs Frau.*
 
 **28** Der Engel trat bei ihr ein und sagte: „Gott hat dich gewählt. Gott ist mit dir."[^17]
 **29** Diese Worte trafen sie bis ins Mark. Was sollte dieser Gruß bedeuten?[^18]
@@ -75,7 +75,7 @@
 ### Maria besucht Elisabet
 
 
-**39** Kurz darauf brach Maria auf und ging eilig in das Bergland, in eine Stadt im Gebiet von Juda. *Mehrere Tagesmärsche, allein.*
+**39** Kurz darauf brach Maria auf und ging eilig in das Bergland, in eine Stadt im Gebiet von Juda. *Mehrere Tagereisen weit, allein.*
 **40** Sie trat in das Haus des Zacharias und grüßte Elisabet.
 **41** Als Elisabet den Gruß Marias hörte, hüpfte das Kind in ihrem Leib auf.[^27] Und Elisabet wurde erfüllt vom Heiligen Geist.[^28]
 
@@ -83,7 +83,7 @@
 „Was für ein Glück liegt auf dir, und auf dem Kind, das du trägst.
 **43** Wer bin ich, dass die Mutter meines Herrn zu mir kommt?[^30]
 **44** Denn als dein Gruß an mein Ohr drang, hüpfte das Kind in meinem Leib auf vor Freude.
-**45** Glücklich, die geglaubt hat, dass sich erfüllen wird, was ihr vom Herrn gesagt worden ist."[^31]
+**45** Glücklich ist, die geglaubt hat: Was der Herr ihr gesagt hat, wird sich erfüllen."[^31]
 
 *Zacharias wusste nichts davon. Josef wusste nichts. Zwei Frauen, ein Zimmer. Und darin die ganze Geschichte.*
 
@@ -93,19 +93,19 @@
 **47** Mein Geist jubelt über Gott, meinen Retter.[^34]
 
 **48** Er hat mich angesehen. Mich. Die Kleine.[^35][^36]
-> Von nun an werden mich alle Generationen glücklich preisen.\f + \fr 1:48 \fk KONTEXT \fq alle Geschlechter werden mich glücklich preisen \ft Mit diesem Satz scheiden sich die christlichen Traditionen. Die katholische und orthodoxe Überlieferung sieht in Marias einzigartiger Rolle als Mutter Gottes (\fq Θεοτόκος\fq* — Gottesgebärerin, Konzil von Ephesus 431) eine bleibende besondere Würde: Das Seligpreisen \it aller\it* Generationen begründet die Marienverehrung, die in Liturgie, Gebet und Kunst bis heute lebendig ist. Die protestantische Überlieferung liest Maria als Paradebeispiel des glaubenden Menschen: Sie empfängt, antwortet, vertraut — und darin ist sie Vorbild für jeden Christen, nicht Gegenstand der Anrufung. Beide Lesarten finden im Text einen Halt: Maria ist historisch einzigartig (ihre Rolle in der Heilsgeschichte ist unwiederholbar) und spirituell exemplarisch (ihr Ja aus Glauben ist nachahmbar). Die Geschichte zeigt: Wo eine Tradition nur die eine Linie las und die andere bestritt, ging Tiefe verloren. Wo beide Linien zusammengehalten wurden — bei Luther, der den Magnificat-Kommentar 1521 schrieb, oder in den ökumenischen Mariologien des 20. Jahrhunderts — blieb der Vers ganz.\f*
+> Von nun an werden mich alle Generationen glücklich nennen.\f + \fr 1:48 \fk KONTEXT \fq alle Geschlechter werden mich glücklich nennen \ft Mit diesem Satz scheiden sich die christlichen Traditionen. Die katholische und orthodoxe Überlieferung sieht in Marias einzigartiger Rolle als Mutter Gottes (\fq Θεοτόκος\fq* — Gottesgebärerin, Konzil von Ephesus 431) eine bleibende besondere Würde: Das Seligpreisen \it aller\it* Generationen begründet die Marienverehrung, die in Liturgie, Gebet und Kunst bis heute lebendig ist. Die protestantische Überlieferung liest Maria als Paradebeispiel des glaubenden Menschen: Sie empfängt, antwortet, vertraut — und darin ist sie Vorbild für jeden Christen, nicht Gegenstand der Anrufung. Beide Lesarten finden im Text einen Halt: Maria ist historisch einzigartig (ihre Rolle in der Heilsgeschichte ist unwiederholbar) und spirituell exemplarisch (ihr Ja aus Glauben ist nachahmbar). Die Geschichte zeigt: Wo eine Tradition nur die eine Linie las und die andere bestritt, ging Tiefe verloren. Wo beide Linien zusammengehalten wurden — bei Luther, der den Magnificat-Kommentar 1521 schrieb, oder in den ökumenischen Mariologien des 20. Jahrhunderts — blieb der Vers ganz.\f*
 **49** Der Mächtige hat Gewaltiges an mir getan.
 > Sein Name: heilig.
 
 **50** Sein Erbarmen reicht von Generation zu Generation.
 > Für alle, die ihn ehren.
 
-**51** Er zeigt seine Stärke, mit seinem Arm.[^37]
-> Die Stolzen? Er zerstreut sie samt all ihren Plänen.
+**51** Er greift durch, mit seinem starken Arm.[^37]
+> Die Stolzen? Er fegt sie hinweg, mitsamt ihren Plänen.
 **52** Herrscher stürzt er vom Thron.
 > Die Kleinen hebt er hoch.
 **53** Die Hungrigen füllt er. Mit allem.
-> Die Reichen schickt er fort. Leer.\f + \fr 1:51-53 \fk LEBEN \fq Mächtige … Niedrige … Hungrige … Reiche \ft Das Magnificat schneidet in zwei Richtungen. Für die Niedrigen, die Hungrigen, die Übersehenen ist es Trost: dass Gott die soziale Architektur der Welt nicht für gegeben hält. Für die Mächtigen, die Satten, die Sortierten ist es Beunruhigung: dass dasselbe Gott die soziale Architektur der Welt nicht für gegeben hält. Lateinamerikanische Befreiungstheologen haben die zweite Hälfte des Liedes als das Manifest der Option für die Armen gelesen; europäische Innerlichkeit hat oft nur die erste Hälfte gehört. Beides hat im Text seinen Grund: Maria singt von einer Umkehrung, die zugleich politisch und seelisch ist. Niemand entkommt hier dadurch, dass er sagt: Ist nur ein Bild. – Eine Frage, die für jeden Leser sitzt: Auf welcher Seite dieser Liste stehe ich gerade? An welcher Stelle des Magnificats wäre ich froh, wenn es nur Bild bliebe – und an welcher Stelle hoffe ich, dass es Realität wird? Wer ehrlich antwortet, merkt: Beides ist da, in einem einzigen Leben, manchmal in einem einzigen Tag. – Für gläubige Leser stellt sich die ältere Frage: Was bedeutet es, dieses Lied jeden Abend zu beten? In den meisten Klöstern Europas wird es seit fünfzehnhundert Jahren in der Vesper gesungen — täglich. Eine Praxis, die nicht einfach Trost spendet, sondern den Beter im Lauf der Jahre umstellt: Wer das Lied lang genug singt, wird auf eine bestimmte Seite gestellt. – Strukturell ist die Frage offen, was \it heute\it* ein Niedriger und was ein Mächtiger ist. Die alten Kategorien — König, Bauer — passen nicht mehr eins zu eins; die Algorithmen, die heute „erhöhen" und „erniedrigen", sind andere. Aber dass Macht und Sichtbarkeit eine Logik haben, die nicht Gottes Logik ist, gilt weiter. Eine schlichte Übung diese Woche: schau dir einmal die Gästeliste deiner Aufmerksamkeit an — wen lädst du rein, wen lässt du draußen, und wer entscheidet das?\f*
+> Die Reichen schickt er fort. Mit leeren Händen.\f + \fr 1:51-53 \fk LEBEN \fq Mächtige … Niedrige … Hungrige … Reiche \ft Das Magnificat schneidet in zwei Richtungen. Für die Niedrigen, die Hungrigen, die Übersehenen ist es Trost: dass Gott die soziale Architektur der Welt nicht für gegeben hält. Für die Mächtigen, die Satten, die Sortierten ist es Beunruhigung: dass dasselbe Gott die soziale Architektur der Welt nicht für gegeben hält. Lateinamerikanische Befreiungstheologen haben die zweite Hälfte des Liedes als das Manifest der Option für die Armen gelesen; europäische Innerlichkeit hat oft nur die erste Hälfte gehört. Beides hat im Text seinen Grund: Maria singt von einer Umkehrung, die zugleich politisch und seelisch ist. Niemand entkommt hier dadurch, dass er sagt: Ist nur ein Bild. – Eine Frage, die für jeden Leser sitzt: Auf welcher Seite dieser Liste stehe ich gerade? An welcher Stelle des Magnificats wäre ich froh, wenn es nur Bild bliebe – und an welcher Stelle hoffe ich, dass es Realität wird? Wer ehrlich antwortet, merkt: Beides ist da, in einem einzigen Leben, manchmal in einem einzigen Tag. – Für gläubige Leser stellt sich die ältere Frage: Was bedeutet es, dieses Lied jeden Abend zu beten? In den meisten Klöstern Europas wird es seit fünfzehnhundert Jahren in der Vesper gesungen — täglich. Eine Praxis, die nicht einfach Trost spendet, sondern den Beter im Lauf der Jahre umstellt: Wer das Lied lang genug singt, wird auf eine bestimmte Seite gestellt. – Strukturell ist die Frage offen, was \it heute\it* ein Niedriger und was ein Mächtiger ist. Die alten Kategorien — König, Bauer — passen nicht mehr eins zu eins; die Algorithmen, die heute „erhöhen" und „erniedrigen", sind andere. Aber dass Macht und Sichtbarkeit eine Logik haben, die nicht Gottes Logik ist, gilt weiter. Eine schlichte Übung diese Woche: schau dir einmal die Gästeliste deiner Aufmerksamkeit an — wen lädst du rein, wen lässt du draußen, und wer entscheidet das?\f*
 
 **54** Er hat sich seines Dieners Israel angenommen,
 > hat sein Erbarmen nicht vergessen,
@@ -180,7 +180,7 @@
 [^2]: **KULTUR** — *unternommen haben*: Lukas eröffnet sein Werk in der Form, die antike Geschichtsschreiber von Thukydides bis Josephus pflegten: mit einem einzigen kunstvollen Satz, in dem Methode, Quellenlage und Adressat in einem Atemzug genannt werden. Wir geben diesen Auftakt nicht als periodischen Schausatz wieder, sondern als das, was er heute wäre: eine Widmung an den Adressaten. Augenzeugen befragen, frühere Berichte sichten, das Ganze ordnen — das ist die Selbstverpflichtung historischer Prosa, nicht die Bescheidenheit eines Erbauungsschriftstellers. Die mehr als 5.800 erhaltenen griechischen Manuskripte des Neuen Testaments übertreffen die Überlieferung jedes anderen antiken Werks bei weitem (zum Vergleich: Homer ca. 1.900). Textkritische Analyse zeigt eine hohe Überlieferungstreue gerade dieser ersten vier Verse.
 [^3]: **UEBERSETZUNG** — *steht auf festem Grund*: \fq ἀσφάλεια\fq* (\fq aspháleia\fq*). Traditionelle Übersetzungen: „Gewissheit", „Zuverlässigkeit". Beides klingt nach kognitivem Besitz, nach einem Wissen, das man hat und das die Frage abschließt. Lukas meint etwas anderes. \fq ἀσφάλεια\fq* ist verwandt mit \fq σφάλλομαι\fq* — straucheln, ins Wanken kommen; das Wort meint im Wortsinn: das, woran man nicht ins Straucheln gerät. Ein Grund, auf dem man steht. Es ist die Sicherheit, die jemand sucht, der weitergehen will, nicht die Gewissheit, die das Fragen beendet.
 [^4]: **KULTUR** — *Dienstgruppe Abija*: Das Jerusalemer Priestertum war in 24 Gruppen eingeteilt, die im Jahreslauf abwechselnd Dienst taten (1 Chr 24). Die Dienstgruppe Abija war die achte. Jede Gruppe diente zweimal im Jahr eine Woche im Tempel. Herodes der Große (37–4 v. Chr.) war idumäischer König von Roms Gnaden — Bauherr des zweiten Tempels und zugleich der Mann, dessen Misstrauen jedes größere Haus in Jerusalem fürchtete. Mit diesem einen Halbsatz lokalisiert Lukas die Geschichte historisch und politisch zugleich.
-[^5]: **TEXT** — *rechtschaffen … ohne Vorwurf*: Lukas verwendet zwei verschiedene Wörter, die im Deutschen leicht zu einem werden. \fq δίκαιοι\fq* (gerecht, rechtschaffen) bezeichnet die Treue im Bund — das tatsächliche Verhältnis zu Gott. \fq ἄμεμπτοι\fq* (untadelig) ist forensisch: niemand konnte ihnen eine konkrete Anklage anhängen. Beides zusammen heißt nicht „moralische Vollkommenheit". Es heißt: ein Leben, dem niemand etwas vorwerfen konnte, im Gerichtssaal wie vor Gott.
+[^5]: **TEXT** — *recht vor Gott … ohne Vorwurf*: Lukas verwendet zwei verschiedene Wörter, die im Deutschen leicht zu einem werden. \fq δίκαιοι\fq* (gerecht, rechtschaffen) bezeichnet die Treue im Bund — das tatsächliche Verhältnis zu Gott. \fq ἄμεμπτοι\fq* (untadelig) ist forensisch: niemand konnte ihnen eine konkrete Anklage anhängen. Beides zusammen heißt nicht „moralische Vollkommenheit". Es heißt: ein Leben, dem niemand etwas vorwerfen konnte, im Gerichtssaal wie vor Gott.
 [^6]: **KULTUR** — *kinderlos*: Kulturanthropologen (Bruce Malina, Jerome Neyrey) beschreiben die mediterrane Welt des 1. Jahrhunderts als Ehre-Schande-Kultur. Kinderlosigkeit bedeutete dort öffentliche Schande, nicht privates Leid – die unausgesprochene Frage hieß: Was haben sie getan, dass Gott sie so straft? Dass der Text in Vers 6 ausdrücklich \fq rechtschaffen vor Gott\fq* sagt und dann zur Kinderlosigkeit übergeht, ist kein Nebeneinander, sondern eine Klammer: Die Schande, die das Dorf wahrnimmt, deckt sich nicht mit dem Urteil, das im Text spricht.
 [^7]: **KULTUR** — *das Los fiel auf ihn*: Das Räucheropfer im Heiligtum galt als die heiligste Aufgabe, die einem Priester zukommen konnte — und sie wurde nur einmal im Leben vergeben, per Los. Bei rund 18.000 Priestern in der Generation Zacharias' bedeutete das: Die meisten erlebten diesen Moment nie. Das griechische \fq ἔλαχε\fq* trägt das Gewicht göttlicher Zuteilung, nicht den Beigeschmack des Zufalls. Wer das Los zog, ging in das Allerheiligste-nahe Heiligtum und stand dort, wo nur er allein stehen durfte.
 [^8]: **UNGLAUBLICH** — *ein Engel des Herrn*: Engelserscheinungen sind eine Stelle, an der moderne Leser oft anhalten – das gehört zu den Voraussetzungen, die der Text mitbringt. — Der Text setzt ein Weltbild voraus, in dem Gott nicht nur als Idee wirkt, sondern durch Boten: Wesen mit Stimme, Auftrag, Gestalt. Das griechische \fq angelos\fq* heißt schlicht „Bote". Die christliche Tradition hat zwei Jahrtausende lang Gabriel als ein wirkliches Wesen ernst genommen: Daniel begegnet ihm in seinen Visionen (Dan 8; 9), Lukas erzählt von ihm bei Zacharias und Maria, die frühe Kirche hat ihn nie weginterpretiert, im lebendigen Gebet orthodoxer und katholischer Traditionen wird sein Name bis heute genannt. Jesus selbst spricht von Engeln als von wirklichen Wesen (Lk 4:10; Mt 18:10). Wer das ernst nimmt, liest hier nicht eine literarische Erzählfigur, sondern eine Begegnung: Etwas tritt in den Tempel, das nicht zur sichtbaren Welt gehört, und es bleibt nicht ohne Folgen. — Wer das schwer fassen kann, dem öffnet der Text auch andere Lesarten. Symbolisch: der Engel als Form, eine empfangene Botschaft im geprägten Bild der Tradition zu erzählen – nicht buchstäbliches Wesen, sondern Erzähltechnik, die etwas Innerliches sichtbar macht. Wer so liest, hört im Gabriel-Auftritt die Verdichtung dessen, was Zacharias selbst erfahren hat. — Religionswissenschaftlich-vergleichend: Visionserfahrungen sind in den großen Traditionen breit dokumentiert – im jüdischen, christlichen, muslimischen Mystikkorpus, in den Aufzeichnungen schamanischer Kulturen, in den klinischen Beschreibungen veränderter Bewusstseinszustände. Eine intensive priesterliche Erfahrung im Heiligtum, die in der Bildsprache der Tradition ankommt, ist für die Religionsforschung nichts Außergewöhnliches. — Was alle Lesarten teilen: Eine Botschaft kommt an, und sie ändert alles. Wo immer du in der Geschichte stehst – der Text lädt dich ein, mit Zacharias bis zur nächsten Szene mitzugehen.

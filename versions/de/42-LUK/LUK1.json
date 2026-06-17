@@ -16,35 +16,35 @@
           "title": "An Theophilus",
           "verse_start": 1,
           "verse_end": 4,
-          "content_hash": "sha256:ed62ac2f0316990c4536b6654803cb8206ca7be25b601b38c9d97b370f5c8da7"
+          "content_hash": "sha256:51204341080249637af2b2718f83462575f2b513daf6fa3d1331f2a054c5c556"
         },
         {
           "pericope_id": "luke_01_zechariah_announcement",
           "title": "Die Ankündigung der Geburt des Johannes",
           "verse_start": 5,
           "verse_end": 25,
-          "content_hash": "sha256:8b0a20f2c47216d05ab4ce84938e85d419a70a3c7c2bc262e4c84bb578878b3d"
+          "content_hash": "sha256:3a0fd054f4e80a1276015aad0890fa53aa6a7519588452ae6c743036a23f467e"
         },
         {
           "pericope_id": "luke_01_annunciation_to_mary",
           "title": "Die Ankündigung der Geburt Jesu",
           "verse_start": 26,
           "verse_end": 38,
-          "content_hash": "sha256:e4ecd177ec214cc361005ceb43de714800166960bd880a2f3bf205d65df8504d"
+          "content_hash": "sha256:46589ff06764eeff9a878369a0cc44ce3aecea8bf3e92f133e15dde4d5bfb137"
         },
         {
           "pericope_id": "luke_01_visitation",
           "title": "Maria besucht Elisabet",
           "verse_start": 39,
           "verse_end": 45,
-          "content_hash": "sha256:a7ac5bcae309ffa41b68d711d94a42165ba3f829b03660e205cf4fa25e4d172d"
+          "content_hash": "sha256:13350af880d3d32561383e21c064ea313b2a0e3bc82b6fe2a9418cbd934e5a1c"
         },
         {
           "pericope_id": "luke_01_magnificat",
           "title": "Das Lied der Maria",
           "verse_start": 46,
           "verse_end": 56,
-          "content_hash": "sha256:f76a65778b970b1e045b8a77658401ed1c41505378db8a03ab09dd2a8617db95"
+          "content_hash": "sha256:01f021664c6631839fe5d5ebd9eaacf5ffb4df1f8c1ad517efe72731de5acadf"
         },
         {
           "pericope_id": "luke_01_birth_and_naming",

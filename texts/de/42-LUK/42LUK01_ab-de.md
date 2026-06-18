@@ -54,7 +54,7 @@
 
 
 **26** Sechs Monate waren vergangen, seit Elisabet schwanger geworden war. Gott sandte denselben Engel erneut: Gabriel. Nach Nazareth in Galiläa. *Nicht nach Jerusalem. Nicht in den Tempel.*
-**27** Dort lebte eine junge Frau namens Maria. Sie war verlobt mit einem Mann namens Josef aus dem Haus Davids.[^16] *Noch wohnte sie bei ihren Eltern. Und war rechtlich doch schon Josefs Frau.*
+**27** Dort lebte eine junge Frau namens Maria. Sie war verlobt mit einem Mann namens Josef aus dem Haus David.[^16] *Noch wohnte sie bei ihren Eltern. Und war rechtlich doch schon Josefs Frau.*
 
 **28** Der Engel trat bei ihr ein und sagte: „Gott hat dich gewählt. Gott ist mit dir."[^17]
 **29** Diese Worte trafen sie bis ins Mark. Was sollte dieser Gruß bedeuten?[^18]

@@ -34,7 +34,7 @@
 
 **13** Ale anioł przemówił:
 
-**14** Będzie dla ciebie radością i weselem. Wielu będzie się cieszyć z jego narodzin.
+**14** Będzie dla ciebie radością i uniesieniem. Wielu będzie się cieszyć z jego narodzin.
 **15** Bo będzie wielki w oczach Pana. Nie tknie wina ani niczego mocnego,[^12] a Duch Święty napełni go już w łonie matki.
 **16** Wielu synów Izraela nawróci do Pana, ich Boga.
 **17** Sam pójdzie przed Nim w duchu i mocy Eliasza,[^13] aby zwrócić serca ojców ku dzieciom, a nieposłusznych ku mądrości sprawiedliwych. Aby przygotować Panu lud na Jego przyjście."
@@ -82,7 +82,7 @@
 **41** Gdy tylko Elżbieta usłyszała pozdrowienie Marii, dziecko poruszyło się w niej gwałtownie[^30][^31], a ją samą napełnił Duch Święty.
 **42** I zawołała donośnym głosem,*jak prorokini*[^32]:
 
-**43** Skąd mi to, że przychodzi do mnie matka mojego Pana?[^33]
+**43** Kim ja jestem, że matka mojego Pana przychodzi do mnie?[^33]
 **44** Bo gdy tylko twoje pozdrowienie zabrzmiało w moich uszach, dziecko w moim łonie podskoczyło z radości.
 **45** A masz szczęście, że uwierzyłaś. Spełni się to, co ci powiedział Pan."[^34]
 

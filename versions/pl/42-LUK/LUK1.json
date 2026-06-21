@@ -23,35 +23,35 @@
           "title": "Obietnica złożona staremu kapłanowi",
           "verse_start": 5,
           "verse_end": 25,
-          "content_hash": "sha256:59608da72c77b2836ea0821a73925316bec69d3f046d5a52af530751916c4946"
+          "content_hash": "sha256:abf1f566f3a6aca03dd3b199e01bcf47da9a5d6125580f80e32d71373ee8871b"
         },
         {
           "pericope_id": "luke_01_annunciation_to_mary",
           "title": "Zwiastowanie narodzin Jezusa",
           "verse_start": 26,
           "verse_end": 38,
-          "content_hash": "sha256:2f8d32c441170cac9497d26f138a1308cc68c3c6938772069c4b55f45513dc00"
+          "content_hash": "sha256:99ec58429601e3e8840b2716b1243816da4b3279961f866d246041087a30ddfb"
         },
         {
           "pericope_id": "luke_01_visitation",
           "title": "Maria u Elżbiety",
           "verse_start": 39,
           "verse_end": 45,
-          "content_hash": "sha256:c1d38ad0f29f6b58364667913cffcd5be6f74a8d3412cd68df7a38a86ceb7d9a"
+          "content_hash": "sha256:7204aa1ac655e4054a8468ab410ee925a903510dbea9b695e02f52cc657c14f9"
         },
         {
           "pericope_id": "luke_01_magnificat",
           "title": "Pieśń Marii",
           "verse_start": 46,
           "verse_end": 56,
-          "content_hash": "sha256:80dfc611bead452b6aaf11a596cbda1fb290689018b44b01522fd6dc14abab14"
+          "content_hash": "sha256:56d2860039ede8f173f0703c9802c0bc147a5246302fc12a6eaed6c9b680c7ce"
         },
         {
           "pericope_id": "luke_01_birth_and_naming",
           "title": "Narodziny Jana",
           "verse_start": 57,
           "verse_end": 66,
-          "content_hash": "sha256:7e90c043e134dca7c8b59afe2d284cbb9fe5324a5ffdc5b679f5f7dee7756d27"
+          "content_hash": "sha256:d1c489c9de98ab3f867250ede4179331f0dab56eb2ce416625241c281b971b92"
         },
         {
           "pericope_id": "luke_01_benedictus",

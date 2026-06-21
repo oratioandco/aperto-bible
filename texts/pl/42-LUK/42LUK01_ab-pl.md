@@ -30,7 +30,7 @@
 **10** Wszyscy modlili się na zewnątrz, w godzinie kadzielnej. *Wewnątrz: sam Zachariasz. Złoty ołtarz przed nim, dym kadzidła unosił się powoli, siedmioramienny świecznik rzucał migotliwe światło na zasłonę. Cisza.*
 
 **11** Wtedy ukazał mu się anioł Pana.[^10] Stał po prawej stronie ołtarza kadzielnego.*Po stronie, z której przychodzi błogosławieństwo.*
-**12** Strach ogarnął Zachariasza.[^11]
+**12** Strach spadł na Zachariasza.[^11]
 
 **13** Ale anioł przemówił:
 
@@ -48,7 +48,7 @@
 **22** Kiedy wyszedł, nie mógł do nich mówić. Zrozumieli, że w przybytku miał widzenie. Pokazywał im na migi i pozostawał niemy.
 **23** A gdy upłynęły dni jego służby, wrócił do swojego domu.
 
-**24** Po jakimś czasie Elżbieta, jego żona, zaszła w ciążę i przez pięć miesięcy ukrywała się, mówiąc:
+**24** Po jakimś czasie Elżbieta, jego żona, zaszła w ciążę i przez pięć miesięcy ukrywała się. Mówiła sobie:
 **25** „To Pan dla mnie zrobił. Spojrzał. I zdjął ze mnie hańbę wśród ludzi."[^16]
 
 ### Zwiastowanie narodzin Jezusa
@@ -60,10 +60,10 @@
 **28** Anioł przyszedł do niej i powiedział: „Bóg spojrzał na ciebie z niezwykłą przychylnością. Jest przy tobie."[^20]
 **29** Te słowa nią wstrząsnęły.[^21] Zastanawiała się, co właściwie miało znaczyć takie powitanie.
 
-**30** „Nie bój się, Mario," powiedział anioł. „Bóg spojrzał na ciebie z życzliwością.
+**30** „Nie bój się, Mario," powiedział anioł. „Bóg spojrzał na ciebie z przychylnością.
 **31** Poczniesz i urodzisz syna, i nadasz mu imię Jezus.[^22]
 **32** Będzie wielki. Będą Go nazywać Synem Najwyższego. Pan Bóg da Mu tron Jego ojca, Dawida.[^23]
-**33** Będzie panował nad domem Jakuba na wieki, a Jego królestwu nie będzie końca."
+**33** Będzie panował nad domem Jakuba na wieki, a jego panowanie nigdy się nie skończy."
 
 **34** Maria zapytała: „Jak to się stanie, skoro nie spałam z mężczyzną?"
 
@@ -79,7 +79,7 @@
 
 **39** Maria wyruszyła zaraz. Spiesznie, w górzysty kraj Judei.*Kilka dni drogi z Galilei.*
 **40** Weszła do domu Zachariasza i pozdrowiła Elżbietę.
-**41** Gdy tylko Elżbieta usłyszała pozdrowienie Marii, dziecko poruszyło się w niej gwałtownie[^30][^31], a ją samą napełnił Duch Święty.
+**41** Gdy tylko Elżbieta usłyszała pozdrowienie Marii, dziecko podskoczyło w niej z radości[^30][^31], a ją samą napełnił Duch Święty.
 **42** I zawołała donośnym głosem,*jak prorokini*[^32]:
 
 **43** Kim ja jestem, że matka mojego Pana przychodzi do mnie?[^33]
@@ -96,7 +96,7 @@
 > I od tej chwili każde pokolenie nazwie mnie szczęśliwą.
 
 **49** Bo wielkie rzeczy mi uczynił. On, Ten Mocny.
-> Święte jest Jego imię.
+> Jego imię jest święte.
 **50** Jego miłosierdzie z pokolenia na pokolenie,
 > nad tymi, którzy się Go boją.\f + \fr 1:50 \fk TEXT \fq którzy się Go boją \ft Greckie \fq φοβουμένοις αὐτόν\fq* – „bojących się go". Tradycyjne tłumaczenie zachowane: bojaźń Boża w Starym Testamencie i u Łukasza nie znaczy przerażenia ani neurotycznego lęku, lecz fundamentalne nastawienie czci, otwartości, gotowości słuchać. Aperto trzyma się tradycyjnej formy, bo każda zamiana („szanować" jest zbyt płaska, „drżeć przed Bogiem" zbyt mistyczna) traci centrum tego pojęcia.\f*
 
@@ -211,7 +211,7 @@
 [^27]: **UEBERSETZUNG** — *Należę do Pana*: Greckie \fq ἡ δούλη κυρίου\fq* – dosłownie „niewolnica/służebnica Pana". Polskie tłumaczenie biblijne nosi tu mocne piętno liturgiczne: „służebnica Pańska" (Tysiąclatka) brzmi jak formuła z modlitewnika, nie jak słowa konkretnej dziewczyny w określonej godzinie. Aperto: „Należę do Pana" – zachowuje całkowite oddanie (\fq δούλη\fq* znaczy radykalną przynależność, kobieta-niewolnica), ale brzmi jak osoba, nie formuła. Wybór nie jest unikiem teologii – jest ostrością. Maria mówi to bez gwarancji: Józef może ją oddalić, rodzina się jej wstydzić, wieś odrzucić. To jedno z najodważniejszych „tak" w historii.
 [^28]: **TEXT** — *Niech tak się stanie*: Greckie \fq γένοιτο\fq* to optativus – rzadki w Nowym Testamencie tryb życzący. Nie jest to bierne poddanie („cokolwiek się stanie") ani rozkaz („stań się") – jest to aktywne, wolne życzenie, zgoda przyjęta dobrowolnie. Maria wyraża wolę, nie rezygnację.
 [^29]: **LEBEN** — *Niech tak się stanie*: „Tak" Marii nie jest pobożną formułą, lecz aktem wolnej zgody na coś, czego konsekwencji jeszcze nie zna. Tradycja maryjna w Polsce – od Jana Pawła II, przez kard. Wyszyńskiego, po liturgię Zwiastowania – czyta to jako paradygmat: odwaga \it fiat\it*, w której człowiek oddaje siebie Bogu, zanim ma w ręku gwarancje. – Pytanie, które trafia bez teologicznego wstępu: kiedy ostatnio powiedziałeś „tak" na coś, czego końca nie znałeś? Małżeństwu, dziecku, decyzji zawodowej, której wszyscy odradzali? Powiedzieć „tak" bez wyników badań, bez napisanego scenariusza, bez zapewnienia, że nie skończy się hańbą – to gest, do którego współczesna kultura, ufundowana na ryzyku skalkulowanym, jest słabo przygotowana. Maria działa odwrotnie. – Dla wierzących wers otwiera szczególną duchową architekturę. Ignacjańska tradycja \it indyferentnej dyspozycji\it* – gotowości do każdego ruchu, do którego Bóg wezwie – kierowała się tym samym tonem co \fq γένοιτο\fq*. Reguła benedyktyńska zaczyna się od \it obsculta, fili\it* – „słuchaj, synu" – i kończy się ślubem stałości. Jedno i drugie żyje z tej samej intuicji co Maria: posłuszeństwo Bogu jest aktywne, nie pasywne; jest wyborem, nie kapitulacją. – Polski katolicyzm zna ten gest głęboko. Trzeźwa wytrwałość matek w stanie wojennym, decyzja Maksymiliana Kolbe oddającego życie za współwięźnia, wybór wielu zwyczajnych ludzi, którzy w czasach komunizmu nie zaparli się wiary – wszystko to są echa Mariinego \fq γένοιτο\fq*. Nie spektakularne gesty, lecz cicha gotowość. – Praktycznie: większość naszych „tak" jest ostrożna, ze schowanym „ale". Co się stanie, jeśli przez tydzień powiesz „tak" tak, jak Maria – bez gwarancji, lecz bez warunków? Bez zapewnień, że to się opłaci? – W tym tygodniu: rozpoznaj jedno „tak", które zatrzymujesz w oczekiwaniu na pewność, i spróbuj je wypowiedzieć mimo to.
-[^30]: **TEXT** — *poruszyło się gwałtownie*: Greckie \fq ἐσκίρτησεν\fq* – „skoczyć, podskoczyć z radości". Ten sam czasownik w Septuagincie opisuje „tańczące góry" (Ps 114,4). Płaskie tłumaczenia („poruszyło się", „drgnęło") gubią ostrość obrazu. To nie zwykłe poruszenie płodu – to taneczna reakcja radości.
+[^30]: **TEXT** — *podskoczyło z radości*: Greckie \fq ἐσκίρτησεν\fq* – „skoczyć, podskoczyć z radości". Ten sam czasownik w Septuagincie opisuje „tańczące góry" (Ps 114,4). Płaskie tłumaczenia („poruszyło się", „drgnęło") gubią ostrość obrazu. To nie zwykłe poruszenie płodu – to taneczna reakcja radości.
 [^31]: **UNGLAUBLICH** — *napełnił Duch Święty*: Napełnienie Duchem i prorockie słowo stawiają współczesnego czytelnika przed pytaniami, których tekst sztucznie nie wygładza. – Tradycja chrześcijańska rozumie działanie Ducha Świętego jako realny proces: nie jako metaforę wewnętrznego stanu, lecz jako spotkanie, w którym Bóg dociera do człowieka i przez niego mówi. U Elżbiety dzieje się to, co Joel 3,1–2 zapowiadał dla czasów ostatecznych – synowie i córki będą prorokować – i co Łukasz przez całe swoje podwójne dzieło opowiada wciąż od nowa: Maria zostaje osłonięta Duchem (1,35), Jan zostaje napełniony Duchem już w łonie matki (1,15), Zachariasz staje się prorokiem (1,67), uczniowie w dniu Pięćdziesiątnicy (Dz 2). Elżbieta nie jest tu wyjątkiem, lecz początkiem sekwencji, w której Duch pozwala wypowiedzieć to, czego ludzie sami jeszcze wiedzieć nie mogą – że Maria nosi Matkę Pana. – Kto nie potrafi tego unieść dosłownie, ten może w tekście odnaleźć inną drogę. Symbolicznie: Elżbieta wie więcej, niż wiedzieć mogła, bo dziecko w niej samej odpowiada jako pierwsze (w. 41a); duchowy język chwyta to, co jej ciało już przyjęło. – Fizjologicznie-porównawczo: spotkanie dwóch kobiet, z których każda nosi w sobie coś nieprawdopodobnego, niesie ze sobą siłę, która w tradycji religijnej nazywana jest „Duchem" – i kliniczne, i mistyczne zapisy notują podobne momenty z tym samym ładunkiem. – Niezależnie od tego, którą drogą czytasz: Łukasz opowiada tę chwilę jako wyzwolicielkę mowy, która wie więcej niż sami uczestnicy. Tekst zaprasza cię, byś poważnie potraktował odpowiedź starszej kobiety – to ona jest pierwszą, która nazywa to, co nadchodzi.
 [^32]: **TEXT** — *donośnym głosem*: Greckie \fq ἀνεφώνησεν κραυγῇ μεγάλῃ\fq* – „zawołała wielkim krzykiem". To nie jest delikatne powitanie. Elżbieta krzyczy z prorocką mocą. Duch napełnia – i natychmiast wybucha prorockie słowo.
 [^33]: **KONTEXT** — *matka mojego Pana*: To pierwsze użycie tytułu \fq κύριος\fq* (Pan) o Jezusie w Ewangelii Łukasza – i pierwszy chrystologiczny \it kyrios\it* w całej Ewangelii. Dotąd \fq κύριος\fq* odsyłał czytelnika do JHWH (gr. konwencja Septuaginty); od tej chwili to słowo zaczyna nieść drugi referent – przyszłego Pana, jeszcze nienarodzonego. Elżbieta rozpoznaje to, czego Maria sama nie nazwała. Echo wybrzmiewa: 2 Sm 6,9, gdy Dawid pyta przed Arką Przymierza: „Jak Arka Pańska może przyjść do mnie?" Maria – nowa Arka. Cała późniejsza tradycja \it Theotokos\it* (Sobór Efeski, 431) wyrasta z tego jednego zdania.

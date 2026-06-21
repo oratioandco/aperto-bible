@@ -44,7 +44,7 @@
           "title": "Pieśń Marii",
           "verse_start": 46,
           "verse_end": 56,
-          "content_hash": "sha256:58f35b21d9fdaff0f4243cacfad1a17c1ba1e2f9472e4357fff742e124375849"
+          "content_hash": "sha256:80dfc611bead452b6aaf11a596cbda1fb290689018b44b01522fd6dc14abab14"
         },
         {
           "pericope_id": "luke_01_birth_and_naming",
@@ -58,7 +58,7 @@
           "title": "Proroctwo Zachariasza",
           "verse_start": 67,
           "verse_end": 79,
-          "content_hash": "sha256:feb4b5ebe40ce756bd3eea1c7cc2bcdf8c46cddb1e89384bc6bc9fe2ad047a7e"
+          "content_hash": "sha256:3e54599c52824b5c12597b98d870fdbe901f6f844da197c8de71cf18e1493e9e"
         },
         {
           "pericope_id": "luke_01_coda",

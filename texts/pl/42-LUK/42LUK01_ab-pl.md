@@ -102,9 +102,9 @@
 
 **51** Pokazał, co umie. Ramieniem.[^39]
 > Rozproszył pyszniących się, w samych ich własnych planach.
-**52** Władców strąca z tronów.
-> Tych z dołu podnosi w górę.
-**53** Głodnych nasyca do syta.
+**52** Władców strącił z tronów.
+> Tych z dołu podniósł w górę.
+**53** Głodnych nasycił dobrem.
 > Bogatych odprawił. Z niczym.\f + \fr 1:51-53 \fk LEBEN \fq Władców – z tronów. Tych z dołu – w górę. \ft Magnificat stawia każdą epokę przed pytaniem: po której stronie Bożego odwrócenia stoisz? Teologia wyzwolenia (Gutiérrez, Sobrino) czyta te wersety jako Boży program konkretnej, materialnej sprawiedliwości. Tradycja monastyczna (Augustyn, Bernard z Clairvaux, Tomasz a Kempis) słyszy w nich wezwanie do wewnętrznej pokory – strącenia „władców" wewnątrz nas samych. Obie lektury mają oparcie w tekście; Łukasz pisze tak, że żadna z nich sama nie wystarczy. – W XX wieku Magnificat był zakazywany przez wojskowe reżimy Ameryki Łacińskiej – Argentyna lat siedemdziesiątych, Salwador, Gwatemala. Nie przypadkiem. Reżimy oparte na lęku rozpoznają od razu, kiedy tekst nazywa po imieniu właśnie ich zachowanie. – Pytanie, które działa dla każdego czytelnika, niezależnie od światopoglądu: w których obszarach życia jesteś tym, kogo się podnosi, a w których tym, czyj tron jest zagrożony? Uczciwa odpowiedź rzadko jest prosta. Senior w pracy bywa najmłodszym we własnej rodzinie. Osoba bezpieczna finansowo bywa tą, której zdrowie odmawia posłuszeństwa. Uprzywilejowany w jednym społeczeństwie staje się niepewnym w innym. Magnificat tych warstw nie spłaszcza – nazywa je. – Dla wierzących Magnificat jest jednym z najczęściej odmawianych psalmów chrześcijaństwa. Śpiewany codziennie w nieszporach przez katolików, anglikanów i prawosławnych – od kilkunastu wieków. To powtórzenie nie jest sentymentalne. Jest formacyjne. Mówić te słowa codziennie znaczy powoli stawać się kimś, dla kogo Boże odwrócenie brzmi jak dom, nie jak zagrożenie. – Polski kontekst dodaje wymiaru: pieśń ta była śpiewana w czasach zaborów i komunizmu jako modlitwa ludu, który nie miał głosu. Duchowość kard. Wyszyńskiego i Solidarności karmiła się tym samym tekstem – nie jako ideologią, lecz jako duchową architekturą oporu wobec aroganckich systemów. – Wokacyjnie wers stawia pytanie strukturalne każdemu, czyja praca dotyka władzy: gdzie w mojej działalności zawodowej jestem w pozycji podnoszenia tych pomijanych albo trzymania ich w dole? Decyzje kadrowe, awanse, architektura spotkań, kwestia tego, kto dostaje głos. – W tym tygodniu: przeczytaj Magnificat raz na głos. Zauważ, które wersety cię pocieszają, a które każą się wzdrygnąć.\f*
 
 **54** Stanął po stronie Izraela, swojego sługi.
@@ -147,7 +147,7 @@
 
 **71** Ratunek od naszych wrogów,
 > z ręki tych, którzy nas nienawidzą.
-**72** Okazał miłosierdzie naszym ojcom[^48]
+**72** Był miłosierny dla naszych ojców[^48]
 > i pamiętał o swoim świętym przymierzu,
 **73** o przysiędze złożonej Abrahamowi, naszemu ojcu.[^49]
 > Że da nam:
@@ -162,7 +162,7 @@
 > by przygotować Mu drogi.
 **77** By dać Jego ludowi poznanie zbawienia,
 > w odpuszczeniu ich win.\f + \fr 1:77 \fk TEXT \fq odpuszczenie win \ft Greckie \fq ἄφεσιν ἁμαρτιῶν\fq* – tradycyjnie „odpuszczenie grzechów". Aperto pozostawia „odpuszczenie", bo to słowo niesie precyzyjny ładunek: \fq ἄφεσις\fq* znaczy też „uwolnienie, puszczenie wolno" (jak niewolnika). „Wina" zamiast „grzech" jest bardziej dostępna współczesnemu, świeckiemu czytelnikowi – i odpowiada szerszemu polu znaczeniowemu greckiego \fq ἁμαρτία\fq* (chybienie, zboczenie z drogi).\f*
-**78** Z głębi czułości naszego Boga,[^52]
+**78** Z wnętrza miłosierdzia naszego Boga,[^52]
 > w którym nawiedzi nas Świt z wysoka,\f + \fr 1:78 \fk TEXT \fq Świt z wysoka \ft Greckie \fq ἀνατολή ἐξ ὕψους\fq* (\it anatolē ex hypsous\it*) – „wschód/świt z wysokości". \fq ἀνατολή\fq* oznacza jednocześnie „wschód słońca, świt" (wschodzące światło, por. Ml 3,20) i – w Septuagincie – mesjańską „latorośl, odrośl" (Jr 23,5 LXX; Za 3,8; 6,12 LXX). Zachariasz trzyma oba obrazy naraz: światło wschodzi nad ludźmi w cieniu – i obiecany Dawidowy potomek się pojawia. Tłumaczenie samym „wschodem" gubi obraz świtu, samym „świtem" – mesjańską latorośl. Aperto: „Świt z wysoka" – z dużej litery, by zachować podwójny ładunek.\f*
 **79** by oświecić tych,
 > którzy siedzą w ciemności

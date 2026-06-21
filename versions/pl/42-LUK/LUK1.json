@@ -23,7 +23,7 @@
           "title": "Obietnica złożona staremu kapłanowi",
           "verse_start": 5,
           "verse_end": 25,
-          "content_hash": "sha256:119d08e2e94e4df84d2988519d4bd360357b23c2f1c6f960ca5fca0b00bc37d7"
+          "content_hash": "sha256:a587eed09e0706938be99a40993380e48965badc9a820437b70d133a6bbfcd48"
         },
         {
           "pericope_id": "luke_01_annunciation_to_mary",
@@ -51,7 +51,7 @@
           "title": "Narodziny Jana",
           "verse_start": 57,
           "verse_end": 66,
-          "content_hash": "sha256:0c5397c65c0ae47906d6b779e690baa799699235ce05cc8561703fd466652f50"
+          "content_hash": "sha256:a4eda16cc7977b85c139f2ae30338f342872293acd0eb917997ab5a741cb623c"
         },
         {
           "pericope_id": "luke_01_benedictus",

@@ -29,7 +29,7 @@
 **9** Według zwyczaju kapłańskiego wyciągnięto losy. Jemu wypadło wejść do przybytku Pana i złożyć ofiarę z kadzidła.[^9] *Moment, na który kapłan czeka całe życie. Wielu nie doczekuje nigdy.*
 **10** Wszyscy modlili się na zewnątrz, w godzinie kadzielnej. *Wewnątrz: sam Zachariasz. Złoty ołtarz przed nim, dym kadzidła unosił się powoli, siedmioramienny świecznik rzucał migotliwe światło na zasłonę. Cisza.*
 
-**11** Wtedy ukazał mu się anioł Pana[^10] Stał po prawej stronie ołtarza kadzielnego.*Po stronie, z której przychodzi błogosławieństwo.*
+**11** Wtedy ukazał mu się anioł Pana.[^10] Stał po prawej stronie ołtarza kadzielnego.*Po stronie, z której przychodzi błogosławieństwo.*
 **12** Strach ogarnął Zachariasza.[^11]
 
 **13** Ale anioł przemówił:
@@ -41,7 +41,7 @@
 
 **18** Zachariasz odpowiedział aniołowi: „Po czym to poznam? Ja jestem stary. I moja żona już w podeszłym wieku."
 
-**19** Anioł odrzekł: „Ja jestem Gabriel.[^14] Stoję przed obliczem Boga. Zostałem posłany, by przynieść ci tę dobrą nowinę.
+**19** Anioł odrzekł: „Ja jestem Gabriel.[^14] Stoję przed Bogiem. Zostałem posłany, by przynieść ci tę dobrą nowinę.
 **20** A teraz: będziesz milczał, niezdolny do mówienia, aż do dnia, gdy się to spełni. Bo nie uwierzyłeś moim słowom, a one spełnią się w swoim czasie."[^15]
 
 **21** Tymczasem lud czekał na Zachariasza. *Czekał zbyt długo.* Dziwili się, że tak długo jest w sanktuarium.
@@ -119,7 +119,7 @@
 
 
 **57** Nadszedł czas Elżbiety i urodziła syna.
-**58** Sąsiedzi i krewni dowiedzieli się, że Pan obszedł się z nią tak hojnie, i cieszyli się razem z nią.[^41]
+**58** Sąsiedzi i krewni dowiedzieli się, że Pan okazał jej tak wielkie miłosierdzie, i cieszyli się z nią.[^41]
 
 **59** Ósmego dnia,*przy obrzezaniu,*[^42] przyszli i chcieli nazwać go po ojcu Zachariaszu.
 **60** Ale matka powiedziała: „Nie. Będzie nazywał się Jan."[^43]

@@ -13,14 +13,14 @@
 ### Wrzawa w Tesalonice
 
 
-**1** Przeszli przez Amfipolis i Apolonię*– wielkim rzymskim traktem, tym samym, którym maszerowały legiony* – i dotarli do Tesaloniki. Była tam synagoga.
+**1** Przeszli przez Amfipolis i Apolonię *– wielkim rzymskim traktem, tym samym, którym maszerowały legiony* – i dotarli do Tesaloniki. Była tam synagoga.
 **2** Paweł wszedł, jak miał w zwyczaju.[^1] Przez trzy szabaty z rzędu rozprawiał z zebranymi.*Nie kazanie z podwyższenia – rozmowa, spór, Pisma rozkładane przed nimi jak mapa.*
 **3** Pokazywał, fragment po fragmencie, że Mesjasz musiał przejść przez cierpienie, musiał umrzeć i wrócić żywy.*I zawsze docierał do tego samego zdania:* „Ten Jezus, o którym wam mówię – to jest Mesjasz".
 
 **4** Część słuchaczy dała się przekonać. Stanęli przy Pawle i Sylasie, a z nimi liczni Grecy bojący się Boga[^2] – i niemało kobiet z wyższych sfer.
 
 **5** Pozostałych[^3] ogarnęła zazdrość.*Patrzyli, jak coś ich własnego przesuwa się ku obcemu: szacunek, który synagoga budowała przez pokolenia, ludzie, którzy dotąd ich słuchali, kobiety, których nazwiska coś znaczyły w mieście.* Ściągnęli z rynku kilku próżniaków, podburzyli tłum, i w jedną godzinę całe miasto wrzało. Ruszyli pod dom Jazona, żeby wyciągnąć obu przed zgromadzenie.
-**6** Ale ich tam nie zastali. Chwycili więc Jazona i kilku braci i wywlekli ich przed politarchów[^4]*– miejskich zwierzchników*. „Ci ludzie wywrócili świat do góry nogami – krzyczeli – a teraz przyszli i tutaj.
+**6** Ale ich tam nie zastali. Chwycili więc Jazona i kilku braci i wywlekli ich przed politarchów[^4] *– miejskich zwierzchników*. „Ci ludzie wywrócili świat do góry nogami – krzyczeli – a teraz przyszli i tutaj.
 **7** Jazon przyjął ich pod swój dach. Wszyscy oni działają wbrew rozporządzeniom cesarza i mówią, że jest inny król – Jezus".[^5]
 
 **8** *W rzymskim mieście nie było zdania bardziej niebezpiecznego.* Tłum się zachwiał. Zachwiali się i zwierzchnicy.
@@ -48,7 +48,7 @@
 
 **18** Niedługo zmierzyli się z nim także filozofowie – epikurejczycy i stoicy.[^8] Niektórzy kpili: „Co ten zbieracz nasion próbuje nam powiedzieć?”*Tak nazywano ptaka, który dziobie okruchy na rynku – kogoś, kto żywi się cudzymi resztkami.* Inni mówili: „Zdaje się, że głosi jakieś obce bóstwa”. Mówili tak, bo opowiadał o Jezusie i o zmartwychwstaniu.
 
-**19** Zaprowadzili go więc na Areopag[^9]*– przed radę, która od zawsze rozstrzygała, jakim nowym bogom wolno zamieszkać w Atenach.* „Czy możemy się dowiedzieć – zapytali – czym jest ta twoja nowa nauka?
+**19** Zaprowadzili go więc na Areopag[^9] *– przed radę, która od zawsze rozstrzygała, jakim nowym bogom wolno zamieszkać w Atenach.* „Czy możemy się dowiedzieć – zapytali – czym jest ta twoja nowa nauka?
 **20** To, co mówisz, brzmi dla nas obco, więc chcielibyśmy zrozumieć, co to wszystko znaczy".
 **21** Ateńczycy – i cudzoziemcy osiadli wśród nich – niczego nie robili równie chętnie, jak opowiadali albo słuchali tego, co najnowsze. A potem o czymś jeszcze nowszym.
 
@@ -60,9 +60,9 @@
 „Mieszkańcy Aten. Idąc przez wasze miasto i przyglądając się z bliska temu, co czcicie, widzę na każdym kroku to samo: jak poważnie traktujecie bogów, ile uwagi i staranności im poświęcacie.[^10]
 **23** Pośród tych wszystkich waszych świętych miejsc znalazłem ołtarz, na którym wycięto słowa: NIEZNANEMU BOGU.[^11] To, co czcicie, nie wiedząc, kim jest – właśnie to przyszedłem wam ogłosić.
 
-**24** Bóg, który stworzył świat i wszystko, co go wypełnia, pan nieba i ziemi, nie mieszka w świątyniach zbudowanych ludzką ręką.
+**24** Bóg, który stworzył świat i wszystko, co go wypełnia, Pan nieba i ziemi, nie mieszka w świątyniach zbudowanych ludzką ręką.
 **25** Nie potrzebuje też, żeby Go obsługiwały ludzkie ręce, jak gdyby czegoś Mu brakowało; to On daje wszystkim życie, oddech i każdą rzecz, jaką mają.
-**26** Z jednego[^12] wyprowadził wszystkie ludy i rozmieścił je po całej ziemi, a każdemu wyznaczył jego własny czas i własne granice*– porę, w której naród się podnosi, i porę, w której opada*.
+**26** Z jednego[^12] wyprowadził wszystkie ludy i rozmieścił je po całej ziemi, a każdemu wyznaczył jego własny czas i własne granice *– porę, w której naród się podnosi, i porę, w której opada*.
 
 **27** Po to, żeby Go szukali – żeby wyciągali ku Niemu ręce i może Go dotknęli*jak ktoś, kto idzie po omacku w ciemności*. A przecież On nie jest daleko. Od żadnego z nas.
 **28** To w Nim żyjemy, w Nim się poruszamy, w Nim jesteśmy – powiedzieli to zresztą niektórzy z waszych własnych poetów: »jesteśmy z Jego rodu«.[^13]
@@ -71,7 +71,7 @@
 **30** Długo nikt tego nie rozumiał, a Bóg patrzył na te czasy niewiedzy przez palce.[^14] Teraz mówi inaczej. Wzywa wszystkich i wszędzie, żeby się odwrócili – i zmienili swoje życie.
 **31** Wyznaczył dzień, w którym sprawiedliwie osądzi cały świat, przez człowieka, którego sam do tego wybrał. I dał wam na to niepodważalny dowód: wskrzesił go z martwych".[^15]
 
-**32** *Tu się skończyło.* Przy słowie „martwych” rada pękła na pół. Jedni się roześmiali. Drudzy powiedzieli*– grzecznie, wymijająco*: „Posłuchamy cię innym razem”.
+**32** *Tu się skończyło.* Przy słowie „martwych” rada pękła na pół. Jedni się roześmiali. Drudzy powiedzieli *– grzecznie, wymijająco*: „Posłuchamy cię innym razem”.
 **33** Paweł odszedł.
 
 **34** *A jednak nie wszyscy.* Kilkoro zostało przy nim, kilkoro uwierzyło: Dionizy, który sam zasiadał w radzie Areopagu, oraz kobieta o imieniu Damaris,[^16] a z nimi inni.

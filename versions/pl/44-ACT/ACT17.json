@@ -16,28 +16,28 @@
           "title": "Wrzawa w Tesalonice",
           "verse_start": 1,
           "verse_end": 9,
-          "content_hash": "sha256:09f6a7c416ea79ab017a1298c379f8fccc45e1c92116501b60e80b61754fb3f9"
+          "content_hash": "sha256:226e7a2fa44d5a8ba3a4db33125450371789a506a044a76c2607a68de01cd132"
         },
         {
           "pericope_id": "acts_17_ii_beroea",
           "title": "Berea: dzień w dzień przy Pismach",
           "verse_start": 10,
           "verse_end": 15,
-          "content_hash": "sha256:f842f2576c6afa125844fc9ad8a1636982d805ec8e108e23a0194229e9fb8f21"
+          "content_hash": "sha256:d98b8aad61558ca00c01355fe25251372c0e62738160463c6dde50e77a0cf156"
         },
         {
           "pericope_id": "acts_17_athens_agora_frame",
           "title": "Paweł w Atenach",
           "verse_start": 16,
           "verse_end": 21,
-          "content_hash": "sha256:d5987c5aa4a53f51b1a092e96c165258d13e5149ccf685eac850a628b6b4d177"
+          "content_hash": "sha256:cf12c79fcc0172bfdc229268979b9297555cd4b4fed02373f19061835a210bbc"
         },
         {
           "pericope_id": "acts_17_areopagus_speech",
           "title": "Mowa na Areopagu",
           "verse_start": 22,
           "verse_end": 34,
-          "content_hash": "sha256:e0c84c158027d0207a2070eef427756a3e18eeb842525a1c007c8a5a58c93a4e"
+          "content_hash": "sha256:d591df1dcf08c060e7d15c67075cbcc0e07a385ad8477743ea4f75f163fd42f7"
         }
       ]
     },

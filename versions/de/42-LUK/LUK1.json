@@ -16,21 +16,21 @@
           "title": "An Theophilus",
           "verse_start": 1,
           "verse_end": 4,
-          "content_hash": "sha256:51204341080249637af2b2718f83462575f2b513daf6fa3d1331f2a054c5c556"
+          "content_hash": "sha256:26ce9c1cb49220aedd3a52e3ddab3edc661b08db006aabc41a6d1ef842419cbc"
         },
         {
           "pericope_id": "luke_01_zechariah_announcement",
           "title": "Die Ankündigung der Geburt des Johannes",
           "verse_start": 5,
           "verse_end": 25,
-          "content_hash": "sha256:3a0fd054f4e80a1276015aad0890fa53aa6a7519588452ae6c743036a23f467e"
+          "content_hash": "sha256:670e5e339f437f6d05e2383df683236d5cd1216ef5fb191da794276bb544de74"
         },
         {
           "pericope_id": "luke_01_annunciation_to_mary",
           "title": "Die Ankündigung der Geburt Jesu",
           "verse_start": 26,
           "verse_end": 38,
-          "content_hash": "sha256:a9d7ac5972c847166787767ea5f6ec31532fa3013682af84b4814e1d97f910df"
+          "content_hash": "sha256:b42937a31c07159e7ef3bc80cae648890a5cba303c04b9b8ed786e84b596e664"
         },
         {
           "pericope_id": "luke_01_visitation",
@@ -44,7 +44,7 @@
           "title": "Das Lied der Maria",
           "verse_start": 46,
           "verse_end": 56,
-          "content_hash": "sha256:01f021664c6631839fe5d5ebd9eaacf5ffb4df1f8c1ad517efe72731de5acadf"
+          "content_hash": "sha256:644bb56fa9b9296664af960afe6d330d2a55d03a6340cc44f4692c0fbd9cd453"
         },
         {
           "pericope_id": "luke_01_birth_and_naming",
@@ -58,7 +58,7 @@
           "title": "Das Lied des Zacharias",
           "verse_start": 67,
           "verse_end": 79,
-          "content_hash": "sha256:d11fa80ef38d2302ea0c1a2b962271fbaa0bf311fd00dd7150cb23eff99ecb88"
+          "content_hash": "sha256:b7608c397645b9b803e56751cb06d1caf57addf2e23fdeac8bbc34f49d6d4464"
         },
         {
           "pericope_id": "luke_01_coda",

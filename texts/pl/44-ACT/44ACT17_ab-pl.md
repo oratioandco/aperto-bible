@@ -61,7 +61,7 @@
 **23** Pośród tych wszystkich waszych świętych miejsc znalazłem ołtarz, na którym wycięto słowa: NIEZNANEMU BOGU.[^11] To, co czcicie, nie wiedząc, kim jest – właśnie to przyszedłem wam ogłosić.
 
 **24** Bóg, który stworzył świat i wszystko, co go wypełnia, Pan nieba i ziemi, nie mieszka w świątyniach zbudowanych ludzką ręką.
-**25** Nie potrzebuje też, żeby Go obsługiwały ludzkie ręce, jak gdyby czegoś Mu brakowało; to On daje wszystkim życie, oddech i każdą rzecz, jaką mają.
+**25** Nie potrzebuje też, żeby Go obsługiwały ludzkie ręce, jak gdyby czegoś Mu brakowało; to On daje wszystkim życie, oddech i wszystko inne.
 **26** Z jednego[^12] wyprowadził wszystkie ludy i rozmieścił je po całej ziemi, a każdemu wyznaczył jego własny czas i własne granice *– porę, w której naród się podnosi, i porę, w której opada*.
 
 **27** Po to, żeby Go szukali – żeby wyciągali ku Niemu ręce i może Go dotknęli*jak ktoś, kto idzie po omacku w ciemności*. A przecież On nie jest daleko. Od żadnego z nas.

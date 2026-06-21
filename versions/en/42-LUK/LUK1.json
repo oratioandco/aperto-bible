@@ -16,21 +16,21 @@
           "title": "To Theophilus",
           "verse_start": 1,
           "verse_end": 4,
-          "content_hash": "sha256:346474836fc0e4ad6d244259d37bb8bfe97945f9d931124620367a25aa0575cf"
+          "content_hash": "sha256:816e20eca6c44975a7a9d99332b07944f568aa539bb0f0c1b7408817fc1fa066"
         },
         {
           "pericope_id": "luke_01_zechariah_announcement",
           "title": "An Old Priest and an Impossible Promise",
           "verse_start": 5,
           "verse_end": 25,
-          "content_hash": "sha256:7f56d470c7c564b3067ce4c9c77ae1fdc018f6b6956b4253201cd8b906ec993a"
+          "content_hash": "sha256:ad3489ae6b04d189f8ee8becd2af6000183247570f385ce08c0371803958b461"
         },
         {
           "pericope_id": "luke_01_annunciation_to_mary",
           "title": "Mary Says Yes",
           "verse_start": 26,
           "verse_end": 38,
-          "content_hash": "sha256:f0b3664b5abaf831e3b19a0c29c159038dd95f3ed7ffe07c109ead97dcf830c3"
+          "content_hash": "sha256:05d426948225e88be6d330832ae565b8a299e172d4cb1d91e85951336b993673"
         },
         {
           "pericope_id": "luke_01_visitation",
@@ -44,7 +44,7 @@
           "title": "Mary's Song",
           "verse_start": 46,
           "verse_end": 56,
-          "content_hash": "sha256:6a40187d21e9b09ee8630f824fa900812fc3409d20814ac2079218abf4e63e07"
+          "content_hash": "sha256:82a7832343a616148ec86a7ba26a0ec3f7193c483f12cc85c21bf6a514636f36"
         },
         {
           "pericope_id": "luke_01_birth_and_naming",

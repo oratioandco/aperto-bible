@@ -16,35 +16,35 @@
           "title": "Ściągali do niego ci, których nikt nie zapraszał do domu",
           "verse_start": 1,
           "verse_end": 2,
-          "content_hash": "sha256:158e777feb1d412d5a5407430de461f410b5869b153cdb6e09b8937ab4a7130a"
+          "content_hash": "sha256:b894e2e3f0219c79a2e9d5e61a9f9f1a372f23208c8c28b25d07f14ebef0117c"
         },
         {
           "pericope_id": "luke_15_the_lost_sheep",
           "title": "Zagubiona owca",
           "verse_start": 3,
           "verse_end": 7,
-          "content_hash": "sha256:07c9d3f382383bfb63e595fccb21942899f81b7a4b2342dc01044f6e6bc574f0"
+          "content_hash": "sha256:1d47e9288a1ffe3973c780bd68ff56ec4673145bb0dea6909f41a56d13f54e66"
         },
         {
           "pericope_id": "luke_15_the_lost_coin",
           "title": "Zagubiona moneta",
           "verse_start": 8,
           "verse_end": 10,
-          "content_hash": "sha256:e55776e893565a0c19babe706b6e699374da0928df8f4a97c372b4d5ce903b73"
+          "content_hash": "sha256:9f84ab81366480eb0dcf510b3a98d41ff0f5b092fac5826251813d194a3ff427"
         },
         {
           "pericope_id": "luke_15_prodigal_younger_son",
           "title": "Zagubiony syn: odejście i powrót",
           "verse_start": 11,
           "verse_end": 24,
-          "content_hash": "sha256:6d4779c7d5731d86a379a9a1c28469c90a84da948f65be5af73cdbf01793ca47"
+          "content_hash": "sha256:92ee29b929281e0f4639ae42ff1f46db3e686eab952def3f539f6fbb2a99d97d"
         },
         {
           "pericope_id": "luke_15_prodigal_elder_son",
           "title": "Zagubiony syn: starszy brat",
           "verse_start": 25,
           "verse_end": 32,
-          "content_hash": "sha256:968048bdd59d463ac51e4d84130b9b31b394a24eee622ecbd436369b6787f304"
+          "content_hash": "sha256:e8b4e305e5070f57c39fe74cadf87c85a77f42e6a9e38542c14e1967887c3af0"
         }
       ]
     },

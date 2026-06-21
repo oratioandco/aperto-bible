@@ -23,28 +23,28 @@
           "title": "Obietnica złożona staremu kapłanowi",
           "verse_start": 5,
           "verse_end": 25,
-          "content_hash": "sha256:b938774e3a1b6f74106a972b61fefff79e89173a25e2a0583856e14711b73faf"
+          "content_hash": "sha256:119d08e2e94e4df84d2988519d4bd360357b23c2f1c6f960ca5fca0b00bc37d7"
         },
         {
           "pericope_id": "luke_01_annunciation_to_mary",
           "title": "Zwiastowanie narodzin Jezusa",
           "verse_start": 26,
           "verse_end": 38,
-          "content_hash": "sha256:0cc9a3199ce01de6259f5aae744290bcdd262426954d56e3e2be6aba6dde4a1e"
+          "content_hash": "sha256:2f8d32c441170cac9497d26f138a1308cc68c3c6938772069c4b55f45513dc00"
         },
         {
           "pericope_id": "luke_01_visitation",
           "title": "Maria u Elżbiety",
           "verse_start": 39,
           "verse_end": 45,
-          "content_hash": "sha256:8ae617d475a2ca7cc8773e06de8839debb622cc617515b7cfbed759319268482"
+          "content_hash": "sha256:83e2d80994cea2641c55ae11b7bd0b20c63d72447de12d2777a3b1a4b314fe7f"
         },
         {
           "pericope_id": "luke_01_magnificat",
           "title": "Pieśń Marii",
           "verse_start": 46,
           "verse_end": 56,
-          "content_hash": "sha256:0707df7abf75c7169bb2c4fbb00a19edc08705ece4c513e66808a00e200473ce"
+          "content_hash": "sha256:58f35b21d9fdaff0f4243cacfad1a17c1ba1e2f9472e4357fff742e124375849"
         },
         {
           "pericope_id": "luke_01_birth_and_naming",
@@ -58,14 +58,14 @@
           "title": "Proroctwo Zachariasza",
           "verse_start": 67,
           "verse_end": 79,
-          "content_hash": "sha256:d4c9e3c84e68e950946d2f2ec4d3cceef5a4c72d6d6bc2d7c81057841464504a"
+          "content_hash": "sha256:feb4b5ebe40ce756bd3eea1c7cc2bcdf8c46cddb1e89384bc6bc9fe2ad047a7e"
         },
         {
           "pericope_id": "luke_01_coda",
           "title": "Dorastanie na pustkowiu",
           "verse_start": 80,
           "verse_end": 80,
-          "content_hash": "sha256:2b3143a5f96cbef35905343aae0e460ab71dfd62759c6b8e9f621739aa3826ab"
+          "content_hash": "sha256:2e4a1a9bcd13df8ffd831869dfa6753a00d7ffb0aa52313ac512860ee6cfc853"
         }
       ]
     },

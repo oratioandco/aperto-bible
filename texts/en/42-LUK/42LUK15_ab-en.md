@@ -13,9 +13,9 @@
 ### The Wrong Company
 
 
-**1** The tax collectors kept coming to him. So did the people everyone called sinners.*Word had got around. Wherever Jesus was — they came to listen.*
+**1** The tax collectors kept coming to him. So did the people everyone called sinners.*Word had got around. Wherever Jesus was, they came to listen.*
 [^1]
-**2** And the Pharisees and the Torah scholars*— the people who took the Law most seriously —* muttered to one another: "This man welcomes sinners. He sits down and eats with them."
+**2** And the Pharisees and the Torah scholars,*the people who took the Law most seriously,* muttered to one another: "This man welcomes sinners. He sits down and eats with them."
 [^2]
 [^3]
 
@@ -24,10 +24,10 @@
 ### The Lost Sheep
 
 
-**4** "Say one of you has a hundred sheep and loses one. Doesn't he leave the ninety-nine out on the open country and go after the one that's lost — and keep going until he finds it?
+**4** "Say one of you has a hundred sheep and loses one. Doesn't he leave the ninety-nine out on the open country and go after the one that's lost, and keep going until he finds it?
 [^4]
 **5** And when he finds it, he lifts it onto his shoulders, already rejoicing.
-**6** He gets home and calls his friends and his neighbors together: 'Rejoice with me. I have found my sheep — the one that was lost.'
+**6** He gets home and calls his friends and his neighbors together: 'Rejoice with me. I have found my sheep. The one that was lost.'
 **7** I tell you, there will be more joy in heaven over one sinner who turns back than over ninety-nine upright people who don't think they need to."
 [^5]
 [^6]
@@ -35,9 +35,9 @@
 ### The Lost Coin
 
 
-**8** "Or a woman has ten silver coins*— all her savings —* and loses one. Doesn't she light a lamp, sweep the house, search every corner until she finds it?
+**8** "Or a woman has ten silver coins,*all her savings,* and loses one. Doesn't she light a lamp, sweep the house, search every corner until she finds it?
 [^7]
-**9** And when she finds it, she calls her friends and her neighbors together — the women she knows. 'Rejoice with me. I have found the coin I had lost.'
+**9** And when she finds it, she calls her friends and her neighbors together, the women she knows. 'Rejoice with me. I have found the coin I had lost.'
 [^8]
 **10** In the same way, I tell you, there is joy before the angels of God over one sinner who turns back."
 
@@ -68,7 +68,7 @@
 [^16]
 [^17]
 [^18]
-**21** The son said to him: 'Father, I have sinned against heaven and against you. I am no longer worthy to be called your son —'
+**21** The son said to him: 'Father, I have sinned against heaven and against you. I am no longer worthy to be called your son …'
 [^19]
 
 
@@ -84,13 +84,13 @@
 
 **25** His elder son was out in the field. As he came near the house, he heard music. Dancing.
 **26** He called one of the slaves over. 'What's going on?'
-**27** 'Your brother is back,' the slave told him. 'Your father has slaughtered the fattened calf — he's home safe.'
+**27** 'Your brother is back,' the slave told him. 'Your father has slaughtered the fattened calf. He's home safe.'
 
 **28** He was furious. He would not go in.
 
 **29** But he answered his father: 'Look. All these years I have slaved for you. I have never disobeyed one of your commands. And not once did you give me so much as a young goat, so I could celebrate with my friends.
 [^22]
-**30** But the moment this son of yours comes back — this one who has devoured your livelihood with prostitutes — for him you slaughter the fattened calf.'
+**30** But the moment this son of yours comes back, this one who has devoured your livelihood with prostitutes, for him you slaughter the fattened calf.'
 [^23]
 
 **31** But the father said to him: 'My child, you are always with me, and everything I have is yours.
@@ -131,4 +131,4 @@
 [^24]: **TEXT** — *My child*: The father uses \fq τέκνον\fq* — "child," a tender vocative — not the formal \fq υἱέ\fq* ("son"). In the face of the elder son's fury and contempt, the father reaches for the most intimate word available to him. The contrast between the elder son's clipped accusation and the father's quiet "my child" is the parable's emotional climax.
 [^25]: **KONTEXT** — *your brother*: The father's "this brother of yours" (\fq ὁ ἀδελφός σου οὗτος\fq*) directly corrects the elder son's "this son of yours" in v. 30. The father refuses the elder son's distancing and insists on the kinship: whatever the younger son has done, he is still your brother. The Greek joins two verbs of joy — \fq εὐφρανθῆναι\fq* ("celebrate," the festive eating-and-drinking joy of a village feast) and \fq χαρῆναι\fq* ("rejoice," the inner gladness named earlier in heaven's joy over the found). The father fuses both. And the small word \fq ἔδει\fq* — "it was necessary," "it was fitting" — frames the feast not as a reward for behavior but as the only appropriate response to death becoming life.
 [^26]: **HARM** — *this brother of yours*: One thing needs naming clearly here, because Christian preaching has done lasting damage with it: the long habit of reading the elder son as a figure for "the Jews" is a misreading, and a costly one. The father in this story is a Jewish man. So is the younger son, so is the elder son, so are the servants and the village. The whole family is Jewish; the whole audience Jesus is addressing is Jewish. The elder son is not the Jewish people; he is one human posture among others, and the father's word to him is invitation, not verdict. The history of preaching that mapped "elder son = Jews, younger son = Gentiles / Christians" runs from the early patristic period through medieval supersessionism and into the worst of 20th-century European Christianity — and it has fed actual violence. Aperto reads the text the way the text reads itself: a father pleading with his son to come into the feast. Amy-Jill Levine has written some of the clearest contemporary recoveries of the parable's Jewish setting; Pope John XXIII and the *Nostra Aetate* tradition opened the official Catholic correction of these readings. The elder son is invited. He is not a stand-in for anyone outside the room.
-[^27]: **LEBEN** — *The open ending*: The parable ends here. The elder son does not answer. We do not know whether he goes into the feast or stays outside. This silence is not a flaw of the text; it is the theological point. The Pharisees and Torah scholars who muttered at v. 2 are standing exactly where the elder son is standing — outside the celebration, with a legitimate complaint and an open invitation. The parable does not resolve their question for them. Every reader who has ever been faithful and resented someone else's welcome stands in the same place. The question is always the same: will you go in? — Sit with that for a moment, before the theology. What is the feast you have been standing just outside of? Not the dramatic version — the small, daily one. The friendship where you have kept score so long you cannot remember how to celebrate it. The community whose welcome of someone you cannot quite share. The version of your own life you have judged unworthy of joy. Resentment lives on absence; it tends to thin when you actually go in and eat the food. Try it this week with one feast. Stay for one song. — For a reader inside committed faith, the open ending is part of a long tradition. Origen and the early church argued about whether the elder son is finally saved; the text refused to settle it for them, and the church learned to let it stay unsettled. Karl Barth read the open ending as the gospel's deepest courtesy: God will not coerce anyone over the threshold. The Orthodox liturgical year places this parable on a specific Sunday before Lent — not as a moral lesson but as a posture to enter the fast in. The Ignatian Exercises take it as an invitation to imagine yourself first as the younger son, then as the elder, then as the father, and to notice which is hardest. — Vocationally and relationally, the elder son is the person most of us know well from the inside. Most of the resentments that limit working life are some version of his complaint: I did the work and was not seen. The parable does not tell that resentment it is wrong; it tells the resentful person they have always been at home and that everything the father has is already theirs. Dorothy Day, working in Catholic Worker houses in New York, said the hardest part of hospitality was not the strangers — it was the people who came to help and could not stop comparing their service to others'. — Name one feast this week. Go in. See what happens to the resentment when it cannot be fed by absence anymore.
+[^27]: **LEBEN** — *The open ending*: The parable ends here. The elder son does not answer. We do not know whether he goes into the feast or stays outside. This silence is not a flaw of the text; it is the theological point. The Pharisees and Torah scholars who muttered at v. 2 are standing exactly where the elder son is standing — outside the celebration, with a legitimate complaint and an open invitation. The parable does not resolve their question for them. Every reader who has ever been faithful and resented someone else's welcome stands in the same place. The question is always the same: will you go in? — Sit with that for a moment, before the theology. What is the feast you have been standing just outside of? Not the dramatic version — the small, daily one. The friendship where you have kept score so long you cannot remember how to celebrate it. The community whose welcome of someone you cannot quite share. The version of your own life you have judged unworthy of joy. Resentment lives on absence; it tends to thin when you actually go in and eat the food. Try it this week with one feast. Stay for one song. — For a reader inside committed faith, the open ending is part of a long tradition. Origen and the early church argued about whether the elder son is finally saved; the text refused to settle it for them, and the church learned to let it stay unsettled. Karl Barth read the open ending as the gospel's deepest courtesy: God will not coerce anyone over the threshold. The Orthodox liturgical year places this parable on a specific Sunday before Lent — not as a moral lesson but as a posture to enter the fast in. The Ignatian Exercises take it as an invitation to imagine yourself first as the younger son, then as the elder, then as the father, and to notice which is hardest. — Vocationally and relationally, the elder son is the person most of us know well from the inside. Most of the resentments that limit working life are some version of his complaint: I did the work and was not seen. The parable does not call that resentment wrong; it tells the resentful person they have always been at home and that everything the father has is already theirs. Dorothy Day, working in Catholic Worker houses in New York, said the hardest part of hospitality was not the strangers — it was the people who came to help and could not stop comparing their service to others'. — Name one feast this week. Go in. See what happens to the resentment when it cannot be fed by absence anymore.

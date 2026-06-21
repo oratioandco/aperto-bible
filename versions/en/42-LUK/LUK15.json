@@ -16,35 +16,35 @@
           "title": "The Wrong Company",
           "verse_start": 1,
           "verse_end": 3,
-          "content_hash": "sha256:e5abaddc56b5b37609609fd082da760432462bdc7a42935118663cdc8da14263"
+          "content_hash": "sha256:dc62d63c6104107d961301b7b3e2024450cda4af2043eb4179c35860e655afaf"
         },
         {
           "pericope_id": "luke_15_the_lost_sheep",
           "title": "The Lost Sheep",
           "verse_start": 4,
           "verse_end": 7,
-          "content_hash": "sha256:b22907ca626663f71b3673bd1f41c7366f14e12590e18a783d76d38c3f0677b8"
+          "content_hash": "sha256:44a8032b4926a645eecee37c1f2f067a80e08214a165f50853ffc51c0fcce8b1"
         },
         {
           "pericope_id": "luke_15_the_lost_coin",
           "title": "The Lost Coin",
           "verse_start": 8,
           "verse_end": 10,
-          "content_hash": "sha256:0542d3d7fc3d5343dd64847fc7c5d9e279309a3293923d9b74ec140c5f1ade9e"
+          "content_hash": "sha256:86267cd8f0e6a4b2ccdf042117f26475d050e1c410674cd3eca34033c38fe4c1"
         },
         {
           "pericope_id": "luke_15_prodigal_younger_son",
           "title": "The Son Who Left",
           "verse_start": 11,
           "verse_end": 24,
-          "content_hash": "sha256:a68db447e054f9498d18f7765698da50beec5d279867d94be20c142471bf3c48"
+          "content_hash": "sha256:5d1ade919c6fc190fc66240797f61cd317d505a6e0c8a0e5b53241c11fc5e1d1"
         },
         {
           "pericope_id": "luke_15_prodigal_elder_son",
           "title": "The Son Who Stayed",
           "verse_start": 25,
           "verse_end": 32,
-          "content_hash": "sha256:5f56f552c20756d206aaf55dc9263c44d7e33d175b526e8889612154f9c8bf86"
+          "content_hash": "sha256:8f5c12ad56393dde8ffa909d572e68cf54080ad0aaf1588e371439020af35131"
         }
       ]
     },

@@ -57,7 +57,7 @@
       "summary": "comprehension_gap: Text behandelt Messias als Titel (leidet, stirbt, aufersteht), dispelt „Nachname\".",
       "rationale": "Text behandelt Messias als Titel (leidet, stirbt, aufersteht), dispelt „Nachname\". Aber die konkrete Opazität — gesalbter König aus Davidlinie — wird nirgends gedeckt; keine Fußnote.\n\n— Live critic finding without a recorded operator decision.",
       "anchor": {
-        "content_hash_at_decision": "sha256:806de44f75ddbb42b9fdc30b36c2f0b03ee4fda22f67644610eeb729adb411f3"
+        "content_hash_at_decision": "sha256:17e33cfe7926b13afed633f40faf47c009bf7bfb24d82489b249031ca5cfb925"
       },
       "before": "Messias",
       "after": "Eine Klausel einweben: „der Messias — der von Gott gesalbte König aus Davids Linie, auf den Israel wartete\", damit der Königs-/Davidbezug (relevant für V.7) trägt."
@@ -72,7 +72,7 @@
       "summary": "comprehension_gap: Fußnote 17,7 deckt nur den politischen Hochverrat/Loyalitätskonflikt.",
       "rationale": "Fußnote 17,7 deckt nur den politischen Hochverrat/Loyalitätskonflikt. Die konkrete Opazität — Kaiser als göttlicher Herrscher, „Sohn Gottes\" als Kaisertitel — bleibt ungedeckt.\n\n— Live critic finding without a recorded operator decision.",
       "anchor": {
-        "content_hash_at_decision": "sha256:806de44f75ddbb42b9fdc30b36c2f0b03ee4fda22f67644610eeb729adb411f3"
+        "content_hash_at_decision": "sha256:17e33cfe7926b13afed633f40faf47c009bf7bfb24d82489b249031ca5cfb925"
       },
       "before": "Kaisers",
       "after": "Im \\add/Fußnote ergänzen, dass der Kaiser göttliche Ehren beanspruchte und „Sohn Gottes\" hieß — so landet die Provokation des Königs-Anspruchs Jesu schärfer."
@@ -95,7 +95,7 @@
   ],
   "metadata": {
     "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
-    "source_usfm_version": "7930558bda06244594c61c9a3b882c9cd294a101",
+    "source_usfm_version": "e56cf84326523517f4bff32e55dc9e5c6ce6399d",
     "status_enum": [
       "applied",
       "deferred-to-human",

@@ -14,7 +14,7 @@
 
 
 **1** Sie zogen durch Amphipolis und Apollonia*, über die große Römerstraße,* bis sie Thessalonich erreichten. Dort gab es eine Synagoge, und in die ging Paulus, wie er es immer tat.[^1]
-**2** Drei Sabbate lang *— an den jüdischen Versammlungstagen —* diskutierte er mit ihnen. *Nicht von oben herab, nicht als Prediger:* Er ging die Schriften mit ihnen durch, ließ Einwände zu und gab Antwort.
+**2** Drei Sabbate lang*, an den jüdischen Versammlungstagen,* diskutierte er mit ihnen. *Nicht von oben herab, nicht als Prediger:* Er ging die Schriften mit ihnen durch, ließ Einwände zu und gab Antwort.
 **3** Stelle für Stelle zeigte er, dass der Messias durch Leiden und Tod gehen und auferstehen musste. Und am Ende stand jedes Mal derselbe Satz: „Dieser Jesus, von dem ich euch erzähle, ist der Messias."
 
 **4** Einige ließen sich überzeugen und schlossen sich Paulus und Silas an, und mit ihnen kamen viele Griechen, die sich zur Synagoge hielten*, ohne selbst Juden zu sein*,[^2] dazu zahlreiche Frauen aus den führenden Häusern der Stadt.

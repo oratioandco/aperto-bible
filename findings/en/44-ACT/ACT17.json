@@ -13,7 +13,7 @@
       "summary": "orthography: Asymmetric em-dash spacing",
       "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:5019ede0a44e49a1c7d917bc746ddfbed7ebeb541a00d6c220e96a2807d60b37"
+        "content_hash_at_decision": "sha256:69bec6ae5f10465c9f3f25b928f6ecdaae86ed6dfb33f41d7a6febc5498e8bdd"
       },
       "before": "a— t",
       "after": "word—word (remove trailing space)"
@@ -28,7 +28,7 @@
       "summary": "orthography: Asymmetric em-dash spacing",
       "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:8f3b7531b61e28658107458b1fe8a887de67ab06f777815ccb7d00e74b20582f"
+        "content_hash_at_decision": "sha256:03b971533cd20226e42119e45bab14b09476e307da603d6c335565e35679dece"
       },
       "before": "y— t",
       "after": "word—word (remove trailing space)"
@@ -43,7 +43,7 @@
       "summary": "orthography: Asymmetric em-dash spacing",
       "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:8f3b7531b61e28658107458b1fe8a887de67ab06f777815ccb7d00e74b20582f"
+        "content_hash_at_decision": "sha256:03b971533cd20226e42119e45bab14b09476e307da603d6c335565e35679dece"
       },
       "before": "s— a",
       "after": "word—word (remove trailing space)"
@@ -58,7 +58,7 @@
       "summary": "orthography: Asymmetric em-dash spacing",
       "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:8f3b7531b61e28658107458b1fe8a887de67ab06f777815ccb7d00e74b20582f"
+        "content_hash_at_decision": "sha256:03b971533cd20226e42119e45bab14b09476e307da603d6c335565e35679dece"
       },
       "before": "s— t",
       "after": "word—word (remove trailing space)"
@@ -73,7 +73,7 @@
       "summary": "orthography: Asymmetric em-dash spacing",
       "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:7efe73b46b78d9904f8f2450f5def34b82a98c467ed2916b699afd4394b16b2e"
+        "content_hash_at_decision": "sha256:5bf5ce18daed99878a6a8fb86283651517927998cdf1584c7f9bfe9102143d5b"
       },
       "before": "n— t",
       "after": "word—word (remove trailing space)"
@@ -88,7 +88,7 @@
       "summary": "orthography: Asymmetric em-dash spacing",
       "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:5019ede0a44e49a1c7d917bc746ddfbed7ebeb541a00d6c220e96a2807d60b37"
+        "content_hash_at_decision": "sha256:69bec6ae5f10465c9f3f25b928f6ecdaae86ed6dfb33f41d7a6febc5498e8bdd"
       },
       "before": "d— a",
       "after": "word—word (remove trailing space)"
@@ -99,11 +99,11 @@
       "verse": "17:2",
       "critic": "idiom_fit",
       "severity": "medium",
-      "status": "open",
+      "status": "applied",
       "summary": "idiom_fit: 'Preach at' (moralize) and 'talk down to' (condescend) are blended; 'preach down at' is not a fixed collocation and r...",
-      "rationale": "'Preach at' (moralize) and 'talk down to' (condescend) are blended; 'preach down at' is not a fixed collocation and reads as a splice.\n\n— Live critic finding without a recorded operator decision.",
+      "rationale": "'Preach at' (moralize) and 'talk down to' (condescend) are blended; 'preach down at' is not a fixed collocation and reads as a splice.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:5019ede0a44e49a1c7d917bc746ddfbed7ebeb541a00d6c220e96a2807d60b37"
+        "content_hash_at_decision": "sha256:69bec6ae5f10465c9f3f25b928f6ecdaae86ed6dfb33f41d7a6febc5498e8bdd"
       },
       "before": "Not preaching down at them. Arguing",
       "after": "Not talking down to them. Arguing"
@@ -118,7 +118,7 @@
       "summary": "idiom_fit: 'Come on' for chance discovery is dated; modern literary English takes 'come upon' or 'come across' the object.",
       "rationale": "'Come on' for chance discovery is dated; modern literary English takes 'come upon' or 'come across' the object.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:7efe73b46b78d9904f8f2450f5def34b82a98c467ed2916b699afd4394b16b2e"
+        "content_hash_at_decision": "sha256:5bf5ce18daed99878a6a8fb86283651517927998cdf1584c7f9bfe9102143d5b"
       },
       "before": "I came at last on an altar with these words cut into its stone",
       "after": "I came at last upon an altar with these words cut into its stone"
@@ -126,7 +126,7 @@
   ],
   "metadata": {
     "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
-    "source_usfm_version": "uncommitted-2026-06-12T18:04:32",
+    "source_usfm_version": "uncommitted-2026-06-22T17:16:50",
     "status_enum": [
       "applied",
       "deferred-to-human",

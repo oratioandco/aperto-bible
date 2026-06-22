@@ -13,26 +13,26 @@
 ### Wrzawa w Tesalonice
 
 
-**1** Przeszli przez Amfipolis i Apolonię *– wielkim rzymskim traktem, tym samym, którym maszerowały legiony* – i dotarli do Tesaloniki. Była tam synagoga.
-**2** Paweł wszedł, jak miał w zwyczaju.[^1] Przez trzy szabaty z rzędu rozprawiał z zebranymi.*Nie kazanie z podwyższenia – rozmowa, spór, Pisma rozkładane przed nimi jak mapa.*
-**3** Pokazywał, fragment po fragmencie, że Mesjasz musiał przejść przez cierpienie, musiał umrzeć i wrócić żywy.*I zawsze docierał do tego samego zdania:* „Ten Jezus, o którym wam mówię – to jest Mesjasz".
+**1** Przeszli przez Amfipolis i Apolonię*, wielkim rzymskim traktem, tym samym, którym maszerowały legiony,* i dotarli do Tesaloniki. Była tam synagoga.
+**2** Paweł wszedł, jak miał w zwyczaju.[^1] Przez trzy szabaty z rzędu rozprawiał z zebranymi.*Nie kazanie z podwyższenia: rozmowa, spór, Pisma rozkładane przed nimi jak mapa.*
+**3** Pokazywał, fragment po fragmencie, że Mesjasz musiał przejść przez cierpienie, musiał umrzeć i wrócić żywy.*I zawsze docierał do tego samego zdania:* „Ten Jezus, o którym wam mówię: to jest Mesjasz".
 
-**4** Część słuchaczy dała się przekonać. Stanęli przy Pawle i Sylasie, a z nimi liczni Grecy bojący się Boga[^2] – i niemało kobiet z wyższych sfer.
+**4** Część słuchaczy dała się przekonać. Stanęli przy Pawle i Sylasie, a z nimi liczni Grecy bojący się Boga[^2]. I niemało kobiet z wyższych sfer.
 
 **5** Pozostałych[^3] ogarnęła zazdrość.*Patrzyli, jak coś ich własnego przesuwa się ku obcemu: szacunek, który synagoga budowała przez pokolenia, ludzie, którzy dotąd ich słuchali, kobiety, których nazwiska coś znaczyły w mieście.* Ściągnęli z rynku kilku próżniaków, podburzyli tłum, i w jedną godzinę całe miasto wrzało. Ruszyli pod dom Jazona, żeby wyciągnąć obu przed zgromadzenie.
-**6** Ale ich tam nie zastali. Chwycili więc Jazona i kilku braci i wywlekli ich przed politarchów[^4] *– miejskich zwierzchników*. „Ci ludzie wywrócili świat do góry nogami – krzyczeli – a teraz przyszli i tutaj.
-**7** Jazon przyjął ich pod swój dach. Wszyscy oni działają wbrew rozporządzeniom cesarza i mówią, że jest inny król – Jezus".[^5]
+**6** Ale ich tam nie zastali. Chwycili więc Jazona i kilku braci i wywlekli ich przed politarchów[^4]*, miejskich zwierzchników*. „Ci ludzie wywrócili świat do góry nogami – krzyczeli – a teraz przyszli i tutaj.
+**7** Jazon przyjął ich pod swój dach. Wszyscy oni działają wbrew rozporządzeniom cesarza i mówią, że jest inny król: Jezus".[^5]
 
 **8** *W rzymskim mieście nie było zdania bardziej niebezpiecznego.* Tłum się zachwiał. Zachwiali się i zwierzchnicy.
-**9** Zażądali od Jazona poręki – i dopiero z tą poręką w ręku wypuścili ich.
+**9** Zażądali od Jazona poręki i dopiero z tą poręką w ręku wypuścili ich.
 
 ### Berea: dzień w dzień przy Pismach
 
 
 **10** Bracia nie czekali do świtu. Jeszcze tej samej nocy wyprowadzili Pawła i Sylasa*bocznymi ścieżkami, z dala od głównej drogi*, ku Berei. Pierwszym miejscem, do którego trafili także i tam, była synagoga.
 
-**11** Berejczycy okazali się z innej gliny niż ludzie z Tesaloniki.*Otwarci, lecz nie bezkrytyczni.* Przyjęli usłyszane słowo z prawdziwym zapałem – i właśnie dlatego nie chcieli go przyjmować na wiarę. Dzień w dzień rozkładali zwoje i sprawdzali w Pismach, czy rzeczywiście tak jest.[^6][^7]*Razem, w świetle dnia, zdanie po zdaniu.*
-**12** Uwierzyło ich wielu. Greczynki z wyższych sfer, mężczyźni – także niemało.
+**11** Berejczycy okazali się z innej gliny niż ludzie z Tesaloniki.*Otwarci, lecz nie bezkrytyczni.* Przyjęli usłyszane słowo z prawdziwym zapałem i właśnie dlatego nie chcieli go przyjmować na wiarę. Dzień w dzień rozkładali zwoje i sprawdzali w Pismach, czy rzeczywiście tak jest.[^6][^7]*Razem, w świetle dnia, zdanie po zdaniu.*
+**12** Uwierzyło ich wielu. Greczynki z wyższych sfer, mężczyźni, także niemało.
 
 **13** *Dobre było to miejsce. Można było tu zostać.* Wtedy wieść dotarła do tych z Tesaloniki: Paweł także w Berei niesie to samo słowo. I ci sami ludzie ruszyli w drogę. Przyszli i zaczęli podburzać tłum.*Wszystko od początku, ta sama przemoc, tylko o miasto dalej.*
 
@@ -42,15 +42,15 @@
 ### Paweł w Atenach
 
 
-**16** Czekał na nich w Atenach.*Zostało mu coś, czego rzadko miewał pod dostatkiem: czas. Czas, żeby chodzić po mieście, które jak żadne inne kojarzyło się z nauką, mądrością, myślą.* I to, co zobaczył, nie dawało mu spokoju.*Na każdym rogu ołtarz. W każdej bramie jakiś bóg. Napotykał następny posąg, i jeszcze jeden – kamienne pewności, ustawione tak gęsto, że nie sposób było ich minąć obojętnie.* Miasto było pełne bożków. Coś się w nim burzyło, narastało pod skórą.
+**16** Czekał na nich w Atenach.*Zostało mu coś, czego rzadko miewał pod dostatkiem: czas. Czas, żeby chodzić po mieście, które jak żadne inne kojarzyło się z nauką, mądrością, myślą.* I to, co zobaczył, nie dawało mu spokoju.*Na każdym rogu ołtarz. W każdej bramie jakiś bóg. Napotykał następny posąg, i jeszcze jeden, kamienne pewności, ustawione tak gęsto, że nie sposób było ich minąć obojętnie.* Miasto było pełne bożków. Coś się w nim burzyło, narastało pod skórą.
 
-**17** Robił więc to, co robił zawsze. Rozprawiał. W synagodze – z Żydami i z Grekami bojącymi się Boga Izraela. A potem każdego dnia na rynku, z każdym, kto akurat się nawinął.*Nigdy nie był to wykład. Zawsze spór: pytanie i odpowiedź, i odpowiedź na odpowiedź.*
+**17** Robił więc to, co robił zawsze. Rozprawiał. W synagodze, z Żydami i z Grekami bojącymi się Boga Izraela. A potem każdego dnia na rynku, z każdym, kto akurat się nawinął.*Nigdy nie był to wykład. Zawsze spór: pytanie i odpowiedź, i odpowiedź na odpowiedź.*
 
-**18** Niedługo zmierzyli się z nim także filozofowie – epikurejczycy i stoicy.[^8] Niektórzy kpili: „Co ten zbieracz nasion próbuje nam powiedzieć?”*Tak nazywano ptaka, który dziobie okruchy na rynku – kogoś, kto żywi się cudzymi resztkami.* Inni mówili: „Zdaje się, że głosi jakieś obce bóstwa”. Mówili tak, bo opowiadał o Jezusie i o zmartwychwstaniu.
+**18** Niedługo zmierzyli się z nim także filozofowie: epikurejczycy i stoicy.[^8] Niektórzy kpili: „Co ten zbieracz nasion próbuje nam powiedzieć?”*Tak nazywano ptaka, który dziobie okruchy na rynku, kogoś, kto żywi się cudzymi resztkami.* Inni mówili: „Zdaje się, że głosi jakieś obce bóstwa”. Mówili tak, bo opowiadał o Jezusie i o zmartwychwstaniu.
 
-**19** Zaprowadzili go więc na Areopag[^9] *– przed radę, która od zawsze rozstrzygała, jakim nowym bogom wolno zamieszkać w Atenach.* „Czy możemy się dowiedzieć – zapytali – czym jest ta twoja nowa nauka?
+**19** Zaprowadzili go więc na Areopag[^9]*, przed radę, która od zawsze rozstrzygała, jakim nowym bogom wolno zamieszkać w Atenach.* „Czy możemy się dowiedzieć – zapytali – czym jest ta twoja nowa nauka?
 **20** To, co mówisz, brzmi dla nas obco, więc chcielibyśmy zrozumieć, co to wszystko znaczy".
-**21** Ateńczycy – i cudzoziemcy osiadli wśród nich – niczego nie robili równie chętnie, jak opowiadali albo słuchali tego, co najnowsze. A potem o czymś jeszcze nowszym.
+**21** Ateńczycy, a także cudzoziemcy osiadli wśród nich, niczego nie robili równie chętnie, jak opowiadali albo słuchali tego, co najnowsze. A potem o czymś jeszcze nowszym.
 
 ### Mowa na Areopagu
 
@@ -58,20 +58,20 @@
 **22** Wstał. Stanął pośród nich, w środku rady, i zaczął.
 
 „Mieszkańcy Aten. Idąc przez wasze miasto i przyglądając się z bliska temu, co czcicie, widzę na każdym kroku to samo: jak poważnie traktujecie bogów, ile uwagi i staranności im poświęcacie.[^10]
-**23** Pośród tych wszystkich waszych świętych miejsc znalazłem ołtarz, na którym wycięto słowa: NIEZNANEMU BOGU.[^11] To, co czcicie, nie wiedząc, kim jest – właśnie to przyszedłem wam ogłosić.
+**23** Pośród tych wszystkich waszych świętych miejsc znalazłem ołtarz, na którym wycięto słowa: NIEZNANEMU BOGU.[^11] To, co czcicie, nie wiedząc, kim jest: właśnie to przyszedłem wam ogłosić.
 
 **24** Bóg, który stworzył świat i wszystko, co go wypełnia, Pan nieba i ziemi, nie mieszka w świątyniach zbudowanych ludzką ręką.
 **25** Nie potrzebuje też, żeby Go obsługiwały ludzkie ręce, jak gdyby czegoś Mu brakowało; to On daje wszystkim życie, oddech i wszystko inne.
-**26** Z jednego[^12] wyprowadził wszystkie ludy i rozmieścił je po całej ziemi, a każdemu wyznaczył jego własny czas i własne granice *– porę, w której naród się podnosi, i porę, w której opada*.
+**26** Z jednego[^12] wyprowadził wszystkie ludy i rozmieścił je po całej ziemi, a każdemu wyznaczył jego własny czas i własne granice*, porę, w której naród się podnosi, i porę, w której opada*.
 
-**27** Po to, żeby Go szukali – żeby wyciągali ku Niemu ręce i może Go dotknęli*jak ktoś, kto idzie po omacku w ciemności*. A przecież On nie jest daleko. Od żadnego z nas.
-**28** To w Nim żyjemy, w Nim się poruszamy, w Nim jesteśmy – powiedzieli to zresztą niektórzy z waszych własnych poetów: »jesteśmy z Jego rodu«.[^13]
+**27** Po to, żeby Go szukali, żeby wyciągali ku Niemu ręce i może Go dotknęli*jak ktoś, kto idzie po omacku w ciemności*. A przecież On nie jest daleko. Od żadnego z nas.
+**28** To w Nim żyjemy, w Nim się poruszamy, w Nim jesteśmy, powiedzieli to zresztą niektórzy z waszych własnych poetów: »jesteśmy z Jego rodu«.[^13]
 
-**29** A skoro jesteśmy z rodu Boga, nie może być tak, że to, co boskie, przypomina złoto albo srebro, albo kamień – kształt nadany przez ludzkie rzemiosło, ludzki pomysł.
-**30** Długo nikt tego nie rozumiał, a Bóg patrzył na te czasy niewiedzy przez palce.[^14] Teraz mówi inaczej. Wzywa wszystkich i wszędzie, żeby się odwrócili – i zmienili swoje życie.
+**29** A skoro jesteśmy z rodu Boga, nie może być tak, że to, co boskie, przypomina złoto albo srebro, albo kamień, kształt nadany przez ludzkie rzemiosło, ludzki pomysł.
+**30** Długo nikt tego nie rozumiał, a Bóg patrzył na te czasy niewiedzy przez palce.[^14] Teraz mówi inaczej. Wzywa wszystkich i wszędzie, żeby się odwrócili i zmienili swoje życie.
 **31** Wyznaczył dzień, w którym sprawiedliwie osądzi cały świat, przez człowieka, którego sam do tego wybrał. I dał wam na to niepodważalny dowód: wskrzesił go z martwych".[^15]
 
-**32** *Tu się skończyło.* Przy słowie „martwych” rada pękła na pół. Jedni się roześmiali. Drudzy powiedzieli *– grzecznie, wymijająco*: „Posłuchamy cię innym razem”.
+**32** *Tu się skończyło.* Przy słowie „martwych” rada pękła na pół. Jedni się roześmiali. Drudzy powiedzieli*grzecznie, wymijająco*: „Posłuchamy cię innym razem”.
 **33** Paweł odszedł.
 
 **34** *A jednak nie wszyscy.* Kilkoro zostało przy nim, kilkoro uwierzyło: Dionizy, który sam zasiadał w radzie Areopagu, oraz kobieta o imieniu Damaris,[^16] a z nimi inni.

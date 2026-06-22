@@ -13,26 +13,26 @@
 ### Uproar in Thessalonica
 
 
-**1** The road carried them through Amphipolis and Apollonia*— the great Roman highway —* and on at last to Thessalonica. There was a synagogue there.
-**2** Paul went in, as he always did,[^1] and for three Sabbaths running he worked through the Scriptures with them.*Not preaching at them. Arguing — opening the texts, taking their objections, answering them.*
-**3** Passage by passage he laid it out: the Messiah had to go this way — through suffering, through death — and rise again. *And every time, the same landing:* "This Jesus I'm telling you about — he is the Messiah."
+**1** The road carried them through Amphipolis and Apollonia*, the great Roman highway,* and on at last to Thessalonica. There was a synagogue there.
+**2** Paul went in, as he always did,[^1] and for three Sabbaths running he worked through the Scriptures with them.*Not preaching at them. Arguing, opening the texts, taking their objections, answering them.*
+**3** Passage by passage he laid it out: the Messiah had to go this way, through suffering, through death, and rise again. *And every time, the same landing:* "This Jesus I'm telling you about: he is the Messiah."
 
-**4** Some of them were persuaded. They threw in with Paul and Silas — along with a great many Greeks who worshiped the God of Israel*without being Jews themselves*[^2], and a good number of the city's leading women.
+**4** Some of them were persuaded. They threw in with Paul and Silas, along with a great many Greeks who worshiped the God of Israel*without being Jews themselves*[^2], and a good number of the city's leading women.
 
-**5** But the others — jealousy took them. *They watched their own standing drain away, passing to a stranger: the trust, the followers, everything that had been theirs.* So they pulled together a few idlers from the marketplace, worked up a crowd, and threw the city into an uproar.[^3] They stormed Jason's house, expecting to find Paul and Silas inside and drag them out before the assembly.
-**6** They weren't there. So the mob seized Jason and a few of the believers instead, and dragged them before the politarchs*, the city leaders,*[^4] shouting as they came: "The men who've turned the empire upside down — they're here too now,
-**7** and Jason has taken them in. Every one of them defies Caesar's decrees. They say there is another king — Jesus."[^5]
+**5** But the others were seized by jealousy. *They watched their own standing drain away, passing to a stranger: the trust, the followers, everything that had been theirs.* So they pulled together a few idlers from the marketplace, worked up a crowd, and threw the city into an uproar.[^3] They stormed Jason's house, expecting to find Paul and Silas inside and drag them out before the assembly.
+**6** They weren't there. So the mob seized Jason and a few of the believers instead, and dragged them before the politarchs*, the city leaders,*[^4] shouting as they came: "The men who've turned the empire upside down are here too,
+**7** and Jason has taken them in. Every one of them defies Caesar's decrees. They say there is another king: Jesus."[^5]
 
 **8** *It was the most dangerous thing anyone could say in that city.* The crowd shook. The magistrates shook with them.
-**9** They made Jason and the others post bond*— a pledge against any further trouble —* and then, finally, let them go.
+**9** They made Jason and the others post bond*, a pledge against any further trouble,* and then, finally, let them go.
 
 ### Beroea: A People Who Examined Day by Day
 
 
 **10** That same night the believers sent Paul and Silas on to Beroea*, off the main road*. And there, too, the first thing they did was go to the synagogue.
 
-**11** These were people of a different kind — more open than the ones in Thessalonica had been. They took the message in eagerly, and they didn't stop there. Day after day they went back to the Scriptures and examined them,[^6][^7] to see whether what they were hearing held up.
-**12** Many of them came to believe — Greek women of standing, and men, a good number of them too.
+**11** These were people of a different kind, more open than the ones in Thessalonica had been. They took the message in eagerly, and they didn't stop there. Day after day they went back to the Scriptures and examined them,[^6][^7] to see whether what they were hearing held up.
+**12** Many of them came to believe: Greek women of standing, and men, a good number of them too.
 
 **13** *It could have been a good place to stay.* But when the Thessalonian opponents heard that Paul was proclaiming God's word in Beroea too, they came after him there and stirred up the crowds again.
 **14** At once the believers sent Paul off toward the sea, while Silas and Timothy stayed behind.
@@ -41,38 +41,38 @@
 ### Paul in Athens
 
 
-**16** Paul waited for them in Athens. Silas and Timothy hadn't caught up yet, so he had time to walk the city*— the city that stood, like no other, for learning and philosophy*. And what he saw gave him no peace. The place was full of idols*— an altar at every corner, a god in every doorway, sacred stones wedged between the houses*. *The longer he looked, the less he could hold still.*
+**16** Paul waited for them in Athens. Silas and Timothy hadn't caught up yet, so he had time to walk the city*, the city that stood, like no other, for learning and philosophy*. And what he saw gave him no peace. The place was full of idols*, an altar at every corner, a god in every doorway, sacred stones wedged between the houses*. *The longer he looked, the less he could hold still.*
 
-**17** So he set to work. He argued in the synagogue, with Jews and with the Greeks who worshiped the God of Israel — and every day in the marketplace, with whoever happened to be there. *Never a lecture. Always an argument.*
+**17** So he set to work. He argued in the synagogue, with Jews and with the Greeks who worshiped the God of Israel, and every day in the marketplace, with whoever happened to be there. *Never a lecture. Always an argument.*
 
-**18** Before long the philosophers took him on — followers of Epicurus, and Stoics.[^8] Some sneered: "What is this seed-picker trying to tell us?"*— a bird hopping the market for crumbs, a scavenger of other people's scraps*. Others said, "He seems to be proclaiming foreign gods." They said it because he kept talking about Jesus, and about resurrection.
+**18** Before long the philosophers took him on: followers of Epicurus, and Stoics.[^8] Some sneered: "What is this seed-picker trying to tell us?"*A bird hopping the market for crumbs, a scavenger of other people's scraps.* Others said, "He seems to be proclaiming foreign gods." They said it because he kept talking about Jesus, and about resurrection.
 
-**19** So they took him up to the Areopagus*— the council that had always decided which new gods, which foreign cults, would be given a home in Athens*.[^9] "May we know," they asked him, "what this new teaching of yours actually is?
+**19** So they took him up to the Areopagus*, the council that had always decided which new gods, which foreign cults, would be given a home in Athens*.[^9] "May we know," they asked him, "what this new teaching of yours actually is?
 **20** What you're telling us sounds strange to our ears, and we'd like to know what it means."
-**21** For the Athenians, and the foreigners who had settled among them, loved nothing so much as the latest thing — telling it, or hearing it.
+**21** For the Athenians, and the foreigners who had settled among them, loved nothing so much as the latest thing: telling it, or hearing it.
 
 ### The Speech on the Areopagus
 
 
 **22** So Paul stood up there in the middle of the council, and began.
 
-"Men of Athens — everywhere I look in this city, I see how seriously you take the gods, and how thoroughly the divine has been worked into the very texture of your common life.[^10]
-**23** For as I walked through your city and looked carefully at the things you worship, I came at last upon an altar with these words cut into its stone: \nd to an unknown god.[^11] What you worship, then, without knowing what it is — that is what I have come to tell you.
+"Men of Athens, everywhere I look in this city, I see how seriously you take the gods, and how thoroughly the divine has been worked into the very texture of your common life.[^10]
+**23** For as I walked through your city and looked carefully at the things you worship, I came at last upon an altar with these words cut into its stone: \nd to an unknown god.[^11] What you worship, then, without knowing what it is: that is what I have come to tell you.
 
-**24** The God who made the world and everything in it — the Lord of heaven and earth — does not live in temples built by human hands,
-**25** nor is he tended by human hands, as though he stood in need of anything; he is himself the one who gives to every living thing its life, its breath, everything it has.
-**26** From one[^12] he made every people of the earth, and spread them across the whole face of it; he set the times appointed for them, and the boundaries of the lands in which they live —
-**27** all of it so that they would seek him, reach out for him*, the way a person feels for something in the dark,* and perhaps in the end find him. And yet — he is not far from any one of us.[^13]
-**28** For in him we live, in him we move, in him we are — as some of your own poets have said: We too are his children.[^14]
+**24** The God who made the world and everything in it, the Lord of heaven and earth, does not live in temples built by human hands,
+**25** nor is he tended by human hands, as though he stood in need of anything; he himself gives to every living thing its life, its breath, everything it has.
+**26** From one[^12] he made every people of the earth, and spread them across the whole face of it; he set the times appointed for them, and the boundaries of the lands in which they live,
+**27** all of it so that they would seek him, reach out for him*, the way a person feels for something in the dark,* and perhaps in the end find him. And yet he is not far from any one of us.[^13]
+**28** For in him we live, in him we move, in him we are, as some of your own poets have said: We too are his children.[^14]
 
-**29** And if indeed we are his children, then we cannot imagine that the divine in any way resembles gold, or silver, or stone — an image shaped by human craft, human imagination.
-**30** The times of not-knowing — God has let them pass.[^15] But now he calls on everyone, everywhere, to turn*— to repent*.
-**31** For he has set a day on which he will judge the world, and judge it justly, through a man he has appointed; and the proof he has given, to all, is this — he raised that man from the dead."[^16]
+**29** And if indeed we are his children, then we cannot imagine that the divine in any way resembles gold, or silver, or stone, an image shaped by human craft, human imagination.
+**30** God has let the times of not-knowing pass.[^15] But now he calls on everyone, everywhere, to turn*, to repent*.
+**31** For he has set a day on which he will judge the world, and judge it justly, through a man he has appointed; and the proof he has given, to all, is this: he raised that man from the dead."[^16]
 
 **32** At the words "raised from the dead," the meeting broke up. Some of them laughed out loud. Others said, "We'll hear you on this another time."
 **33** And Paul left the council.
 
-**34** But some went with him and believed — Dionysius, a member of the council itself; a woman named Damaris;[^17] and others besides.
+**34** But some went with him and believed: Dionysius, a member of the council itself; a woman named Damaris;[^17] and others besides.
 
 ---
 

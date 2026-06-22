@@ -16,28 +16,28 @@
           "title": "Uproar in Thessalonica",
           "verse_start": 1,
           "verse_end": 9,
-          "content_hash": "sha256:50304d8fcffa925567a9f5a8d3ecec9f08b602572b5c2fcd478b1844acc283dc"
+          "content_hash": "sha256:69bec6ae5f10465c9f3f25b928f6ecdaae86ed6dfb33f41d7a6febc5498e8bdd"
         },
         {
           "pericope_id": "acts_17_ii_beroea",
           "title": "Beroea: A People Who Examined Day by Day",
           "verse_start": 10,
           "verse_end": 15,
-          "content_hash": "sha256:078461e027f76d5d47c96d89a3cac991734f5007c62b8ccf166d0459f70223e9"
+          "content_hash": "sha256:fb314e32f3bef89b813f32c625296ca0c52aec6c327235580a29c8d172659fa6"
         },
         {
           "pericope_id": "acts_17_athens_agora_frame",
           "title": "Paul in Athens",
           "verse_start": 16,
           "verse_end": 21,
-          "content_hash": "sha256:8f3b7531b61e28658107458b1fe8a887de67ab06f777815ccb7d00e74b20582f"
+          "content_hash": "sha256:03b971533cd20226e42119e45bab14b09476e307da603d6c335565e35679dece"
         },
         {
           "pericope_id": "acts_17_areopagus_speech",
           "title": "The Speech on the Areopagus",
           "verse_start": 22,
           "verse_end": 34,
-          "content_hash": "sha256:7efe73b46b78d9904f8f2450f5def34b82a98c467ed2916b699afd4394b16b2e"
+          "content_hash": "sha256:5bf5ce18daed99878a6a8fb86283651517927998cdf1584c7f9bfe9102143d5b"
         }
       ]
     },

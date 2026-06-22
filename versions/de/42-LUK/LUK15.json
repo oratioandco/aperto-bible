@@ -4,11 +4,11 @@
   "lang": "AB-DE",
   "versions": [
     {
-      "id": "7da2101f6c62",
-      "label": "2026-06-11 — Publish: 165 file(s) updated, 165 changed",
-      "date": "2026-06-11T17:22:07+02:00",
+      "id": "1a971fbbd56a",
+      "label": "2026-06-22 — publish: 5 updated",
+      "date": "2026-06-22T13:10:55+00:00",
       "source_usfm_version": "v4.7.0",
-      "aperto_bible_sha": "7da2101f6c6288ba6b882f69552f506a3701a362",
+      "aperto_bible_sha": "1a971fbbd56a287d100237d1d107c77cb3d63f29",
       "current": true,
       "passages": [
         {
@@ -45,6 +45,166 @@
           "verse_start": 25,
           "verse_end": 32,
           "content_hash": "sha256:307c8ac3c55e8f6d9425e10bebf8391015a174f04b0dcfad9e7d6b84b13b1c71"
+        }
+      ]
+    },
+    {
+      "id": "7e8b6a9cc252",
+      "label": "2026-06-22 — publish: 9 updated",
+      "date": "2026-06-22T04:18:17+00:00",
+      "source_usfm_version": "v4.7.0",
+      "aperto_bible_sha": "7e8b6a9cc252e01fcf784f2bd8da4c4c08cc2495",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_15_frame_pharisees_grumble",
+          "title": "An Jesu Tisch",
+          "verse_start": 1,
+          "verse_end": 3
+        },
+        {
+          "pericope_id": "luke_15_the_lost_sheep",
+          "title": "Das verlorene Schaf",
+          "verse_start": 4,
+          "verse_end": 7
+        },
+        {
+          "pericope_id": "luke_15_the_lost_coin",
+          "title": "Die verlorene Drachme",
+          "verse_start": 8,
+          "verse_end": 10
+        },
+        {
+          "pericope_id": "luke_15_prodigal_younger_son",
+          "title": "Der jüngere Sohn",
+          "verse_start": 11,
+          "verse_end": 24
+        },
+        {
+          "pericope_id": "luke_15_prodigal_elder_son",
+          "title": "Der ältere Sohn",
+          "verse_start": 25,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "id": "33005039537a",
+      "label": "2026-06-21 — publish: 5 updated",
+      "date": "2026-06-21T05:40:36+00:00",
+      "source_usfm_version": "v4.7.0",
+      "aperto_bible_sha": "33005039537a7577362cd1e26bc32faebb973e0d",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_15_frame_pharisees_grumble",
+          "title": "An Jesu Tisch",
+          "verse_start": 1,
+          "verse_end": 3
+        },
+        {
+          "pericope_id": "luke_15_the_lost_sheep",
+          "title": "Das verlorene Schaf",
+          "verse_start": 4,
+          "verse_end": 7
+        },
+        {
+          "pericope_id": "luke_15_the_lost_coin",
+          "title": "Die verlorene Drachme",
+          "verse_start": 8,
+          "verse_end": 10
+        },
+        {
+          "pericope_id": "luke_15_prodigal_younger_son",
+          "title": "Der jüngere Sohn",
+          "verse_start": 11,
+          "verse_end": 24
+        },
+        {
+          "pericope_id": "luke_15_prodigal_elder_son",
+          "title": "Der ältere Sohn",
+          "verse_start": 25,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "id": "174b204bf799",
+      "label": "2026-06-18 — publish: 2 updated",
+      "date": "2026-06-18T16:09:13+00:00",
+      "source_usfm_version": "v4.7.0",
+      "aperto_bible_sha": "174b204bf79959abf8a531c0d8a3e63444551e6b",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_15_frame_pharisees_grumble",
+          "title": "An Jesu Tisch",
+          "verse_start": 1,
+          "verse_end": 3
+        },
+        {
+          "pericope_id": "luke_15_the_lost_sheep",
+          "title": "Das verlorene Schaf",
+          "verse_start": 4,
+          "verse_end": 7
+        },
+        {
+          "pericope_id": "luke_15_the_lost_coin",
+          "title": "Die verlorene Drachme",
+          "verse_start": 8,
+          "verse_end": 10
+        },
+        {
+          "pericope_id": "luke_15_prodigal_younger_son",
+          "title": "Der jüngere Sohn",
+          "verse_start": 11,
+          "verse_end": 24
+        },
+        {
+          "pericope_id": "luke_15_prodigal_elder_son",
+          "title": "Der ältere Sohn",
+          "verse_start": 25,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "id": "7da2101f6c62",
+      "label": "2026-06-11 — Publish: 165 file(s) updated, 165 changed",
+      "date": "2026-06-11T17:22:07+02:00",
+      "source_usfm_version": "v4.7.0",
+      "aperto_bible_sha": "7da2101f6c6288ba6b882f69552f506a3701a362",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_15_frame_pharisees_grumble",
+          "title": "An Jesu Tisch",
+          "verse_start": 1,
+          "verse_end": 3
+        },
+        {
+          "pericope_id": "luke_15_the_lost_sheep",
+          "title": "Das verlorene Schaf",
+          "verse_start": 4,
+          "verse_end": 7
+        },
+        {
+          "pericope_id": "luke_15_the_lost_coin",
+          "title": "Die verlorene Drachme",
+          "verse_start": 8,
+          "verse_end": 10
+        },
+        {
+          "pericope_id": "luke_15_prodigal_younger_son",
+          "title": "Der jüngere Sohn",
+          "verse_start": 11,
+          "verse_end": 24
+        },
+        {
+          "pericope_id": "luke_15_prodigal_elder_son",
+          "title": "Der ältere Sohn",
+          "verse_start": 25,
+          "verse_end": 32
         }
       ]
     },

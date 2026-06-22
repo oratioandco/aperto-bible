@@ -4,11 +4,11 @@
   "lang": "AB-EN",
   "versions": [
     {
-      "id": "4b57f0ea3cf2",
-      "label": "2026-06-16 — publish: 1 updated",
-      "date": "2026-06-16T17:43:51+00:00",
+      "id": "7e8b6a9cc252",
+      "label": "2026-06-22 — publish: 9 updated",
+      "date": "2026-06-22T04:18:17+00:00",
       "source_usfm_version": "v5.0.1",
-      "aperto_bible_sha": "4b57f0ea3cf222b3572ea2c89e925cee7016bc3c",
+      "aperto_bible_sha": "7e8b6a9cc252e01fcf784f2bd8da4c4c08cc2495",
       "current": true,
       "passages": [
         {
@@ -66,6 +66,122 @@
           "verse_start": 80,
           "verse_end": 80,
           "content_hash": "sha256:00036bffdcc8dbf172753f018609d67a7b898467f677f027c75299a54de5b077"
+        }
+      ]
+    },
+    {
+      "id": "6b9ddd1c1d70",
+      "label": "2026-06-21 — publish: 10 updated",
+      "date": "2026-06-21T11:39:06+00:00",
+      "source_usfm_version": "v5.0.1",
+      "aperto_bible_sha": "6b9ddd1c1d7010abaf51087420e74983228b4066",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_01_prologue",
+          "title": "To Theophilus",
+          "verse_start": 1,
+          "verse_end": 4
+        },
+        {
+          "pericope_id": "luke_01_zechariah_announcement",
+          "title": "An Old Priest and an Impossible Promise",
+          "verse_start": 5,
+          "verse_end": 25
+        },
+        {
+          "pericope_id": "luke_01_annunciation_to_mary",
+          "title": "Mary Says Yes",
+          "verse_start": 26,
+          "verse_end": 38
+        },
+        {
+          "pericope_id": "luke_01_visitation",
+          "title": "Two Women, Two Miracles",
+          "verse_start": 39,
+          "verse_end": 45
+        },
+        {
+          "pericope_id": "luke_01_magnificat",
+          "title": "Mary's Song",
+          "verse_start": 46,
+          "verse_end": 56
+        },
+        {
+          "pericope_id": "luke_01_birth_and_naming",
+          "title": "His Name Is John",
+          "verse_start": 57,
+          "verse_end": 66
+        },
+        {
+          "pericope_id": "luke_01_benedictus",
+          "title": "Zechariah's Prophecy",
+          "verse_start": 67,
+          "verse_end": 79
+        },
+        {
+          "pericope_id": "luke_01_coda",
+          "title": "Growing Up in the Wilderness",
+          "verse_start": 80,
+          "verse_end": 80
+        }
+      ]
+    },
+    {
+      "id": "4b57f0ea3cf2",
+      "label": "2026-06-16 — publish: 1 updated",
+      "date": "2026-06-16T17:43:51+00:00",
+      "source_usfm_version": "v5.0.1",
+      "aperto_bible_sha": "4b57f0ea3cf222b3572ea2c89e925cee7016bc3c",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_01_prologue",
+          "title": "To Theophilus",
+          "verse_start": 1,
+          "verse_end": 4
+        },
+        {
+          "pericope_id": "luke_01_zechariah_announcement",
+          "title": "An Old Priest and an Impossible Promise",
+          "verse_start": 5,
+          "verse_end": 25
+        },
+        {
+          "pericope_id": "luke_01_annunciation_to_mary",
+          "title": "Mary Says Yes",
+          "verse_start": 26,
+          "verse_end": 38
+        },
+        {
+          "pericope_id": "luke_01_visitation",
+          "title": "Two Women, Two Miracles",
+          "verse_start": 39,
+          "verse_end": 45
+        },
+        {
+          "pericope_id": "luke_01_magnificat",
+          "title": "Mary's Song",
+          "verse_start": 46,
+          "verse_end": 56
+        },
+        {
+          "pericope_id": "luke_01_birth_and_naming",
+          "title": "His Name Is John",
+          "verse_start": 57,
+          "verse_end": 66
+        },
+        {
+          "pericope_id": "luke_01_benedictus",
+          "title": "Zechariah's Prophecy",
+          "verse_start": 67,
+          "verse_end": 79
+        },
+        {
+          "pericope_id": "luke_01_coda",
+          "title": "Growing Up in the Wilderness",
+          "verse_start": 80,
+          "verse_end": 80
         }
       ]
     },

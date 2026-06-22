@@ -4,11 +4,11 @@
   "lang": "AB-EN",
   "versions": [
     {
-      "id": "7da2101f6c62",
-      "label": "2026-06-11 — Publish: 165 file(s) updated, 165 changed",
-      "date": "2026-06-11T17:22:07+02:00",
+      "id": "7e8b6a9cc252",
+      "label": "2026-06-22 — publish: 9 updated",
+      "date": "2026-06-22T04:18:17+00:00",
       "source_usfm_version": "v4.7.0",
-      "aperto_bible_sha": "7da2101f6c6288ba6b882f69552f506a3701a362",
+      "aperto_bible_sha": "7e8b6a9cc252e01fcf784f2bd8da4c4c08cc2495",
       "current": true,
       "passages": [
         {
@@ -45,6 +45,86 @@
           "verse_start": 25,
           "verse_end": 32,
           "content_hash": "sha256:b7f9f0aa49022006503fe841a515d216a416f3379c6afc12b23060411b0df59f"
+        }
+      ]
+    },
+    {
+      "id": "6b9ddd1c1d70",
+      "label": "2026-06-21 — publish: 10 updated",
+      "date": "2026-06-21T11:39:06+00:00",
+      "source_usfm_version": "v4.7.0",
+      "aperto_bible_sha": "6b9ddd1c1d7010abaf51087420e74983228b4066",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_15_frame_pharisees_grumble",
+          "title": "The Wrong Company",
+          "verse_start": 1,
+          "verse_end": 3
+        },
+        {
+          "pericope_id": "luke_15_the_lost_sheep",
+          "title": "The Lost Sheep",
+          "verse_start": 4,
+          "verse_end": 7
+        },
+        {
+          "pericope_id": "luke_15_the_lost_coin",
+          "title": "The Lost Coin",
+          "verse_start": 8,
+          "verse_end": 10
+        },
+        {
+          "pericope_id": "luke_15_prodigal_younger_son",
+          "title": "The Son Who Left",
+          "verse_start": 11,
+          "verse_end": 24
+        },
+        {
+          "pericope_id": "luke_15_prodigal_elder_son",
+          "title": "The Son Who Stayed",
+          "verse_start": 25,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "id": "7da2101f6c62",
+      "label": "2026-06-11 — Publish: 165 file(s) updated, 165 changed",
+      "date": "2026-06-11T17:22:07+02:00",
+      "source_usfm_version": "v4.7.0",
+      "aperto_bible_sha": "7da2101f6c6288ba6b882f69552f506a3701a362",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_15_frame_pharisees_grumble",
+          "title": "The Wrong Company",
+          "verse_start": 1,
+          "verse_end": 3
+        },
+        {
+          "pericope_id": "luke_15_the_lost_sheep",
+          "title": "The Lost Sheep",
+          "verse_start": 4,
+          "verse_end": 7
+        },
+        {
+          "pericope_id": "luke_15_the_lost_coin",
+          "title": "The Lost Coin",
+          "verse_start": 8,
+          "verse_end": 10
+        },
+        {
+          "pericope_id": "luke_15_prodigal_younger_son",
+          "title": "The Son Who Left",
+          "verse_start": 11,
+          "verse_end": 24
+        },
+        {
+          "pericope_id": "luke_15_prodigal_elder_son",
+          "title": "The Son Who Stayed",
+          "verse_start": 25,
+          "verse_end": 32
         }
       ]
     },

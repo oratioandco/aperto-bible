@@ -24,7 +24,7 @@
 ### The Lost Sheep
 
 
-**4** "Say one of you has a hundred sheep and loses one. Doesn't he leave the ninety-nine out on the open country and go after the one that's lost, and keep going until he finds it?
+**4** "Say one of you has a hundred sheep and loses one. Doesn't he leave the ninety-nine out in the open country and go after the one that's lost, and keep going until he finds it?
 [^4]
 **5** And when he finds it, he lifts it onto his shoulders, already rejoicing.
 **6** He gets home and calls his friends and his neighbors together: 'Rejoice with me. I have found my sheep. The one that was lost.'

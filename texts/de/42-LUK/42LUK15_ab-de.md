@@ -14,7 +14,7 @@
 
 
 **1** Die Steuereintreiber und alle, die als Sünder galten*, von der Gesellschaft ausgestoßen*, sie kamen immer wieder, um ihn zu hören.[^1]
-**2** Die Pharisäer und die Schriftgelehrten*, die es mit dem Gesetz am genauesten nahmen,* ärgerten sich darüber, raunten unter sich, halblaut und beharrlich:[^2] „Der nimmt diese Leute auf. Und isst mit ihnen."[^3]
+**2** Die Pharisäer und die Schriftgelehrten*, die es mit dem Gesetz am genauesten nahmen,* ärgerten sich darüber, raunten unter sich, halblaut und beharrlich:[^2] „Der nimmt diese Leute auf. Und isst mit ihnen.“[^3]
 **3** Da erzählte Jesus ihnen eine Geschichte.
 
 ### Das verlorene Schaf
@@ -23,14 +23,14 @@
 **4** „Einer von euch hat hundert Schafe und verliert eines davon. Was tut er? Lässt er die neunundneunzig nicht draußen auf der Weide[^4] und geht dem verlorenen nach, bis er es findet?
 **5** Und wenn er es gefunden hat, nimmt er es auf die Schultern, voller Freude,
 **6** und kommt nach Hause und ruft die Freunde und die Nachbarn zusammen: ‚Freut euch mit mir. Mein verlorenes Schaf, ich habe es gefunden.‘
-**7** Ich sage euch: Genauso wird im Himmel mehr Freude sein über einen einzigen Menschen, der umkehrt, als über neunundneunzig Gerechte, die meinen, sie müssten ihr Leben nicht ändern."[^5][^6]
+**7** Ich sage euch: Genauso wird im Himmel mehr Freude sein über einen einzigen Menschen, der umkehrt, als über neunundneunzig Gerechte, die meinen, sie müssten ihr Leben nicht ändern.“[^5][^6]
 
 ### Die verlorene Drachme
 
 
 **8** „Oder denkt euch eine Frau, die zehn Drachmen hat\add, alles, was sie besitzt*,[^7] und sie verliert eine. Was tut sie? Sie zündet eine Lampe an, nimmt den Besen zur Hand und fegt das ganze Haus aus, sorgfältig, Ecke für Ecke, bis sie sie gefunden hat.[^8]
 **9** Und wenn sie sie gefunden hat, ruft sie die Freundinnen und Nachbarinnen zusammen: ‚Freut euch mit mir. Meine Drachme, die ich verloren hatte, ich habe sie gefunden.‘[^9]
-**10** Ich sage euch: Genauso bricht bei Gottes Engeln Freude aus über einen einzigen Menschen, der umkehrt."[^10]
+**10** Ich sage euch: Genauso bricht bei Gottes Engeln Freude aus über einen einzigen Menschen, der umkehrt.“[^10]
 
 ### Der jüngere Sohn
 
@@ -67,7 +67,7 @@
 **30** Aber jetzt kommt dein Sohn da,[^20] der dein Vermögen mit Prostituierten durchgebracht hat,[^21] und du schlachtest ihm das Mastkalb.‘
 
 **31** Der Vater sagte zu ihm: ‚Kind,[^22] du bist immer bei mir, und alles, was mir gehört, gehört dir.
-**32** Wie hätten wir nicht feiern sollen? Denn dein Bruder da war tot und lebt wieder; er war verloren und ist gefunden.‘"[^23][^24][^25]
+**32** Wie hätten wir nicht feiern sollen? Denn dein Bruder da war tot und lebt wieder; er war verloren und ist gefunden.‘“[^23][^24][^25]
 
 ---
 

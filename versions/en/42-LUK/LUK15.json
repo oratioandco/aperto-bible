@@ -23,7 +23,7 @@
           "title": "The Lost Sheep",
           "verse_start": 4,
           "verse_end": 7,
-          "content_hash": "sha256:44a8032b4926a645eecee37c1f2f067a80e08214a165f50853ffc51c0fcce8b1"
+          "content_hash": "sha256:fe1258f571dd92eb814c7642a4eb980597ebe4ca2d340254df5a7f54c564cf47"
         },
         {
           "pericope_id": "luke_15_the_lost_coin",
@@ -44,7 +44,7 @@
           "title": "The Son Who Stayed",
           "verse_start": 25,
           "verse_end": 32,
-          "content_hash": "sha256:8f5c12ad56393dde8ffa909d572e68cf54080ad0aaf1588e371439020af35131"
+          "content_hash": "sha256:b7f9f0aa49022006503fe841a515d216a416f3379c6afc12b23060411b0df59f"
         }
       ]
     },

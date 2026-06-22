@@ -16,21 +16,21 @@
           "title": "An Jesu Tisch",
           "verse_start": 1,
           "verse_end": 3,
-          "content_hash": "sha256:dbe546b2d1404be511a9ee733f9ec97350f3bbb9fb9b0f56566460a4023973cd"
+          "content_hash": "sha256:af74e051235686b26b591a44af768c02396215b6990df2594f68505bbb036ae9"
         },
         {
           "pericope_id": "luke_15_the_lost_sheep",
           "title": "Das verlorene Schaf",
           "verse_start": 4,
           "verse_end": 7,
-          "content_hash": "sha256:5febc2218b371c93fb084944d4cdef2980b25be4865776b4f9bc43e639b7741a"
+          "content_hash": "sha256:f1aeceb82862bff60d83dd04c88324cfedb6ae48098a3fe47b51f4f5df283b10"
         },
         {
           "pericope_id": "luke_15_the_lost_coin",
           "title": "Die verlorene Drachme",
           "verse_start": 8,
           "verse_end": 10,
-          "content_hash": "sha256:6809ac651a551b2b30371f701df65c47fabf73e80583fdd3c4157d8c5ec19838"
+          "content_hash": "sha256:ddbc1fe6090741fafd7fa9dbeb95b097cf5fc7ba87c2840d5b24e6b21d02bdab"
         },
         {
           "pericope_id": "luke_15_prodigal_younger_son",
@@ -44,7 +44,7 @@
           "title": "Der ältere Sohn",
           "verse_start": 25,
           "verse_end": 32,
-          "content_hash": "sha256:63c01e9901a7425e3e52e462e938d6077c7bcc21aa315bd7aebf00c3a1afdbb0"
+          "content_hash": "sha256:307c8ac3c55e8f6d9425e10bebf8391015a174f04b0dcfad9e7d6b84b13b1c71"
         }
       ]
     },

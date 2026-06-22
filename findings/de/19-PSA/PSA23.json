@@ -1,0 +1,33 @@
+{
+  "book": "psalms",
+  "chapter": 23,
+  "lang": "AB-DE",
+  "findings": [
+    {
+      "id": "psa_23_idiom_fit_23_2_001",
+      "pericope_id": "psalms_23_001",
+      "verse": "23:2",
+      "critic": "idiom_fit",
+      "severity": "medium",
+      "status": "open",
+      "summary": "idiom_fit: ‚ins Grüne' ist als feste Wendung an Ausflugssemantik gebunden; ‚jemanden ins Grüne legen' ist keine etablierte Kollo...",
+      "rationale": "‚ins Grüne' ist als feste Wendung an Ausflugssemantik gebunden; ‚jemanden ins Grüne legen' ist keine etablierte Kollokation, native eher ‚betten/lagern'.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:f8209a57b7908ac4d2d7ce548cb543ffba6117b196012cb7446b509923a783cc"
+      },
+      "before": "Er legt mich ins Grüne.",
+      "after": "Er bettet mich ins Grüne."
+    }
+  ],
+  "metadata": {
+    "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
+    "source_usfm_version": "af7da3860547ef354f565bda68a3b98e8388c898",
+    "status_enum": [
+      "applied",
+      "deferred-to-human",
+      "dismissed-as-overreach",
+      "dismissed-with-rationale",
+      "open"
+    ]
+  }
+}

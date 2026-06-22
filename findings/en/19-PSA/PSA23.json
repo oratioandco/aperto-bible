@@ -1,0 +1,92 @@
+{
+  "book": "psalms",
+  "chapter": 23,
+  "lang": "AB-EN",
+  "findings": [
+    {
+      "id": "psa_23_orthography_23_1_001",
+      "pericope_id": "psalms_23_001",
+      "verse": "23:1",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "orthography: Asymmetric em-dash spacing — should be either both-spaced or neither",
+      "rationale": "Asymmetric em-dash spacing — should be either both-spaced or neither\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:a5b477b2e3c39e6a1c894273f6609dc1885a5d80629686be0e10e2582f7fe4aa"
+      },
+      "before": "d —t",
+      "after": "word—word (remove leading space)"
+    },
+    {
+      "id": "psa_23_orthography_23_2_002",
+      "pericope_id": "psalms_23_001",
+      "verse": "23:2",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "orthography: Asymmetric em-dash spacing — should be either both-spaced or neither",
+      "rationale": "Asymmetric em-dash spacing — should be either both-spaced or neither\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:a5b477b2e3c39e6a1c894273f6609dc1885a5d80629686be0e10e2582f7fe4aa"
+      },
+      "before": "r —t",
+      "after": "word—word (remove leading space)"
+    },
+    {
+      "id": "psa_23_orthography_23_3_003",
+      "pericope_id": "psalms_23_001",
+      "verse": "23:3",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "orthography: Asymmetric em-dash spacing — should be either both-spaced or neither",
+      "rationale": "Asymmetric em-dash spacing — should be either both-spaced or neither\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:a5b477b2e3c39e6a1c894273f6609dc1885a5d80629686be0e10e2582f7fe4aa"
+      },
+      "before": "d —b",
+      "after": "word—word (remove leading space)"
+    },
+    {
+      "id": "psa_23_orthography_23_6_004",
+      "pericope_id": "psalms_23_001",
+      "verse": "23:6",
+      "critic": "orthography",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "orthography: Asymmetric em-dash spacing — should be either both-spaced or neither",
+      "rationale": "Asymmetric em-dash spacing — should be either both-spaced or neither\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:a5b477b2e3c39e6a1c894273f6609dc1885a5d80629686be0e10e2582f7fe4aa"
+      },
+      "before": "e —t",
+      "after": "word—word (remove leading space)"
+    },
+    {
+      "id": "psa_23_idiom_fit_23_6_005",
+      "pericope_id": "psalms_23_001",
+      "verse": "23:6",
+      "critic": "idiom_fit",
+      "severity": "low",
+      "status": "open",
+      "summary": "idiom_fit: 'hunt down' = hostile/predatory pursuit; pairing it with benevolent subjects is a deliberate literary inversion, not...",
+      "rationale": "'hunt down' = hostile/predatory pursuit; pairing it with benevolent subjects is a deliberate literary inversion, not a defect.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:a5b477b2e3c39e6a1c894273f6609dc1885a5d80629686be0e10e2582f7fe4aa"
+      },
+      "before": "Your goodness and faithful love will hunt me down, all my life."
+    }
+  ],
+  "metadata": {
+    "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
+    "source_usfm_version": "uncommitted-2026-06-21T21:41:07",
+    "status_enum": [
+      "applied",
+      "deferred-to-human",
+      "dismissed-as-overreach",
+      "dismissed-with-rationale",
+      "open"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "book": "psalms",
+  "chapter": 23,
+  "lang": "AB-PL",
+  "findings": [
+    {
+      "id": "psa_23_idiom_fit_23_6_001",
+      "pericope_id": "psalms_23_001",
+      "verse": "23:6",
+      "critic": "idiom_fit",
+      "severity": "medium",
+      "status": "open",
+      "summary": "idiom_fit: 'ścigać kogoś' niesie sens wrogiej pogoni (policja, łowy); zestawione z 'dobroć/miłość' zgrzyta — natywne jest 'podąż...",
+      "rationale": "'ścigać kogoś' niesie sens wrogiej pogoni (policja, łowy); zestawione z 'dobroć/miłość' zgrzyta — natywne jest 'podążać za' lub 'towarzyszyć'.\n\n— Live critic finding without a recorded operator decision.",
+      "anchor": {
+        "content_hash_at_decision": "sha256:1aee1d003959b5918b3a259607cf33b399fd2912d9cd0b3d78493a5039cd6d85"
+      },
+      "before": "Twoja dobroć i wierna miłość ścigają mnie, póki życia.",
+      "after": "Twoja dobroć i wierna miłość podążają za mną, póki życia."
+    }
+  ],
+  "metadata": {
+    "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
+    "source_usfm_version": "b9ca7a3d4ea6009a0b27b9a20bdc64b8c425e5b9",
+    "status_enum": [
+      "applied",
+      "deferred-to-human",
+      "dismissed-as-overreach",
+      "dismissed-with-rationale",
+      "open"
+    ]
+  }
+}

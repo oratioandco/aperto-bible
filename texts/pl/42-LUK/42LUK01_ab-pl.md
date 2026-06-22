@@ -139,7 +139,7 @@
 **67** Zachariasza, jego ojca, napełnił Duch Święty, i zaczął prorokować:[^45]
 
 **68** Błogosławiony Pan, Bóg Izraela,[^46]
-> bo przyszedł do swego ludu i wykupił go.\f + \fr 1:68 \fk TEXT \fq nawiedził \ft Greckie \fq ἐπεσκέψατο\fq* – „nawiedził, zatroszczył się, wejrzał". Aperto wybiera „nawiedził" zamiast słabszego „odwiedził": Bóg czynnie idzie do swojego ludu, nie tylko bierze pod uwagę z dystansu. To samo słowo wróci w wersecie 78. Greckie \fq λύτρωσιν\fq* – „odkupienie, wykup" – to język wyjściowy: oswobodzenie z niewoli, język Exodusu. Aperto trzyma słowo „odkupić" z jego polityczną wagą.\f*
+> bo nawiedził swój lud i wykupił go.\f + \fr 1:68 \fk TEXT \fq nawiedził \ft Greckie \fq ἐπεσκέψατο\fq* – „nawiedził, zatroszczył się, wejrzał". Aperto wybiera „nawiedził" zamiast słabszego „odwiedził": Bóg czynnie idzie do swojego ludu, nie tylko bierze pod uwagę z dystansu. To samo słowo wróci w wersecie 78. Greckie \fq λύτρωσιν\fq* – „odkupienie, wykup" – to język wyjściowy: oswobodzenie z niewoli, język Exodusu. Aperto trzyma słowo „odkupić" z jego polityczną wagą.\f*
 **69** Wzbudził dla nas potężnego wybawcę[^47]
 > w domu Dawida, swojego sługi.
 **70** Tak, jak obiecywał od dawna

@@ -30,7 +30,7 @@
 **10** Das Volk hatte sich draußen versammelt und betete, während das Räucheropfer dargebracht wurde. *Drinnen: still. Der Leuchter, der Vorhang, der Geruch von Weihrauch. Er war allein.*
 
 **11** Da erschien ihm ein Engel des Herrn, rechts vom Räucheraltar, *dort, wo der Segen herkommt.*[^8]
-**12** Als Zacharias ihn sah, fiel Furcht über ihn.[^9]
+**12** Als Zacharias ihn sah, überfiel ihn die Furcht.[^9]
 
 **13** Doch der Engel sagte zu ihm: „Hab keine Angst, Zacharias. Dein Gebet ist erhört worden.[^10] Deine Frau Elisabet wird einen Sohn bekommen. Du wirst ihn Johannes nennen.
 **14** Er wird dir Freude bringen, überschwängliche Freude. Und nicht nur dir: Viele werden sich freuen, wenn er zur Welt kommt,

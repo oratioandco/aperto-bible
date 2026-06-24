@@ -1,0 +1,48 @@
+{
+  "book": "psalms",
+  "chapter": 139,
+  "lang": "AB-PL",
+  "findings": [
+    {
+      "id": "psa_139_idiom_fit_139_22_001",
+      "pericope_id": "psalms_139_001",
+      "verse": "139:22",
+      "critic": "idiom_fit",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "idiom_fit: Figura etymologica 'nienawidzić nienawiścią' to hebraizm; współczesna polszczyzna literacka unika kognatywnego dopełn...",
+      "rationale": "Figura etymologica 'nienawidzić nienawiścią' to hebraizm; współczesna polszczyzna literacka unika kognatywnego dopełnienia narzędnikowego.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:fa97fe5903f613cda8a304f853409315b6aad485087d94272ee47d20fbea1a6e"
+      },
+      "before": "Nienawidzę ich całkowitą nienawiścią –",
+      "after": "Nienawidzę ich z całej duszy –"
+    },
+    {
+      "id": "psa_139_idiom_fit_139_7_002",
+      "pericope_id": "psalms_139_001",
+      "verse": "139:7",
+      "critic": "idiom_fit",
+      "severity": "low",
+      "status": "applied",
+      "summary": "idiom_fit: 'uciec sprzed' jest naznaczone; naturalne 'zniknąć sprzed oczu' lub 'uciec od/przed', ale w poezji znośne paralelizmem.",
+      "rationale": "'uciec sprzed' jest naznaczone; naturalne 'zniknąć sprzed oczu' lub 'uciec od/przed', ale w poezji znośne paralelizmem.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:fa97fe5903f613cda8a304f853409315b6aad485087d94272ee47d20fbea1a6e"
+      },
+      "before": "Dokąd ucieknę sprzed Twoich oczu?",
+      "after": "Dokąd ucieknę od Twoich oczu?"
+    }
+  ],
+  "metadata": {
+    "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
+    "source_usfm_version": "uncommitted-2026-06-22T19:25:09",
+    "status_enum": [
+      "applied",
+      "deferred-to-human",
+      "dismissed-as-overreach",
+      "dismissed-with-rationale",
+      "open"
+    ]
+  }
+}

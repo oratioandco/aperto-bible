@@ -1,0 +1,63 @@
+{
+  "book": "psalms",
+  "chapter": 139,
+  "lang": "AB-EN",
+  "findings": [
+    {
+      "id": "psa_139_archaism_139_19_001",
+      "pericope_id": "psalms_139_001",
+      "verse": "139:19",
+      "critic": "archaism",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "archaism: KJV vocative O",
+      "rationale": "KJV vocative O\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:03039790a406c15f734cd2d3a0d749c818c1db3481f4dd444ae03d504dea5ef7"
+      },
+      "before": "O God",
+      "after": "\"God\" / direct address"
+    },
+    {
+      "id": "psa_139_archaism_139_23_002",
+      "pericope_id": "psalms_139_001",
+      "verse": "139:23",
+      "critic": "archaism",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "archaism: KJV vocative O",
+      "rationale": "KJV vocative O\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:03039790a406c15f734cd2d3a0d749c818c1db3481f4dd444ae03d504dea5ef7"
+      },
+      "before": "O God",
+      "after": "\"God\" / direct address"
+    },
+    {
+      "id": "psa_139_idiom_fit_139_3_003",
+      "pericope_id": "psalms_139_001",
+      "verse": "139:3",
+      "critic": "idiom_fit",
+      "severity": "low",
+      "status": "applied",
+      "summary": "idiom_fit: 'sift' normally takes grain, evidence, or detail as object; applied to 'going out and lying down' it reads slightly o...",
+      "rationale": "'sift' normally takes grain, evidence, or detail as object; applied to 'going out and lying down' it reads slightly off, though poetic license carries it.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:03039790a406c15f734cd2d3a0d749c818c1db3481f4dd444ae03d504dea5ef7"
+      },
+      "before": "My going out and my lying down — you sift them",
+      "after": "My going out and my lying down — you measure them"
+    }
+  ],
+  "metadata": {
+    "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
+    "source_usfm_version": "uncommitted-2026-06-23T06:56:54",
+    "status_enum": [
+      "applied",
+      "deferred-to-human",
+      "dismissed-as-overreach",
+      "dismissed-with-rationale",
+      "open"
+    ]
+  }
+}

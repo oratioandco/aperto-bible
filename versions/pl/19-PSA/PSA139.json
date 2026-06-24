@@ -10,7 +10,15 @@
       "source_usfm_version": "v4.6.4",
       "aperto_bible_sha": "99d86020d8bbc7353153ce04fabe46e9a0574da4",
       "current": true,
-      "passages": []
+      "passages": [
+        {
+          "pericope_id": "psalms_139_001",
+          "title": "Psalms 139",
+          "verse_start": 1,
+          "verse_end": 24,
+          "content_hash": "sha256:fa97fe5903f613cda8a304f853409315b6aad485087d94272ee47d20fbea1a6e"
+        }
+      ]
     },
     {
       "id": "0cdab3d5ca17",
@@ -19,7 +27,14 @@
       "source_usfm_version": "v4.6.3",
       "aperto_bible_sha": "0cdab3d5ca177ba6ab4fe1609858f7dff1ec6812",
       "current": false,
-      "passages": []
+      "passages": [
+        {
+          "pericope_id": "psalms_139_001",
+          "title": "Psalms 139",
+          "verse_start": 1,
+          "verse_end": 24
+        }
+      ]
     },
     {
       "id": "6076bc2481c0",
@@ -28,7 +43,14 @@
       "source_usfm_version": "v4.6.2",
       "aperto_bible_sha": "6076bc2481c0f53311242522323e7d692817f34e",
       "current": false,
-      "passages": []
+      "passages": [
+        {
+          "pericope_id": "psalms_139_001",
+          "title": "Psalms 139",
+          "verse_start": 1,
+          "verse_end": 24
+        }
+      ]
     },
     {
       "id": "f89f9221f1b2",
@@ -37,7 +59,14 @@
       "source_usfm_version": "v4.6.1",
       "aperto_bible_sha": "f89f9221f1b2ca939759d9afea46e76f1a74609d",
       "current": false,
-      "passages": []
+      "passages": [
+        {
+          "pericope_id": "psalms_139_001",
+          "title": "Psalms 139",
+          "verse_start": 1,
+          "verse_end": 24
+        }
+      ]
     },
     {
       "id": "7da2101f6c62",
@@ -46,7 +75,14 @@
       "source_usfm_version": "v4.6.0",
       "aperto_bible_sha": "7da2101f6c6288ba6b882f69552f506a3701a362",
       "current": false,
-      "passages": []
+      "passages": [
+        {
+          "pericope_id": "psalms_139_001",
+          "title": "Psalms 139",
+          "verse_start": 1,
+          "verse_end": 24
+        }
+      ]
     }
   ]
 }

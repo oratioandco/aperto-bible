@@ -14,9 +14,9 @@
 
 \d Ein Psalm Davids.[^1]
 
-**1** Der Ewige[^2] ist mein Hirte, *der König, der persönlich für mich einsteht.*[^3] Mir fehlt nichts.[^4]
+**1** Der Ewige[^2] ist mein Hirte, *der König, der selbst für mich sorgt.*[^3] Mir fehlt nichts.[^4]
 
-**2** Er legt mich ins Grüne.
+**2** Er lässt mich auf saftigen Wiesen lagern.
 > Er führt mich ans stille Wasser, \add dorthin, wo ich ankommen darf.\add*\f + \fr 23:2 \fk KULTUR \fq Wasser der Ruhe \ft Die hebräische Wendung lautet \it ʿal-mê mənuḥôt\it*, wörtlich „an Wassern der Ruhe". \it Mənûḥâ\it* ist das theologische Wort für die Ruhe des Sabbats (Ex 20,11) und die Ruhe des verheißenen Landes (Dtn 12,9). Die Lutherbibel \it frischen Wasser\it* hat das abstrahiert. Es geht nicht darum, dass das Wasser kühl ist, sondern dass es ein \it Ziel\it* ist. In einer Wüstenlandschaft sind Wasserstellen selten, und sie sicher zu erreichen ist das Ende einer Wanderung. Der Hirte hat die Herde dorthin gebracht, wo sie trinken und ruhen kann — ohne Furcht. Ruhe ist im Hebräischen kein innerer Zustand. Ruhe ist ein Ort, zu dem jemand dich hinführt.\f*\f + \fr 23:2 \fk KONTEXT \fq Er legt mich ins Grüne \ft Das hebräische Verb \it yarbîṣēnî\it* ist eine kausative Form — „er \it lässt\it* mich lagern", „er \it macht\it*, dass ich mich niederlege". Die Handlungsmacht liegt beim Hirten, nicht beim Schaf. Dieser kleine grammatische Akzent öffnet den Blick auf Hesekiel 34, die Hirtenprophetie, die hinter diesem Psalm steht. Hesekiel — gegen die versagenden Hirten Israels schreibend (Kap. 34,2–10) — kündigt an: „Ich selbst will meine Schafe weiden, und ich will sie lagern lassen, spricht Gott der Herr" (Hes 34,15). Das Verb ist dasselbe. Psalm 23 und Hesekiel 34 sprechen dieselbe Grammatik: der Gute Hirte ist nicht der König, nicht die Priesterschaft, nicht der Tempel — sondern Gott selbst, der die Schafe in die Ruhe legt, weil niemand sonst es tut. Wer den Psalm liest, liest die Hesekiel-Prophetie im Hintergrund mit: Ein verarmtes, verratenes, missbrauchtes Volk hört, dass der wirkliche Hirte da ist.\f*
 **3** Er holt mich zurück ins Leben[^5][^6] und führt mich wieder auf die rechte Spur, *weil er ist, wer er ist.*[^7]
 

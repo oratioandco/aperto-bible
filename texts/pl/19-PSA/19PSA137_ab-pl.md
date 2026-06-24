@@ -13,7 +13,7 @@
 ### Tam – nad rzekami Babilonu
 
 
-**1** Tam – nad rzekami Babilonu.[^1]
+**1** Tam, nad rzekami Babilonu.[^1]
 > Siedzieliśmy. Płakaliśmy.
 > Pamiętaliśmy o Syjonie.
 **2** Na topolach pośrodku tej ziemi[^2]
@@ -24,7 +24,7 @@
 **4** Jak mamy śpiewać pieśń Wiekuistego[^4]
 > na obcej ziemi?
 
-**5** Jeśli cię zapomnę, Jerozolimo – \q2 moja prawa ręka niech zapomni.[^5]
+**5** Jeśli cię zapomnę, Jerozolimo, \q2 moja prawa ręka niech zapomni.[^5]
 **6** Język przylgnie mi do podniebienia,
 > jeśli o tobie nie pamiętam,
 > jeśli Jerozolimy nie wyniosę
@@ -34,8 +34,8 @@
 > w dniu Jerozolimy.
 > Krzyczeli: „Rozbijcie ją, rozbijcie,
 > aż do fundamentów!”.
-**8** Córo Babilonu, ty zburzona – [^7]
-> szczęśliwy, kto ci odpłaci
+**8** Córo Babilonu, ty zburzona.[^7]
+> Szczęśliwy, kto ci odpłaci
 > za to, co nam zrobiłaś.
 **9** Szczęśliwy, kto chwyta twoje niemowlęta
 > i roztrzaskuje je o skałę.\f + \fr 137:9 \fk HARM \fq roztrzaskuje je o skałę \ft To najbardziej osławiony wers Psałterza i ma boleć. Upiększenie go byłoby pierwszym błędem – mówi to każdy komentarz: tych słów nie da się złagodzić i nie należy próbować. Co można powiedzieć, to skąd pochodzą. Po pierwsze: to mowa ocalałych. Wypowiada ją wspólnota, której własne dzieci zabito (2 Księga Królewska 25,7), której miasto legło w gruzach, której ludzi uprowadzono w niewolę – a której potem kazano śpiewać wesołe pieśni. Wers jest dźwiękiem tego oburzenia. Po drugie: nie wymyśla okrucieństwa. Roztrzaskiwanie dzieci było udokumentowaną praktyką wojny na starożytnym Bliskim Wschodzie – dokładnie tym, co Babilon i Asyria czyniły podbitym ludom (Izajasz 13,16; Ozeasz 10,14; Nahum 3,10). Wers odrzuca imperium jego własny czyn. Po trzecie, i to rozstrzygające: psalm nie działa. Wymadla życzenie – po hebrajsku, którego oprawcy nie rozumieli – i potem je wypuszcza. Teolog Erich Zenger czytał to tak: oddanie wściekłości Bogu jest alternatywą wobec jej wykonania. Te wersety bywały nadużywane – jako tekst dowodowy przemocy wobec „wrogich" dzieci, jako dowód rzekomo mściwego Boga – i bywały wycinane: w 1971 roku, przy reformie Liturgii Godzin, usunięto wersety 7–9 z codziennego brewiarza, decyzją papieża Pawła VI wbrew większości komisji rewizyjnej. Brewiarz kończy dziś ten psalm na „największej radości" z wersetu 6. Polski czytelnik może to sprawdzić sam. Aperto przekłada i przedstawia cały psalm, bez skrótów. Upiększony psalm porzuca dokładnie tych ludzi, dla których został napisany.\f*\f + \fr 137:9 \fk LEBEN \fq chwyta twoje niemowlęta \ft Psalm kończy się tutaj, na swoim najtwardszym wersie, bez rozwiązania. Żadnego „a jednak ufam", żadnego powrotu do uwielbienia. Tak ma być. Dla każdego, kto nie ufa religii, bo wyczuwa w niej wymuszoną pogodę: ten tekst jest jej przeciwieństwem. Nie żąda od nikogo, by przebaczał według rozkładu jazdy ani by upiększał własny ból. Jeśli coś w twoim życiu jest nie do rozwiązania, nie musisz tego rozwiązywać tutaj – wolno ci to wypowiedzieć tak wielkie, jakie jest. Kto trwa w wierze, znajdzie w psalmie wzór uczciwej modlitwy: przynosić Bogu nie wygładzoną wersję siebie, lecz prawdziwą. Wygnańcy robią ze swoją wściekłością coś konkretnego – oddają ją Bogu, zamiast ją wykonać. To ruch, którego psalm uczy: nazwać najgorsze, wypowiedzieć je, złożyć w inne ręce. Psalm 137 od stuleci jest modlitwą wysiedlonych – deportowanych, uchodźców, pozbawionych domu. Kto czyta go dzisiaj, zostaje zapytany, czy w ogóle potrafi usłyszeć lament wykorzenionych: sąsiadki, która uciekła przed wojną; ludzi, którzy przychodzą i nie mają dokąd. Uczciwy lament nie jest tylko czymś, co robisz dla siebie; jest też czymś, na co pozwalasz innym. Może dzisiaj jedna mała rzecz: ani razu nie pocieszaj. Komuś, kto się smuci, nie mów zbyt wcześnie, że wszystko będzie dobrze – usiądź obok, nad rzekami, i to wytrzymaj.\f*

@@ -10,7 +10,15 @@
       "source_usfm_version": "v4.6.1",
       "aperto_bible_sha": "7520be17af5cf52c48d2378545d9a50a498d60c5",
       "current": true,
-      "passages": []
+      "passages": [
+        {
+          "pericope_id": "psalms_139_001",
+          "title": "Psalms 139",
+          "verse_start": 1,
+          "verse_end": 24,
+          "content_hash": "sha256:9c79780035ae427eed3947339365c1c8098a6cceaddbf0eaea689e60a57566e0"
+        }
+      ]
     },
     {
       "id": "7da2101f6c62",
@@ -19,7 +27,14 @@
       "source_usfm_version": "v4.6.0",
       "aperto_bible_sha": "7da2101f6c6288ba6b882f69552f506a3701a362",
       "current": false,
-      "passages": []
+      "passages": [
+        {
+          "pericope_id": "psalms_139_001",
+          "title": "Psalms 139",
+          "verse_start": 1,
+          "verse_end": 24
+        }
+      ]
     }
   ]
 }

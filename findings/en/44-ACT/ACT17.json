@@ -73,7 +73,7 @@
       "summary": "orthography: Asymmetric em-dash spacing",
       "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:5bf5ce18daed99878a6a8fb86283651517927998cdf1584c7f9bfe9102143d5b"
+        "content_hash_at_decision": "sha256:02b3d09f49129891bf8e605e17cf2ae110804a92ea4e4d3710d23597a011603b"
       },
       "before": "n— t",
       "after": "word—word (remove trailing space)"
@@ -118,7 +118,7 @@
       "summary": "idiom_fit: 'Come on' for chance discovery is dated; modern literary English takes 'come upon' or 'come across' the object.",
       "rationale": "'Come on' for chance discovery is dated; modern literary English takes 'come upon' or 'come across' the object.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:5bf5ce18daed99878a6a8fb86283651517927998cdf1584c7f9bfe9102143d5b"
+        "content_hash_at_decision": "sha256:02b3d09f49129891bf8e605e17cf2ae110804a92ea4e4d3710d23597a011603b"
       },
       "before": "I came at last on an altar with these words cut into its stone",
       "after": "I came at last upon an altar with these words cut into its stone"
@@ -126,7 +126,7 @@
   ],
   "metadata": {
     "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
-    "source_usfm_version": "uncommitted-2026-06-22T17:16:50",
+    "source_usfm_version": "uncommitted-2026-06-22T19:03:59",
     "status_enum": [
       "applied",
       "deferred-to-human",

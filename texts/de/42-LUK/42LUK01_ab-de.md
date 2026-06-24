@@ -26,17 +26,17 @@
 **7** Und doch hatten sie kein Kind. Elisabet war kinderlos geblieben.[^6] *Kinderlosigkeit war in ihrer Welt kein privates Unglück. Sie war Schande.* Und nun waren sie beide schon alt.
 
 **8** Als seine Priesterabteilung an die Reihe kam, trat Zacharias zum Dienst vor Gott in den Tempel.
-**9** Nach der Sitte des Priesteramts fiel das Los auf ihn: Er sollte das Räucheropfer darbringen.[^7] *Der Augenblick, auf den ein Priester sein ganzes Leben warten konnte. Mancher erlebte ihn nie.*
+**9** Das Los fiel auf ihn, wie es im Priesterdienst Brauch war: Er sollte das Räucheropfer darbringen.[^7] *Der Augenblick, auf den ein Priester sein ganzes Leben warten konnte. Mancher erlebte ihn nie.*
 **10** Das Volk hatte sich draußen versammelt und betete, während das Räucheropfer dargebracht wurde. *Drinnen: still. Der Leuchter, der Vorhang, der Geruch von Weihrauch. Er war allein.*
 
-**11** Da erschien ihm ein Engel des Herrn, rechts vom Räucheraltar, *dort, wo der Segen herkommt.*[^8]
+**11** Da erschien ihm ein Engel des Herrn, rechts vom Räucheraltar, *der Seite des Segens.*[^8]
 **12** Als Zacharias ihn sah, überfiel ihn die Furcht.[^9]
 
 **13** Doch der Engel sagte zu ihm: „Hab keine Angst, Zacharias. Dein Gebet ist erhört worden.[^10] Deine Frau Elisabet wird einen Sohn bekommen. Du wirst ihn Johannes nennen.
 **14** Er wird dir Freude bringen, überschwängliche Freude. Und nicht nur dir: Viele werden sich freuen, wenn er zur Welt kommt,
 **15** denn er wird groß sein vor dem Herrn. Wein und alles, was berauscht, wird er nicht anrühren,[^11] und schon vor seiner Geburt wird ihn der Heilige Geist erfüllen.
 **16** Viele Menschen in Israel wird er zurückführen zu dem Herrn, ihrem Gott.
-**17** Er wird dem Herrn vorausgehen, mit dem Geist und der Kraft des Elija:[^12] Er bringt Eltern und Kinder wieder zueinander und führt alle, die sich abgewandt haben, zurück zu einem Leben nach Gottes Willen. So macht er für den Herrn ein Volk bereit, das auf ihn wartet.“
+**17** Er wird dem Herrn vorausgehen, mit dem Geist und der Kraft des Elija:[^12] Er bringt Eltern und Kinder wieder zueinander und führt alle, die sich abgewandt haben, zurück zu einem Leben nach Gottes Willen. So bereitet er dem Herrn ein Volk, das auf ihn wartet.“
 
 **18** Zacharias fragte den Engel: „Woran soll ich erkennen, dass das geschieht? Ich bin alt, und meine Frau ist es auch.“
 
@@ -48,7 +48,7 @@
 **23** Als die Tage seines Dienstes zu Ende waren, kehrte er nach Hause zurück.
 
 **24** Danach wurde Elisabet, seine Frau, schwanger. Fünf Monate lang zog sie sich zurück.
-**25** „So hat der Herr an mir gehandelt“, sagte sie, „jetzt, wo er mich angesehen hat, um meine Schande unter den Menschen wegzunehmen.“[^15]
+**25** „So hat der Herr an mir gehandelt“, sagte sie, „jetzt, wo er mich angesehen hat, um mir die Schande unter den Menschen zu nehmen.“[^15]
 
 ### Die Ankündigung der Geburt Jesu
 
@@ -80,7 +80,7 @@
 **41** Als Elisabet den Gruß Marias hörte, hüpfte das Kind in ihrem Leib auf.[^27] Und Elisabet wurde erfüllt vom Heiligen Geist.[^28]
 
 **42** Da brach es aus ihr heraus, mit lauter Stimme,[^29] *wie eine Prophetin:*
-„Was für ein Glück liegt auf dir, und auf dem Kind, das du trägst.
+„Was für ein Segen liegt auf dir und auf dem Kind, das du trägst.
 **43** Wer bin ich, dass die Mutter meines Herrn zu mir kommt?[^30]
 **44** Denn als dein Gruß an mein Ohr drang, hüpfte das Kind in meinem Leib auf vor Freude.
 **45** Glücklich ist, die geglaubt hat: Was der Herr ihr gesagt hat, wird sich erfüllen.“[^31]
@@ -104,7 +104,7 @@
 > Die Stolzen? Er fegt sie hinweg, mitsamt ihren Plänen.
 **52** Herrscher stürzt er vom Thron.
 > Die Kleinen hebt er hoch.
-**53** Die Hungrigen füllt er. Mit allem.
+**53** Die Hungrigen sättigt er. Mit allem.
 > Die Reichen schickt er fort. Mit leeren Händen.\f + \fr 1:51-53 \fk LEBEN \fq Mächtige … Niedrige … Hungrige … Reiche \ft Das Magnificat schneidet nach zwei Seiten. Für die Niedrigen, die Hungrigen, die Übersehenen ist es Trost: dass Gott die soziale Architektur der Welt nicht für gegeben hält. Für die Mächtigen, die Satten, die Sortierten ist es Beunruhigung: dass derselbe Gott die soziale Architektur der Welt nicht für gegeben hält. Lateinamerikanische Befreiungstheologen haben die zweite Hälfte des Liedes als das Manifest der Option für die Armen gelesen; europäische Innerlichkeit hat oft nur die erste Hälfte gehört. Beides hat im Text seinen Grund: Maria singt von einer Umkehrung, die zugleich politisch und seelisch ist. Niemand entkommt hier dadurch, dass er sagt: Ist nur ein Bild. – Eine Frage, die für jeden Leser sitzt: Auf welcher Seite dieser Liste stehe ich gerade? An welcher Stelle des Magnificats wäre ich froh, wenn es nur Bild bliebe – und an welcher Stelle hoffe ich, dass es Realität wird? Wer ehrlich antwortet, merkt: Beides ist da, in einem einzigen Leben, manchmal in einem einzigen Tag. – Für gläubige Leser stellt sich die ältere Frage: Was bedeutet es, dieses Lied jeden Abend zu beten? In den meisten Klöstern Europas wird es seit fünfzehnhundert Jahren in der Vesper gesungen — täglich. Eine Praxis, die nicht einfach Trost spendet, sondern den Beter im Lauf der Jahre umstellt: Wer das Lied lang genug singt, wird auf eine bestimmte Seite gestellt. – Strukturell ist die Frage offen, was \it heute\it* ein Niedriger und was ein Mächtiger ist. Die alten Kategorien — König, Bauer — passen nicht mehr eins zu eins; die Algorithmen, die heute „erhöhen" und „erniedrigen", sind andere. Aber dass Macht und Sichtbarkeit eine Logik haben, die nicht Gottes Logik ist, gilt weiter. Eine schlichte Übung diese Woche: schau dir einmal die Gästeliste deiner Aufmerksamkeit an — wen lädst du rein, wen lässt du draußen, und wer entscheidet das?\f*
 
 **54** Er hat sich seines Dieners Israel angenommen,
@@ -150,7 +150,7 @@
 > aus der Gewalt der Feinde befreit,
 > ihm ohne Furcht zu dienen,
 > \v 75 aufrichtig und gerecht vor ihm,
-> alle unsere Tage.
+> unser Leben lang.
 
 > \v 76 Und du, mein Kind:\f + \fr 1:76 \fk TEXT \fq Und du, mein Kind \ft Die direkte Anrede ist der entscheidende Tonal-Einschnitt des Liedes. Verse 68–75 waren großer Bundeshorizont: dritte Person, Israel, Abraham, die Väter. Mit Vers 76 wendet sich Zacharias seinem neugeborenen Sohn zu: zweite Person, Nahaufnahme, Vater zu Kind. Es sind die ersten Worte, die ein Vater nach neun Monaten Schweigen seinem lange erwarteten Kind sagt — und es sind keine privaten Worte. Es ist Berufung. Der Doppelpunkt hält die Zärtlichkeit dieses Moments.\f*
 > Du wirst Prophet des Höchsten genannt werden.
@@ -169,7 +169,7 @@
 ### Aufwachsen in der Wüste
 
 
-**80** Das Kind aber wuchs heran und reifte innerlich. Es lebte in der Wüste, *dort, wo Israels Propheten gereift sind,*[^44] bis zu dem Tag, an dem es öffentlich in Israel auftrat.
+**80** Das Kind wuchs heran und reifte innerlich. Es lebte in der Wüste, *dort, wo Israels Propheten gereift sind,*[^44] bis zu dem Tag, an dem es öffentlich in Israel auftrat.
 
 ---
 

@@ -4,11 +4,11 @@
   "lang": "AB-DE",
   "versions": [
     {
-      "id": "0cdab3d5ca17",
-      "label": "2026-06-13 — publish: 5 updated",
-      "date": "2026-06-13T10:28:03+00:00",
+      "id": "49c1d8267375",
+      "label": "2026-06-22 — publish: 9 updated",
+      "date": "2026-06-22T18:50:54+00:00",
       "source_usfm_version": "v4.6.1",
-      "aperto_bible_sha": "0cdab3d5ca177ba6ab4fe1609858f7dff1ec6812",
+      "aperto_bible_sha": "49c1d8267375f79661b3c789cb896c1e95aa913e",
       "current": true,
       "passages": [
         {
@@ -16,7 +16,7 @@
           "title": "Aufruhr in Thessalonich",
           "verse_start": 1,
           "verse_end": 9,
-          "content_hash": "sha256:17e33cfe7926b13afed633f40faf47c009bf7bfb24d82489b249031ca5cfb925"
+          "content_hash": "sha256:2a648999f39c1846273c32de4804cb04ac44ed616250db5c12cf72e984fb6484"
         },
         {
           "pericope_id": "acts_17_ii_beroea",
@@ -30,7 +30,7 @@
           "title": "Paulus in Athen",
           "verse_start": 16,
           "verse_end": 21,
-          "content_hash": "sha256:845b9f52416848e2fee3993eea723878329131d2007f74db80f1e8e29db460cc"
+          "content_hash": "sha256:ebd1780bf1b779ce233a74d51d23166e76879d00dd6e91ad9f8ddc9bc723e011"
         },
         {
           "pericope_id": "acts_17_areopagus_speech",
@@ -38,6 +38,40 @@
           "verse_start": 22,
           "verse_end": 34,
           "content_hash": "sha256:8d8806db386b2e2134d21d7c0ff80cc9a6089680e3b4c1f41ac27d624ff54f84"
+        }
+      ]
+    },
+    {
+      "id": "0cdab3d5ca17",
+      "label": "2026-06-13 — publish: 5 updated",
+      "date": "2026-06-13T10:28:03+00:00",
+      "source_usfm_version": "v4.6.1",
+      "aperto_bible_sha": "0cdab3d5ca177ba6ab4fe1609858f7dff1ec6812",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "acts_17_thessalonica_beroea",
+          "title": "Aufruhr in Thessalonich",
+          "verse_start": 1,
+          "verse_end": 9
+        },
+        {
+          "pericope_id": "acts_17_ii_beroea",
+          "title": "Beröa: Tag für Tag die Schriften",
+          "verse_start": 10,
+          "verse_end": 15
+        },
+        {
+          "pericope_id": "acts_17_athens_agora_frame",
+          "title": "Paulus in Athen",
+          "verse_start": 16,
+          "verse_end": 21
+        },
+        {
+          "pericope_id": "acts_17_areopagus_speech",
+          "title": "Die Rede auf dem Areopag",
+          "verse_start": 22,
+          "verse_end": 34
         }
       ]
     },

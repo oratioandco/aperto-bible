@@ -96,7 +96,7 @@
   ],
   "metadata": {
     "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
-    "source_usfm_version": "e56cf84326523517f4bff32e55dc9e5c6ce6399d",
+    "source_usfm_version": "4c46147e601e072ce59a6e4d6b8742352acd2da5",
     "status_enum": [
       "applied",
       "deferred-to-human",

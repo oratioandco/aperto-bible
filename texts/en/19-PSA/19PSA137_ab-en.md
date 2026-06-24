@@ -13,7 +13,7 @@
 ### By the Rivers of Babylon
 
 
-**1** There — by the rivers of Babylon[^1] —
+**1** There, by the rivers of Babylon[^1],
 > we sat down and wept,
 > when we remembered Zion.
 **2** On the poplars there
@@ -32,11 +32,11 @@
 > above my highest joy.
 
 **7** Remember the Edomites[^4], O Eternal.
-> Remember the day of Jerusalem —
+> Remember the day of Jerusalem,
 > how they shouted, "Tear it down,
 > tear it down to its foundations."
-**8** Daughter Babylon[^5], you who are laid waste —
-> happy the one who pays you back
+**8** Daughter Babylon[^5], you who are laid waste.
+> Happy the one who pays you back
 > for what you did to us.
 **9** Happy the one who seizes your little ones
 > and dashes them against the rock.\f + \fr 137:9 \fk HARM \fq against the rock \ft This is the most notorious line in the Psalms, and it is meant to hurt. To soften it would be the first mistake — every commentary says so: these words cannot be toned down, and they should not be. What can be said is where they come from. First: this is the speech of survivors. It is spoken by a community whose own children had been killed (2 Kings 25:7), whose city lay in rubble, whose people had been marched into captivity — and who were then ordered to sing cheerful songs. The verse is the sound of that outrage. Second: it does not invent the cruelty. Dashing children to death was a documented practice of ancient Near Eastern warfare — exactly what Babylon and Assyria did to the peoples they conquered (Isaiah 13:16; Hosea 10:14; Nahum 3:10). The verse throws the empire's own act back at it. Third, and this is decisive: the psalm does not act. It prays the wish — in Hebrew, which the guards could not understand — and then lets it go. The theologian Erich Zenger read it this way: handing the rage to God is the alternative to carrying it out. These verses have been misused — as a warrant for violence against "enemy" children, as proof of a supposedly vengeful God — and they have been cut: in 1971 the Catholic Church removed verses 7–9 from the daily Liturgy of the Hours. Aperto presents the whole psalm, uncut. A sanitized psalm abandons exactly the people it was written for.\f*\f + \fr 137:9 \fk LEBEN \fq Happy the one who seizes your little ones \ft The psalm ends here, on its hardest line, with no resolution. No "and yet I will trust," no return to praise. That is deliberate. For anyone who distrusts religion because they sense a forced cheerfulness in it: this text is the opposite. It asks no one to forgive on schedule, or to talk their own pain into something prettier. If something in your life will not resolve, you do not have to resolve it here; you are allowed to say it as large as it actually is. For anyone inside faith, the psalm models honest prayer — bringing God the real version, not the smoothed-over one. And notice what the exiles do with their rage: they hand it to God instead of carrying it out. That is the movement the psalm trains — name the worst thing, say it aloud, put it into other hands. Psalm 137 has been, for centuries, the prayer of the displaced: the deported, the refugee, the one with no way home. To read it now is to be asked whether you can hear the lament of the uprooted at all — the neighbor who fled, the people who arrive and are not allowed to arrive. Honest lament is not only something you do for yourself; it is something you make room for in others. Maybe one small thing today: don't console, once. Sit with someone who is grieving without telling them too soon that it will be all right — sit down beside them, by the river, and stay.\f*

@@ -13,7 +13,7 @@
       "summary": "archaism: narrative-formal preterite; literary OK in elevated register only",
       "rationale": "narrative-formal preterite; literary OK in elevated register only\n\n— Live critic finding without a recorded operator decision.",
       "anchor": {
-        "content_hash_at_decision": "sha256:845b9f52416848e2fee3993eea723878329131d2007f74db80f1e8e29db460cc"
+        "content_hash_at_decision": "sha256:ebd1780bf1b779ce233a74d51d23166e76879d00dd6e91ad9f8ddc9bc723e011"
       },
       "before": "sprach",
       "after": "sagte"
@@ -28,7 +28,7 @@
       "summary": "orthography: Project policy: DE surface text uses German „…\" quotes, not English straight \"…\".",
       "rationale": "Project policy: DE surface text uses German „…\" quotes, not English straight \"…\". See DE_NARRATIVE.md / LEXICON §F Punctuation.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:845b9f52416848e2fee3993eea723878329131d2007f74db80f1e8e29db460cc"
+        "content_hash_at_decision": "sha256:ebd1780bf1b779ce233a74d51d23166e76879d00dd6e91ad9f8ddc9bc723e011"
       },
       "before": "\" Sie meinten einen Vogel, der über den Markt hüpft und Krümel aufliest, einen Sammler halber Gedanken. Andere sagten: „Es klingt, als verkünde er fremde Gottheiten.\"",
       "after": "replace with German double-low quotes (low-open + high-close)"
@@ -57,7 +57,7 @@
       "summary": "comprehension_gap: Text behandelt Messias als Titel (leidet, stirbt, aufersteht), dispelt „Nachname\".",
       "rationale": "Text behandelt Messias als Titel (leidet, stirbt, aufersteht), dispelt „Nachname\". Aber die konkrete Opazität — gesalbter König aus Davidlinie — wird nirgends gedeckt; keine Fußnote.\n\n— Live critic finding without a recorded operator decision.",
       "anchor": {
-        "content_hash_at_decision": "sha256:17e33cfe7926b13afed633f40faf47c009bf7bfb24d82489b249031ca5cfb925"
+        "content_hash_at_decision": "sha256:2a648999f39c1846273c32de4804cb04ac44ed616250db5c12cf72e984fb6484"
       },
       "before": "Messias",
       "after": "Eine Klausel einweben: „der Messias — der von Gott gesalbte König aus Davids Linie, auf den Israel wartete\", damit der Königs-/Davidbezug (relevant für V.7) trägt."
@@ -72,7 +72,7 @@
       "summary": "comprehension_gap: Fußnote 17,7 deckt nur den politischen Hochverrat/Loyalitätskonflikt.",
       "rationale": "Fußnote 17,7 deckt nur den politischen Hochverrat/Loyalitätskonflikt. Die konkrete Opazität — Kaiser als göttlicher Herrscher, „Sohn Gottes\" als Kaisertitel — bleibt ungedeckt.\n\n— Live critic finding without a recorded operator decision.",
       "anchor": {
-        "content_hash_at_decision": "sha256:17e33cfe7926b13afed633f40faf47c009bf7bfb24d82489b249031ca5cfb925"
+        "content_hash_at_decision": "sha256:2a648999f39c1846273c32de4804cb04ac44ed616250db5c12cf72e984fb6484"
       },
       "before": "Kaisers",
       "after": "Im \\add/Fußnote ergänzen, dass der Kaiser göttliche Ehren beanspruchte und „Sohn Gottes\" hieß — so landet die Provokation des Königs-Anspruchs Jesu schärfer."
@@ -95,7 +95,7 @@
   ],
   "metadata": {
     "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
-    "source_usfm_version": "e56cf84326523517f4bff32e55dc9e5c6ce6399d",
+    "source_usfm_version": "uncommitted-2026-06-23T17:48:44",
     "status_enum": [
       "applied",
       "deferred-to-human",

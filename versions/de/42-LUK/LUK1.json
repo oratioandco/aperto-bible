@@ -23,7 +23,7 @@
           "title": "Die Ankündigung der Geburt des Johannes",
           "verse_start": 5,
           "verse_end": 25,
-          "content_hash": "sha256:dfed1a6315fc7f56a89aacb48e06cecf61937e5901493e41712b8f2836b8e8dd"
+          "content_hash": "sha256:9cc956ccc0da4ab1a3d14dfb4f50b2c56b87c538dffce6f17b21e3f36786fbb6"
         },
         {
           "pericope_id": "luke_01_annunciation_to_mary",
@@ -37,14 +37,14 @@
           "title": "Maria besucht Elisabet",
           "verse_start": 39,
           "verse_end": 45,
-          "content_hash": "sha256:6b27c4ccb7806089e956733d593c2a426348c6d51529be230d6117e2f76e906d"
+          "content_hash": "sha256:3672d0cf5b4bc3c114d70581216142952ca601988f6779a6caed7290a35b53b2"
         },
         {
           "pericope_id": "luke_01_magnificat",
           "title": "Das Lied der Maria",
           "verse_start": 46,
           "verse_end": 56,
-          "content_hash": "sha256:1eb4a7e93c8a89a1e08dbc817a48993b755368602ffba6f556b4021af6f8f477"
+          "content_hash": "sha256:e919f9275249827bc556ecf23d23efaf08ad9f29ff15b41717316f4483466bb2"
         },
         {
           "pericope_id": "luke_01_birth_and_naming",
@@ -58,14 +58,14 @@
           "title": "Das Lied des Zacharias",
           "verse_start": 67,
           "verse_end": 79,
-          "content_hash": "sha256:e34a90c25c30c7fe37e6c50cd3955a35f65a17215e222526d66f4c58c81e3f37"
+          "content_hash": "sha256:672b4c98cacbd758c6bfe043d15f868b5a0af553a065ebd4e9ffe735bdcb6298"
         },
         {
           "pericope_id": "luke_01_coda",
           "title": "Aufwachsen in der Wüste",
           "verse_start": 80,
           "verse_end": 80,
-          "content_hash": "sha256:c3dcd85f3facb72cb83014b8a8e056696185951a5e35e88b936ee86b2f9ff61d"
+          "content_hash": "sha256:f0c5db3606f3e0ef97d1b5415cef542aa524114e417267caff490f0d0d836f8f"
         }
       ]
     },

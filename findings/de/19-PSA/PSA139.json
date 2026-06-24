@@ -1,0 +1,48 @@
+{
+  "book": "psalms",
+  "chapter": 139,
+  "lang": "AB-DE",
+  "findings": [
+    {
+      "id": "psa_139_archaism_139_24_001",
+      "pericope_id": "psalms_139_001",
+      "verse": "139:24",
+      "critic": "archaism",
+      "severity": "high",
+      "status": "applied",
+      "summary": "archaism: imperative variant of siehe",
+      "rationale": "imperative variant of siehe\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:fae420cd0b9722fe0c3e4c5ee9f64b4092c4791b8050987a7bbaef009f8da404"
+      },
+      "before": "Sieh",
+      "after": "schau / drop"
+    },
+    {
+      "id": "psa_139_idiom_fit_139_22_002",
+      "pericope_id": "psalms_139_001",
+      "verse": "139:22",
+      "critic": "idiom_fit",
+      "severity": "medium",
+      "status": "applied",
+      "summary": "idiom_fit: ‚von Grund auf' bindet kollokational an Veränderungs-/Erneuerungsverben (ändern, sanieren); mit ‚hassen' wirkt es mar...",
+      "rationale": "‚von Grund auf' bindet kollokational an Veränderungs-/Erneuerungsverben (ändern, sanieren); mit ‚hassen' wirkt es markiert.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "anchor": {
+        "content_hash_at_decision": "sha256:fae420cd0b9722fe0c3e4c5ee9f64b4092c4791b8050987a7bbaef009f8da404"
+      },
+      "before": "Ich hasse sie von Grund auf –",
+      "after": "Ich hasse sie zutiefst –"
+    }
+  ],
+  "metadata": {
+    "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
+    "source_usfm_version": "uncommitted-2026-06-22T19:25:09",
+    "status_enum": [
+      "applied",
+      "deferred-to-human",
+      "dismissed-as-overreach",
+      "dismissed-with-rationale",
+      "open"
+    ]
+  }
+}

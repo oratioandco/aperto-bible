@@ -16,28 +16,28 @@
           "title": "To Theophilus",
           "verse_start": 1,
           "verse_end": 4,
-          "content_hash": "sha256:816e20eca6c44975a7a9d99332b07944f568aa539bb0f0c1b7408817fc1fa066"
+          "content_hash": "sha256:7df20bc5fafc646089c7cde3cbad469e902f2e7c21badc998dd894dba93411f2"
         },
         {
           "pericope_id": "luke_01_zechariah_announcement",
           "title": "An Old Priest and an Impossible Promise",
           "verse_start": 5,
           "verse_end": 25,
-          "content_hash": "sha256:ad3489ae6b04d189f8ee8becd2af6000183247570f385ce08c0371803958b461"
+          "content_hash": "sha256:af6a6d9e3d6b27d5bedf454e8704b9592700a384e835dcfacb082913f485511a"
         },
         {
           "pericope_id": "luke_01_annunciation_to_mary",
           "title": "Mary Says Yes",
           "verse_start": 26,
           "verse_end": 38,
-          "content_hash": "sha256:05d426948225e88be6d330832ae565b8a299e172d4cb1d91e85951336b993673"
+          "content_hash": "sha256:a610609707b4526606d4532994afd87777c6c931a0df7fd00b410a90264c6051"
         },
         {
           "pericope_id": "luke_01_visitation",
           "title": "Two Women, Two Miracles",
           "verse_start": 39,
           "verse_end": 45,
-          "content_hash": "sha256:85aae7f58d23927e2c1ed5cf7b7d0f74083730a91afa6352b0fce5a32a0c1c8d"
+          "content_hash": "sha256:ec62230a7e41d316f668e761057ef692c370a084a734b02f27fd50529226fd09"
         },
         {
           "pericope_id": "luke_01_magnificat",

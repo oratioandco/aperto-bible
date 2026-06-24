@@ -59,7 +59,7 @@
 "Men of Athens, everywhere I look in this city, I see how seriously you take the gods, and how thoroughly the divine has been worked into the very texture of your common life.[^10]
 **23** For as I walked through your city and looked carefully at the things you worship, I came at last upon an altar with these words cut into its stone: \nd to an unknown god.[^11] What you worship, then, without knowing what it is: that is what I have come to tell you.
 
-**24** The God who made the world and everything in it, the Lord of heaven and earth, does not live in temples built by human hands,
+**24** The God who made the world and everything in it — the Lord of heaven and earth — does not live in temples built by human hands,
 **25** nor is he tended by human hands, as though he stood in need of anything; he himself gives to every living thing its life, its breath, everything it has.
 **26** From one[^12] he made every people of the earth, and spread them across the whole face of it; he set the times appointed for them, and the boundaries of the lands in which they live,
 **27** all of it so that they would seek him, reach out for him*, the way a person feels for something in the dark,* and perhaps in the end find him. And yet he is not far from any one of us.[^13]

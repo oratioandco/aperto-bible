@@ -4,11 +4,11 @@
   "lang": "AB-PL",
   "versions": [
     {
-      "id": "f94d0332f007",
-      "label": "2026-06-21 — publish: 4 updated",
-      "date": "2026-06-21T16:19:29+00:00",
+      "id": "49c1d8267375",
+      "label": "2026-06-22 — publish: 9 updated",
+      "date": "2026-06-22T18:50:54+00:00",
       "source_usfm_version": "v4.6.3",
-      "aperto_bible_sha": "f94d0332f00704785e550982ba730f23c6d9de34",
+      "aperto_bible_sha": "49c1d8267375f79661b3c789cb896c1e95aa913e",
       "current": true,
       "passages": [
         {
@@ -38,6 +38,40 @@
           "verse_start": 22,
           "verse_end": 34,
           "content_hash": "sha256:f8003d6359d4026a5da75e1b24085cfb519638392e343f2ce295c205086febec"
+        }
+      ]
+    },
+    {
+      "id": "f94d0332f007",
+      "label": "2026-06-21 — publish: 4 updated",
+      "date": "2026-06-21T16:19:29+00:00",
+      "source_usfm_version": "v4.6.3",
+      "aperto_bible_sha": "f94d0332f00704785e550982ba730f23c6d9de34",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "acts_17_thessalonica_beroea",
+          "title": "Wrzawa w Tesalonice",
+          "verse_start": 1,
+          "verse_end": 9
+        },
+        {
+          "pericope_id": "acts_17_ii_beroea",
+          "title": "Berea: dzień w dzień przy Pismach",
+          "verse_start": 10,
+          "verse_end": 15
+        },
+        {
+          "pericope_id": "acts_17_athens_agora_frame",
+          "title": "Paweł w Atenach",
+          "verse_start": 16,
+          "verse_end": 21
+        },
+        {
+          "pericope_id": "acts_17_areopagus_speech",
+          "title": "Mowa na Areopagu",
+          "verse_start": 22,
+          "verse_end": 34
         }
       ]
     },

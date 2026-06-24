@@ -13,7 +13,7 @@
 ### Dort – an den Strömen Babylons
 
 
-**1** Dort, an den Strömen Babylons –[^1]
+**1** Dort, an den Strömen Babylons,[^1]
 > dort saßen wir und weinten,
 > wenn wir an Zion dachten.
 
@@ -28,7 +28,7 @@
 **4** Wie könnten wir das Lied des Ewigen singen[^4]
 > auf fremdem Boden?
 
-**5** Vergesse ich dich, Jerusalem –[^5]
+**5** Vergesse ich dich, Jerusalem,[^5]
 > so vergesse meine rechte Hand.
 
 **6** Klebe meine Zunge am Gaumen,
@@ -36,12 +36,12 @@
 > wenn ich Jerusalem nicht stelle
 > über mein höchstes Glück.
 
-**7** Gedenke, Ewiger, der Edomiter –[^6]
+**7** Gedenke, Ewiger, der Edomiter,[^6]
 > des Tages Jerusalems,
 > wie sie riefen: „Reißt nieder, reißt nieder
 > bis auf den Grund!"
 
-**8** Tochter Babylon, du Verwüstete –[^7]
+**8** Tochter Babylon, du Verwüstete.[^7]
 > Glücklich, wer dir vergilt,
 > was du uns angetan hast.
 

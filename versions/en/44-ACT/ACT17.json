@@ -4,11 +4,11 @@
   "lang": "AB-EN",
   "versions": [
     {
-      "id": "99d86020d8bb",
-      "label": "2026-06-13 — publish: 5 updated",
-      "date": "2026-06-13T14:58:15+00:00",
+      "id": "49c1d8267375",
+      "label": "2026-06-22 — publish: 9 updated",
+      "date": "2026-06-22T18:50:54+00:00",
       "source_usfm_version": "v4.7.3",
-      "aperto_bible_sha": "99d86020d8bbc7353153ce04fabe46e9a0574da4",
+      "aperto_bible_sha": "49c1d8267375f79661b3c789cb896c1e95aa913e",
       "current": true,
       "passages": [
         {
@@ -37,7 +37,41 @@
           "title": "The Speech on the Areopagus",
           "verse_start": 22,
           "verse_end": 34,
-          "content_hash": "sha256:5bf5ce18daed99878a6a8fb86283651517927998cdf1584c7f9bfe9102143d5b"
+          "content_hash": "sha256:02b3d09f49129891bf8e605e17cf2ae110804a92ea4e4d3710d23597a011603b"
+        }
+      ]
+    },
+    {
+      "id": "99d86020d8bb",
+      "label": "2026-06-13 — publish: 5 updated",
+      "date": "2026-06-13T14:58:15+00:00",
+      "source_usfm_version": "v4.7.3",
+      "aperto_bible_sha": "99d86020d8bbc7353153ce04fabe46e9a0574da4",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "acts_17_thessalonica_beroea",
+          "title": "Uproar in Thessalonica",
+          "verse_start": 1,
+          "verse_end": 9
+        },
+        {
+          "pericope_id": "acts_17_ii_beroea",
+          "title": "Beroea: A People Who Examined Day by Day",
+          "verse_start": 10,
+          "verse_end": 15
+        },
+        {
+          "pericope_id": "acts_17_athens_agora_frame",
+          "title": "Paul in Athens",
+          "verse_start": 16,
+          "verse_end": 21
+        },
+        {
+          "pericope_id": "acts_17_areopagus_speech",
+          "title": "The Speech on the Areopagus",
+          "verse_start": 22,
+          "verse_end": 34
         }
       ]
     },

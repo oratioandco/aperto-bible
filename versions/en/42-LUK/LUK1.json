@@ -4,11 +4,11 @@
   "lang": "AB-EN",
   "versions": [
     {
-      "id": "7e8b6a9cc252",
-      "label": "2026-06-22 — publish: 9 updated",
-      "date": "2026-06-22T04:18:17+00:00",
-      "source_usfm_version": "v5.0.1",
-      "aperto_bible_sha": "7e8b6a9cc252e01fcf784f2bd8da4c4c08cc2495",
+      "id": "77fb655d48b3",
+      "label": "2026-06-30 — publish: 3 updated",
+      "date": "2026-06-30T14:17:44Z",
+      "source_usfm_version": "v5.1.0",
+      "aperto_bible_sha": "77fb655d48b3f3392ed8e4c59279a0f9aa04f588",
       "current": true,
       "passages": [
         {
@@ -16,63 +16,179 @@
           "title": "To Theophilus",
           "verse_start": 1,
           "verse_end": 4,
-          "content_hash": "sha256:7df20bc5fafc646089c7cde3cbad469e902f2e7c21badc998dd894dba93411f2"
+          "content_hash": "sha256:bea30a6964dc8feb764f3ef4f9cd1f708a42ffdecfd7063f8ac909efd93391df"
         },
         {
           "pericope_id": "luke_01_zechariah_announcement",
           "title": "An Old Priest and an Impossible Promise",
           "verse_start": 5,
           "verse_end": 25,
-          "content_hash": "sha256:af6a6d9e3d6b27d5bedf454e8704b9592700a384e835dcfacb082913f485511a"
+          "content_hash": "sha256:7b689fcb4f33ca4a99a412da8e8e852d1bf2d0e7d1484d9d522e99367ca657eb"
         },
         {
           "pericope_id": "luke_01_annunciation_to_mary",
           "title": "Mary Says Yes",
           "verse_start": 26,
           "verse_end": 38,
-          "content_hash": "sha256:a610609707b4526606d4532994afd87777c6c931a0df7fd00b410a90264c6051"
+          "content_hash": "sha256:5388437f4cfb349cd75d7780e55efc831f6594b67b36970021fe2113fd1894a0"
         },
         {
           "pericope_id": "luke_01_visitation",
           "title": "Two Women, Two Miracles",
           "verse_start": 39,
           "verse_end": 45,
-          "content_hash": "sha256:ec62230a7e41d316f668e761057ef692c370a084a734b02f27fd50529226fd09"
+          "content_hash": "sha256:f5c2400f9e049ffb29838604d192b043b1e402f6d89d467f7874d7c01254e272"
         },
         {
           "pericope_id": "luke_01_magnificat",
           "title": "Mary's Song",
           "verse_start": 46,
           "verse_end": 56,
-          "content_hash": "sha256:82a7832343a616148ec86a7ba26a0ec3f7193c483f12cc85c21bf6a514636f36"
+          "content_hash": "sha256:d87a73b25d4b0429959c086d4e1af545a4c8ba9513009aea20a243d5f9e95ed8"
         },
         {
           "pericope_id": "luke_01_birth_and_naming",
           "title": "His Name Is John",
           "verse_start": 57,
           "verse_end": 66,
-          "content_hash": "sha256:c5512bc1d2d94a30da1327bc0aed3b0294ef521d2c45ee6fded7b467025d7653"
+          "content_hash": "sha256:1dc92e22ed0972a94343fe6a290f74f9517db5736788838643c8b3804ece6251"
         },
         {
           "pericope_id": "luke_01_benedictus",
           "title": "Zechariah's Prophecy",
           "verse_start": 67,
           "verse_end": 79,
-          "content_hash": "sha256:f78fcebff60f3b1d207c662be2a6d4182837dfc2bf811c5c6e2d00fa16a4864e"
+          "content_hash": "sha256:68add6496695799cfdfebb2c819cfd480a899b629c7834e6838da1af5ef8f066"
         },
         {
           "pericope_id": "luke_01_coda",
           "title": "Growing Up in the Wilderness",
           "verse_start": 80,
           "verse_end": 80,
-          "content_hash": "sha256:00036bffdcc8dbf172753f018609d67a7b898467f677f027c75299a54de5b077"
+          "content_hash": "sha256:3298e299ad54a44e8116f97aa140086a3ecb0722a4f61ed2fcf9d9159bdcc013"
+        }
+      ]
+    },
+    {
+      "id": "4334ba76bc0b",
+      "label": "2026-06-24 — publish: 3 added, 30 updated",
+      "date": "2026-06-24T15:12:52Z",
+      "source_usfm_version": "v5.0.1",
+      "aperto_bible_sha": "4334ba76bc0bda4d2892c2493491b90a7f2d58bb",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_01_prologue",
+          "title": "To Theophilus",
+          "verse_start": 1,
+          "verse_end": 4
+        },
+        {
+          "pericope_id": "luke_01_zechariah_announcement",
+          "title": "An Old Priest and an Impossible Promise",
+          "verse_start": 5,
+          "verse_end": 25
+        },
+        {
+          "pericope_id": "luke_01_annunciation_to_mary",
+          "title": "Mary Says Yes",
+          "verse_start": 26,
+          "verse_end": 38
+        },
+        {
+          "pericope_id": "luke_01_visitation",
+          "title": "Two Women, Two Miracles",
+          "verse_start": 39,
+          "verse_end": 45
+        },
+        {
+          "pericope_id": "luke_01_magnificat",
+          "title": "Mary's Song",
+          "verse_start": 46,
+          "verse_end": 56
+        },
+        {
+          "pericope_id": "luke_01_birth_and_naming",
+          "title": "His Name Is John",
+          "verse_start": 57,
+          "verse_end": 66
+        },
+        {
+          "pericope_id": "luke_01_benedictus",
+          "title": "Zechariah's Prophecy",
+          "verse_start": 67,
+          "verse_end": 79
+        },
+        {
+          "pericope_id": "luke_01_coda",
+          "title": "Growing Up in the Wilderness",
+          "verse_start": 80,
+          "verse_end": 80
+        }
+      ]
+    },
+    {
+      "id": "7e8b6a9cc252",
+      "label": "2026-06-22 — publish: 9 updated",
+      "date": "2026-06-22T04:18:17Z",
+      "source_usfm_version": "v5.0.1",
+      "aperto_bible_sha": "7e8b6a9cc252e01fcf784f2bd8da4c4c08cc2495",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_01_prologue",
+          "title": "To Theophilus",
+          "verse_start": 1,
+          "verse_end": 4
+        },
+        {
+          "pericope_id": "luke_01_zechariah_announcement",
+          "title": "An Old Priest and an Impossible Promise",
+          "verse_start": 5,
+          "verse_end": 25
+        },
+        {
+          "pericope_id": "luke_01_annunciation_to_mary",
+          "title": "Mary Says Yes",
+          "verse_start": 26,
+          "verse_end": 38
+        },
+        {
+          "pericope_id": "luke_01_visitation",
+          "title": "Two Women, Two Miracles",
+          "verse_start": 39,
+          "verse_end": 45
+        },
+        {
+          "pericope_id": "luke_01_magnificat",
+          "title": "Mary's Song",
+          "verse_start": 46,
+          "verse_end": 56
+        },
+        {
+          "pericope_id": "luke_01_birth_and_naming",
+          "title": "His Name Is John",
+          "verse_start": 57,
+          "verse_end": 66
+        },
+        {
+          "pericope_id": "luke_01_benedictus",
+          "title": "Zechariah's Prophecy",
+          "verse_start": 67,
+          "verse_end": 79
+        },
+        {
+          "pericope_id": "luke_01_coda",
+          "title": "Growing Up in the Wilderness",
+          "verse_start": 80,
+          "verse_end": 80
         }
       ]
     },
     {
       "id": "6b9ddd1c1d70",
       "label": "2026-06-21 — publish: 10 updated",
-      "date": "2026-06-21T11:39:06+00:00",
+      "date": "2026-06-21T11:39:06Z",
       "source_usfm_version": "v5.0.1",
       "aperto_bible_sha": "6b9ddd1c1d7010abaf51087420e74983228b4066",
       "current": false,
@@ -130,7 +246,7 @@
     {
       "id": "4b57f0ea3cf2",
       "label": "2026-06-16 — publish: 1 updated",
-      "date": "2026-06-16T17:43:51+00:00",
+      "date": "2026-06-16T17:43:51Z",
       "source_usfm_version": "v5.0.1",
       "aperto_bible_sha": "4b57f0ea3cf222b3572ea2c89e925cee7016bc3c",
       "current": false,

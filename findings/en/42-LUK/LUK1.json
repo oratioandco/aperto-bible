@@ -13,7 +13,7 @@
       "summary": "archaism: KJV opener; flag in narrative",
       "rationale": "KJV opener; flag in narrative\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:f5c2400f9e049ffb29838604d192b043b1e402f6d89d467f7874d7c01254e272"
+        "content_hash_at_decision": "sha256:a85cdde45bf86baa32bb4afe01bcc5f1abe96228bf2b5a2347f15b58dc0a8d19"
       },
       "before": "In those days",
       "after": "\"back then\" / \"at that time\""
@@ -28,7 +28,7 @@
       "summary": "archaism: KJV opener",
       "rationale": "KJV opener\n\n— Live critic finding without a recorded operator decision.",
       "anchor": {
-        "content_hash_at_decision": "sha256:7b689fcb4f33ca4a99a412da8e8e852d1bf2d0e7d1484d9d522e99367ca657eb"
+        "content_hash_at_decision": "sha256:42de6c06cc5ab8a8a42d501139f9be9ea0c07375a56cc7fff4f5f83b3c936487"
       },
       "before": "In the days of",
       "after": "\"during the time of\" / \"when ... ruled\""
@@ -43,7 +43,7 @@
       "summary": "orthography: Asymmetric em-dash spacing",
       "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:5388437f4cfb349cd75d7780e55efc831f6594b67b36970021fe2113fd1894a0"
+        "content_hash_at_decision": "sha256:048e82656fa96d5d48feb919aa146bcda8eb1bc254fa6df30312fcf2daaefca2"
       },
       "before": "u— t",
       "after": "word—word (remove trailing space)"
@@ -58,7 +58,7 @@
       "summary": "orthography: Asymmetric em-dash spacing",
       "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:f5c2400f9e049ffb29838604d192b043b1e402f6d89d467f7874d7c01254e272"
+        "content_hash_at_decision": "sha256:a85cdde45bf86baa32bb4afe01bcc5f1abe96228bf2b5a2347f15b58dc0a8d19"
       },
       "before": "g— s",
       "after": "word—word (remove trailing space)"
@@ -73,7 +73,7 @@
       "summary": "orthography: Asymmetric em-dash spacing",
       "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:1dc92e22ed0972a94343fe6a290f74f9517db5736788838643c8b3804ece6251"
+        "content_hash_at_decision": "sha256:2d215c520241f0c2c327af2d5c56c39aabe5bc6b6089a647b3177669477b6fb1"
       },
       "before": "d— t",
       "after": "word—word (remove trailing space)"
@@ -88,7 +88,7 @@
       "summary": "orthography: Project policy: lowercase divine pronouns",
       "rationale": "Project policy: lowercase divine pronouns\n\n— Live critic finding without a recorded operator decision.",
       "anchor": {
-        "content_hash_at_decision": "sha256:1dc92e22ed0972a94343fe6a290f74f9517db5736788838643c8b3804ece6251"
+        "content_hash_at_decision": "sha256:2d215c520241f0c2c327af2d5c56c39aabe5bc6b6089a647b3177669477b6fb1"
       },
       "before": "His",
       "after": "his (project policy: lowercase divine pronouns)"
@@ -103,7 +103,7 @@
       "summary": "orthography: Asymmetric em-dash spacing",
       "rationale": "Asymmetric em-dash spacing\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:1dc92e22ed0972a94343fe6a290f74f9517db5736788838643c8b3804ece6251"
+        "content_hash_at_decision": "sha256:2d215c520241f0c2c327af2d5c56c39aabe5bc6b6089a647b3177669477b6fb1"
       },
       "before": "d— a",
       "after": "word—word (remove trailing space)"
@@ -118,7 +118,7 @@
       "summary": "idiom_fit: 'fall over' reads as a physical trip; for an emotion sweeping in, modern literary usage takes 'come over.'",
       "rationale": "'fall over' reads as a physical trip; for an emotion sweeping in, modern literary usage takes 'come over.'\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:7b689fcb4f33ca4a99a412da8e8e852d1bf2d0e7d1484d9d522e99367ca657eb"
+        "content_hash_at_decision": "sha256:42de6c06cc5ab8a8a42d501139f9be9ea0c07375a56cc7fff4f5f83b3c936487"
       },
       "before": "Zechariah saw him, and fear fell over him.",
       "after": "Zechariah saw him, and fear came over him."
@@ -133,7 +133,7 @@
       "summary": "idiom_fit: 'set X on someone' idiomatically takes heart/eyes/sights, not 'kindness'; the binding is slightly off, though inside...",
       "rationale": "'set X on someone' idiomatically takes heart/eyes/sights, not 'kindness'; the binding is slightly off, though inside angelic speech.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:5388437f4cfb349cd75d7780e55efc831f6594b67b36970021fe2113fd1894a0"
+        "content_hash_at_decision": "sha256:048e82656fa96d5d48feb919aa146bcda8eb1bc254fa6df30312fcf2daaefca2"
       },
       "before": "God has set his kindness on you; the Lord is with you.",
       "after": "God has shown his kindness to you; the Lord is with you."
@@ -148,7 +148,7 @@
       "summary": "comprehension_gap: Footnote 1:32-33 covers throne/David/kingdom but never the Hebraism: 'house of Jacob' = all Israel, the chosen people.",
       "rationale": "Footnote 1:32-33 covers throne/David/kingdom but never the Hebraism: 'house of Jacob' = all Israel, the chosen people. Modern reader may hear Jacob's family.\n\n— Annex assessment: existing footnote or \\add covers the term. The critic flag is informational, no edit required.",
       "anchor": {
-        "content_hash_at_decision": "sha256:5388437f4cfb349cd75d7780e55efc831f6594b67b36970021fe2113fd1894a0"
+        "content_hash_at_decision": "sha256:048e82656fa96d5d48feb919aa146bcda8eb1bc254fa6df30312fcf2daaefca2"
       },
       "before": "house of Jacob",
       "after": "Gloss in text ('all Israel') or footnote: house of Jacob = the whole people descended from Jacob/Israel."
@@ -163,7 +163,7 @@
       "summary": "comprehension_gap: 'daughters of Aaron' has no illumination; the Abijah note explains divisions, not who Aaron is.",
       "rationale": "'daughters of Aaron' has no illumination; the Abijah note explains divisions, not who Aaron is. Reader misses that Elizabeth carries priestly descent (double-priestly house).\n\n— Annex assessment: existing footnote or \\add covers the term. The critic flag is informational, no edit required.",
       "anchor": {
-        "content_hash_at_decision": "sha256:7b689fcb4f33ca4a99a412da8e8e852d1bf2d0e7d1484d9d522e99367ca657eb"
+        "content_hash_at_decision": "sha256:42de6c06cc5ab8a8a42d501139f9be9ea0c07375a56cc7fff4f5f83b3c936487"
       },
       "before": "daughters of Aaron",
       "after": "Add note: Aaron, brother of Moses, the first priest — so Elizabeth too is of priestly blood; a doubly priestly household."
@@ -178,7 +178,7 @@
       "summary": "comprehension_gap: 'king of Judea' stands bare; no footnote/add names Judea as the Jewish heartland around Jerusalem vs Galilee.",
       "rationale": "'king of Judea' stands bare; no footnote/add names Judea as the Jewish heartland around Jerusalem vs Galilee. The Herod note touches Judea only as a throne.\n\n— Annex assessment: existing footnote or \\add covers the term. The critic flag is informational, no edit required.",
       "anchor": {
-        "content_hash_at_decision": "sha256:7b689fcb4f33ca4a99a412da8e8e852d1bf2d0e7d1484d9d522e99367ca657eb"
+        "content_hash_at_decision": "sha256:42de6c06cc5ab8a8a42d501139f9be9ea0c07375a56cc7fff4f5f83b3c936487"
       },
       "before": "Judea",
       "after": "Brief note or apposition: Judea = the Jewish heartland around Jerusalem, distinct from rural Galilee to the north."
@@ -186,7 +186,7 @@
   ],
   "metadata": {
     "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
-    "source_usfm_version": "uncommitted-2026-06-30T13:22:55",
+    "source_usfm_version": "uncommitted-2026-06-30T21:10:17",
     "status_enum": [
       "applied",
       "deferred-to-human",

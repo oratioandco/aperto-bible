@@ -13,7 +13,7 @@
       "summary": "archaism: KJV-equivalent doubled-title",
       "rationale": "KJV-equivalent doubled-title\n\n— Register call between Lutheran 'Pan Bóg' and a more contemporary Catholic phrasing. Operator: deferred-to-human until a Polish native-speaker reviewer is engaged.",
       "anchor": {
-        "content_hash_at_decision": "sha256:f1e0ca892266bfc28169bfdd4cca96c8238a216ec6320c283d70e7ccfd81dc3d"
+        "content_hash_at_decision": "sha256:8ba72131fc968781f02617ab8d116b64dd98dae68f2eece10049d841e21d2982"
       },
       "before": "Pan Bóg",
       "after": "\"Bóg\" / recast"
@@ -28,7 +28,7 @@
       "summary": "archaism: KJV-equivalent doubled-title",
       "rationale": "KJV-equivalent doubled-title\n\n— Same as 1:32 — deferred-to-human pending PL-native review.",
       "anchor": {
-        "content_hash_at_decision": "sha256:6dcc4c63bebd01b897e97cc362e2b1b851dcf1486ca66e06d12352e129697602"
+        "content_hash_at_decision": "sha256:87ec925201263515b4848165866ec66fceff7a340df8fbcf7d4a806161082001"
       },
       "before": "Pan, Bóg",
       "after": "\"Bóg\" / recast"
@@ -43,7 +43,7 @@
       "summary": "archaism: genitive-archaic preposition in religious register",
       "rationale": "genitive-archaic preposition in religious register\n\n— Live critic finding without a recorded operator decision.",
       "anchor": {
-        "content_hash_at_decision": "sha256:f5fc3ce0a41746a06bd223f1afe8477beec1a2aceb8fabd00bf4e1d06162ee6b"
+        "content_hash_at_decision": "sha256:3a1ede9ba61c0e2b97b78aa33839ec04042a92558f4e692a49fc5caef7023503"
       },
       "before": "ku",
       "after": "do / na / dla"
@@ -58,7 +58,7 @@
       "summary": "archaism: genitive-archaic preposition in religious register",
       "rationale": "genitive-archaic preposition in religious register\n\n— Live critic finding without a recorded operator decision.",
       "anchor": {
-        "content_hash_at_decision": "sha256:f5fc3ce0a41746a06bd223f1afe8477beec1a2aceb8fabd00bf4e1d06162ee6b"
+        "content_hash_at_decision": "sha256:3a1ede9ba61c0e2b97b78aa33839ec04042a92558f4e692a49fc5caef7023503"
       },
       "before": "ku",
       "after": "do / na / dla"
@@ -69,11 +69,11 @@
       "verse": "1:24",
       "critic": "archaism",
       "severity": "medium",
-      "status": "applied",
+      "status": "open",
       "summary": "archaism: OK as adverbial; flag when chained to a finite verb of saying",
-      "rationale": "OK as adverbial; flag when chained to a finite verb of saying\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "rationale": "OK as adverbial; flag when chained to a finite verb of saying\n\n— Live critic finding without a recorded operator decision.",
       "anchor": {
-        "content_hash_at_decision": "sha256:f5fc3ce0a41746a06bd223f1afe8477beec1a2aceb8fabd00bf4e1d06162ee6b"
+        "content_hash_at_decision": "sha256:3a1ede9ba61c0e2b97b78aa33839ec04042a92558f4e692a49fc5caef7023503"
       },
       "before": "mówiąc",
       "after": "(drop or recast)"
@@ -88,7 +88,7 @@
       "summary": "archaism: OK in liturgical register; flag in narrative",
       "rationale": "OK in liturgical register; flag in narrative\n\n— Live critic finding without a recorded operator decision.",
       "anchor": {
-        "content_hash_at_decision": "sha256:f1e0ca892266bfc28169bfdd4cca96c8238a216ec6320c283d70e7ccfd81dc3d"
+        "content_hash_at_decision": "sha256:8ba72131fc968781f02617ab8d116b64dd98dae68f2eece10049d841e21d2982"
       },
       "before": "na wieki",
       "after": "na zawsze"
@@ -103,7 +103,7 @@
       "summary": "idiom_fit: 'obejść się z kimś' łączy się z określeniem sposobu traktowania (łaskawie, surowo); 'hojnie' kolokuje z 'obdarzyć/wyn...",
       "rationale": "'obejść się z kimś' łączy się z określeniem sposobu traktowania (łaskawie, surowo); 'hojnie' kolokuje z 'obdarzyć/wynagrodzić'.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:6aaac8079e32a451b4fb59f07e61d600db542d45b35edad57c69fef3581eaca8"
+        "content_hash_at_decision": "sha256:e8c93cf4a4e60fc747c7fd80b0c662795c684fd6e4dfec8eb9c26670c8d3ffe4"
       },
       "before": "dowiedzieli się, że Pan obszedł się z nią tak hojnie – i cieszyli się razem z nią",
       "after": "dowiedzieli się, że Pan obszedł się z nią tak łaskawie – i cieszyli się razem z nią"
@@ -118,7 +118,7 @@
       "summary": "idiom_fit: 'ofiara z czego' wskazuje materię/żertwę (z baranka); dla kadzidła naturalniejsza jest 'ofiara kadzielna' / 'ofiara k...",
       "rationale": "'ofiara z czego' wskazuje materię/żertwę (z baranka); dla kadzidła naturalniejsza jest 'ofiara kadzielna' / 'ofiara kadzenia'.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:f5fc3ce0a41746a06bd223f1afe8477beec1a2aceb8fabd00bf4e1d06162ee6b"
+        "content_hash_at_decision": "sha256:3a1ede9ba61c0e2b97b78aa33839ec04042a92558f4e692a49fc5caef7023503"
       },
       "before": "i jemu wypadło wejść do przybytku Pana i złożyć ofiarę z kadzidła",
       "after": "i jemu wypadło wejść do przybytku Pana i złożyć ofiarę kadzielną"
@@ -133,7 +133,7 @@
       "summary": "idiom_fit: 'wyruszyć w' bierze drogę/góry/świat; cel typu 'kraj/kraina' naturalniej z 'do' (wyruszyć do krainy).",
       "rationale": "'wyruszyć w' bierze drogę/góry/świat; cel typu 'kraj/kraina' naturalniej z 'do' (wyruszyć do krainy).\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:d7a65c88df7e79bd4ab1d144eff058e3848f2234dfe6f6b8b0b21f7f960c200e"
+        "content_hash_at_decision": "sha256:5eb88858eb8a024a29aa27d4e64cd5a745ca0905b8c6b9f5b75a7742607db05c"
       },
       "before": "Maria wyruszyła zaraz. Spiesznie – w górzysty kraj Judei.",
       "after": "Maria wyruszyła zaraz. Spiesznie – do górzystej krainy Judei."
@@ -148,7 +148,7 @@
       "summary": "comprehension_gap: Pierwsze wystąpienie.",
       "rationale": "Pierwsze wystąpienie. Przypisy 1:13/1:15/1:17 dotyczą passivum divinum, nazireatu i Eliasza — żaden nie tyka Ducha. Brak ramienia ruach; zostaje katechetyczny Trójca-jako-kategoria.\n\n— Annex assessment: existing footnote or \\add covers the term. The critic flag is informational, no edit required.",
       "anchor": {
-        "content_hash_at_decision": "sha256:f5fc3ce0a41746a06bd223f1afe8477beec1a2aceb8fabd00bf4e1d06162ee6b"
+        "content_hash_at_decision": "sha256:3a1ede9ba61c0e2b97b78aa33839ec04042a92558f4e692a49fc5caef7023503"
       },
       "before": "Duch Święty",
       "after": "Krótki przypis: Duch (hebr. ruach – tchnienie, ożywiająca obecność Boga), ta sama moc, która działała w prorokach, teraz napełnia Jana już w łonie."
@@ -163,7 +163,7 @@
       "summary": "comprehension_gap: Magnificat 1:50 — hesed load-bearing.",
       "rationale": "Magnificat 1:50 — hesed load-bearing. Przypisy dotyczą tapeinosis, bojaźni Bożej, aorystu gnomicznego; żaden nie tyka miłosierdzia. Stereotyp JP2 Boże Miłosierdzie nie wyprostowany.\n\n— Annex assessment: existing footnote or \\add covers the term. The critic flag is informational, no edit required.",
       "anchor": {
-        "content_hash_at_decision": "sha256:533afb7bca73c12f73f8db74692c130a1086bf0eae0cf23772cc6258e3b61d73"
+        "content_hash_at_decision": "sha256:fc8a4db5a50b7ff431eed91723d3dfe9044f3d68d5da74a2e131caa6ad4c6104"
       },
       "before": "miłosierdzie",
       "after": "Przypis: miłosierdzie (gr. eleos, hebr. hesed) – nie tyle litość, ile wierność przymierzu, lojalność dotrzymana z pokolenia na pokolenie."
@@ -178,7 +178,7 @@
       "summary": "sensitivity: źródło oznacza cały lud (Hebraizm), nie tylko mężczyzn; forma obejmująca niesie ten sam sens, lecz „synowie Izraela”...",
       "rationale": "źródło oznacza cały lud (Hebraizm), nie tylko mężczyzn; forma obejmująca niesie ten sam sens, lecz „synowie Izraela” to też utrwalony idiom biblijny – stąd niska waga.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:f5fc3ce0a41746a06bd223f1afe8477beec1a2aceb8fabd00bf4e1d06162ee6b"
+        "content_hash_at_decision": "sha256:3a1ede9ba61c0e2b97b78aa33839ec04042a92558f4e692a49fc5caef7023503"
       },
       "before": "Wielu synów Izraela nawróci do Pana, ich Boga.",
       "after": "Wielu z ludu Izraela nawróci do Pana, ich Boga."
@@ -186,7 +186,7 @@
   ],
   "metadata": {
     "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
-    "source_usfm_version": "uncommitted-2026-06-30T13:22:55",
+    "source_usfm_version": "uncommitted-2026-06-30T21:10:17",
     "status_enum": [
       "applied",
       "deferred-to-human",

@@ -4,11 +4,11 @@
   "lang": "AB-DE",
   "versions": [
     {
-      "id": "4334ba76bc0b",
-      "label": "2026-06-24 — publish: 3 added, 30 updated",
-      "date": "2026-06-24T15:12:52Z",
+      "id": "49c1d8267375",
+      "label": "2026-06-22 — publish: 9 updated",
+      "date": "2026-06-22T18:50:54+00:00",
       "source_usfm_version": "v4.6.1",
-      "aperto_bible_sha": "4334ba76bc0bda4d2892c2493491b90a7f2d58bb",
+      "aperto_bible_sha": "49c1d8267375f79661b3c789cb896c1e95aa913e",
       "current": true,
       "passages": [
         {
@@ -42,43 +42,9 @@
       ]
     },
     {
-      "id": "49c1d8267375",
-      "label": "2026-06-22 — publish: 9 updated",
-      "date": "2026-06-22T18:50:54Z",
-      "source_usfm_version": "v4.6.1",
-      "aperto_bible_sha": "49c1d8267375f79661b3c789cb896c1e95aa913e",
-      "current": false,
-      "passages": [
-        {
-          "pericope_id": "acts_17_thessalonica_beroea",
-          "title": "Aufruhr in Thessalonich",
-          "verse_start": 1,
-          "verse_end": 9
-        },
-        {
-          "pericope_id": "acts_17_ii_beroea",
-          "title": "Beröa: Tag für Tag die Schriften",
-          "verse_start": 10,
-          "verse_end": 15
-        },
-        {
-          "pericope_id": "acts_17_athens_agora_frame",
-          "title": "Paulus in Athen",
-          "verse_start": 16,
-          "verse_end": 21
-        },
-        {
-          "pericope_id": "acts_17_areopagus_speech",
-          "title": "Die Rede auf dem Areopag",
-          "verse_start": 22,
-          "verse_end": 34
-        }
-      ]
-    },
-    {
       "id": "0cdab3d5ca17",
       "label": "2026-06-13 — publish: 5 updated",
-      "date": "2026-06-13T10:28:03Z",
+      "date": "2026-06-13T10:28:03+00:00",
       "source_usfm_version": "v4.6.1",
       "aperto_bible_sha": "0cdab3d5ca177ba6ab4fe1609858f7dff1ec6812",
       "current": false,
@@ -112,7 +78,7 @@
     {
       "id": "295c7e481f65",
       "label": "2026-06-12 — publish: 3 added, 160 pruned",
-      "date": "2026-06-12T04:36:47Z",
+      "date": "2026-06-12T04:36:47+00:00",
       "source_usfm_version": "v4.6.0",
       "aperto_bible_sha": "295c7e481f65bb50542dacd5a24598bd679c9c27",
       "current": false,

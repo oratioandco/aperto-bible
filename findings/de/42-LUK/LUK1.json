@@ -13,7 +13,7 @@
       "summary": "archaism: fronted-genitive shape",
       "rationale": "fronted-genitive shape\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:771425d3c577d0762e5e9402e3abe0e017fa33c3b175230967f2b7d969c5b30c"
+        "content_hash_at_decision": "sha256:1c2b563655bae46a0ca186c6b7725cce310f623bb04ea8213316f55ab72b7bc0"
       },
       "before": "Haus Davids",
       "after": "aus dem Haus David"
@@ -28,7 +28,7 @@
       "summary": "archaism: archaic question form",
       "rationale": "archaic question form\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:6ae20e9b1ef136c55ce9ee282214992da8b5538e7c009422dc875f6aa75a2aa3"
+        "content_hash_at_decision": "sha256:18233d91f0bc14c6be226b149974323fcfc028b3f8ad81cab9a0c3ccf0cb1e17"
       },
       "before": "Wie geschieht mir",
       "after": "Was geschieht mit mir / Wie kann das sein"
@@ -43,7 +43,7 @@
       "summary": "archaism: English calque",
       "rationale": "English calque\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:d0e7a0cf745f09d57895b4615ab64532984d5a36d24abfcbb4db44f9786ff28b"
+        "content_hash_at_decision": "sha256:70611387dc1fa967357be77fbbb0ee5beca6a26b9dd5b393ff7f8b61da873279"
       },
       "before": "Doch nun:",
       "after": "Aber jetzt / Und jetzt"
@@ -58,7 +58,7 @@
       "summary": "archaism: flag in OT-yir'ah contexts; OK when actual fear is meant",
       "rationale": "flag in OT-yir'ah contexts; OK when actual fear is meant\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:f5f67837474009e64e7c7d238b422d38c35ac1bba2adfac4344d178034f13da0"
+        "content_hash_at_decision": "sha256:109d2d4ad4c25df70ecf6c44f81a5808f301c09875fe5ab534e78a74b5778b88"
       },
       "before": "fürchten",
       "after": "ehren / aufschauen / Respekt haben"
@@ -69,11 +69,11 @@
       "verse": "1:68",
       "critic": "archaism",
       "severity": "medium",
-      "status": "applied",
+      "status": "open",
       "summary": "archaism: OK in DE-P3/P4 with care; flag in DE-N1 narrative",
-      "rationale": "OK in DE-P3/P4 with care; flag in DE-N1 narrative\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
+      "rationale": "OK in DE-P3/P4 with care; flag in DE-N1 narrative\n\n— Live critic finding without a recorded operator decision.",
       "anchor": {
-        "content_hash_at_decision": "sha256:f735ef3e68b8c218ea2be5781f5630b35423220ba4f42a90aadbf462f3284395"
+        "content_hash_at_decision": "sha256:4ef224f51f4250c1114370a09bacfbdeaa9088f183befb8e1d89fc072c2283c3"
       },
       "before": "Erlösung",
       "after": "Rettung"
@@ -88,7 +88,7 @@
       "summary": "orthography: Project policy: DE surface text uses German „…\" quotes, not English straight \"…\".",
       "rationale": "Project policy: DE surface text uses German „…\" quotes, not English straight \"…\". See DE_NARRATIVE.md / LEXICON §F Punctuation.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:d0e7a0cf745f09d57895b4615ab64532984d5a36d24abfcbb4db44f9786ff28b"
+        "content_hash_at_decision": "sha256:70611387dc1fa967357be77fbbb0ee5beca6a26b9dd5b393ff7f8b61da873279"
       },
       "before": "\", sagte sie, „jetzt, wo er mich angesehen hat, um meine Schande unter den Menschen wegzunehmen.\"",
       "after": "replace with German double-low quotes (low-open + high-close)"
@@ -103,7 +103,7 @@
       "summary": "idiom_fit: Der Partikel ‚auf' (aufhüpfen = nach oben springen) trägt für die Bewegung eines Ungeborenen im Erzählerton schlecht;...",
       "rationale": "Der Partikel ‚auf' (aufhüpfen = nach oben springen) trägt für die Bewegung eines Ungeborenen im Erzählerton schlecht; ‚hüpfen/regen' ohne ‚auf' ist idiomatischer.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:6ae20e9b1ef136c55ce9ee282214992da8b5538e7c009422dc875f6aa75a2aa3"
+        "content_hash_at_decision": "sha256:18233d91f0bc14c6be226b149974323fcfc028b3f8ad81cab9a0c3ccf0cb1e17"
       },
       "before": "hüpfte das Kind in ihrem Leib auf. Und Elisabet wurde erfüllt",
       "after": "regte sich das Kind in ihrem Leib"
@@ -118,7 +118,7 @@
       "summary": "idiom_fit: ‚füllen' bindet an Behälter, nicht an Personen; für Menschen verlangt das Deutsche ‚sättigen' (biblischer Lutherrefle...",
       "rationale": "‚füllen' bindet an Behälter, nicht an Personen; für Menschen verlangt das Deutsche ‚sättigen' (biblischer Lutherreflex, modern markiert).\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:f5f67837474009e64e7c7d238b422d38c35ac1bba2adfac4344d178034f13da0"
+        "content_hash_at_decision": "sha256:109d2d4ad4c25df70ecf6c44f81a5808f301c09875fe5ab534e78a74b5778b88"
       },
       "before": "Die Hungrigen füllt er — mit allem.",
       "after": "Die Hungrigen sättigt er — mit allem."
@@ -133,7 +133,7 @@
       "summary": "idiom_fit: Die Präpositionalbindung ‚auseinanderjagen in ihren Plänen' ist eine Calque-Anlagerung; ‚auseinanderjagen' trägt kein...",
       "rationale": "Die Präpositionalbindung ‚auseinanderjagen in ihren Plänen' ist eine Calque-Anlagerung; ‚auseinanderjagen' trägt kein ‚in'-Objekt.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:f5f67837474009e64e7c7d238b422d38c35ac1bba2adfac4344d178034f13da0"
+        "content_hash_at_decision": "sha256:109d2d4ad4c25df70ecf6c44f81a5808f301c09875fe5ab534e78a74b5778b88"
       },
       "before": "Er jagt sie auseinander, in all ihren Plänen.",
       "after": "Er zerstreut sie samt all ihren Plänen."
@@ -148,7 +148,7 @@
       "summary": "comprehension_gap: „Räucheraltar\" steht im Text; keine Fußnote/kein add unterscheidet den inneren Räucheraltar vom äußeren Brandopferaltar.",
       "rationale": "„Räucheraltar\" steht im Text; keine Fußnote/kein add unterscheidet den inneren Räucheraltar vom äußeren Brandopferaltar. Leser weiß nicht, dass es zwei Altäre gab.\n\n— Annex assessment: existing footnote or \\add covers the term. The critic flag is informational, no edit required.",
       "anchor": {
-        "content_hash_at_decision": "sha256:d0e7a0cf745f09d57895b4615ab64532984d5a36d24abfcbb4db44f9786ff28b"
+        "content_hash_at_decision": "sha256:70611387dc1fa967357be77fbbb0ee5beca6a26b9dd5b393ff7f8b61da873279"
       },
       "before": "Räucheraltar",
       "after": "Kurzer `\\add` o. Fußnote: der kleine Räucheraltar im Heiligtum, nicht der große Brandopferaltar im Vorhof."
@@ -163,7 +163,7 @@
       "summary": "comprehension_gap: Fußnote 1:15 rahmt den Wein-Verzicht über das Nasiräer-Gelübde (Num 6) – die hier operative Bedeutung (Weihe) ist ged...",
       "rationale": "Fußnote 1:15 rahmt den Wein-Verzicht über das Nasiräer-Gelübde (Num 6) – die hier operative Bedeutung (Weihe) ist gedeckt; Bund/Blut-Symbolik hier nicht einschlägig.\n\n— Annex assessment: concrete, modern-decodable term. The critic over-reached; reading is transparent without amplification.",
       "anchor": {
-        "content_hash_at_decision": "sha256:d0e7a0cf745f09d57895b4615ab64532984d5a36d24abfcbb4db44f9786ff28b"
+        "content_hash_at_decision": "sha256:70611387dc1fa967357be77fbbb0ee5beca6a26b9dd5b393ff7f8b61da873279"
       },
       "before": "Wein"
     },
@@ -177,7 +177,7 @@
       "summary": "comprehension_gap: Fußnote 1:35 öffnet „Sohn Gottes\" als königlich-göttlichen Titel (Königswürde, Titel vs.",
       "rationale": "Fußnote 1:35 öffnet „Sohn Gottes\" als königlich-göttlichen Titel (Königswürde, Titel vs. Biologie). Die Caesar-/Konkurrenz-Facette fehlt, ist aber nicht kommunikationsverhindernd.\n\n— comprehension_gap: critic flagged a genuine opacity; operator has not yet decided how to address.",
       "anchor": {
-        "content_hash_at_decision": "sha256:771425d3c577d0762e5e9402e3abe0e017fa33c3b175230967f2b7d969c5b30c"
+        "content_hash_at_decision": "sha256:1c2b563655bae46a0ca186c6b7725cce310f623bb04ea8213316f55ab72b7bc0"
       },
       "before": "Sohn Gottes"
     },
@@ -191,7 +191,7 @@
       "summary": "comprehension_gap: „Verwandte\" steht; keine Fußnote/kein add im Fenster vermittelt das Clan-/Sozialnetz-Gewicht antiker Verwandtschaft.",
       "rationale": "„Verwandte\" steht; keine Fußnote/kein add im Fenster vermittelt das Clan-/Sozialnetz-Gewicht antiker Verwandtschaft.\n\n— Annex assessment: needs operator review with native-speaker or domain input. Held pending that review.",
       "anchor": {
-        "content_hash_at_decision": "sha256:771425d3c577d0762e5e9402e3abe0e017fa33c3b175230967f2b7d969c5b30c"
+        "content_hash_at_decision": "sha256:1c2b563655bae46a0ca186c6b7725cce310f623bb04ea8213316f55ab72b7bc0"
       },
       "before": "Verwandte",
       "after": "Kurzer erzählerischer Hinweis, dass Verwandtschaft Schutz, Pflicht und Zugehörigkeit bedeutete, nicht nur lose Familie."
@@ -206,7 +206,7 @@
       "summary": "comprehension_gap: „der Mächtige\" steht im Magnificat; keine Fußnote im Fenster (1:47–51) erklärt den AT-Epitheton (Gibbor, Krieger-/Sch...",
       "rationale": "„der Mächtige\" steht im Magnificat; keine Fußnote im Fenster (1:47–51) erklärt den AT-Epitheton (Gibbor, Krieger-/Schöpfer-Gott).\n\n— Annex assessment: existing footnote or \\add covers the term. The critic flag is informational, no edit required.",
       "anchor": {
-        "content_hash_at_decision": "sha256:f5f67837474009e64e7c7d238b422d38c35ac1bba2adfac4344d178034f13da0"
+        "content_hash_at_decision": "sha256:109d2d4ad4c25df70ecf6c44f81a5808f301c09875fe5ab534e78a74b5778b88"
       },
       "before": "der Mächtige",
       "after": "Fußnote: „der Mächtige\" = alttestamentlicher Gottesname (Gibbor), der Macht im Sinn von Befreiung/Schöpfung trägt."
@@ -221,7 +221,7 @@
       "summary": "comprehension_gap: „Verwandten\" steht; Fußnote 1:60 betrifft nur den Namen Johannes, nicht das Clan-/Sozialnetz-Gewicht.",
       "rationale": "„Verwandten\" steht; Fußnote 1:60 betrifft nur den Namen Johannes, nicht das Clan-/Sozialnetz-Gewicht.\n\n— Annex assessment: needs operator review with native-speaker or domain input. Held pending that review.",
       "anchor": {
-        "content_hash_at_decision": "sha256:dacaad7097080f8978203cfbaf7011eb333ec1eeed8733acb524aa6fa2323827"
+        "content_hash_at_decision": "sha256:e200e35dd6c2bdfcab2f7d74b9bb875b362736df13bc8e5052e2d8abaf4c561f"
       },
       "before": "Verwandten",
       "after": "Kurzer Hinweis, dass Nachbarn und Verwandte den schützenden Clan bildeten, der Freude und Schande gemeinsam trug."
@@ -236,7 +236,7 @@
       "summary": "comprehension_gap: `\\add` nennt „Zeichen des Bundes\", öffnet aber das Bundes-Gewicht (gegenseitig, geschworen, generationenübergreifend)...",
       "rationale": "`\\add` nennt „Zeichen des Bundes\", öffnet aber das Bundes-Gewicht (gegenseitig, geschworen, generationenübergreifend) nicht; „Bund\" kann als Vertrag/Föderation missverstanden werden.\n\n— Live critic finding without a recorded operator decision.",
       "anchor": {
-        "content_hash_at_decision": "sha256:dacaad7097080f8978203cfbaf7011eb333ec1eeed8733acb524aa6fa2323827"
+        "content_hash_at_decision": "sha256:e200e35dd6c2bdfcab2f7d74b9bb875b362736df13bc8e5052e2d8abaf4c561f"
       },
       "before": "Bundes",
       "after": "Knapper Zusatz: der Bund, den Gott einst Abraham geschworen hat – kein Vertrag, sondern bleibende Zusage über Generationen."
@@ -251,7 +251,7 @@
       "summary": "sensitivity: Der Urtext (gr.",
       "rationale": "Der Urtext (gr. tékna, Mal 3,24) meint die Kinder allgemein, nicht eigens Söhne; „Kindern\" trägt die Generationen-Versöhnung exakt und ohne Verengung.\n\n— Heuristic: the flagged 'before' phrase is no longer present in the current USFM, so the change was applied in an earlier sweep. (No explicit operator-decision record; revisit if this needs an audit trail.)",
       "anchor": {
-        "content_hash_at_decision": "sha256:d0e7a0cf745f09d57895b4615ab64532984d5a36d24abfcbb4db44f9786ff28b"
+        "content_hash_at_decision": "sha256:70611387dc1fa967357be77fbbb0ee5beca6a26b9dd5b393ff7f8b61da873279"
       },
       "before": "um die Herzen der Väter den Söhnen zuzuwenden und die Ungehorsamen",
       "after": "um die Herzen der Väter den Kindern zuzuwenden und die Ungehorsamen"
@@ -259,7 +259,7 @@
   ],
   "metadata": {
     "source_gate_run": "audit_revise/critics_v2/gate_run_post_c.json",
-    "source_usfm_version": "uncommitted-2026-06-30T13:22:55",
+    "source_usfm_version": "uncommitted-2026-06-30T21:10:17",
     "status_enum": [
       "applied",
       "deferred-to-human",

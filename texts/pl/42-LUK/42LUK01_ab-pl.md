@@ -13,188 +13,151 @@
 ### Do Teofila
 
 
-**1** Wielu już przede mną podjęło trud spisania po kolei tego wszystkiego, co dokonało się pośród nas i wypełniło do końca*, tak jak Bóg od dawna zapowiadał*.[^1]
-**2** Opierali się przy tym na tym, co przekazali nam ludzie, którzy od samego początku byli naocznymi świadkami i *stali się sługami słowa, ogniwami w łańcuchu, który wiernie podaje je dalej*.[^2]
-**3** Postanowiłem więc i ja, prześledziwszy wszystko od początku z najwyższą starannością*, jak przystoi temu, kto chce dać rzetelną relację*, opisać to dla Ciebie w uporządkowany sposób, dostojny Teofilu*, Ty, którego pozycja zobowiązuje*, którego hojności dzieło to wiele zawdzięcza.[^3][^4]
-**4** Pragnę, abyś przekonał się, jak pewny grunt ma to, czego Cię nauczono*, na czym możesz stanąć, choćby inni opowiadali to inaczej*.[^5]
+\v 1-2 Wielu już napisało relacje o wydarzeniach, które dokonały się pośród nas, opierając się na przekazie tych, którzy od początku byli naoczynymi świadkami, a potem przekazywali to dalej[^1]. \v 3-4 Dlatego również ja, po dokładnym zbadaniu wszystkiego od samego początku, postanowiłem spisać to dla ciebie po kolei, szanowny Teofiluszu[^2], abyś miał pewność*, czyli solidne oparcie*[^3], że to, czego się nauczyłeś, jest prawdą.
 
 ### Obietnica złożona staremu kapłanowi
 
 
-**5** Działo się to za czasów Heroda, króla Judei,*Idumejczyka osadzonego na tronie przez Rzym, którego nikt z ludu nie uznawał za swojego,* gdy nad krajem ciążyła jego podejrzliwa, brutalna władza.[^6] Żył wtedy pewien kapłan imieniem Zachariasz, należący do oddziału Abiasza, jednej z dwudziestu czterech zmian, które po kolei pełniły służbę w świątyni.[^7] Jego żona, Elżbieta, również pochodziła z rodu kapłańskiego, od samego Aarona,*tak że w obojgu płynęła krew kapłańska, a sąsiedzi czytali z tego, że to dom, na którym spoczywa błogosławieństwo Boga.*[^8]
-**6** Oboje żyli prawi w oczach Boga, wierni Jego przykazaniom i wszystkim Jego nakazom, tak że nikt nie mógł im nic zarzucić.[^9]
-**7** A jednak nie mieli dzieci, bo Elżbieta nie mogła zajść w ciążę,*a to w tym świecie znaczyło nie tylko cichy ból, lecz hańbę, którą widzieli wszyscy,* i oboje byli już w podeszłym wieku.*Czas, w którym mogli jeszcze mieć potomka, dawno się dla nich zamknął.*[^10]
-**8** Pewnego razu, gdy jego oddział pełnił służbę i Zachariasz sprawował swój kapłański obowiązek przed Bogiem,
-**9** padło na niego losowanie, jak było w zwyczaju wśród kapłanów, i to właśnie jemu przypadło wejść do wnętrza świątyni Pana,*do Miejsca Świętego, najświętszej przestrzeni, do jakiej zwykły kapłan w ogóle mógł wejść,* by złożyć ofiarę z kadzidła. Taki zaszczyt spotykał kapłana raz w życiu, jeśli w ogóle.[^11]
-**10** Cały tłum ludzi modlił się na zewnątrz, w godzinie ofiary kadzenia.
-**11** Wtedy stanął przy nim anioł Pana, po prawej stronie ołtarza kadzenia,*po stronie, która znaczy łaskę i błogosławieństwo.*[^12]
-**12** Na ten widok Zachariasz osłupiał, a serce ścisnął mu lęk.
-**13** Lecz anioł powiedział do niego: Nie bój się, Zachariaszu. Twoja modlitwa została wysłuchana.*Bóg usłyszał i tę o syna, i tę o wybawienie Izraela.* Twoja żona Elżbieta urodzi ci syna, któremu dasz na imię Jan.[^13]
-**14** Będzie on dla ciebie radością i szczęściem, a jego narodziny ucieszą wielu,
-**15** bo będzie wielki w oczach Pana. Nie będzie pił wina ani niczego mocnego,*jak ten, kto przez całe życie jest oddzielony i poświęcony dla Boga,* a Duch Święty napełni go już w łonie matki.[^14]
-**16** Wielu spośród Izraela zawróci do Pana, ich Boga.
-**17** To on pójdzie przed Nim w duchu i mocy Eliasza,*proroka, którego powrotu Izrael wyczekiwał, by zwiastował nadejście dnia Pana,* by pojednać serca ojców z dziećmi, a tym, którzy się sprzeciwiają, przywrócić sposób myślenia ludzi prawych. Tak przygotuje Panu lud gotowy na Jego przyjście.[^15]
-**18** Zachariasz powiedział do anioła: Po czym mam poznać, że tak będzie?*Tak samo niegdyś Abraham pytał Boga o znak,* przecież jestem już starym człowiekiem, a moja żona też jest w podeszłym wieku.[^16]
-**19** Anioł mu odpowiedział: Ja jestem Gabriel,*jeden z aniołów, którzy stoją w samej obecności Boga.* Stoję przed obliczem Boga i to On mnie posłał, abym z tobą mówił i przyniósł ci tę dobrą nowinę.[^17]
-**20** A teraz, ponieważ nie uwierzyłeś moim słowom, które spełnią się w swoim czasie, oniemiejesz i nie będziesz mógł wymówić ani słowa aż do dnia, w którym to wszystko się stanie.
-**21** Tymczasem ludzie czekali na Zachariasza i dziwili się, że tak długo nie wychodzi ze świątyni.
-**22** Gdy wreszcie wyszedł, nie był w stanie wykrztusić ani słowa. Wtedy zrozumieli, że we wnętrzu świątyni miał widzenie. A on dawał im tylko znaki rękami i pozostał niemy.
-**23** A gdy skończył się czas jego służby, wrócił do domu.
-**24** Wkrótce potem jego żona Elżbieta poczęła dziecko. Przez pięć miesięcy nie pokazywała się ludziom, powtarzając:
-**25** To Pan tak mi uczynił. W tych dniach spojrzał na mnie łaskawie i zdjął ze mnie hańbę, którą musiałam znosić w oczach ludzi.*Lata pogardy się skończyły, a wraz z nimi domysły, że to Bóg odwrócił ode mnie twarz.*[^18]
+\v 5-7 Za czasów Heroda, króla Judei,*tego Idumejczyka, którego Rzym osadził na tronie, a lud nigdy nie uznał za swojego,*[^4] żył pewien kapłan imieniem Zachariasz. Należał do oddziału Abiasza,*ósmej z dwudziestu czterech kapłańskich zmian, które po kolei pełniły służbę w świątyni.*[^5] Jego żona Elżbieta też pochodziła z rodu kapłańskiego, prosto od Aarona.*W obojgu płynęła krew kapłańska: sąsiedzi widzieli w tym dom podwójnie poświęcony, na którym spoczywało błogosławieństwo Boga.*[^6] Oboje żyli prawi w oczach Boga, wierni Jego przykazaniom i wszystkim nakazom, tak że nikt nie mógł im nic zarzucić.[^7] A jednak nie mieli dzieci. Elżbieta nie mogła zajść w ciążę,*a to w tym świecie niosło nie tylko cichy ból, lecz hańbę widoczną dla wszystkich: wstyd spadał właśnie na nią,*[^8] i oboje byli już w podeszłym wieku. Na potomstwo było już dla nich dawno za późno.
+\v 8-10 Pewnego razu, gdy jego oddział pełnił służbę i Zachariasz pełnił swój kapłański obowiązek przed Bogiem, padł na niego los, tak bowiem wyznaczano, komu przypadnie jaki obowiązek, i to właśnie jemu przypadło wejść do wnętrza świątyni \nd Pana,*do Miejsca Świętego, najświętszej przestrzeni, do jakiej zwykły kapłan w ogóle mógł wejść,* by złożyć ofiarę z kadzidła.*Taki zaszczyt spotykał kapłana raz w życiu, o ile w ogóle. Wielu z jego oddziału nigdy się go nie doczekało.*[^9] Cały tłum ludzi modlił się na zewnątrz, w godzinie ofiary kadzenia.
+\v 11-12 Wtedy stanął przy nim anioł \nd Pana, po prawej stronie ołtarza kadzenia,*po stronie, która oznacza łaskę i błogosławieństwo.*[^10] Na ten widok Zachariasz osłupiał, a serce ścisnął mu lęk.
+\v 13-17 Lecz anioł powiedział do niego: Nie bój się, Zachariaszu. Twoja modlitwa została wysłuchana.*Bóg usłyszał i tę o syna, i tę o wybawienie Izraela.*[^11] Twoja żona Elżbieta urodzi ci syna, któremu dasz na imię Jan. Będzie on dla ciebie radością i szczęściem, a jego narodziny ucieszą wielu, bo będzie wielki w oczach \nd Pana. Nie będzie pił wina ani niczego mocnego,*jak ten, kto przez całe życie jest oddzielony i poświęcony Bogu,*[^12] a Duch Święty napełni go już w łonie matki. Wielu spośród Izraela nawróci się do \nd Pana, ich Boga. To on pójdzie przed Nim w duchu i mocy Eliasza,*proroka, którego powrotu Izrael wyczekiwał, by zwiastował nadejście dnia \nd Pana,*[^13] by pojednać serca ojców z dziećmi, a nieposłusznych zwrócić ku mądrości ludzi prawych. Tak przygotuje \nd Panu lud gotowy na Jego przyjście.
+**18** Zachariasz powiedział do anioła: Po czym mam poznać, że tak będzie?*Tak samo niegdyś Abraham pytał Boga o znak.*[^14] Przecież jestem już starym człowiekiem, a moja żona też jest w podeszłym wieku.
+\v 19-20 Anioł mu odpowiedział: Ja jestem Gabriel,*jeden z aniołów, którzy stoją tuż przed obliczem Boga.*[^15] Stoję przed obliczem Boga i to On mnie posłał, żebym z tobą mówił i przyniósł ci tę dobrą nowinę. A teraz, ponieważ nie uwierzyłeś moim słowom, które spełnią się w swoim czasie, oniemiejesz i nie będziesz mógł wymówić ani słowa aż do dnia, w którym to wszystko się stanie.
+\v 21-23 Tymczasem ludzie czekali na Zachariasza i dziwili się, że tak długo nie wychodzi ze świątyni. Gdy wreszcie wyszedł, nie był w stanie wykrztusić ani słowa. Wtedy zrozumieli, że we wnętrzu świątyni miał widzenie. A on dawał im tylko znaki rękami i pozostał niemy. Gdy skończył się czas jego służby, wrócił do domu.
+\v 24-25 Wkrótce potem jego żona Elżbieta poczęła dziecko. Przez pięć miesięcy nie pokazywała się ludziom, powtarzając: To \nd Pan tak mi uczynił. W tych dniach spojrzał na mnie łaskawie i zdjął ze mnie hańbę, którą musiałam znosić w oczach ludzi.*Lata pogardy się skończyły, a wraz z nimi domysły, że to Bóg odwrócił ode mnie twarz.*[^16]
 
 ### Zwiastowanie narodzin Jezusa
 
 
-**26** W szóstym miesiącu Bóg posłał anioła Gabriela do Nazaretu,*małej wioski w Galilei, o której świat nigdy nie słyszał.*[^19]
-**27** Posłał go do dziewczyny zaręczonej z mężczyzną imieniem Józef,*potomkiem króla Dawida.*[^20] Miała na imię Maria i nie była jeszcze z żadnym mężczyzną.*Była dopiero zaręczona, a zaręczyny wiązały na równi z małżeństwem. Gdyby taka dziewczyna zaszła w ciążę, uznano by ją za cudzołożnicę, a za to groziła hańba, oddalenie przez narzeczonego, a nawet śmierć.*[^21]
-**28** Anioł wszedł do niej i powiedział: Witaj!*Ty, którą Bóg napełnił łaską,* Bóg cię obdarzył łaską, Pan jest z tobą.[^22]
-**29** Te słowa wstrząsnęły nią do głębi*nie była to łagodna niespodzianka, lecz wstrząs, który czuje się całym sobą,* i zaczęła się zastanawiać, co może znaczyć takie powitanie.[^23]
-**30** Anioł powiedział: Nie bój się, Mario. Bóg okazał ci swoją łaskę.
-**31** Poczniesz i urodzisz syna, a dasz mu na imię Jezus.
-**32** Będzie wielki i będą go nazywać Synem Najwyższego.*Bóg da mu tron jego praojca Dawida,*[^24]
-**33** a on będzie panował nad ludem Jakuba*już na zawsze. Jego królestwo nigdy się nie skończy.*[^25]
-**34** Jak to się stanie? zapytała Maria.*Jestem dopiero zaręczona i nie współżyłam z żadnym mężczyzną. Gdybym teraz zaszła w ciążę, wzięto by mnie za cudzołożnicę.*[^26]
-**35** Anioł odpowiedział: Duch Święty zstąpi na ciebie i moc Najwyższego cię okryje,*jak obłok kiedyś okrył namiot spotkania.*[^27] Dlatego dziecko, które się urodzi, będzie święte i będą je nazywać Synem Bożym.
-**36** Posłuchaj: twoja krewna Elżbieta, ta, o której mówiono, że nie może mieć dzieci, sama w podeszłym wieku poczęła syna. Jest już w szóstym miesiącu.
-**37** Dla Boga nie ma rzeczy niemożliwej.*Bo Jego słowo nie tylko mówi, ono sprawia to, co mówi.*[^28]
-**38** Wtedy Maria powiedziała: Należę do Pana,*jestem służebnicą, która cała oddaje się Jemu.*[^29] Niech mi się stanie tak, jak powiedziałeś. I anioł ją opuścił.
+\v 26-27 W szóstym miesiącu Bóg posłał anioła Gabriela do Nazaretu*, małej wioski w Galilei, o której świat nigdy nie słyszał*,[^17] do dziewczyny zaręczonej z Józefem, potomkiem króla Dawida.[^18] Miała na imię Maria. Nie była jeszcze z żadnym mężczyzną: dopiero zaręczona, a zaręczyny wiązały jak małżeństwo. Gdyby zaszła teraz w ciążę, wzięto by ją za cudzołożnicę,*a za to groziła hańba, oddalenie przez narzeczonego, a nawet śmierć.*[^19]
+\v 28-30 Gabriel stanął przed nią i powiedział: Witaj, Ty, którą Bóg obdarzył łaską*: nie zwykłe powitanie, lecz tytuł, jakiego nikt wcześniej nie usłyszał.*[^20] \nd PAN jest z tobą.
+Te słowa wstrząsnęły nią do głębi*: nie łagodna niespodzianka, lecz wstrząs, który czuje się całym sobą*[^21], i zaczęła się zastanawiać, co może znaczyć takie powitanie.
+Anioł powiedział: Nie bój się, Mario. Bóg okazał ci łaskę.
+\v 31-33 Poczniesz i urodzisz syna, a dasz mu na imię Jezus. Będzie wielki i będą go nazywać Synem Najwyższego. Bóg da mu tron jego praojca Dawida,[^22] a on będzie panował nad ludem Jakuba[^23] już na zawsze. Jego królestwo nigdy się nie skończy.
+**34** Maria zapytała: Jak to się stanie? Jestem dopiero zaręczona i nie współżyłam z żadnym mężczyzną. Gdybym teraz zaszła w ciążę, wzięto by mnie za cudzołożnicę.[^24]
+\v 35-37 Anioł odpowiedział: Duch Święty zstąpi na ciebie i moc Najwyższego cię okryje,*jak obłok kiedyś okrył namiot spotkania.*[^25] Dlatego dziecko, które się urodzi, będzie święte i będą je nazywać Synem Bożym.
+Posłuchaj: twoja krewna Elżbieta, ta, o której mówiono, że nie może mieć dzieci, sama w podeszłym wieku poczęła syna. Jest już w szóstym miesiącu. Dla Boga nie ma rzeczy niemożliwej,*bo Jego słowo nie tylko mówi: ono sprawia to, co mówi.*[^26]
+**38** Wtedy Maria powiedziała: Należę do \nd PANa,*jestem służebnicą, która cała oddaje się Jemu.*[^27] Niech mi się stanie tak, jak powiedziałeś.
+I anioł odszedł od niej.
 
 ### Maria u Elżbiety
 
 
-**39** W tych dniach Maria zebrała się i bez zwłoki ruszyła w góry, do pewnego miasta w Judei.*Droga z Nazaretu w judejskie wzgórza ciągnęła się kilka dni, sto kilkadziesiąt kilometrów. Ten pośpiech mówi sam za siebie: chce zobaczyć znak, który dał jej anioł.*[^30]
-**40** Weszła do domu Zachariasza i pozdrowiła Elżbietę.
-**41** A w chwili, gdy Elżbieta usłyszała pozdrowienie Marii, dziecko aż podskoczyło w jej łonie,*jakby zatańczyło, tak jak anioł zapowiedział Zachariaszowi, że ten syn będzie pełen Ducha jeszcze przed narodzeniem,* a ją samą napełnił Duch Święty.[^31]
-**42** Wtedy wydała głośny okrzyk i zawołała na cały dom: Ze wszystkich kobiet to właśnie ciebie pobłogosławił Bóg,*jak niegdyś Jael i Judytę, kobiety, przez które Bóg ocalił Izrael,* a wraz z tobą dziecko, które nosisz![^32]
-**43** Czym ja na to zasłużyłam, że matka mojego Pana przychodzi do mnie?*Ja, starsza, żona kapłana, a kłaniam się dziewczynie z Galilei i nazywam jej dziecko swoim Panem.*[^33]
-**44** Bo w chwili, gdy twoje pozdrowienie dotarło do moich uszu, dziecko w moim łonie podskoczyło z radości.
-**45** Szczęśliwa jesteś, bo uwierzyłaś.*Ty zaufałaś tam, gdzie Zachariasz zwątpił.* To, co Pan ci powiedział, naprawdę się wypełni.[^34]
+\v 39-40 W tamtych dniach Maryja pospiesznie wyruszyła do pewnego miasta w górach Judei. Weszła do domu Zachariasza[^28] i powitała Elżbietę.
+**41** Gdy Elżbieta usłyszała powitanie Marii, poruszyło się dziecko w jej łonie. Elżbieta została napełniona Duchem Świętym.
+**42** Zawołała głośno: „Błogosławiona jesteś[^29], i błogosławione dziecko, które nosisz!
+**43** Skąd mi ten zaszczyt, że matka mojego Pana przychodzi do mnie?
+**44** Bo kiedy usłyszałam twoje powitanie, poruszyło się z radości dziecko w moim łonie!
+**45** Błogosławiona jesteś, bo uwierzyłaś, że Pan spełni to, co ci powiedział!"
 
 ### Pieśń Marii
 
-> \v 46 Wszystko we mnie wielbi Pana,
-> \v 47 całą duszą cieszę się
-> z Boga, który mnie ratuje.
-> \v 48 Bo spojrzał na mnie,
-> na nikogo, na dziewczynę z samego dołu\add , taką, którą świat mija obojętnie\add*.\f + \fr 1:48 \fk KULTUR \fq z samego dołu \ft Greckie ταπείνωσις oznacza tu nie tyle pokorę serca, ile niski status społeczny: pozycję kogoś bez znaczenia, bez głosu, bez honoru w oczach świata. Bóg wybiera właśnie taką osobę, a to pierwszy znak wielkiego odwrócenia, które opiewa cała pieśń.\f*
-> A od tej chwili
-> każde pokolenie będzie mnie nazywać szczęśliwą,
-> \v 49 bo Wszechmocny zrobił dla mnie wielkie rzeczy.
-> Święte jest Jego imię.
-> \v 50 I z pokolenia na pokolenie
-> ma litość dla tych, którzy żyją w szacunku przed Nim.
-> \v 51 Pokazał, jak silne jest Jego ramię:
-> rozproszył wszystkich, którzy w sercu noszą pychę.
-> \v 52 Władców zrzucił z tronów\add , możnych tego świata, panów życia i śmierci\add*,\f + \fr 1:52 \fk KONTEXT \fq Władców zrzucił z tronów \ft Greckie δυνάστας to słownictwo polityczne: dzierżyciele realnej władzy, rządzący. Dla słuchaczy żyjących pod rzymską okupacją była to mowa rewolucyjna, echo nadziei na wyzwolenie. Sprawcą odwrócenia jest jednak Bóg, nie ludzka przemoc.\f*
-> a tych z samego dołu podniósł wysoko\add , odebrał honor możnym i oddał go pohańbionym\add*.\f + \fr 1:52 \fk KULTUR \fq podniósł wysoko \ft W świecie honoru i wstydu to całkowite odwrócenie porządku: kto miał szacunek, traci go, a kto był poniżony, zostaje wywyższony. Zob. pieśń Anny, 1 Sm 2,1-10, której wzór pobrzmiewa w całej tej pieśni.\f*
-> \v 53 Głodnych nasycił dobrem,
-> a bogatych odprawił z pustymi rękami\add , bo to odwrócenie dosięga także stołu i spichlerza\add*.\f + \fr 1:53 \fk KONTEXT \fq Głodnych nasycił dobrem \ft W Galilei pierwszego wieku przepaść między bogatymi a biednymi była ogromna: chłopi znali prawdziwy głód, a bogaci byli bardzo bogaci. Odwrócenie jest tu konkretne, gospodarcze, a nie tylko duchowe.\f*
-> \v 54 Stanął po stronie Izraela, swojego sługi\add , dziecka związanego z Nim przymierzem\add*,\f + \fr 1:54 \fk TEXT \fq swojego sługi \ft Greckie παῖς znaczy zarazem sługa i dziecko. Izrael nie jest tu zwykłym poddanym, lecz ludem związanym z Bogiem przymierzem, do którego Bóg sam się przyznaje i o którym pamięta.\f*
-> i nie zapomniał o swojej wiernej miłości\add , o przymierzu, którego nigdy nie cofa\add*,\f + \fr 1:54 \fk KONTEXT \fq wiernej miłości \ft Greckie ἔλεος oddaje hebrajskie חֶסֶד (chesed): wierność przymierzu połączoną z miłosierdziem. Nie jest to chwilowe wzruszenie, lecz dochowanie obietnicy danej ojcom.\f*
-> \v 55 tak jak obiecał naszym ojcom,
-> Abrahamowi i jego potomstwu, na zawsze\add , spełniając obietnicę sprzed wieków\add*.\f + \fr 1:55 \fk KONTEXT \fq Abrahamowi i jego potomstwu \ft To, co dzieje się teraz, ma korzenie w starożytnym przymierzu z Abrahamem. Pieśń łączy osobiste przeżycie Marii z dziejami całego ludu: Bóg dotrzymuje słowa danego przodkom przez pokolenia.\f*
-> \v 56 Maria została u Elżbiety jakieś trzy miesiące,
-> a potem wróciła do siebie.
+**46** Wszystko we mnie wielbi \nd Pana[^30],
+**47** raduję się w Bogu, który mnie wybawia:
+**48** spojrzał na mnie, choć jestem nikim[^31].
+> Od dziś będą mnie nazywać szczęśliwą przez wszystkie pokolenia,
+**49** bo Potężny uczynił dla mnie wielkie rzeczy:
+> święte jest jego imię.
+**50** Jego wierna miłość[^32] trwa z pokolenia na pokolenie
+> dla tych, którzy żyją w głębokim szacunku do niego.
+**51** Pokazał moc swojego ramienia[^33]:
+> rozproszył tych, którzy są pewni siebie i pełni pychy\f + \fr 1:51 \fk pewni siebie i pełni pychy \ft Dosł. „pysznych w zamyśle serca ich" — ci, którzy uważają się za lepszych i panują nad innymi. W świecie honoru i wstydu pyszni zajmują najwyższe miejsce.\f*.
+**52** Strącił władców z tronów[^34],
+> a podniósł tych, którzy nie mają nic do powiedzenia\f + \fr 1:52 \fk nie mają nic do powiedzenia \ft Gr. ταπεινούς (tapeinous) — ci bez pozycji społecznej, władzy, głosu. Przeciwieństwo δυνάστας. W społeczeństwie pierwszego wieku to chłopi, kobiety, niewolnicy — ci, których nikt nie słucha.\f*.
+**53** Głodnych nasycił dobrymi rzeczami[^35],
+> a bogatych odesłał z pustymi rękami.
+\v 54-55 Wziął w opiekę Izrael, swój lud[^36],
+> pamiętając o wiernej miłości,
+> którą obiecał naszym przodkom\f + \fr 1:54-55 \fk naszym przodkom \ft Dosł. „ojcom naszym" — język przymierza i obietnicy.\f*,
+> Abrahamowi i jego potomkom na zawsze\f + \fr 1:54-55 \fk Abrahamowi i jego potomkom na zawsze \ft Rdz 12:1-3, 17:7-8, 22:17-18. Maria umieszcza to, co dzieje się w jej ciele, w linii obietnicy danej Abrahamowi — to spełnienie tysiącletniej obietnicy.\f*.
+**56** Maria została z Elżbietą około trzech miesięcy, a potem wróciła do domu.
 
 ### Narodziny Jana
 
 
-**57** Gdy nadszedł czas porodu, Elżbieta urodziła syna.
-**58** Sąsiedzi i krewni usłyszeli, jak wielkie miłosierdzie okazał jej Bóg, i razem z nią się cieszyli.*Hańba bezdzietności zdjęta wreszcie ze starej kobiety, więc całe sąsiedztwo zbiega się świętować.*[^35]
-**59** Ósmego dnia przyszli na obrzezanie chłopca.*W ósmym dniu, jak nakazuje Prawo, wprowadzano syna w przymierze Abrahama, i przy tym obrzędzie nadawano mu imię.* Chcieli nadać mu imię po ojcu, Zachariasz,*bo syn miał nosić imię ojca albo dziadka i tak przedłużać ród.*[^36]
-**60** ale wtedy odezwała się jego matka: Nie. Będzie się nazywał Jan.*Jan, to znaczy: Bóg okazał łaskę, samo imię streszcza całą tę historię.*[^37]
-**61** Zdziwili się, że to ona o tym rozstrzyga: Przecież w twojej rodzinie nikt nie nosi takiego imienia.*Złamać zwyczaj imienia po przodkach znaczyło zerwać z tożsamością rodu, a nowe imię zwiastuje nową tożsamość.*[^38]
-**62** Skoro więc tak powiedziała matka, zwrócili się na migi do ojca, pewni, że to on rozstrzygnie, jak nazwać syna.*Liczyli, że ojciec uchyli słowo żony, jak należało się ojcu i mężowi.*[^39]
-**63** On poprosił o tabliczkę do pisania i napisał to samo, co ona: Jan jest jego imię.*Nie: niech tak się nazywa, lecz: Jan już jest jego imię, jakby rzecz dawno rozstrzygniętą przez Boga.* I wszyscy oniemieli, że ojciec przyznał rację matce.[^40]
-**64** W tej samej chwili otworzyły mu się usta, odzyskał mowę i zaczął mówić, dziękując Bogu.*Posłuszeństwo zwraca mu głos, a pierwsze jego słowa to nie skarga, lecz uwielbienie.*[^41]
-**65** Wszystkich sąsiadów ogarnął lęk, a wieść o tym, co się stało, rozeszła się po całym górzystym kraju Judei.*Bo nadprzyrodzone budzi święty lęk, a tu wszyscy poczuli, że dotknął ich sam Bóg.*[^42]
-**66** Każdy, kto o tym słyszał, brał to sobie do serca i pytał: Kim też będzie to dziecko? Bo ręka Pana naprawdę była z nim.*Ręka Pana, to znaczy moc i opieka samego Boga, czuwała nad chłopcem.*[^43]
+\v 57-58 Kiedy Elżbieta urodziła, sąsiedzi i krewni usłyszeli, jak wielką łaskę okazał jej \nd Pan, i radowali się razem z nią.
+\v 59-61 Ósmego dnia przyszli obrzezać chłopca,*w ten sposób wchodził do ludu Izraela*.[^37] Chcieli go nazwać Zachariaszem, jak ojca. Ale matka stanowczo powiedziała: „Nie, będzie się nazywał Jan." Zdziwili się: „Nikt w waszej rodzinie tak się nie nazywa!"
+\v 62-63 Zwrócili się więc do ojca. Zachariasz poprosił o tabliczkę do pisania i napisał krótko: „Ma na imię Jan,*co znaczy: ‚\nd Pan okazał łaskę'*".[^38] Wszyscy byli zdumieni.
+**64** W tej samej chwili usta mu się otworzyły, język się rozwiązał, a pierwsze słowa, które wypowiedział, wielbiły Boga.
+\v 65-66 Wszystkich ogarniał strach. Wieść o tym rozeszła się po wzgórzach Judei. Każdy, kto słyszał, zastanawiał się: „Kim będzie to dziecko?", bo było jasne, że ręka \nd Pańska,*Jego moc i opieka,* [^39] była z nim.
 
 ### Proroctwo Zachariasza
 
-> \v 67 Jego ojca Zachariasza wypełnił Duch Święty
-> i Zachariasz zaczął prorokować:
-> \v 68 Niech będzie błogosławiony Bóg Izraela\add , jak otwiera się każda modlitwa w synagodze\add*,\f + \fr 1:68 \fk KULTUR \fq Niech będzie błogosławiony \ft Pieśń zaczyna się ustaloną formułą żydowskiej modlitwy, berakah: Baruch atta, Błogosławiony jesteś. Dla pierwszych słuchaczy to nie poetycki wstęp, lecz rozpoznawalny początek modlitwy ze świątyni i synagogi. Zachariasz, kapłan, mówi językiem swojego świata liturgicznego (por. 1 Krl 1,48; Ps 41,14).\f*
-> bo przyszedł do swojego ludu i dał mu wolność.
-> \v 69 Wzbudził dla nas potężnego Wybawcę\add , róg pełen mocy\add*,\f + \fr 1:69 \fk TEXT \fq potężnego Wybawcę \ft Dosłownie: róg zbawienia. W obrazach Pisma róg to symbol siły i zwycięstwa, a także róg, z którego namaszczano króla. Mówiąc o rogu w domu Dawida, Zachariasz zapowiada potężnego, namaszczonego wybawcę z królewskiego rodu (por. 1 Sm 2,10; Ps 18,3).\f*
-> z rodu Dawida, swojego sługi\add , dziecka związanego z Nim przymierzem\add*,\f + \fr 1:69 \fk TEXT \fq swojego sługi \ft Greckie παῖς znaczy zarazem sługa i dziecko. Dawid nie jest tu zwykłym poddanym, lecz tym, do kogo Bóg sam się przyznaje i komu związał się przymierzem, obiecując mu trwały tron (por. 2 Sm 7,12-16).\f*
-> \v 70 tak jak od dawna zapowiadał
-> ustami swoich świętych proroków:
-> \v 71 że nas ocali od wrogów,
-> wyrwie z rąk wszystkich, którzy nas nienawidzą\add , spod butów obcej władzy, która siedzi nam na karku\add*.\f + \fr 1:71 \fk KONTEXT \fq od wrogów \ft Dla ludu żyjącego pod rzymską okupacją wróg miał twarz bardzo konkretną: obcego władcy. Nadzieja na ocalenie była zarazem nadzieją polityczną, na wyzwolenie i przywrócenie czci Izraelowi. Pieśń jednak prowadzi tę nadzieję dalej, niż się spodziewano: jej ostatnim słowem jest pokój, nie zemsta (zob. w. 79).\f*
-> \v 72 Okazał litość naszym ojcom
-> i wspomniał na swoje święte przymierze,
-> \v 73 na przysięgę, którą złożył Abrahamowi,
-> naszemu ojcu\add , bo ratunek przychodzi do całego ludu, do wszystkich dzieci obietnicy\add*:\f + \fr 1:73 \fk KONTEXT \fq Abrahamowi, naszemu ojcu \ft Przynależność do ludu Bożego biegła przez pochodzenie od Abrahama. Zbawienie, o którym mówi Zachariasz, nie jest sprawą jednostki, lecz całej wspólnoty związanej przymierzem: Bóg dotrzymuje przysięgi danej praojcu sprzed wieków.\f*
-> \v 74 że wyrwani z rąk wrogów
-> będziemy Mu służyć bez lęku,
-> \v 75 święci i prawi przed Nim
+**67** Jego ojciec Zachariasz, napełniony Duchem Świętym, prorokował:
+**68** Błogosławiony \nd PAN[^40], Bóg Izraela,
+> bo nawiedził swój lud i przyniósł mu wybawienie.
+**69** Wzniósł dla nas róg mocy *jak róg namaszczenia*[^41]
+> w domu Dawida, swojego sługi,
+**70** jak obiecał przez usta
+> swoich świętych proroków dawnych czasów:
+**71** ratunek od naszych wrogów
+> i od ręki wszystkich, którzy nas nienawidzą.
+**72** Tak okazuje miłosierdzie naszym przodkom
+> i pamięta o swoim świętym przymierzu,
+**73** o przysiędze złożonej Abrahamowi, naszemu ojcu:
+**74** że nas, wyrwanych z ręki wrogów,
+> obdarzy mocą, byśmy służyli mu bez lęku
+**75** w świętości i sprawiedliwości przed nim
 > przez wszystkie nasze dni.
-> \v 76 A ty, dziecko, będziesz nazwane prorokiem Najwyższego,
-> bo pójdziesz przed Panem, żeby przygotować Mu drogę.
-> \v 77 Powiesz Jego ludowi, że jest ratunek,
-> że Bóg przebacza im grzechy
-> \v 78 z trzewi Bożego miłosierdzia\add , z głębi, która aż boli\add*, które wzbiera w Nim nad nami.\f + \fr 1:78 \fk TEXT \fq z trzewi Bożego miłosierdzia \ft Greckie σπλάγχνα to dosłownie wnętrzności, trzewia: miejsce, gdzie człowiek czuje współczucie całym ciałem. To nie chłodna łaska, lecz miłosierdzie z głębi, poruszone do bólu, jak u rodzica wobec dziecka.\f*
-> Dzięki niemu z wysoka wzejdzie nad nami świt\add , Wschód, którego od wieków czekają prorocy\add*.\f + \fr 1:78 \fk TEXT \fq z wysoka wzejdzie nad nami świt \ft Greckie ἀνατολή ma podwójne znaczenie: wschód słońca, brzask, a zarazem mesjańska Latorośl, Wschód zapowiadany przez proroków (por. Jr 23,5; Za 3,8; 6,12; Ml 3,20). Tekst zachowuje oba sensy naraz: nad ludem wstaje i światło dnia, i obiecany Mesjasz.\f*
-> \v 79 żeby rozjaśnić tych, którzy siedzą w ciemności,
-> w cieniu śmierci\add , tych, których świat już skreślił\add*,\f + \fr 1:79 \fk KONTEXT \fq w cieniu śmierci \ft Wyrażenie powtarza obraz z Pisma: lud siedzący w mroku, do którego przychodzi światło (Iz 9,1), oraz dolina cienia śmierci z Psalmu 23,4. Mowa o ubogich, uciśnionych, zapomnianych, o tych, których życie toczy się w cieniu. Do nich właśnie przychodzi świt.\f*
-> i poprowadzić nasze kroki
-> na drogę pokoju.
+**76** A ty, dziecko, będziesz nazywany prorokiem Najwyższego:
+> pójdziesz przed Panem, by torować mu drogę \add przez pustynię\add*\f + \fr 1:76 \fk torować drogę \ft TEXT: Nawiązanie do Iz 40:3 — przygotowanie drogi przez pustynię dla nadchodzącego Pana.\f*,
+**77** by jego lud poznał ratunek
+> przez przebaczenie ich grzechów.
+**78** Dzięki głębokiemu miłosierdziu naszego Boga
+> nawiedzi nas świt z wysoka,\add słońce sprawiedliwości\add*\f + \fr 1:78 \fk świt z wysoka \ft TEXT: Nawiązanie do Mal 4:2 („słońce sprawiedliwości") i mesjańskiej „Latorośli" z Jer 23:5.\f*,
+**79** by zaświecić tym, którzy siedzą w ciemności i w cieniu śmierci,
+> i skierować nasze kroki na drogę pokoju.
 
 ### Dorastanie na pustkowiu
 
 
-**80** Chłopiec rósł i nabierał siły ducha,*bo to Duch Boży kształtował go w środku, a nie tylko upływające lata.* Mieszkał na pustkowiu,*tam, gdzie z dala od świątyni i miast Bóg od wieków formował swoich proroków,* aż do dnia, w którym wystąpił publicznie przed Izraelem.*Aż nadeszła wyznaczona godzina i Bóg sam wyprowadził go przed cały lud.*[^44][^45][^46]
+**80** Dziecko rosło i umacniało się duchowo, żyło w okolicach pustynnych *tam Mojżesz i Eliasz czekali na swój czas*[^42], aż nadszedł dzień, kiedy miał się objawić Izraelowi.
 
 ---
 
 
 ## Anmerkungen
 
-[^1]: **TEXT** — *wypełniło do końca*: Greckie πεπληροφορημένων stoi w czasie dokonanym i niesie myśl o Bożym dopełnieniu: nie po prostu o rzeczach, które się wydarzyły, lecz o tych, które Bóg doprowadził do pełni. Pierwsi czytelnicy słyszeli tu echo spełnionej obietnicy, nie zwykłej kroniki.
-[^2]: **KONTEXT** — *przekazali nam*: Czasownik παρέδοσαν oznacza formalne przekazywanie z rąk do rąk, cenione zarówno w żydowskim, jak i grecko-rzymskim nauczaniu: świadkowie stawali się sługami słowa (ὑπηρέται τοῦ λόγου) i odpowiedzialnymi za jego dalsze podanie. Łukasz nie odrzuca poprzedników, lecz wpisuje się w ten łańcuch przekazu.
-[^3]: **KULTUR** — *dostojny Teofilu*: Grecki tytuł κράτιστε to oficjalny zwrot do osoby wysokiej rangi (por. ten sam tytuł wobec namiestników w Dz 23,26; 24,3; 26,25). Wskazuje, że Teofil był człowiekiem o wysokim statusie, prawdopodobnie patronem, który wsparł powstanie dzieła. Dedykacja honorowała obie strony i była uznanym aktem społecznym.
-[^4]: **KONTEXT** — *z najwyższą starannością*: Cały wstęp naśladuje formę przedmów greckich historyków (Herodot, Tucydydes) i pism medycznych: powołanie się na wielość źródeł, świadectwo naocznych świadków i własne dokładne badanie (ἀκριβῶς) to uznane sposoby budowania wiarygodności w tamtej kulturze. Pierwszy czytelnik od razu rozpoznawał w tym rzetelnego dziejopisa.
-[^5]: **TEXT** — *pewny grunt*: Greckie ἀσφάλεια oznacza trwałe oparcie, coś, na czym można bezpiecznie stanąć, a nie agresywną pewność, która zamyka pytania. Czasownik κατηχήθης (skąd nasze "katecheza") wskazuje, że Teofil był już formalnie pouczony w wierze; Łukasz pisze, by ugruntować, a nie po raz pierwszy poinformować, być może wobec konkurencyjnych przekazów i wątpliwości.
-[^6]: **KONTEXT** — *Heroda, króla Judei*: Herod Wielki (panował 37-4 p.n.e.) był Idumejczykiem, czyli potomkiem Edomitów, ustanowionym królem przez Rzym. Wielu Żydów uważało go za obcego uzurpatora; znany był z paranoi i okrucieństwa wobec domniemanych rywali.
-[^7]: **KULTUR** — *oddziału Abiasza*: Oddział Abiasza był ósmym z dwudziestu czterech kapłańskich zmian ustanowionych według 1 Krn 24,10. Każda z nich pełniła służbę w świątyni po tygodniu, dwa razy w roku, oraz w czasie wielkich świąt.
-[^8]: **KULTUR** — *od samego Aarona*: Pochodzenie obojga małżonków z rodu kapłańskiego, a Elżbiety wprost od Aarona, czyniło z nich w oczach społeczności dom podwójnie poświęcony. Właśnie to sprawia, że ich bezdzietność dwa wersety dalej brzmi dla pierwszych słuchaczy jak domniemane przekleństwo, a nie zwykły brak.
-[^9]: **KONTEXT** — *prawi w oczach Boga*: Greckie dikaioi i amemptoi opisują wierność przymierzu i nienaganne zachowywanie Tory, a nie moralną doskonałość. Para jest przedstawiona jako wzór żydowskiej pobożności wobec obu tablic Prawa.
-[^10]: **KULTUR** — *nie mogła zajść w ciążę*: Bezdzietność niosła dla kobiety dotkliwe społeczne piętno i często, wbrew prawości Elżbiety, obarczano nią właśnie żonę. Greckie steira (bezpłodna) przywołuje też wielkie biblijne opowieści o niepłodnych kobietach, Sarze, Rebece, Racheli i Annie, które po latach rodziły dzieci obietnicy.
-[^11]: **KULTUR** — *złożyć ofiarę z kadzidła*: Ofiarę z kadzidła składano w Miejscu Świętym dwa razy dziennie, a kapłan wchodził tam sam. O tym, komu przypadnie ten obowiązek, decydował los, dlatego dla wielu kapłanów była to chwila wyczekiwana przez całe życie i przeżywana tylko raz.
-[^12]: **KULTUR** — *po prawej stronie ołtarza*: Prawa strona oznaczała w tej kulturze przychylność i moc, dlatego umiejscowienie anioła sygnalizuje słuchaczowi, że niesie on łaskę, a nie sąd.
-[^13]: **KONTEXT** — *Twoja modlitwa została wysłuchana*: Czasownik w stronie biernej (eisekousthe) to tak zwana strona bierna boska, czyli mówiąca, że to Bóg wysłuchał. Modlitwa kapłana sprawującego służbę obejmowała zarówno osobiste pragnienie potomka, jak i wstawiennictwo za odkupienie całego ludu, a odpowiedź anioła w wersetach 13-17 dotyczy obu.
-[^14]: **KONTEXT** — *Nie będzie pił wina ani niczego mocnego*: Powstrzymanie się od wina i napojów odurzających przypomina ślub nazireatu (Lb 6), znak całkowitego poświęcenia dla Boga, jak w przypadku Samsona i Samuela. Sygnalizuje to słuchaczowi, że Jan należy do Boga od samego początku.
-[^15]: **KONTEXT** — *w duchu i mocy Eliasza*: Prorok Malachiasz (Ml 3,23-24) zapowiadał powrót Eliasza przed wielkim dniem Pana. Dla pierwszych słuchaczy zapowiedź ta oznaczała, że oto rozpoczyna się długo oczekiwany czas wypełnienia obietnic.
-[^16]: **HARM** — *Po czym mam poznać, że tak będzie*: Pytanie Zachariasza odpowiada pytaniu Abrahama z Rdz 15,8. Nawet człowiek prawy zmaga się z obietnicą, która wydaje się niemożliwa; nałożone milczenie jest tu karceniem i formowaniem, a nie potępieniem.
-[^17]: **NAME** — *Ja jestem Gabriel*: Gabriel to jeden z archaniołów stojących w obecności Boga, znany z Księgi Daniela (Dn 8-9). Imię znaczy mocarz Boga lub waleczny Boży. Wskazanie własnego imienia i miejsca przy Bogu nadaje słowom anioła najwyższą powagę.
-[^18]: **KULTUR** — *zdjął ze mnie hańbę*: Hańba (oneidos) Elżbiety odzwierciedla rzeczywiste społeczne piętno bezdzietności, a nie Boży wyrok. Tekst ją uniewinnia: jej niepłodność nigdy nie była moralną winą, a teraz zostaje publicznie zrehabilitowana.
-[^19]: **KONTEXT** — *Nazaretu*: Nazaret był drobną wioską liczącą może dwie, trzy setki mieszkańców, leżącą z dala od dróg władzy. Rzym nie znał tej nazwy. To, że Najwyższy wybiera dziewczynę z miejsca, którego nikt się nie spodziewał, otwiera Łukaszowy motyw odwrócenia: Bóg sięga po to, co małe i pominięte.
-[^20]: **KONTEXT** — *potomkiem króla Dawida*: Józef pochodził z rodu Dawida. W prawie żydowskim ojcostwo prawne, nie biologiczne, przekazywało dziedzictwo, więc to przez Józefa dziecko wchodzi w królewską linię Dawida, do której odnoszą się mesjańskie obietnice (2 Sm 7).
-[^21]: **KULTUR** — *zaręczyny*: Zaręczyny (μνηστεύω) były prawnie wiążące jak małżeństwo, choć para jeszcze nie mieszkała razem; zrywało je dopiero formalne oddalenie. Dziewczęta zaręczano zwykle w wieku dwunastu, czternastu lat. Ciąża w tym czasie ściągała podejrzenie o cudzołóstwo, przestępstwo zagrożone w Prawie karą śmierci. To jest stawka, którą słuchacz słyszał od razu: zgoda Marii groziła hańbą, oddaleniem, a w skrajnym razie życiem.
-[^22]: **TEXT** — *obdarzył łaską*: Greckie κεχαριτωμένη to imiesłów dokonany strony biernej: nie zwykłe powitanie, lecz tytuł, ktorym anioł nazywa Marię, ta, która została obdarowana łaską, z trwałym skutkiem. Orygenes zauważył, że takiego pozdrowienia nie ma nigdzie indziej w Piśmie. Stąd to powitanie wstrząsa nią w następnym wierszu: jest niesłychane.
-[^23]: **TEXT** — *wstrząsnęły nią do głębi*: Czasownik διεταράχθη oznacza głębokie poruszenie, wewnętrzny niepokój, nie samo zaskoczenie. Maria nie pyta z lęku o wiarygodność, lecz waży, rozumuje (διελογίζετο), co takie pozdrowienie może znaczyć.
-[^24]: **KONTEXT** — *tron jego praojca Dawida*: Anioł sięga po obietnicę daną Dawidowi: jego potomek zasiądzie na tronie, a królestwo jego utwierdzi się na wieki (2 Sm 7,12-16). Dla słuchacza to nie ogólnikowa wielkość, lecz konkretna zapowiedź: ten, kto miał odbudować upadły tron Dawida, właśnie się poczyna w łonie wiejskiej dziewczyny.
-[^25]: **KONTEXT** — *nad ludem Jakuba*: Lud Jakuba to Izrael, dwanaście pokoleń wywodzących się od patriarchy. Wieczne panowanie i królestwo bez końca to język mesjańskiej obietnicy: nie kolejny władca, lecz ten, którego tron trwa na zawsze.
-[^26]: **KONTEXT** — *Jak to się stanie*: Pytanie Marii to dociekanie, nie zwątpienie: pyta jak, nie skąd mam pewność. Jej zdziwienie odsłania też społeczną niemożliwość. Jest zaręczona, jeszcze dziewicą, a poczęcie teraz uczyniłoby z niej w oczach wioski cudzołożnicę.
-[^27]: **KONTEXT** — *cię okryje*: Czasownik ἐπισκιάσει, okryć cieniem, przywołuje obłok chwały, który okrył Namiot Spotkania, gdy napełniła go obecność Boga (Wj 40,35). Maria staje się nowym miejscem Bożej obecności: to, co spoczęło nad przybytkiem, teraz spoczywa na niej.
-[^28]: **TEXT** — *nie ma rzeczy niemożliwej*: Greckie ῥῆμα oznacza zarówno wypowiedziane słowo, jak i rzeczywistość, którą ono sprawia. U Boga słowo i jego spełnienie są jednym: to, co zapowiada, samo się staje, dlatego żadna obietnica anioła nie jest dla Niego niewykonalna.
-[^29]: **TEXT** — *Należę do Pana*: Maria nazywa siebie δούλη, służebnicą, niewolnicą Pana. To nie narzucona uległość wobec ludzi, lecz wybrana przez nią samą całkowita dyspozycyjność wobec Boga. Jej tak (γένοιτό μοι, niech mi się stanie) jest czynnym przyzwoleniem, nie biernym poddaniem.
-[^30]: **KONTEXT** — *w góry, do pewnego miasta w Judei*: Z Nazaretu w Galilei do judejskich wzgórz było około stu trzydziestu, stu sześćdziesięciu kilometrów, kilka dni uciążliwej drogi. Łukasz nie podaje nazwy miasta; tradycja wskazuje Ein Karem. Greckie μετὰ σπουδῆς, z pośpiechem, niesie naglącość: Maria wyrusza zaraz po słowach anioła, najpewniej by potwierdzić dany jej znak, że Elżbieta poczęła.
-[^31]: **TEXT** — *dziecko aż podskoczyło w jej łonie*: Czasownik ἐσκίρτησεν oznacza mocny skok, podrygnięcie, używano go o brykających jagniętach; to nie delikatny ruch. Nienarodzony Jan rozpoznaje nienarodzonego Jezusa, wypełniając zapowiedź Gabriela, że będzie napełniony Duchem już w łonie matki (Łk 1,15). Poprzednik wita Pana, zanim którykolwiek z nich się urodził.
-[^32]: **KONTEXT** — *Ze wszystkich kobiet to właśnie ciebie pobłogosławił Bóg*: Elżbieta nie mówi cicho: ἀνεφώνησεν κραυγῇ μεγάλῃ to prorocze, głośne zawołanie, nie wystudiowana grzeczność. Słowa błogosławiona między kobietami powtarzają to, co powiedziano o Jael (Sdz 5,24) i Judycie (Jdt 13,18), bohaterkach, przez które Bóg wybawił swój lud. Słuchacz słyszał w tym, że Maria dołącza do grona kobiet Izraela, którymi Bóg działał.
-[^33]: **KULTUR** — *matka mojego Pana przychodzi do mnie*: Tytuł matka mojego Pana jest zdumiewający: Elżbieta, starsza kobieta i żona kapłana, uznaje wyższość młodszej, prostej dziewczyny z Nazaretu i jej nienarodzonego dziecka. W świecie honoru i starszeństwa to ona winna być czczona, a tymczasem to ona oddaje cześć. Greckie κύριος, Pan, niesie jednocześnie sens mesjański i Boski.
-[^34]: **TEXT** — *Szczęśliwa jesteś, bo uwierzyłaś*: To formalne błogosławieństwo (μακαρία, szczęśliwa, błogosławiona, język błogosławieństw). Elżbieta chwali Marię za wiarę, nie za wyjątkowy status: uwierzyła słowu Pana, podczas gdy Zachariasz, jej własny mąż, zwątpił i oniemiał (Łk 1,20). Greckie τελείωσις to nie zwykłe spełnienie, lecz doprowadzenie obietnicy do pełni.
-[^35]: **KULTUR** — *razem z nią się cieszyli*: W tej społeczności bezdzietność uchodziła za hańbę, a nawet za znak Bożej niełaski. Narodziny syna w podeszłym wieku Elżbiety to publiczne zdjęcie tej hańby, dlatego sąsiedzi i krewni nie tylko gratulują, lecz wspólnie świętują Boże miłosierdzie. Greckie ἐμεγάλυνεν, okazał wielkie, niesie echo Bożego wielkiego działania.
-[^36]: **KONTEXT** — *Ósmego dnia przyszli na obrzezanie chłopca*: Obrzezanie ósmego dnia było nakazem Tory (Kpł 12,3), znakiem przymierza i formalnego wejścia chłopca do ludu Izraela. Obrzęd odbywał się w domu, jako wydarzenie wspólnotowe, i to przy nim nadawano dziecku imię. Społeczność oczekiwała, że syn dostanie imię po ojcu lub dziadku, co podtrzymywało tożsamość rodu, niejako Zachariasz młodszy.
-[^37]: **NAME** — *Będzie się nazywał Jan*: Hebrajskie imię Jan, יוֹחָנָן, Jochanan, znaczy JHWH okazał łaskę. Imię streszcza całą opowieść: Bóg okazał łaskę bezdzietnym staruszkom i swojemu ludowi. Zaskakujące jest też, że to matka rozstrzyga o imieniu, choć kobiety zwykle nie decydowały w tej sprawie; Elżbieta zna treść przesłania anioła.
-[^38]: **KULTUR** — *nikt nie nosi takiego imienia*: Imię spoza rodzinnej linii było szokujące: imiona po ojcach i dziadkach podtrzymywały ciągłość i tożsamość rodu. Odrzucenie imienia przodków sygnalizuje, że to dziecko ma nową, własną tożsamość, niesprowadzalną do rodzinnej tradycji. Zdziwienie budzi też to, że rozstrzyga kobieta.
-[^39]: **KULTUR** — *pewni, że to on rozstrzygnie*: Społeczność odwołuje się do Zachariasza, oczekując, że jako ojciec i mąż przeważy decyzję żony. Migi, na które się zwracają, sugerują, że Zachariasz był nie tylko niemy, lecz i głuchy. Spodziewane rozstrzygnięcie ojca na korzyść tradycji czyni jego potwierdzenie imienia Jan podwójnie zaskakującym.
-[^40]: **TEXT** — *Jan jest jego imię*: Greckie Ἰωάννης ἐστὶν użyte jest w czasie teraźniejszym: nie propozycja imienia, lecz stwierdzenie faktu, jakby imię już było ustalone, bo ustalił je Bóg przez anioła. Tabliczka, πινακίδιον, to mała drewniana deseczka powleczona woskiem. Zaskoczenie zebranych bierze się stąd, że ojciec, wbrew oczekiwaniom, potwierdza słowo matki.
-[^41]: **TEXT** — *otworzyły mu się usta*: Forma bierna ἀνεῴχθη, otworzyły się, to tak zwana strona bierna Boża: to Bóg otwiera usta Zachariasza. Stało się to παραχρῆμα, natychmiast, Łukaszowe słowo na nagłe Boże działanie. Czasownik ἐλάλει, mówił, jest niedokonany: nie jedno zdanie, lecz nieprzerwane uwielbienie. Pierwsze słowa po miesiącach milczenia to błogosławieństwo Boga, nie skarga.
-[^42]: **KONTEXT** — *Wszystkich sąsiadów ogarnął lęk*: Greckie φόβος to nie zwykły strach, lecz święta bojaźń wobec działania Boga. Świadkowie czują, że byli przy czymś nadprzyrodzonym: niemowa odzyskuje mowę, a imię zostaje nadane wbrew zwyczajowi. Wieść niesie się przez wzgórza Judei, przygotowując grunt pod przyszłą rolę Jana.
-[^43]: **TEXT** — *ręka Pana naprawdę była z nim*: Wyrażenie ręka Pana, χεὶρ κυρίου, to starotestamentowy idiom oznaczający Bożą moc i przychylność spoczywającą na kimś. Pytanie kim będzie to dziecko nie jest czczą ciekawością: świadkowie wyczuwają, że nad chłopcem czuwa sam Bóg, i że jest przeznaczony do czegoś wielkiego.
-[^44]: **TEXT** — *nabierał siły ducha*: Greckie ekrataiouto (umacniał się) stoi w stronie biernej i w czasie niedokonanym, wskazując na ciągłe umacnianie dokonywane przez Boga, a wzmianka o duchu pokazuje, że chodzi o dojrzewanie duchowe, a nie tylko fizyczne. Ten sam wzorzec opisuje dzieciństwo Jezusa w 2,40 i 2,52.
-[^45]: **KONTEXT** — *na pustkowiu*: Liczba mnoga (en tais eremois) oznacza nie martwą pustynię, lecz pustynne okolice, po których Jan się przemieszczał. Pustynia to w tradycji izraelskiej miejsce formowania proroków: tam kształtowali się Mojżesz, Eliasz i sam Izrael. Jan, choć syn kapłana, dojrzewa z dala od świątyni i instytucji religijnej, którą później wystąpi rozliczyć. Niektórzy łączą to z pobliską wspólnotą z Qumran, lecz Łukasz nie czyni takiego związku.
-[^46]: **TEXT** — *wystąpił publicznie*: Greckie anadeixis oznacza formalne, publiczne ustanowienie, oficjalne rozpoczęcie służby. Werset zamyka opowieść o narodzinach Jana i otwiera oczekiwanie na jego wystąpienie w rozdziale 3, odpowiadając na pytanie z 1,66: kim stanie się to dziecko? Czas tego wystąpienia wyznacza Bóg.
+[^1]: KONTEXT: „Naoczni świadkowie i słudzy słowa" – formalna rola w łańcuchu nauczania, znana z tradycji rabinackiej (nauczyciel → uczeń → nauczyciel) i greckiej filozofii. Autor oddaje hołd poprzednikom, nie podważa ich autorytetu.
+[^2]: KONTEXT: Tytuł κράτιστε (gr. „najmocniejszy", „najznakomitszy") oznaczał wysoką pozycję społeczną. Teofilus („miłujący Boga") prawdopodobnie sfinansował napisanie i dystrybucję tego dzieła – dedykacja przynosiła zaszczyt obu stronom.
+[^3]: TEXT: Greckie ἀσφάλεια (dosł. „stabilność, coś na czym można stanąć") nie oznacza agresywnej pewności wykluczającej pytania, lecz gruntowne podstawy dla wiary.
+[^4]: **KONTEXT** — *Heroda, króla Judei*: Herod Wielki (panował 37-4 p.n.e.) był Idumejczykiem, potomkiem Edomitów, ustanowionym królem przez Rzym. Wielu Żydów uważało go za obcego uzurpatora; znany był z paranoi i okrucieństwa wobec domniemanych rywali.
+[^5]: **KULTUR** — *oddziału Abiasza*: Oddział Abiasza był ósmym z dwudziestu czterech kapłańskich zmian ustanowionych według 1 Krn 24,10. Każda z nich pełniła służbę w świątyni po tygodniu, dwa razy w roku, oraz w czasie wielkich świąt.
+[^6]: **KULTUR** — *prosto od Aarona*: Pochodzenie obojga małżonków z rodu kapłańskiego, a Elżbiety wprost od Aarona, czyniło z nich w oczach społeczności dom podwójnie poświęcony. Właśnie to sprawia, że ich bezdzietność brzmi dla pierwszych słuchaczy jak domniemane przekleństwo, a nie zwykły brak.
+[^7]: **KONTEXT** — *prawi w oczach Boga*: Greckie dikaioi i amemptoi opisują wierność przymierzu i nienaganne zachowywanie Tory, a nie moralną doskonałość. Para jest przedstawiona jako wzór żydowskiej pobożności wobec obu tablic Prawa.
+[^8]: **KULTUR** — *nie mogła zajść w ciążę*: Bezdzietność niosła dla kobiety dotkliwe społeczne piętno, które często, wbrew prawości Elżbiety, obarczano właśnie żonę. Greckie steira przywołuje też wielkie biblijne opowieści o niepłodnych kobietach — Sarze, Rebece, Racheli, Annie — które po latach rodziły dzieci obietnicy.
+[^9]: **KULTUR** — *złożyć ofiarę z kadzidła*: Ofiarę z kadzidła składano w Miejscu Świętym dwa razy dziennie, a kapłan wchodził tam sam. O tym, komu przypadnie ten obowiązek, decydował los, dlatego dla wielu kapłanów była to chwila wyczekiwana przez całe życie i przeżywana tylko raz.
+[^10]: **KULTUR** — *po prawej stronie ołtarza*: Prawa strona oznaczała w tej kulturze przychylność i moc, dlatego umiejscowienie anioła sygnalizuje słuchaczowi, że niesie on łaskę, a nie sąd.
+[^11]: **KONTEXT** — *Twoja modlitwa została wysłuchana*: Czasownik w stronie biernej (eisekousthe) to tak zwana strona bierna boska, mówiąca, że to Bóg wysłuchał. Modlitwa kapłana sprawującego służbę obejmowała zarówno osobiste pragnienie potomka, jak i wstawiennictwo za odkupienie całego ludu, a odpowiedź anioła w wersetach 13-17 dotyczy obu.
+[^12]: **KONTEXT** — *Nie będzie pił wina ani niczego mocnego*: Powstrzymanie się od wina i napojów odurzających przypomina ślub nazireatu (Lb 6), znak całkowitego poświęcenia dla Boga, jak w przypadku Samsona i Samuela. Sygnalizuje to słuchaczowi, że Jan należy do Boga od samego początku.
+[^13]: **KONTEXT** — *w duchu i mocy Eliasza*: Prorok Malachiasz (Ml 3,23-24) zapowiadał powrót Eliasza przed wielkim dniem \nd Pana\nd*. Dla pierwszych słuchaczy zapowiedź ta oznaczała, że oto rozpoczyna się długo oczekiwany czas wypełnienia obietnic.
+[^14]: **HARM** — *Po czym mam poznać, że tak będzie*: Pytanie Zachariasza odpowiada pytaniu Abrahama z Rdz 15,8. Nawet człowiek prawy zmaga się z obietnicą, która wydaje się niemożliwa; nałożone milczenie jest tu karceniem i formowaniem, a nie potępieniem.
+[^15]: **NAME** — *Ja jestem Gabriel*: Gabriel to jeden z archaniołów stojących w obecności Boga, znany z Księgi Daniela (Dn 8-9). Imię znaczy mocarz Boga lub waleczny Boży. Wskazanie własnego imienia i miejsca przy Bogu nadaje słowom anioła najwyższą powagę.
+[^16]: **KULTUR** — *zdjął ze mnie hańbę*: Hańba (oneidos) Elżbiety odzwierciedla rzeczywiste społeczne piętno bezdzietności, a nie Boży wyrok. Tekst ją uniewinnia: jej niepłodność nigdy nie była moralną winą, a teraz zostaje publicznie zrehabilitowana.
+[^17]: **KONTEXT** — *Nazaretu*: Nazaret był drobną wioską liczącą może dwie, trzy setki mieszkańców, leżącą z dala od dróg władzy. Rzym nie znał tej nazwy. To, że Najwyższy wybiera dziewczynę z miejsca, którego nikt się nie spodziewał, otwiera Łukaszowy motyw odwrócenia: Bóg sięga po to, co małe i pominięte.
+[^18]: **KONTEXT** — *potomkiem króla Dawida*: Józef pochodził z rodu Dawida. W prawie żydowskim ojcostwo prawne, nie biologiczne, przekazywało dziedzictwo, więc to przez Józefa dziecko wchodzi w królewską linię Dawida, do której odnoszą się mesjańskie obietnice (2 Sm 7).
+[^19]: **KULTUR** — *zaręczyny*: Zaręczyny (μνηστεύω) były prawnie wiążące jak małżeństwo, choć para jeszcze nie mieszkała razem; zrywało je dopiero formalne oddalenie. Dziewczęta zaręczano zwykle w wieku dwunastu, czternastu lat. Ciąża w tym czasie ściągała podejrzenie o cudzołóstwo, przestępstwo zagrożone w Prawie karą śmierci. To jest stawka, którą słuchacz słyszał od razu: zgoda Marii groziła hańbą, oddaleniem, a w skrajnym razie życiem.
+[^20]: **TEXT** — *obdarzył łaską*: Greckie κεχαριτωμένη to imiesłów dokonany strony biernej: nie zwykłe powitanie, lecz tytuł, którym anioł nazywa Marię, ta, która została obdarowana łaską, z trwałym skutkiem. Orygenes zauważył, że takiego pozdrowienia nie ma nigdzie indziej w Piśmie. Stąd to powitanie wstrząsa nią w następnym wierszu: jest niesłychane.
+[^21]: **TEXT** — *wstrząsnęły nią do głębi*: Czasownik διεταράχθη oznacza głębokie poruszenie, wewnętrzny niepokój, nie samo zaskoczenie. Maria nie pyta z lęku o wiarygodność, lecz waży, rozumuje (διελογίζετο), co takie pozdrowienie może znaczyć.
+[^22]: **KONTEXT** — *tron jego praojca Dawida*: Anioł sięga po obietnicę daną Dawidowi: jego potomek zasiądzie na tronie, a królestwo jego utwierdzi się na wieki (2 Sm 7,12-16). Dla słuchacza to nie ogólnikowa wielkość, lecz konkretna zapowiedź: ten, kto miał odbudować upadły tron Dawida, właśnie się poczyna w łonie wiejskiej dziewczyny.
+[^23]: **KONTEXT** — *nad ludem Jakuba*: Lud Jakuba to Izrael, dwanaście pokoleń wywodzących się od patriarchy. Wieczne panowanie i królestwo bez końca to język mesjańskiej obietnicy: nie kolejny władca, lecz ten, którego tron trwa na zawsze.
+[^24]: **KONTEXT** — *Jak to się stanie*: Pytanie Marii to dociekanie, nie zwątpienie: pyta jak, nie skąd mam pewność. Jej zdziwienie odsłania też społeczną niemożliwość. Jest zaręczona, jeszcze dziewicą, a poczęcie teraz uczyniłoby z niej w oczach wioski cudzołożnicę.
+[^25]: **KONTEXT** — *cię okryje*: Czasownik ἐπισκιάσει, okryć cieniem, przywołuje obłok chwały, który okrył Namiot Spotkania, gdy napełniła go obecność Boga (Wj 40,35). Maria staje się nowym miejscem Bożej obecności: to, co spoczęło nad przybytkiem, teraz spoczywa na niej.
+[^26]: **TEXT** — *nie ma rzeczy niemożliwej*: Greckie ῥῆμα oznacza zarówno wypowiedziane słowo, jak i rzeczywistość, którą ono sprawia. U Boga słowo i jego spełnienie są jednym: to, co zapowiada, samo się staje, dlatego żadna obietnica anioła nie jest dla Niego niewykonalna.
+[^27]: **TEXT** — *Należę do PANa*: Maria nazywa siebie δούλη, służebnicą, niewolnicą Pana. To nie narzucona uległość wobec ludzi, lecz wybrana przez nią samą całkowita dyspozycyjność wobec Boga. Jej tak (γένοιτό μοι, niech mi się stanie) jest czynnym przyzwoleniem, nie biernym poddaniem.
+[^28]: **KULTUR** — *Zachariasza*: Zachariasz był kapłanem służącym w świątyni jerozolimskiej (por. 1:5). Kapłani zajmowali szanowaną pozycję społeczną.
+[^29]: **TEXT** — *Błogosławiona jesteś*: To sformułowanie nawiązuje do błogosławieństw Jael (Sdz 5:24) i Judyty (Jdt 13:18), bohaterek, które uratowały Izrael. Elżbieta stawia Marię w tej tradycji heroicznych kobiet.
+[^30]: **PAN** PAN (wielkimi literami) oznacza osobiste imię Boga, JHWH, Jahwe.
+[^31]: **jestem nikim** Dosł. „niski stan swojej służącej" (gr. ταπείνωσις τῆς δούλης) — nie cnota pokory, lecz rzeczywista pozycja społeczna. Maria jest młodą, biedną kobietą bez władzy, mieszkanką okupowanej Galilei.
+[^32]: **wierna miłość** Hebr. חֶסֶד (chesed) — coś więcej niż uczucie: trwała, wierna miłość przymierza, która nie zawodzi przez pokolenia.
+[^33]: **ramienia** Hebrajski idiom władzy Boga (por. Wj 6:6, Iz 52:10) — konkretny obraz siły, która wyzwala i sądzi.
+[^34]: **władców z tronów** Gr. δυνάστας (dynastas) — ci, którzy sprawują władzę polityczną. Pod okupacją rzymską pierwsi słuchacze słyszeli tu zapowiedź obalenia opresyjnych władców, także Heroda i Rzymu.
+[^35]: **Głodnych nasycił** Konkretne odwrócenie ekonomiczne. W Galilei pierwszego wieku niemal wszyscy chłopi żyli na granicy głodu, podczas gdy nieliczni bogaci kontrolowali ziemię i zasoby. To echo tradycji jubileuszowej (Kpł 25) — Bóg przywraca sprawiedliwość ekonomiczną.
+[^36]: **swój lud** Dosł. „dziecko jego" (gr. παιδὸς αὐτοῦ) — intymne określenie relacji przymierza.
+[^37]: **Obrzezanie ósmego dnia** — *KULTUR*: Znak przymierza z Bogiem i przyjęcie do ludu Izraela (Lev 12:3, Rdz 17:12). \fq KULTUR
+[^38]: **Jan** — *KULTUR*: Hebr. יוֹחָנָן (Yohanan), „JHWH okazał łaskę" – imię, które podsumowuje całą historię (Bovon, Fitzmyer, Eisele). \fq KULTUR
+[^39]: **ręka Pańska** — *TEXT*: Idiom ST wyrażający Bożą moc i przychylność (np. 1 Sm 5:6, Ezdr 7:6; BDAG 1082, Louw-Nida 76.4). \fq TEXT
+[^40]: PAN (wielkimi literami) oznacza osobiste imię Boga, JHWH, Jahwe.
+[^41]: **róg mocy** KULTURA: Róg wypełniony oliwą służył do namaszczania królów. Symbol siły i władzy królewskiej.
+[^42]: **KONTEXT:** Pustynia była miejscem formacji proroków w tradycji Izraela: Mojżesz spędził lata na Synaju, Eliasz w Beer-Szebie, sam lud Izraela podczas wyjścia z Egiptu. Jan przygotowywał się do swojej misji poza religijnymi instytucjami Jerozolimy.

@@ -4,11 +4,11 @@
   "lang": "AB-DE",
   "versions": [
     {
-      "id": "1a971fbbd56a",
-      "label": "2026-06-22 — publish: 5 updated",
-      "date": "2026-06-22T13:10:55+00:00",
+      "id": "4be00abb300e",
+      "label": "2026-07-02 — publish: 24 updated",
+      "date": "2026-07-02T19:58:15Z",
       "source_usfm_version": "v5.0.5",
-      "aperto_bible_sha": "1a971fbbd56a287d100237d1d107c77cb3d63f29",
+      "aperto_bible_sha": "4be00abb300ed4b6753e46b2d3f20a3261284ff7",
       "current": true,
       "passages": [
         {
@@ -70,9 +70,299 @@
       ]
     },
     {
+      "id": "db6cfb40b21e",
+      "label": "2026-07-02 — publish: 21 updated",
+      "date": "2026-07-02T12:29:56Z",
+      "source_usfm_version": "v5.3.0",
+      "aperto_bible_sha": "db6cfb40b21e3301fc4b7ee8a1f74c5a28ed457e",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_01_prologue",
+          "title": "An Theophilus",
+          "verse_start": 1,
+          "verse_end": 4
+        },
+        {
+          "pericope_id": "luke_01_zechariah_announcement",
+          "title": "Die Ankündigung der Geburt des Johannes",
+          "verse_start": 5,
+          "verse_end": 25
+        },
+        {
+          "pericope_id": "luke_01_annunciation_to_mary",
+          "title": "Die Ankündigung der Geburt Jesu",
+          "verse_start": 26,
+          "verse_end": 38
+        },
+        {
+          "pericope_id": "luke_01_visitation",
+          "title": "Maria besucht Elisabet",
+          "verse_start": 39,
+          "verse_end": 45
+        },
+        {
+          "pericope_id": "luke_01_magnificat",
+          "title": "Das Lied der Maria",
+          "verse_start": 46,
+          "verse_end": 56
+        },
+        {
+          "pericope_id": "luke_01_birth_and_naming",
+          "title": "Die Geburt des Johannes",
+          "verse_start": 57,
+          "verse_end": 66
+        },
+        {
+          "pericope_id": "luke_01_benedictus",
+          "title": "Das Lied des Zacharias",
+          "verse_start": 67,
+          "verse_end": 79
+        },
+        {
+          "pericope_id": "luke_01_coda",
+          "title": "Aufwachsen in der Wüste",
+          "verse_start": 80,
+          "verse_end": 80
+        }
+      ]
+    },
+    {
+      "id": "8fe9934255a3",
+      "label": "2026-07-01 — publish: 24 updated",
+      "date": "2026-07-01T04:08:48Z",
+      "source_usfm_version": "v5.2.0",
+      "aperto_bible_sha": "8fe9934255a30fd4d91d993fbd39ca95a378cc62",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_01_prologue",
+          "title": "An Theophilus",
+          "verse_start": 1,
+          "verse_end": 4
+        },
+        {
+          "pericope_id": "luke_01_zechariah_announcement",
+          "title": "Die Ankündigung der Geburt des Johannes",
+          "verse_start": 5,
+          "verse_end": 25
+        },
+        {
+          "pericope_id": "luke_01_annunciation_to_mary",
+          "title": "Die Ankündigung der Geburt Jesu",
+          "verse_start": 26,
+          "verse_end": 38
+        },
+        {
+          "pericope_id": "luke_01_visitation",
+          "title": "Maria besucht Elisabet",
+          "verse_start": 39,
+          "verse_end": 45
+        },
+        {
+          "pericope_id": "luke_01_magnificat",
+          "title": "Das Lied der Maria",
+          "verse_start": 46,
+          "verse_end": 56
+        },
+        {
+          "pericope_id": "luke_01_birth_and_naming",
+          "title": "Die Geburt des Johannes",
+          "verse_start": 57,
+          "verse_end": 66
+        },
+        {
+          "pericope_id": "luke_01_benedictus",
+          "title": "Das Lied des Zacharias",
+          "verse_start": 67,
+          "verse_end": 79
+        },
+        {
+          "pericope_id": "luke_01_coda",
+          "title": "Aufwachsen in der Wüste",
+          "verse_start": 80,
+          "verse_end": 80
+        }
+      ]
+    },
+    {
+      "id": "77fb655d48b3",
+      "label": "2026-06-30 — publish: 3 updated",
+      "date": "2026-06-30T14:17:44Z",
+      "source_usfm_version": "v5.1.0",
+      "aperto_bible_sha": "77fb655d48b3f3392ed8e4c59279a0f9aa04f588",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_01_prologue",
+          "title": "An Theophilus",
+          "verse_start": 1,
+          "verse_end": 4
+        },
+        {
+          "pericope_id": "luke_01_zechariah_announcement",
+          "title": "Die Ankündigung der Geburt des Johannes",
+          "verse_start": 5,
+          "verse_end": 25
+        },
+        {
+          "pericope_id": "luke_01_annunciation_to_mary",
+          "title": "Die Ankündigung der Geburt Jesu",
+          "verse_start": 26,
+          "verse_end": 38
+        },
+        {
+          "pericope_id": "luke_01_visitation",
+          "title": "Maria besucht Elisabet",
+          "verse_start": 39,
+          "verse_end": 45
+        },
+        {
+          "pericope_id": "luke_01_magnificat",
+          "title": "Das Lied der Maria",
+          "verse_start": 46,
+          "verse_end": 56
+        },
+        {
+          "pericope_id": "luke_01_birth_and_naming",
+          "title": "Die Geburt des Johannes",
+          "verse_start": 57,
+          "verse_end": 66
+        },
+        {
+          "pericope_id": "luke_01_benedictus",
+          "title": "Das Lied des Zacharias",
+          "verse_start": 67,
+          "verse_end": 79
+        },
+        {
+          "pericope_id": "luke_01_coda",
+          "title": "Aufwachsen in der Wüste",
+          "verse_start": 80,
+          "verse_end": 80
+        }
+      ]
+    },
+    {
+      "id": "4334ba76bc0b",
+      "label": "2026-06-24 — publish: 3 added, 30 updated",
+      "date": "2026-06-24T15:12:52Z",
+      "source_usfm_version": "v5.0.5",
+      "aperto_bible_sha": "4334ba76bc0bda4d2892c2493491b90a7f2d58bb",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_01_prologue",
+          "title": "An Theophilus",
+          "verse_start": 1,
+          "verse_end": 4
+        },
+        {
+          "pericope_id": "luke_01_zechariah_announcement",
+          "title": "Die Ankündigung der Geburt des Johannes",
+          "verse_start": 5,
+          "verse_end": 25
+        },
+        {
+          "pericope_id": "luke_01_annunciation_to_mary",
+          "title": "Die Ankündigung der Geburt Jesu",
+          "verse_start": 26,
+          "verse_end": 38
+        },
+        {
+          "pericope_id": "luke_01_visitation",
+          "title": "Maria besucht Elisabet",
+          "verse_start": 39,
+          "verse_end": 45
+        },
+        {
+          "pericope_id": "luke_01_magnificat",
+          "title": "Das Lied der Maria",
+          "verse_start": 46,
+          "verse_end": 56
+        },
+        {
+          "pericope_id": "luke_01_birth_and_naming",
+          "title": "Die Geburt des Johannes",
+          "verse_start": 57,
+          "verse_end": 66
+        },
+        {
+          "pericope_id": "luke_01_benedictus",
+          "title": "Das Lied des Zacharias",
+          "verse_start": 67,
+          "verse_end": 79
+        },
+        {
+          "pericope_id": "luke_01_coda",
+          "title": "Aufwachsen in der Wüste",
+          "verse_start": 80,
+          "verse_end": 80
+        }
+      ]
+    },
+    {
+      "id": "1a971fbbd56a",
+      "label": "2026-06-22 — publish: 5 updated",
+      "date": "2026-06-22T13:10:55Z",
+      "source_usfm_version": "v5.0.5",
+      "aperto_bible_sha": "1a971fbbd56a287d100237d1d107c77cb3d63f29",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_01_prologue",
+          "title": "An Theophilus",
+          "verse_start": 1,
+          "verse_end": 4
+        },
+        {
+          "pericope_id": "luke_01_zechariah_announcement",
+          "title": "Die Ankündigung der Geburt des Johannes",
+          "verse_start": 5,
+          "verse_end": 25
+        },
+        {
+          "pericope_id": "luke_01_annunciation_to_mary",
+          "title": "Die Ankündigung der Geburt Jesu",
+          "verse_start": 26,
+          "verse_end": 38
+        },
+        {
+          "pericope_id": "luke_01_visitation",
+          "title": "Maria besucht Elisabet",
+          "verse_start": 39,
+          "verse_end": 45
+        },
+        {
+          "pericope_id": "luke_01_magnificat",
+          "title": "Das Lied der Maria",
+          "verse_start": 46,
+          "verse_end": 56
+        },
+        {
+          "pericope_id": "luke_01_birth_and_naming",
+          "title": "Die Geburt des Johannes",
+          "verse_start": 57,
+          "verse_end": 66
+        },
+        {
+          "pericope_id": "luke_01_benedictus",
+          "title": "Das Lied des Zacharias",
+          "verse_start": 67,
+          "verse_end": 79
+        },
+        {
+          "pericope_id": "luke_01_coda",
+          "title": "Aufwachsen in der Wüste",
+          "verse_start": 80,
+          "verse_end": 80
+        }
+      ]
+    },
+    {
       "id": "7e8b6a9cc252",
       "label": "2026-06-22 — publish: 9 updated",
-      "date": "2026-06-22T04:18:17+00:00",
+      "date": "2026-06-22T04:18:17Z",
       "source_usfm_version": "v5.0.5",
       "aperto_bible_sha": "7e8b6a9cc252e01fcf784f2bd8da4c4c08cc2495",
       "current": false,
@@ -130,7 +420,7 @@
     {
       "id": "33005039537a",
       "label": "2026-06-21 — publish: 5 updated",
-      "date": "2026-06-21T05:40:36+00:00",
+      "date": "2026-06-21T05:40:36Z",
       "source_usfm_version": "v5.0.5",
       "aperto_bible_sha": "33005039537a7577362cd1e26bc32faebb973e0d",
       "current": false,
@@ -188,7 +478,7 @@
     {
       "id": "6aec45950af8",
       "label": "2026-06-18 — publish: 2 updated",
-      "date": "2026-06-18T17:50:49+00:00",
+      "date": "2026-06-18T17:50:49Z",
       "source_usfm_version": "v5.0.5",
       "aperto_bible_sha": "6aec45950af895d4888dc3cac6fb759760542183",
       "current": false,
@@ -246,7 +536,7 @@
     {
       "id": "082182becb44",
       "label": "2026-06-17 — publish: 2 updated",
-      "date": "2026-06-17T13:43:35+00:00",
+      "date": "2026-06-17T13:43:35Z",
       "source_usfm_version": "v5.0.5",
       "aperto_bible_sha": "082182becb4465f699190fdd7e5de14f1ba02cde",
       "current": false,
@@ -304,7 +594,7 @@
     {
       "id": "9376986d5638",
       "label": "2026-06-16 — publish: 1 updated",
-      "date": "2026-06-16T15:05:13+00:00",
+      "date": "2026-06-16T15:05:13Z",
       "source_usfm_version": "v5.0.4",
       "aperto_bible_sha": "9376986d5638cc24869a1cbfdbdfc010e86e6b19",
       "current": false,
@@ -362,7 +652,7 @@
     {
       "id": "39ef4df82704",
       "label": "2026-06-12 — publish: 1 updated",
-      "date": "2026-06-12T10:09:00+00:00",
+      "date": "2026-06-12T10:09:00Z",
       "source_usfm_version": "v5.0.1",
       "aperto_bible_sha": "39ef4df827048038a832b63b745e21aa13e48394",
       "current": false,

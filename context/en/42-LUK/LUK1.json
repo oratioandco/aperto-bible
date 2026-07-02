@@ -5,198 +5,146 @@
   "byVerse": {
     "3": [
       {
-        "term": "kratiste_theophilus",
-        "rendering": "Renders κράτιστε as 'most honored Theophilus' rather than flattening to 'dear' or 'excellent.' The honorific keeps the social weight of a patron dedication visible — Theophilus is being publicly honored in writing, the way first-century dedications worked.",
-        "tradeOff": "A modern reader may not immediately register 'most honored' as a status-tier address rather than warm courtesy, but anything weaker (dear/respected) drains the honor-transaction the original would have signaled.",
+        "term": "theophilus_dedication",
+        "rendering": "The Greek κράτιστε is rendered 'most honored Theophilus', keeping the honorific weight that signals high social standing without turning the sentence into a reader-directed explanation of Roman patronage. Following the reviewer note that this pericope is a dedication addressed to Theophilus, no in-line illumination about who Theophilus was is added; the direct address stays intact and any 'whose patronage…' gloss is off-loaded to a footnote.",
+        "tradeOff": "A reader with no historical background may not catch the patronage transaction sitting behind the honorific. That context is pushed to a footnote rather than smuggled into direct address, which preserves the pericope's form (a written dedication, second-person throughout) at the cost of unglossed cultural weight.",
         "confidence": 4
-      },
-      {
-        "term": "parekolouthekoti",
-        "rendering": "Renders παρηκολουθηκότι as 'having traced the whole course of it carefully from the start,' unpacking the verb's investigative force rather than collapsing to 'having investigated' or 'having followed.' Keeps Luke's claim to thorough source-work visible.",
-        "tradeOff": "Slightly longer than a one-word gloss; gains the historian's posture the verb carries.",
-        "confidence": 3
-      }
-    ],
-    "4": [
-      {
-        "term": "asphaleia",
-        "rendering": "Renders ἀσφάλεια concretely as 'how firm the ground is beneath the things you were taught' — keeps the spatial/foundational metaphor instead of abstracting to 'certainty' or 'truth.' The reader feels something to stand on.",
-        "tradeOff": "More words than 'the certainty of what you were taught'; the image is worth it because Luke's whole prologue is an argument for solid footing.",
-        "confidence": 4
-      }
-    ],
-    "7": [
-      {
-        "term": "barrenness_no_moralization",
-        "rendering": "Renders the childlessness as a plain physical fact ('Elizabeth could not have children, and by now both of them were old') with no moral or theological coloring. Pairs with v.25's vindication so the chapter never lets barrenness read as divine judgment.",
-        "tradeOff": "None — the text itself refuses the shame framing; translation must not reintroduce it.",
-        "confidence": 5
       }
     ],
     "9": [
       {
-        "term": "once_in_a_lifetime_lot",
-        "rendering": "Adds 'Out of a whole lifetime, this was his one turn' to land the once-in-a-lifetime honor of being chosen by lot to burn incense. Without it, modern readers hear only 'he went in and burned incense' and miss why this moment carries such weight.",
-        "tradeOff": "An explicit amplification that the Greek leaves to cultural assumption; justified because the encounter with Gabriel only lands at full force if the reader feels the rarity of the priestly assignment.",
+        "term": "sanctuary_of_the_lord_and_once_in_a_lifetime",
+        "rendering": "κυρίου is kept as 'the Lord' (definite YHWH-context, following the language's guideline for the Tetragrammaton in Temple settings, not a generic address), and the verse adds a short in-body clause — 'Out of a whole lifetime, this was his one turn.' — so the reader feels the weight of what is happening. Casting lots is left visible as 'the lot fell to him', keeping the Temple procedure on the page.",
+        "tradeOff": "The added 'out of a whole lifetime' clause is a small amplification not in the Greek; without it a modern reader has no idea that being chosen to burn incense was a once-in-a-priestly-lifetime honor and Zechariah's fear in v.12 lands as thin. We accept the amplification because the honor/shame stakes are on the must-land list.",
         "confidence": 4
       }
     ],
-    "15": [
+    "19": [
       {
-        "term": "nazirite_abstention",
-        "rendering": "Keeps 'wine or strong drink' (σίκερα) as a doubled phrase and frames it as a binding 'must never' rather than a generic 'will not.' The Nazirite/prophetic vow flavor stays audible.",
-        "tradeOff": "Modern English doesn't use 'strong drink' colloquially anymore; preserved because collapsing to 'alcohol' loses the biblical-vow register and the echo of Samson/Samuel.",
+        "term": "gabriel_self_presentation",
+        "rendering": "In response to the reviewer note that a prior illumination felt redundant, the verse is left as Gabriel's plain self-identification: 'I am Gabriel. I stand in the presence of God, and I was sent to speak to you and bring you this good news.' The angel's authority is carried by the title itself; no added gloss on what 'standing in the presence of God' meant in Second Temple angelology.",
+        "tradeOff": "A reader without background will not automatically feel the weight of Gabriel's rank (Daniel 8–9). We trade that historical resonance for readability and trust the surrounding narrative — the fear in v.12, the silencing in v.20 — to carry the force.",
         "confidence": 4
       }
     ],
-    "17": [
+    "20": [
       {
-        "term": "parents_not_fathers",
-        "rendering": "Renders 'turn the hearts of parents back to their children' rather than 'fathers to their children.' The Malachi quotation in context is about family reconciliation broadly; 'parents' lets the verse land for mothers in the room too without distorting the Hebrew.",
-        "tradeOff": "Loses the literal πατέρων = 'fathers'; gains accuracy for a household-reconciliation promise that modern readers in single-mother households can hear themselves inside of.",
-        "confidence": 3
+        "term": "you_will_be_silent",
+        "rendering": "Reworked in response to the reviewer note that the earlier phrasing did not land at message level: 'And now, listen: you will be silent, unable to say a word, until the day this happens, because you did not believe my words, which will come true at their appointed time.' The 'And now, listen' opens the second half as spoken judgment, the doubled 'silent, unable to say a word' lands the completeness of the punishment, and 'at their appointed time' preserves the eschatological force of καιρός.",
+        "tradeOff": "The rendering runs a hair longer than the Greek and uses a mild doublet where the Greek has two distinct verbs (σιωπῶν and μὴ δυνάμενος λαλῆσαι). We accept the small expansion because the reviewer's point — that this sentence needs to feel spoken, not translated — outweighs a tighter but flatter line.",
+        "confidence": 4
+      }
+    ],
+    "22": [
+      {
+        "term": "he_stayed_mute",
+        "rendering": "The verse keeps the light illumination the reviewer praised: 'He kept making signs to them but stayed mute.' The imperfect force of διανεύων is carried by 'kept making signs', and 'stayed mute' names the ongoing state the crowd is now watching, so the tension between priestly duty and enforced silence stays visible.",
+        "tradeOff": "None — the illumination is minimal, the reviewer confirmed it lands, and the phrasing keeps the pericope's arc (priest goes in, priest cannot speak the blessing when he comes out).",
+        "confidence": 5
       }
     ],
     "25": [
       {
-        "term": "shame_carried_publicly",
-        "rendering": "Renders ὄνειδος as 'the shame I carried in front of everyone' — names the shame as a social load that other people imposed on Elizabeth, not as a moral stain she deserved. Vindicates her without moralizing infertility.",
-        "tradeOff": "Slightly more interpretive than 'reproach' or 'disgrace'; needed to keep the harm-history warning honored (the text must not be allowed to read as 'God finally fixed her defect').",
-        "confidence": 5
-      }
-    ],
-    "26": [
-      {
-        "term": "nazareth_nowhere",
-        "rendering": "Adds 'a place no one important had ever heard of' to Nazareth. The original audience knew Nazareth as a backwater of 200–400 peasants; modern readers know it only as a Christmas-card name. The amplification restores the marginality that makes God's choice scandalous.",
-        "tradeOff": "An explicit gloss that the Greek leaves implicit. Justified because the reversal theme of the whole chapter only begins to operate if Nazareth registers as nowhere.",
+        "term": "shame_i_carried",
+        "rendering": "ὄνειδος is rendered 'the shame I carried in front of everyone' — Elizabeth's own first-person testimony of vindication, not the narrator's verdict on infertility. The Lord 'looked on me' keeps the covenant echo of the Genesis barren-women stories without importing the shame vocabulary onto Elizabeth herself.",
+        "tradeOff": "'Shame' has a moralized ring in modern English that ὄνειδος does not strictly carry; some readers may hear personal guilt where the text is naming external social stigma. We keep it because 'disgrace' and 'reproach' either flatten the emotional weight or sound ecclesial, and 'in front of everyone' fixes the locus of the shame outside Elizabeth.",
         "confidence": 4
       }
     ],
     "27": [
       {
-        "term": "betrothal_danger_amplified",
-        "rendering": "Amplifies the betrothal note with the full social stakes: 'The pledge was binding, as good as marriage… For a girl in her position, a pregnancy now would look like only one thing, betrayal, and a betrothed girl found pregnant could be denounced, cast off, even stoned.' This is the offense the original audience felt and modern readers miss entirely.",
-        "tradeOff": "A heavy amplification — easily the longest in the chapter — that lengthens the verse considerably and risks reading as commentary. Kept because the friction is non-negotiable per the must-land brief: Mary's 'yes' has no weight unless the danger is on the page.",
-        "confidence": 5
+        "term": "betrothal_danger_illumination",
+        "rendering": "The reviewer flagged that the earlier illumination broke the sentence flow into v.28. The illumination is kept because the honor/shame stake — a pregnancy now would read as adultery and could get Mary killed — is a must-land item, but it is set inside its own two sentences after 'though she had never slept with a man', so the closing 'Her name was Mary.' can still land as the sentence's punchline. The pledge is described in modern terms ('as good as marriage'), and the escalation 'denounced, cast off, even stoned' names the actual social danger without a footnote.",
+        "tradeOff": "The verse visibly holds an illumination inside it and some flow into v.28 is still sacrificed. Moving the danger to a footnote was rejected because the reader has to feel the cost of Mary's yes in v.38; burying that context in a footnote flattens both v.34 and v.38.",
+        "confidence": 3
+      }
+    ],
+    "28": [
+      {
+        "term": "chaire_rejoice",
+        "rendering": "The reviewer asked whether 'Rejoice!' is archaic. It is kept: 'Rejoice! God has poured out his favor on you, and it rests on you still.' Χαῖρε is a formal greeting whose surface meaning is exactly a call to rejoice, and Luke is trading on both senses; 'Hello' or 'Greetings' loses the joy, 'Hi' is anachronistic, and this is a divine greeting, not a casual hello.",
+        "tradeOff": "'Rejoice' carries a slightly elevated register in modern English. We accept that because it is the exact register the verse is trading on — a divine summons that is also a greeting — and the follow-through ('God has poured out his favor on you, and it rests on you still') keeps the sentence firmly contemporary.",
+        "confidence": 3
       }
     ],
     "34": [
       {
-        "term": "mary_knows_the_cost",
-        "rendering": "Adds 'She knew what such a pregnancy would cost her, and still she stayed in the conversation' after Mary's question. Frames her virtue as faith-response under known danger, not naïveté or merely physical virginity.",
-        "tradeOff": "An interpretive expansion the Greek leaves implicit; justified by the harm-history concern that this text has been weaponized to valorize physical virginity rather than Mary's costly faith.",
-        "confidence": 4
-      }
-    ],
-    "35": [
-      {
-        "term": "episkiazo_tabernacle",
-        "rendering": "Renders ἐπισκιάσει with the tabernacle allusion made explicit: 'the power of the Most High will settle over you, the way God's presence once filled the tent of meeting.' Modern readers don't hear the Exodus 40 echo from 'overshadow' alone.",
-        "tradeOff": "An exegetical gloss inside the running text rather than a footnote; warranted because the conception scene's whole register is Shekinah-language and the echo carries the theology.",
-        "confidence": 4
-      }
-    ],
-    "38": [
-      {
-        "term": "marys_yes_as_self_gift",
-        "rendering": "Renders ἰδοὺ ἡ δούλη κυρίου as 'I am the Lord's servant. I give myself to this' — separates the self-identification from a verbal handover, making Mary's consent active rather than passive ('let it be done to me').",
-        "tradeOff": "Slightly more agentive than the Greek middle-voice; preserved because Mary's virtue per the brief is her faith-response, and the traditional 'let it be done' has hardened into passivity.",
-        "confidence": 4
-      }
-    ],
-    "45": [
-      {
-        "term": "teleiosis_completion",
-        "rendering": "Renders τελείωσις as 'brought to its full completion' rather than 'fulfilled.' The verbal noun keeps the sense of a process being driven all the way to its end, which Luke uses programmatically.",
-        "tradeOff": "Marginally heavier than 'fulfilled'; gains the trajectory.",
+        "term": "how_can_this_happen",
+        "rendering": "Mary's question is rendered plainly — 'How can this happen when I have never slept with a man?' — followed by a brief prose illumination: 'She knew what such a pregnancy would cost her, and still she stayed in the conversation.' In response to the reviewer note that the earlier version had missing spaces and unmarked illumination, this pass sets the illumination as its own sentence with clean breaks so it reads as narrative amplification, not as a footnote pretending to be dialogue.",
+        "tradeOff": "The illumination amplifies what the Greek only implies. Without it Mary's yes in v.38 reads as easy compliance; with it the honor/shame stakes are visible in the running text as both the reviewer feedback and the must-land list require. The cost is a slight softening of Mary's own laconic question.",
         "confidence": 3
       }
     ],
-    "46": [
+    "42": [
       {
-        "term": "magnificat_opening",
-        "rendering": "Opens with 'Everything in me celebrates God. / My spirit dances over the One who saves me' — chooses kinetic verbs (celebrates/dances) over the ecclesial 'magnifies/rejoices.' Holds Mary's song as embodied joy, not liturgical formula.",
-        "tradeOff": "Loses the lectionary cadence that older translations carry; gains a Mary who actually sounds like a peasant girl bursting into song.",
+        "term": "of_all_women",
+        "rendering": "The traditional 'Blessed are you among women' is recast as 'Of all women, you are the one God has blessed', which preserves the elative sense of ἐν γυναιξίν as a Semitic superlative without setting up the phrase that has been used to shame women who are not mothers. The parallel about the child follows in its own clause so the two blessings are heard as one paired declaration.",
+        "tradeOff": "The traditional Ave-liturgy cadence is lost — a real cost for readers who know the phrase from prayer. We accept it because the harm-history note on the phrase is explicit in the rationale and the alternative rendering carries the theological content without the ambient shaming.",
         "confidence": 4
       }
     ],
     "48": [
       {
-        "term": "tapeinosis_a_nobody",
-        "rendering": "Renders ταπείνωσιν as 'a servant girl, a nobody.' Doubles the term — first the social role, then the social value — so the reversal hits both registers. 'Low estate' or 'humble state' is too genteel for what Mary is naming.",
-        "tradeOff": "'A nobody' is a colloquial choice that some readers will find too informal; justified because Mary is naming her actual status in a Galilean village, not striking a humility-pose.",
-        "confidence": 4
-      }
-    ],
-    "51": [
-      {
-        "term": "aorist_staccato",
-        "rendering": "Breaks the Greek aorist string into three short clauses: 'He has acted. In raw strength. With his arm.' The staccato rhythm carries the prophetic-perfect force that a single flowing sentence would smooth away.",
-        "tradeOff": "Heavily unusual punctuation for a biblical text; gains the percussive weight the aorist verbs carry as Mary moves from personal to cosmic reversal.",
+        "term": "servant_girl_a_nobody",
+        "rendering": "ταπείνωσις is rendered as 'a servant girl, a nobody', a two-beat amplification that lands the low-status reality the surrounding narrative has been setting up (Nazareth, peasant class, unmarried pregnancy). The traditional 'lowliness' or 'humble state' is avoided because in modern English those read as inner humility rather than social invisibility.",
+        "tradeOff": "'A nobody' is punchy and colloquial in a way the Greek noun is not; some register drop is real. The gain is that the reversal in vv.52–53 has someone specific to stand on — Mary is not humble in the abstract, she is socially invisible — and the class-reversal must-land is visible from the song's opening line.",
         "confidence": 4
       }
     ],
     "52": [
       {
-        "term": "kathaireo_dragged_down",
-        "rendering": "Renders καθεῖλεν as 'dragged the powerful down from their thrones' rather than the genteel 'brought down' or 'put down.' The verb is forcible and the social-reversal brief demands the violence of the verb stay audible.",
-        "tradeOff": "'Dragged' is stronger than the lexicon-minimum gloss; chosen because the Magnificat is political and softening it has been the long historical pattern.",
+        "term": "magnificat_reversal_verbs",
+        "rendering": "The reversal couplet is pushed to concrete, physical verbs so the must-land economic and political overturn is felt: 'He has dragged the powerful down from their thrones / and lifted up the ones beneath everyone's feet.' The parallelism is kept tight so the two clauses hit as a matched pair; 'beneath everyone's feet' names ταπεινούς by social position, matching the reading of ταπείνωσις in v.48.",
+        "tradeOff": "'Dragged' is stronger than καθεῖλεν strictly demands and 'beneath everyone's feet' amplifies ταπεινούς. We accept the friction because a gentler rendering ('brought down', 'the humble') lets the modern reader hear a spiritual metaphor rather than the political and economic reversal the text names.",
         "confidence": 4
       }
     ],
     "53": [
       {
-        "term": "economic_reversal_concrete",
-        "rendering": "Keeps 'the hungry he has filled with good things, and the rich he has sent away with empty hands' as a sharp economic reversal — no spiritualizing of 'hungry' to 'spiritually hungry,' no abstraction of 'rich' to 'self-satisfied.' The Jubilee/economic edge is preserved.",
-        "tradeOff": "None — the brief is explicit that this is concrete economic reversal and must read that way.",
+        "term": "hungry_filled_rich_empty",
+        "rendering": "The economic couplet is kept as a matched pair with symmetrical verbs and no softening: 'The hungry he has filled with good things, / and the rich he has sent away with empty hands.' 'Sent away with empty hands' preserves the concreteness of κενούς (physically empty, hands empty) rather than 'sent them away empty', which lands as an idiom drained of image.",
+        "tradeOff": "None — the parallelism is preserved, the register matches the surrounding poetry, and the must-land economic reversal is unambiguous in the running text without a footnote.",
         "confidence": 5
       }
     ],
     "60": [
       {
         "term": "elizabeth_cuts_in",
-        "rendering": "Renders Elizabeth's intervention as 'But his mother cut in. \"No,\" she said. \"He is to be called John.\" She would not be talked out of it.' Amplifies her agency over the naming — a woman overriding family convention is the shock the original community felt.",
-        "tradeOff": "Adds a sentence ('She would not be talked out of it') the Greek doesn't have; justified because the must-land brief calls for the gender shock to be felt and modern readers won't catch it from a flat 'his mother answered.'",
+        "rendering": "'But his mother cut in. »No,« she said. »He is to be called John.« She would not be talked out of it.' The interjection and the closing sentence land the shock the rationale names — a woman breaking the family-naming convention in front of neighbors and relatives — without an explanatory footnote-in-prose.",
+        "tradeOff": "'Cut in' and 'would not be talked out of it' are modern conversational idiom, a step down in register from the surrounding narrative. We accept it because the surprise of the moment — the community's assumption is being overridden by the mother — has to be felt as social friction, not read as a neutral report.",
         "confidence": 4
       }
     ],
-    "63": [
+    "71": [
       {
-        "term": "community_astonishment",
-        "rendering": "Adds 'to everyone's astonishment' before Zechariah writes 'His name is John.' Makes the breach of naming convention visible as a public surprise rather than a quiet detail.",
-        "tradeOff": "Mild amplification; preserves the dramatic tension Bovon identifies (will Zechariah override Elizabeth or confirm her?).",
-        "confidence": 3
-      }
-    ],
-    "68": [
-      {
-        "term": "lytrosis_bought_back",
-        "rendering": "Renders ἐποίησεν λύτρωσιν as 'has come to his people and bought them back' rather than 'redeemed' or 'visited and redeemed.' Keeps the ransom-from-bondage image audible; 'redeemed' has gone abstract in modern usage.",
-        "tradeOff": "'Bought back' is concrete commercial language some readers will find jarring; that concreteness is exactly what the Greek carries and what 'redeemed' has lost.",
+        "term": "rescue_from_our_enemies",
+        "rendering": "σωτηρίαν ἐξ ἐχθρῶν ἡμῶν is rendered as a direct, political-sounding line — 'rescue from our enemies, / out of the grip of everyone who hates us' — rather than spiritualized. The Benedictus is a first-century Jewish prayer under Roman occupation, and the must-land item is that hearers heard national liberation, not private forgiveness (which arrives, distinctly, in v.77).",
+        "tradeOff": "The line's political edge can make a modern Christian reader uncomfortable if they expect only 'spiritual salvation'. We accept that discomfort because it is exactly the historical friction the rationale flags; softening it collapses the two-part structure of the song (national deliverance in vv.68–75, forgiveness through John in vv.76–79).",
         "confidence": 4
       }
     ],
     "78": [
       {
-        "term": "splanchna_gut_deep",
-        "rendering": "Renders σπλάγχνα ἐλέους as 'the gut-deep mercy of our God' — keeps the visceral organ-language ('bowels of mercy') without the archaism. Mercy here is bodily, not a courtroom transaction.",
-        "tradeOff": "'Gut-deep' is colloquial; chosen because the Greek points to viscera, and any abstraction ('tender mercy,' 'compassion') flattens the embodied register.",
+        "term": "splanchna_gut_deep_mercy",
+        "rendering": "σπλάγχνα ἐλέους is rendered 'the gut-deep mercy of our God', which keeps the physicality of σπλάγχνα (bowels, viscera — the seat of the emotion in first-century anatomy) that 'tender mercy' softens into sentiment. The 'Dawn from on high' that follows keeps its titular capitalization to preserve the messianic reference.",
+        "tradeOff": "'Gut-deep' is deliberately body-anchored and colloquial — for some readers it will feel too informal against the surrounding Benedictus register. We take the hit because Luke is deliberately naming the seat of the emotion in the body, and 'tender mercy' has been so overused it now reads as pious wallpaper.",
         "confidence": 4
-      },
+      }
+    ],
+    "79": [
       {
-        "term": "anatole_dawn",
-        "rendering": "Renders ἀνατολή as 'the Dawn from on high will break over us' — keeps the sunrise image (and the messianic-shoot resonance behind it) rather than 'the rising sun' or a vague 'morning light.' Pairs with v.79's people sitting in darkness.",
-        "tradeOff": "Capitalized 'Dawn' makes the messianic edge more pointed than the Greek strictly requires; preserved because the image is the engine of the Benedictus's closing couplet.",
+        "term": "road_that_leads_to_peace",
+        "rendering": "ὁδὸν εἰρήνης is rendered 'the road that leads to peace' rather than 'the way of peace'. 'Road' preserves the physical journey image the Benedictus is building (Dawn breaking, feet set on a road), and 'that leads to peace' names peace as the destination — which the rationale flags as the song's final word after all the reversal language.",
+        "tradeOff": "'Way of peace' has liturgical familiarity that 'road that leads to peace' gives up. We accept that loss because after the militant-sounding vv.71–74 the reader needs to see peace as the road's actual endpoint, not as an abstract manner of walking.",
         "confidence": 4
       }
     ],
     "80": [
       {
-        "term": "anadeixis_stepped_into_open",
-        "rendering": "Renders ἀναδείξεως αὐτοῦ as 'until the day he stepped into the open before Israel' rather than 'until the day of his showing/manifestation.' Keeps the moment as a public emergence with named audience; preserves the unresolved 'what then will this child become?' tension by closing on a deferred reveal.",
-        "tradeOff": "Slightly more cinematic than the Greek's nominal phrase; gains a closing image that holds chapter 1's narrative cliffhanger until chapter 3.",
-        "confidence": 4
+        "term": "stepped_into_the_open",
+        "rendering": "ἀναδείξεως αὐτοῦ πρὸς τὸν Ἰσραήλ is rendered 'until the day he stepped into the open before Israel'. ἀνάδειξις is a public-installation term; 'stepped into the open' keeps the physical fact (John emerges from the wilderness) alongside the public-appearance sense, and 'before Israel' names the audience without importing later ecclesial vocabulary.",
+        "tradeOff": "None — the rendering is idiomatic modern English, carries both meanings, and deliberately leaves the question the rationale wants left open ('what will this child become?', v.66) unanswered until Luke 3.",
+        "confidence": 5
       }
     ]
   }

@@ -5,287 +5,415 @@
   "byVerse": {
     "1": [
       {
-        "term": "prologue_register_and_patron_dedication",
-        "rendering": "The pericope opens with the address up front — »Verehrter Theophilus!« — and renders the Greek historian-style preamble in a deliberately elevated, formal register that stands apart from the everyday tone of the rest of the book (»es unternommen, einen zusammenhängenden Bericht über all das niederzuschreiben, was sich unter uns erfüllt und vollendet hat«). The κράτιστε honorific is carried by »hochverehrter Theophilus« in v3, preserving the social transaction of a patron dedication.",
-        "tradeOff": "We deliberately do NOT smooth the prologue into the colloquial register HFA uses; we keep the literary contrast with the rest of Luke so the reader feels a Greek preface, even at the cost of a heavier opening sentence.",
+        "term": "epecheirēsan",
+        "rendering": "»Schon viele haben es unternommen« — »unternommen« hält die formale, literarische Note (nicht das schwächere »versucht«) und stellt Lukas in die Reihe antiker Geschichtsschreiber von Thukydides bis Josephus, ohne die Vorgänger abzuwerten.",
+        "tradeOff": "Der Entwurf trug ein explizites »vor mir«, um Lukas ausdrücklich in die Linie zu stellen; die Livefassung lässt es weg, weil die Widmungsform und der Auftakt die Einordnung schon tragen und »vor mir« als kleiner Überstand las.",
+        "confidence": 4
+      },
+      {
+        "term": "prologue_periodic_period",
+        "rendering": "Der Prologus wird nicht als einziger periodischer Schausatz wiedergegeben, sondern als moderne Widmung eröffnet (»Verehrter Theophilus!«), gefolgt von einer geordneten subordinierten Periode vv.1–3 und einem eigenständigen Landesatz v.4 (»Was man dir erzählt hat, steht auf festem Grund«). So bleibt die Historikersprache erkennbar, ohne den deutschen Leser mit einem Bandwurmsatz zu erschlagen.",
+        "tradeOff": "Ein einzelner deutscher Periodensatz (wie im Griechischen) hätte die kunstvolle Form direkt gespiegelt, wäre aber im modernen Deutsch als altertümlich-akademisch gelesen worden; die aufgeteilte Fassung opfert die formale Einheit für Lesbarkeit und die klare Landung von ἀσφάλεια als letztem Wort des Prologs.",
+        "confidence": 4
+      }
+    ],
+    "2": [
+      {
+        "term": "autoptai",
+        "rendering": "»Augenzeugen« — das juristisch-historiographische Vokabular; im Deutschen gibt es keinen weicheren Ersatz, der das gerichtsfeste Gewicht hält.",
+        "tradeOff": "none — der Begriff hat im Deutschen keine gleichwertige Alternative; die Härte des juristischen Anklangs ist gewollt.",
+        "confidence": 5
+      },
+      {
+        "term": "paredosan",
+        "rendering": "»wie es uns die überliefert haben« — Sprache der Transmissionskette, nicht das flachere »erzählt«. Damit bleibt der Gedanke der geordneten Weitergabe eines feststehenden Bestandes hörbar.",
+        "tradeOff": "»erzählt« wäre modern eingängiger, würde aber die formale Transmissionsvorstellung wegglätten, die Lukas als Historiker aufruft.",
+        "confidence": 4
+      },
+      {
+        "term": "hyperetai_tou_logou",
+        "rendering": "Wir umschreiben mit »Augenzeugen, die später in den Dienst dieser Botschaft getreten sind« — das mündliche Weiterreichen des Wortes bleibt hörbar, ohne die schwere Kompositbildung »Diener des Wortes« mitzuschleppen.",
+        "tradeOff": "»Diener des Wortes« hätte den Titel wörtlicher wiedergegeben, wäre aber im Fluss der einleitenden Periode ein stilistischer Bremsklotz gewesen.",
+        "confidence": 4
+      },
+      {
+        "term": "prologue_periodic_period",
+        "rendering": "Der Prologus wird nicht als einziger periodischer Schausatz wiedergegeben, sondern als moderne Widmung eröffnet (»Verehrter Theophilus!«), gefolgt von einer geordneten subordinierten Periode vv.1–3 und einem eigenständigen Landesatz v.4 (»Was man dir erzählt hat, steht auf festem Grund«). So bleibt die Historikersprache erkennbar, ohne den deutschen Leser mit einem Bandwurmsatz zu erschlagen.",
+        "tradeOff": "Ein einzelner deutscher Periodensatz (wie im Griechischen) hätte die kunstvolle Form direkt gespiegelt, wäre aber im modernen Deutsch als altertümlich-akademisch gelesen worden; die aufgeteilte Fassung opfert die formale Einheit für Lesbarkeit und die klare Landung von ἀσφάλεια als letztem Wort des Prologs.",
         "confidence": 4
       }
     ],
     "3": [
       {
-        "term": "kratiste_theophilus_honorific",
-        "rendering": "»hochverehrter Theophilus« preserves the κράτιστε social marker — Theophilus is being addressed as a person of high standing, the kind of patron a work is dedicated to, not merely a friend.",
-        "tradeOff": "No clean modern German equivalent for κράτιστε exists; »hochverehrter« risks sounding stiff, but a flatter »lieber« would erase the honor-transaction the reviewer asked us to retain.",
+        "term": "kratiste",
+        "rendering": "Im Haupttext bleibt nur »Theophilus« stehen; der Ehrentitel »Verehrter« öffnet den Vers als moderne Widmung (»Verehrter Theophilus!«, an den Anfang gezogen). Das ausführliche soziale Gewicht (kratistos als Anrede römischer Würdenträger, Paulus vor Felix/Festus, Apg 23:26; 24:3; 26:25) liegt in der Fußnote.",
+        "tradeOff": "Wer die Fußnote überspringt, verliert den Rang, den kratiste im Griechischen mitschickt; wir haben uns entschieden, den Haupttext als saubere Anrede zu halten und die soziale Information zu delegieren.",
+        "confidence": 4
+      },
+      {
+        "term": "parēkolouthēkoti_anōthen_pasin_akribōs",
+        "rendering": "»allem von Anfang an sorgfältig nachzugehen« — aktives investigatives Forschen bleibt hörbar; der Methodenanspruch bleibt in Kraft.",
+        "tradeOff": "none — im Deutschen ist das die genaueste, nicht künstlich klingende Wiedergabe der Historikerselbstbeschreibung.",
+        "confidence": 5
+      },
+      {
+        "term": "prologue_periodic_period",
+        "rendering": "Der Prologus wird nicht als einziger periodischer Schausatz wiedergegeben, sondern als moderne Widmung eröffnet (»Verehrter Theophilus!«), gefolgt von einer geordneten subordinierten Periode vv.1–3 und einem eigenständigen Landesatz v.4 (»Was man dir erzählt hat, steht auf festem Grund«).",
+        "tradeOff": "Ein einzelner deutscher Periodensatz (wie im Griechischen) hätte die kunstvolle Form direkt gespiegelt, wäre aber im modernen Deutsch als altertümlich-akademisch gelesen worden; die aufgeteilte Fassung opfert die formale Einheit für Lesbarkeit.",
         "confidence": 4
       }
     ],
     "4": [
       {
-        "term": "asphaleia_reliability",
-        "rendering": "Rendered »wie verlässlich und fundiert das ist, worin man dich unterwiesen hat« — switching the earlier »fester Grund« metaphor to »fundiert« as the reviewer requested, paired with »verlässlich« for the ἀσφάλεια nuance of secure, examined truth.",
-        "tradeOff": "»fundiert« leans intellectual rather than foundational-architectural; we lose a faint building metaphor but gain modern idiom.",
+        "term": "aspheleia",
+        "rendering": "»Was man dir erzählt hat, steht auf festem Grund« — ἀσφάλεια als tragfähiger Boden, auf dem man weitergehen kann; nicht »Gewissheit« oder »Beweis«. Der Vers wird zudem als eigener kurzer Satz ausgekoppelt, damit »steht auf festem Grund« als letztes Wort des Prologs landet.",
+        "tradeOff": "»Gewissheit« hätte auf einen kognitiven Besitz reduziert (Wissen, das das Fragen beendet); »steht auf festem Grund« hält die Bewegung offen — Grund, auf dem man aufbaut. Der Preis: der etablierte Wiedererkennungswert von »Gewissheit« aus Luther/EÜ entfällt.",
+        "confidence": 5
+      },
+      {
+        "term": "prologue_periodic_period",
+        "rendering": "v.4 wird bewusst aus der langen Periode herausgelöst und als eigener knapper Landesatz gesetzt (»So sollst du erkennen: …«), damit »steht auf festem Grund« als letztes Wort des Prologs stehen bleibt, das der Leser in den Rest des Buches mitnimmt.",
+        "tradeOff": "Ein einheitlicher Periodensatz wäre formtreuer, hätte aber die Schlussdramaturgie (ἀσφάλεια als Landung) begraben.",
         "confidence": 5
       }
     ],
     "5": [
       {
-        "term": "double_priestly_lineage_blessing_assumption",
-        "rendering": "Rather than just naming the Abijah course and Aaronic descent, the body unpacks the social inference: »In dieser Familie kam das Priesteramt von beiden Seiten zusammen, und jeder im Land hätte gesagt: Solche Menschen stehen Gott besonders nahe, auf ihnen muss sein Segen liegen.« This sets up the tension Luke will then break in v7 — the village would have assumed automatic divine favor for a doubly-priestly couple.",
-        "tradeOff": "Longer than a literal rendering, and risks editorializing; but without it the modern reader cannot feel why their childlessness becomes a public scandal in v7. The reviewer specifically flagged that »ansah« did not transport this connection.",
+        "term": "egeneto_en_tais_hēmerais",
+        "rendering": "Statt eines septuagintal-biblizistischen »Es geschah in jenen Tagen« der zeitgenössische politische Anker: »Zur Zeit, als Herodes \\add im Auftrag Roms\\add* König von Judäa war«. Der \\add-Halbsatz »im Auftrag Roms« macht dem modernen Leser sofort klar, unter welchem Machtsystem die Szene spielt.",
+        "tradeOff": "Der biblische Wiedererkennungswert von »Es geschah in jenen Tagen« geht verloren; dafür gewinnt die Szene die historisch-politische Verortung, die der ursprüngliche jüdische Hörer sofort mitbekam.",
         "confidence": 4
-      }
-    ],
-    "6": [
-      {
-        "term": "dikaios_modernized",
-        "rendering": "Replaced the archaic »rechtschaffen« with »lebten die beiden so, wie es vor Gott recht ist: Sie hielten sich an alles, was der Herr geboten hatte, und niemand konnte ihnen etwas vorwerfen« — keeping the legal-covenantal sense (commandments observed, blameless) while using modern, accessible idiom.",
-        "tradeOff": "Loses the single-word punch of »fromm«/»rechtschaffen«; gains transparency and avoids the archaism the reviewer flagged.",
-        "confidence": 5
       }
     ],
     "7": [
       {
-        "term": "barrenness_stigma_made_audible",
-        "rendering": "The body keeps the bare fact (»Sie hatten kein Kind«) but then adds the village's voice: »Und mancher fragte sich im Stillen, was sie wohl verschuldet hatten, dass Gott ihnen ein Kind versagte.« This makes the honor/shame stigma — the public suspicion that childlessness was divine punishment — audible to a modern reader who would otherwise miss the social weight of v5–7.",
-        "tradeOff": "We are voicing a community judgment Luke only implies; some readers will hear it as interpretive overlay. But the rationale flags this as a must-land friction, and the alternative is a flat clinical statement of infertility.",
-        "confidence": 4
+        "term": "steira",
+        "rendering": "»Und doch hatten sie kein Kind. Elisabet war kinderlos geblieben.« Dazu in \\add die soziale Dimension aufgeblendet: »Kinderlosigkeit war in ihrer Welt kein privates Unglück. Sie war Schande.« Die klinisch klingende »Unfruchtbarkeit« wird bewusst vermieden.",
+        "tradeOff": "»unfruchtbar« hätte medizinisch präzise gepasst, hätte aber den öffentlichen Schamdruck der Ehre-Schande-Kultur des 1. Jahrhunderts am Text vorbeigehen lassen und ist heute klinisch belastet; die \\add-Zeile trägt das, was im Griechischen als Kulturvoraussetzung mitläuft.",
+        "confidence": 5
       }
     ],
     "9": [
       {
-        "term": "once_in_a_lifetime_incense_honor",
-        "rendering": "Added the explicit gloss »Für die meisten Priester kam dieser Augenblick im ganzen Leben nur ein einziges Mal.« — making the unique social honor of being chosen by lot to burn incense felt by the reader instead of left to a footnote.",
-        "tradeOff": "Adds a sentence Luke himself does not write; but the rationale lists this as a must-land cultural fact, and without it the drama of v11 (an angel meeting Zechariah here, of all moments) collapses.",
-        "confidence": 4
+        "term": "elache",
+        "rendering": "»Das Los fiel auf ihn, wie es im Priesterdienst Brauch war« — »Los« trägt im deutschen Ohr die Konnotation göttlicher Zuteilung, nicht bloßen Zufalls. Die Fußnote entfaltet, dass das Räucheropfer als einmaliges Ereignis im Leben eines Priesters galt (rund 18.000 Priester pro Generation).",
+        "tradeOff": "none — »Zufall« oder »Wahl« wäre inhaltlich falsch; »Los« ist im Deutschen der einzige Begriff, der die göttliche Zuteilung mitträgt.",
+        "confidence": 5
       }
     ],
     "12": [
       {
-        "term": "phobos_body_response_amplified",
-        "rendering": "»erschrak er bis ins Mark; die nackte Angst überfiel ihn« — answering the reviewer's request for a rendering that carries the bodily force of the fear (erzitterte / war erschüttert) rather than a polite »erschrak«.",
-        "tradeOff": "Two clauses where Greek has a compact phrase; risks slight melodrama. Chosen because Luke is reporting a man's whole body reacting, and a single mild verb flattens that.",
+        "term": "phobos_epepesen",
+        "rendering": "Der Haupttext trägt die deutsche Schock-Formulierung »Als Zacharias ihn sah, überfiel ihn die Furcht«; die viszerale Bildlichkeit »Furcht fiel auf ihn« liegt in der TEXT-Fußnote und markiert, dass die Furcht als Objekt von außen fällt, nicht innerlich aufsteigt.",
+        "tradeOff": "Ein glattes »er bekam Angst« wäre modern-eingängig, hätte aber die Wucht des ἐπέπεσεν (»fiel auf«) verloren; »Furcht überfiel ihn« landet im Deutschen zwischen Alltagsverb und Wucht — die Physikalität des Verbs bleibt hörbar, die viszerale Lektüre wird in der Fußnote vertieft.",
         "confidence": 4
       }
     ],
-    "14": [
+    "19": [
       {
-        "term": "chara_modernized",
-        "rendering": "»Freude und Glück« in place of the older »Jubel«, per the reviewer's note that Jubel sounds dated. The doubling keeps the warmth of both χαρά and ἀγαλλίασις without reaching for archaic vocabulary.",
-        "tradeOff": "Loses the celebratory loudness of »Jubel«; gains a register that an actual modern father would recognize.",
+        "term": "parestēkōs",
+        "rendering": "»Ich bin Gabriel. Ich stehe unmittelbar vor Gott. Er hat mich gesandt, um dir das mitzuteilen.« — Gabriel wird als der erkannt, der Gott direkt gegenübersteht (Daniel-Hintergrund, Dan 8; 9). Der Ton ist selbstsicher, nicht Thronsaal-Klischee.",
+        "tradeOff": "»Ich stehe vor dem Angesicht Gottes« hätte die liturgische Formel bewahrt, wäre aber zu ferngefühlt gewesen; die direkte Formulierung trägt Autorität ohne Museumsluft.",
         "confidence": 4
-      }
-    ],
-    "15": [
-      {
-        "term": "nazirite_drinking_clause_dynamicized",
-        "rendering": "»Denn in Gottes Augen wird er ein Großer sein. Wein wird er nicht trinken, auch nichts anderes, was berauscht.« — following the HFA-style dynamic equivalence the reviewer requested, instead of the more literal »weder Wein noch berauschendes Getränk«.",
-        "tradeOff": "Drops the technical pair (oinos / sikera) into a single modern phrasing; loses the Nazirite-vow echo for readers who would catch it, gains immediate comprehensibility.",
-        "confidence": 4
-      }
-    ],
-    "16": [
-      {
-        "term": "epistrephō_return",
-        "rendering": "»zum Herrn, ihrem Gott, zurückbringen« — keeps the prophetic return language plainly, without archaism.",
-        "tradeOff": "none — the verse is straightforward and the rendering does not over-interpret.",
-        "confidence": 5
-      }
-    ],
-    "17": [
-      {
-        "term": "elijah_power_and_intergenerational_reconciliation",
-        "rendering": "»Mit der Kraft und dem Geist des Propheten Elija« — switched »Wucht« to »Kraft« per reviewer, with »des Propheten« added so the name lands for readers without footnote knowledge. The Malachi echo is rendered intersectionally as »Eltern und Kinder wieder zueinander« rather than gendered »Väter und Söhne«, and the rest is loosened into modern syntax: »führt die, die sich Gott verschließen, zurück zu der Einsicht, nach der man recht vor Gott lebt.«",
-        "tradeOff": "»Eltern und Kinder« weakens the direct Malachi 4:5–6 lexical echo (»Väter zu den Söhnen«) for readers tracking the OT allusion; we judged inclusivity and modern accessibility worth that loss, per the reviewer's question about whether the gendered language was warranted.",
-        "confidence": 4
-      }
-    ],
-    "18": [
-      {
-        "term": "verification_question_naturalized",
-        "rendering": "»Wie kann ich sicher sein, dass das wirklich geschieht?« replaces the wooden »Woran soll ich erkennen, dass es so kommt?« the reviewer flagged. Reads as a normal old man's question, not a liturgical formula.",
-        "tradeOff": "Loses the literal »knowing-by-sign« nuance of κατὰ τί γνώσομαι; gains the natural human voice the moment requires.",
-        "confidence": 5
-      }
-    ],
-    "20": [
-      {
-        "term": "ido_calque_removed",
-        "rendering": "Opens with »Aber weil du meinen Worten nicht geglaubt hast« — the English-calque »Doch nun:« the reviewer flagged is gone; the sentence is restructured around the cause (unbelief) and effect (silence) in natural German prose.",
-        "tradeOff": "Loses the abrupt ἰδού (»look!«) shift at the head of the verse; gains a sentence that reads as German rather than translated Greek.",
-        "confidence": 4
-      }
-    ],
-    "23": [
-      {
-        "term": "service_period_de_archaized",
-        "rendering": "»Als seine Dienstzeit zu Ende war, ging er nach Hause.« — the reviewer flagged »Als die Tage seines Dienstes...« as old-fashioned biblical. The new rendering uses ordinary modern phrasing.",
-        "tradeOff": "Loses the Hebraic »days of his service« cadence; the verse is a transition, not a poetic peak, so we judged accessibility worth more than rhythm here.",
-        "confidence": 5
       }
     ],
     "25": [
       {
-        "term": "elizabeth_vindication_speech_reworked",
-        "rendering": "Substantially rewritten per the reviewer's strong feedback: »So hat der Herr an mich gedacht und mir geholfen. Jetzt nimmt er mir die Schande, weil ich kein Kind bekommen konnte. Niemand kann mich mehr dafür verachten.« — closer to the HFA dynamic move, naming explicitly what »angesehen« meant (God remembered her, acted, took away the public scorn).",
-        "tradeOff": "More words than the original Greek; loses the slightly cryptic interiority of »ἐπεῖδεν ἀφελεῖν«. Gains the meaning the reviewer said the comparison step should already have caught: this is Elizabeth's public vindication, not a private mystical murmur.",
+        "term": "oneidismos",
+        "rendering": "»um mir die Schande unter den Menschen zu nehmen« — soziale Herabsetzung, öffentlich, nicht private Verlegenheit. Elisabet spricht über die Wertung, die eine ganze Dorfgemeinschaft an sie legte.",
+        "tradeOff": "»Schmach« wäre altertümlich, »Makel« zu individualisierend; »Schande« hält die soziale Dimension präsent, so wie sie in der antiken Ehre-Schande-Kultur wirkte.",
         "confidence": 5
-      }
-    ],
-    "26": [
-      {
-        "term": "nazareth_spelling_and_marginality",
-        "rendering": "Spelling normalized to »Nazareth« per the reviewer (not »Nasaret«). The body then adds the class/marginality gloss »Ein Ort, von dem kaum jemand je gehört hatte.« — making the reversal-theme starting condition (»the Most High chooses a peasant girl from nowhere«) visible to a modern reader.",
-        "tradeOff": "Adds a sentence the Greek does not have; risks editorializing. But without it, »Nazareth« is just a foreign place-name and the social shock of God choosing this village is lost.",
-        "confidence": 4
       }
     ],
     "27": [
       {
-        "term": "betrothal_living_arrangement_gloss",
-        "rendering": "Added »sie wohnte weiter bei ihrer Familie, bis Josef das gemeinsame Zuhause fertig hätte« per the reviewer's suggestion — explaining the betrothal customs so the modern reader understands the social setup that makes vv34–35 so dangerous (Mary still in her father's house, Joseph still preparing theirs).",
-        "tradeOff": "Goes beyond what Luke says; some readers will hear it as historical reconstruction. But the rationale flags purity-boundary friction as must-land, and the household geography is the key to feeling it.",
-        "confidence": 3
-      }
-    ],
-    "32": [
-      {
-        "term": "patēr_as_ancestor",
-        "rendering": "»den Thron seines Vorfahren David« — »Vorfahren« per reviewer, since »Vater« would mislead modern readers into thinking of David as Jesus' literal father rather than his royal ancestor.",
-        "tradeOff": "Loses the Greek/Hebrew idiomatic use of »father« for any forebear; gains genealogical clarity.",
-        "confidence": 5
-      }
-    ],
-    "33": [
-      {
-        "term": "house_of_jacob_unpacked",
-        "rendering": "»über das Volk Israel herrschen, über alle, die von Jakob abstammen« — the reviewer noted »Haus Jakob« is not immediately clear; the rendering unpacks the metonymy into »the people of Israel, all who descend from Jacob« so the connection lands.",
-        "tradeOff": "Loses the OT idiom »house of Jacob« that connects this prophecy to its Hebrew Bible roots; gains immediate intelligibility.",
+        "term": "emnēsteumenēn",
+        "rendering": "»verlobt« im Haupttext; die rechtliche Schwere wird nicht dem Verb aufgeladen, sondern in der unmittelbar folgenden \\add-Linie getragen: »Noch wohnte sie bei ihren Eltern. Und war rechtlich doch schon Josefs Frau.«",
+        "tradeOff": "»verheiratet« wäre missverständlich, »verlobt« allein hätte das rechtliche Gewicht (Ehebruch = Todesstrafe bei Verletzung) nicht getragen; das Nebeneinander (Verb + \\add-Erläuterung) leistet beides.",
         "confidence": 4
       }
     ],
-    "34": [
+    "28": [
       {
-        "term": "honor_shame_stakes_made_explicit",
-        "rendering": "Significantly amplified: »Wie soll das geschehen? Ich habe doch noch mit keinem Mann geschlafen. Und wenn ich schwanger werde, bevor Josef und ich zusammenleben, wer wird mir dann glauben? Man wird mich für eine Ehebrecherin halten. Josef kann mich verstoßen, und nach dem Gesetz kann man eine wie mich sogar steinigen.« — making the must-land friction (capital-offense-level social danger of pregnancy during betrothal) audible inside the running text rather than relegated to a footnote.",
-        "tradeOff": "We are voicing Mary's interior calculus where Luke only writes »ἐπεὶ ἄνδρα οὐ γινώσκω«. Risks reading as expansion. Justified by the rationale: without the stakes, modern readers hear an angelic visitation as wonderful news rather than as the start of a crisis.",
-        "confidence": 3
+        "term": "kecharitōmenē",
+        "rendering": "Zweisätzige Wiedergabe: erst der Akt des Erwählens (»Gott hat dich gewählt«), dann die bleibende Zuwendung (»Gott ist mit dir«). So wird das Perfekt Passiv (»mit Gnade beschenkt und darin bleibend«) als bereits geschehen und weiterwirkend hörbar.",
+        "tradeOff": "»Voll der Gnade« (Vulgata/katholische Tradition) hätte fünfzehn Jahrhunderte mariologische Titelbildung mitgetragen, die im Vers selbst noch nicht da sind; »Hochbegünstigte« hätte umgekehrt aus der bleibenden Zuwendung ein einmaliges Auserwählungsereignis gemacht. Der Preis der zweisätzigen Wiedergabe: das Verb wird als Tat ausgelegt statt als Titel — die liturgische Wiedererkennung verblasst.",
+        "confidence": 5
+      }
+    ],
+    "29": [
+      {
+        "term": "dietarachthē",
+        "rendering": "»Diese Worte trafen sie bis ins Mark. Was sollte dieser Gruß bedeuten?« — die διά-Verstärkung wird körperlich (»bis ins Mark«) getragen, und ausdrücklich: Maria erschrickt über den Gruß, nicht über den Boten.",
+        "tradeOff": "Der Entwurf hatte »Diese Worte erschreckten sie« vorgeschlagen und die Intensivierung in die Fußnote gelegt; die Livefassung zieht die viszerale Ebene in den Haupttext, damit Maria einen Erschütterungsschritt tiefer als Zacharias (V. 12) hörbar wird.",
+        "confidence": 5
+      }
+    ],
+    "35": [
+      {
+        "term": "episkiasei",
+        "rendering": "»die Kraft des Höchsten wird dich umhüllen, \\add so wie einst die Wolke das Heiligtum erfüllte\\add*« — der Schechina-/Stiftszeltklang (Ex 40:35 LXX) wird nicht in eine Fußnote verlegt, sondern als \\add-Linie in den Haupttext gewoben. Maria = neues Heiligtum.",
+        "tradeOff": "»wird dich überschatten« wäre das etablierte liturgische Wort, wäre aber sexuell missverständlich; die Wolkensprache klärt schöpferisches Handeln und wehrt körperliche Fehlbilder ab. Der Preis: die alte liturgische Formel verschwindet.",
+        "confidence": 5
       }
     ],
     "38": [
       {
-        "term": "mary_s_yes_with_visible_cost",
-        "rendering": "Prefaced with »Maria wusste, was ihr Ja sie kosten konnte: den Verdacht des Dorfes, die Schande ihrer Familie, vielleicht Josefs Bruch mit ihr.« before the canonical line »Ich gehöre Gott und stehe ihm zur Verfügung. Mit mir soll geschehen, was du gesagt hast.« This makes Mary's faith-response visibly costly — the virtue is the courage to say yes against the stakes named in v34, not a vague pious docility.",
-        "tradeOff": "Adds a full sentence of inner monologue Luke does not write. We accept the interpretive risk because the rationale explicitly warns against »virginity ideology« readings that locate Mary's virtue in physical state rather than faith-response.",
-        "confidence": 3
+        "term": "doulē_kyriou",
+        "rendering": "»Ich gehöre Gott.« Statt der überlieferten Anrede »Magd des Herrn« die freiwillige Zugehörigkeit — Maria wählt sich diese Identität selbst; das δούλη ist damit nicht aufgezwungene Dienstbarkeit, sondern Bekenntnis. Zudem: »Gott« statt »Herr«, damit Marias Antwort direkt und persönlich bleibt.",
+        "tradeOff": "»Magd des Herrn« (Luther/EÜ) trägt viel Marienfrömmigkeit, klingt im heutigen Deutsch aber hierarchisch, archaisch und deckt die Selbstwahl zu; »seine Dienerin« bliebe mittig, würde die Zugehörigkeitsdimension aber nicht landen. Der Preis von »Ich gehöre Gott«: der liturgische Wiedererkennungswert bleibt zurück.",
+        "confidence": 5
+      },
+      {
+        "term": "genoito_moi",
+        "rendering": "»Dann soll geschehen, was du sagst.« — der griechische Optativ als aktiver, resoluter Wunsch, nicht als passives Erdulden; Maria spricht das Geschehen aktiv auf sich zu.",
+        "tradeOff": "»Mir geschehe nach deinem Wort« bewahrt den liturgischen Ton (Luther/EÜ), lässt aber die aktive Willensdimension des Optativs verblassen; »Dann soll geschehen« hält die entschiedene Zustimmung — verliert dafür den vertrauten Klang.",
+        "confidence": 4
       }
     ],
     "39": [
       {
-        "term": "en_tais_hemerais_tautais_de_archaized",
-        "rendering": "»Kurz darauf machte sich Maria auf den Weg und eilte in eine Stadt im Bergland von Judäa.« — drops the Lutheran-archaic »in jenen Tagen« per the reviewer; »eilte« carries the σπουδή, »Bergland« stands in for ὀρεινή without the militaristic »Tagesmärsche« the reviewer also flagged.",
-        "tradeOff": "Loses the formal narrative opening of the Greek; gains a clean modern sentence appropriate to the story's emotional momentum.",
+        "term": "meta_spoudēs",
+        "rendering": "»brach Maria auf und ging eilig in das Bergland« — Dringlichkeit ohne Dramatisierung; das \\add-Detail »Mehrere Tagereisen weit, allein« zeigt, was diese Eile konkret bedeutete.",
+        "tradeOff": "none — »in Eile« oder »hastig« hätte eher Panik als Zielstrebigkeit konnotiert.",
+        "confidence": 4
+      }
+    ],
+    "41": [
+      {
+        "term": "eskirtēsen",
+        "rendering": "»hüpfte das Kind in ihrem Leib auf« — körperlich, unmissverständlich, mit der Resonanz von Ps 114:4 (dort tanzen die Berge vor JHWH auf demselben Verb).",
+        "tradeOff": "»bewegte sich« oder »zappelte« wären neutrale Übersetzungen des griechischen Verbs, hätten aber die Freudenreaktion und die Prophetenresonanz weggewischt.",
+        "confidence": 5
+      }
+    ],
+    "42": [
+      {
+        "term": "kraugē_megalē",
+        "rendering": "»Da brach es aus ihr heraus, mit lauter Stimme« — die Eruption sitzt im Verb (»brach heraus«), nicht nur in der Lautstärke. Die \\add-Regieanweisung »wie eine Prophetin« markiert die Redeform.",
+        "tradeOff": "»Sie rief mit lauter Stimme« hätte die reine Volumenangabe gehalten, wäre aber die Wucht des ἀνεφώνησεν κραυγῇ μεγάλῃ nicht mitgegangen — die prophetische Rede kommt nicht ruhig, sie bricht hervor.",
         "confidence": 5
       }
     ],
     "43": [
       {
-        "term": "pothen_moi_modernized",
-        "rendering": "»Wer bin ich, dass die Mutter meines Herrn zu mir kommt?« replaces the archaic »Wie geschieht mir« the reviewer flagged. Keeps the genuine astonishment and the honor-reversal (the elder priestly wife deferring to the younger peasant girl) in fully modern German.",
-        "tradeOff": "Loses the literal πόθεν (»from where«) idiom; gains a sentence that actually sounds like astonishment to a modern ear.",
+        "term": "mētēr_tou_kyriou_mou",
+        "rendering": "»die Mutter meines Herrn« — christologische Zuspitzung bleibt stehen. Es ist die erste Stelle bei Lukas, an der κύριος christologisch (nicht auf den Gott Israels bezogen) gefüllt wird; Elisabet nennt das Kommende beim Namen, bevor irgendjemand sonst es ausspricht.",
+        "tradeOff": "none — der Titel muss stehen bleiben; jede Milderung würde das theologische Ereignis (Elisabet erkennt das Kind vor allen anderen) unsichtbar machen.",
         "confidence": 5
       }
     ],
-    "44": [
+    "46": [
       {
-        "term": "leib_de_archaized_and_dynamic_rewrite",
-        "rendering": "»Denn kaum hörte ich deine Stimme, da sprang das Kind in mir vor Freude auf.« — »Leib« is dropped per reviewer (»Leib is an outdated term«); the verse follows the HFA-style dynamic move the reviewer pointed to, expressing meaning over literal lexicon.",
-        "tradeOff": "Loses the formal »fruit of your womb« register; gains modern, embodied language that actually reads as a pregnant woman describing her own body.",
+        "term": "megalynei",
+        "rendering": "»Alles in mir feiert Gott. Alles!« — Präsens, gnomisch-deklarativ. Der Auftakt des Magnificats bekommt kurze Sätze und einen betonten Wiederholungsschlag (»Alles!«), wie es der Spoken-Word-/Slam-Ton (DE-P1) verlangt.",
+        "tradeOff": "»Meine Seele preist die Größe des Herrn« (EÜ) bewahrt die liturgische Erinnerung, ist aber zu hymnisch-subordiniert; das kurze »feiert« landet als Proklamation.",
+        "confidence": 5
+      },
+      {
+        "term": "magnificat_short_lines",
+        "rendering": "Das ganze Magnificat wird in DE-P1 gesetzt: kurze deklarative Zeilen, harte Verben, Proklamation statt Hymnus. Der Auftakt (»Alles in mir feiert Gott. Alles! / Mein Geist jubelt. Gott, mein Retter.«) zeigt die Grundfigur; kein subordinierter Hymnenperiodenbau.",
+        "tradeOff": "Ein hymnisch-liturgischer Bau (Luther, EÜ) hätte die Vespertradition unmittelbar berührt und das Lied für katholische wie protestantische Ohren sofort einordbar gemacht; der Preis: die gnomisch-proklamatorische Wucht des Griechischen (kurze Kola, harte Verben) wäre in Wohlklang aufgegangen.",
         "confidence": 5
       }
     ],
-    "50": [
+    "47": [
       {
-        "term": "phoboumenois_modernized",
-        "rendering": "»zu allen, die ihm mit offenem Herzen begegnen, Generation um Generation.« — replaces the archaic »die ihn fürchten« the reviewer flagged, while finding a modern poetic phrase rather than copying HFA's »in Ehrfurcht vor ihm leben«. The repetition »Generation um Generation« carries εἰς γενεὰς καὶ γενεάς.",
-        "tradeOff": "Loses the lexical link to OT »fear of the LORD« language; some readers will miss the covenantal register. The reviewer judged that loss worth modernizing the line.",
-        "confidence": 3
+        "term": "ēgalliasen",
+        "rendering": "»Mein Geist jubelt über Gott, meinen Retter.« — deutsches Präsens für den gnomischen Aorist; die Freude ist Grundzustand, nicht historische Erinnerung.",
+        "tradeOff": "»jubelte« hätte das Griechische wörtlicher übersetzt, hätte aber die deklarative Dauer verpasst.",
+        "confidence": 5
+      },
+      {
+        "term": "magnificat_short_lines",
+        "rendering": "Kurze deklarative Zeilen, harte Verben; kein subordinierter Hymnenperiodenbau.",
+        "tradeOff": "Ein liturgisch-hymnischer Bau hätte die Vespertradition sofort berührt, aber die proklamatorische Wucht in Wohlklang aufgehen lassen.",
+        "confidence": 5
+      }
+    ],
+    "48": [
+      {
+        "term": "tapeinōsis",
+        "rendering": "»Er hat mich angesehen. Mich. Die Kleine.« — drei kurze Sätze enacten die Kleinheit; »die Kleine« benennt die soziale Lage (LXX-Sprachgebrauch, vgl. 1 Sam 1:11), nicht eine Tugend.",
+        "tradeOff": "»die Niedrigkeit seiner Magd« (Luther) hätte die Tradition gehalten, hätte aber ταπείνωσις moralisch-tugendhaft eingefärbt; »die Kleine« bleibt an der sozialen Position, wie es der hebräische Hintergrund des Hanna-Liedes verlangt — der Preis: die spätere Marienauslegung (Demut als Tugend) klingt nicht mit.",
+        "confidence": 5
+      },
+      {
+        "term": "magnificat_short_lines",
+        "rendering": "Der Vers wird bewusst in drei kurze Sätze zerlegt (»Er hat mich angesehen. Mich. Die Kleine.«), damit die Kleinheit im Satzbau erfahrbar wird.",
+        "tradeOff": "Ein zusammenhängender Satz hätte die Ganzheit gewahrt, hätte aber die Wirkung des dreifachen Landens (Blick — Person — Position) verpasst.",
+        "confidence": 5
       }
     ],
     "51": [
       {
-        "term": "hyperephanous_dianoia_kardias",
-        "rendering": "»Er hat mit bloßem Arm seine Kraft gezeigt: die Hochmütigen mit all ihren stolzen Plänen hat er in alle Winde zerstreut.« — picks up the HFA pattern the reviewer pointed to (»fegt … hinweg«) while keeping our own poetic register (»mit bloßem Arm«, »in alle Winde zerstreut«). The cosmic-reversal force the rationale calls for is in the verbs.",
-        "tradeOff": "Slightly more concrete (»in alle Winde zerstreut«) than the Greek's »scattered them in the imagination of their hearts« — we abandon the διανοίᾳ καρδίας idiom and instead lift »stolzen Plänen« forward, which is the modern poetic equivalent.",
+        "term": "hyperēphanoi",
+        "rendering": "»Die Stolzen? Er fegt sie hinweg, mitsamt ihren Plänen.« — die Frageform (»Die Stolzen?«) macht den Umschwung hörbar; klares heutiges Deutsch.",
+        "tradeOff": "»Hochmütige« (Luther/EÜ) ist im heutigen Deutsch angestaubt; »die Stolzen« ist unmittelbar — verliert dafür den moralisch-liturgischen Beiklang.",
         "confidence": 4
+      },
+      {
+        "term": "dieskorpisen",
+        "rendering": "Präsentische Wiedergabe: »Er fegt sie hinweg« — Gottes charakteristisches Handeln, nicht ein Einzelereignis der Vergangenheit. Der Aorist wird als gnomisch gelesen (Charakterbeschreibung Gottes durch sein Tun).",
+        "tradeOff": "Vergangenheit hätte das Ereignis historisiert (»einmal in der Geschichte hat er zerstreut«) und die Umkehrung als abgeschlossenes Kapitel verortet; Aperto wählt die Proklamation (»das tut er immer«). Die Fußnote gibt den grammatischen Grund an.",
+        "confidence": 5
+      }
+    ],
+    "52": [
+      {
+        "term": "katheilen",
+        "rendering": "»Herrscher stürzt er vom Thron. Die Kleinen hebt er hoch.« — Präsens, kurze parallele Sätze; der gnomische Aorist als Charakterbeschreibung.",
+        "tradeOff": "»hat er gestürzt« (Vergangenheit) wäre historisch flacher und hätte die Umkehrung in die Vergangenheit weggeschoben; Präsens hält die Umkehrung als anhaltende Bewegung.",
+        "confidence": 5
       }
     ],
     "53": [
       {
-        "term": "kenous_with_empty_hands",
-        "rendering": "»mit leeren Händen weggeschickt« per the reviewer's preference over a bare »Leer.« — the German idiom »mit leeren Händen« is the natural counterweight to »reich beschenkt« in the previous line, sustaining the economic-reversal pair.",
-        "tradeOff": "none — the idiom is standard German and preserves the chiastic pairing.",
+        "term": "peinōntas",
+        "rendering": "»Die Hungrigen sättigt er. Mit allem.« — buchstäbliche Wiedergabe; nicht spiritualisiert, kein »die geistlich Armen«.",
+        "tradeOff": "Eine spiritualisierende Fassung (»die nach Gott hungern«) hätte den sozialen Schnitt des Magnificats geweicht; Aperto lässt den Hunger körperlich stehen — der Preis: die Vergeistlichungstradition (das »innere« Hungern) verstummt hier.",
+        "confidence": 5
+      },
+      {
+        "term": "ploutountes",
+        "rendering": "»Die Reichen schickt er fort. Mit leeren Händen.« — die Reichen bleiben die Reichen, ohne Weichzeichner.",
+        "tradeOff": "Eine Umschreibung (»die Selbstzufriedenen«, »die Satten«) hätte die soziale Schärfe abgemildert; wir lassen das Klassenwort stehen, damit die Umkehrung als reale, nicht nur innere Umkehrung landet.",
         "confidence": 5
       }
     ],
-    "54": [
+    "55": [
       {
-        "term": "paidos_servant_dynamicized",
-        "rendering": "»Er hat sich seines Volkes Israel angenommen und sein Erbarmen nicht vergessen« — collapses Israel-as-παῖς into the dynamic »Volk Israel«, since »seines Dieners« sounded archaic to the reviewer and clouded the corporate sense (Israel as servant, not an individual servant Israel).",
-        "tradeOff": "Loses the Isaianic Servant echo (παῖς αὐτοῦ Ἰσραήλ); a Bible-literate reader will miss the Servant Songs allusion. Judged worth it for the modern register.",
-        "confidence": 3
+        "term": "spermati_autou_eis_ton_aiōna",
+        "rendering": "»wie er es unseren Vätern versprochen hat: Abraham und seinen Nachkommen. Für immer.« — »Für immer« landet als eigener Satz am Ende, damit die Bundesdauer als letzter Ton des Magnificats stehenbleibt.",
+        "tradeOff": "»in Ewigkeit« hätte die liturgische Formel bewahrt, wäre aber zu kirchlich; »Für immer« als abschließendes Fragment ist moderner und schlägt zugleich stärker durch — der Preis: die Vesperresonanz verblasst.",
+        "confidence": 4
+      }
+    ],
+    "59": [
+      {
+        "term": "ogdoē_hēmera",
+        "rendering": "»Am achten Tag kamen sie, um das Kind zu beschneiden« — wörtlich, natürliches Deutsch. Die \\add-Linie erklärt, dass an diesem Tag der Name gegeben wurde (Zeichen des Bundes).",
+        "tradeOff": "none — die Zeitangabe braucht keine Umschreibung.",
+        "confidence": 5
       }
     ],
     "60": [
       {
-        "term": "elizabeth_emphatic_no",
-        "rendering": "»Nein. Er soll Johannes heißen.« — the curt »Nein.« as its own sentence carries the social shock the rationale flags: a woman publicly overriding her relatives' naming proposal would have been startling. The body lets that surprise sit before the name is given.",
-        "tradeOff": "Greek has οὐχί but the rendering's punctuated brevity is a deliberate dramatic choice; risks reading as terse, which is exactly the point.",
+        "term": "iōannēs",
+        "rendering": "»Nein. Er soll Johannes heißen.« — Elisabets Festigkeit in zwei kurzen Sätzen. Das »soll« trägt den nicht-verhandelbaren Ton.",
+        "tradeOff": "»Er wird Johannes heißen« wäre eine bloße Ansage, aber weicher; »Er soll« markiert Verpflichtung und Wille, was der Auseinandersetzung mit der Verwandtschaft (V. 61) den Boden gibt.",
         "confidence": 4
       }
     ],
     "63": [
       {
-        "term": "writing_tablet_resolution",
-        "rendering": "»Sein Name ist Johannes.« — written, not spoken, in the simple indicative the Greek has (ἐστὶν, not future). Zechariah confirms what Elizabeth already said; the community's astonishment that follows is the tension-resolving beat the rationale names.",
-        "tradeOff": "none — the rendering tracks the Greek and preserves the dramatic moment cleanly.",
+        "term": "estin",
+        "rendering": "»Johannes ist sein Name« — Präsens: ein Deklarieren, kein Beschließen. Der Name steht bereits fest; Zacharias bestätigt, was der Engel gesagt hatte.",
+        "tradeOff": "»soll heißen« hätte den Namen als weiterhin offene Wahl gezeigt und die Szene als familiäre Entscheidung dargestellt; das Präsens setzt Faktum.",
         "confidence": 5
+      }
+    ],
+    "64": [
+      {
+        "term": "aneōchthē_to_stoma_autou",
+        "rendering": "»Im selben Augenblick öffnete sich sein Mund« — das παραχρῆμα (Lukas' Lieblingswort für unvermittelte Aktion Gottes) wird mit »im selben Augenblick« im Deutschen unmittelbar hörbar; die \\add-Linie »nach neun Monaten Schweigen« gibt dem Wort seinen Nachhall.",
+        "tradeOff": "Der Entwurf trug »Und sogleich öffnete sich sein Mund«; die Livefassung ersetzt »sogleich« durch »im selben Augenblick«, weil »sogleich« im modernen Deutsch leicht altertümlich klingt und der Zeitpunktbezug (unmittelbar nach dem Schreiben des Namens) präziser landet.",
+        "confidence": 4
+      },
+      {
+        "term": "eulogōn_ton_theon",
+        "rendering": "»Und sein erstes Wort war ein Lob auf Gott.« — die Rangordnung wird sichtbar gemacht: das Erste nach dem Schweigen ist nicht Klage, nicht Erleichterung, sondern Lob.",
+        "tradeOff": "»und er pries Gott« wäre knapper und näher am Griechischen; die Livefassung hebt die Reihenfolge (»erstes Wort«) hervor, damit der Leser die theologische Pointe nicht überliest.",
+        "confidence": 4
       }
     ],
     "68": [
       {
-        "term": "lytrōsis_redemption_as_ransom_paid",
-        "rendering": "»Er ist zu seinem Volk gekommen und hat den Preis bezahlt, der uns freikauft.« — the technical λύτρωσις is rendered with the concrete ransom-payment image (»den Preis bezahlt, der uns freikauft«) rather than a flat »erlöst«, so a modern reader hears the price-and-release dynamic.",
-        "tradeOff": "Two clauses where Greek has the noun ἐποίησεν λύτρωσιν; gains concreteness, loses the noun-phrase compactness. The image carries the OT redemption theology better than an abstract »Erlösung«.",
+        "term": "eulogētos_kyrios",
+        "rendering": "»Ich preise Gott, den Gott Israels.« — die Berakah-Form wird als Zachariasʼ eigener Akt des Preisens formuliert; wärmer als »Gepriesen sei« für ein Lied, das ein junger Vater über der Wiege singt.",
+        "tradeOff": "»Gelobt sei der Herr, der Gott Israels« (Luther) trägt die liturgische Form direkt weiter; die aktive Ich-Formel verliert diesen Wiedererkennungswert, gewinnt aber Zachariasʼ persönliche Stimme, in der das ganze Benedictus formuliert ist.",
+        "confidence": 4
+      },
+      {
+        "term": "epeskepsato",
+        "rendering": "»Er hat sich seines Volkes angenommen und Erlösung gebracht.« — »sich annehmen« ist eine entschiedene Zuwendung in Sorge, ohne die Museumsluft von »heimsuchen«.",
+        "tradeOff": "»heimsuchen« (Luther) hält das Bibelvokabular, klingt aber im modernen Deutsch missverständlich (»Heimsuchung« als Unglück); »sich kümmern« wäre zu schwach für die messianische Wende. »Sich annehmen« trifft die Mitte — der Preis: die alte biblische Formel entfällt.",
+        "confidence": 5
+      },
+      {
+        "term": "benedictus_tonal_shift",
+        "rendering": "vv.68–75 werden bewusst als expansiver Bundeslobpreis in der dritten Person gesetzt (Gott und Israel im Blick), damit der Umschwung bei v.76 zur zärtlichen Vateranrede spürbar wird. Die tonale Bewegung: national — persönlich, groß — klein.",
+        "tradeOff": "Ein durchgehend zärtlicher Ton hätte die intime Nähe früher hergestellt, hätte aber die Bundes-Weite und den plötzlichen Nahblick auf das Kind (v.76) verwischt.",
         "confidence": 4
       }
     ],
-    "70": [
+    "69": [
       {
-        "term": "ap_aiōnos_de_archaized",
-        "rendering": "»genau wie er es vor langer Zeit durch den Mund seiner heiligen Propheten zugesagt hat« — »vor langer Zeit« replaces the archaic »von alters her« the reviewer flagged, while keeping the prophets-of-old register.",
-        "tradeOff": "Loses the timeless, hieratic feel of »von alters her«; gains a phrase a modern reader actually parses.",
+        "term": "keras_sōtērias",
+        "rendering": "»Er hat uns einen starken Retter erweckt im Haus seines Dieners David.« — das Bild »Horn der Rettung« wird zum Inhalt aufgelöst (Machtidiom aus 2 Sam 22:3; Ps 132:17), weil »Horn« im heutigen Deutsch mehrdeutig ist (Instrument, Schofar, Tierhorn) und die Kampfstärke im Bild verschwindet.",
+        "tradeOff": "»ein Horn des Heils« bewahrt die Metapher und ihre alttestamentliche Verankerung, transportiert für den heutigen Leser aber nicht mehr die Bedeutung; »starker Retter« gibt den Sinn, verliert das Bild — die Fußnote holt die alttestamentliche Bildwelt zurück.",
+        "confidence": 4
+      },
+      {
+        "term": "benedictus_tonal_shift",
+        "rendering": "Expansiver Bundeshorizont, dritte Person; bereitet den Umschlag bei v.76 vor.",
+        "tradeOff": "Ein durchgehend zärtlicher Ton hätte den Umschlag zur Vateranrede weniger spürbar gemacht.",
+        "confidence": 4
+      }
+    ],
+    "76": [
+      {
+        "term": "kai_sy_paidion",
+        "rendering": "»Und du, mein Kind:« — der Tonalwechsel von großer Bundesperspektive zur intimen Vateranrede; der Doppelpunkt hält die Zärtlichkeit dieser ersten Worte an das eigene Neugeborene und öffnet zugleich die folgende Berufungsansage.",
+        "tradeOff": "Der Entwurf hatte einen Gedankenstrich vorgeschlagen (»Und du, mein Kind –«), der die Zärtlichkeit noch stärker schweben ließe; die Livefassung wählt den Doppelpunkt, weil er das Folgende als deklarative Öffnung führt und dem chapterweiten Verzicht auf Gedankenstriche im Bibeltext (Konstitutions-Regel § I-P) entspricht.",
+        "confidence": 4
+      },
+      {
+        "term": "benedictus_tonal_shift",
+        "rendering": "Mit »Und du, mein Kind:« kippt das Benedictus in die intime Vateranrede — von der nationalen Weite (vv.68–75) auf ein kleines Gesicht. Dieser Umschlag muss beim Hörer als Tonwechsel spürbar sein.",
+        "tradeOff": "Ohne diese ausdrückliche Verortung des Umschlags (kurzer Anredeauftakt, Doppelpunkt) wäre die Fortsetzung als bloße Aufzählung weitergelaufen; der Preis: die grammatische Glätte einer durchgehenden Prophetenrede geht verloren, dafür gewinnt der Vers seine Vaterstimme.",
         "confidence": 5
       }
     ],
     "78": [
       {
-        "term": "splanchna_eleous_visceral_mercy",
-        "rendering": "»So tief geht das Erbarmen unseres Gottes, dass es ihn im Innersten ergreift.« — the visceral σπλάγχνα ἐλέους (»bowels of mercy«) is rendered as »im Innersten ergreift«, holding the gut-level depth without using the anatomical Greek metaphor literally.",
-        "tradeOff": "Loses the body-organ vividness of σπλάγχνα; gains a phrase that lands in modern German without sounding either clinical or pious-archaic.",
-        "confidence": 4
+        "term": "splanchna_eleous",
+        "rendering": "»weil das Erbarmen unseres Gottes aus tiefstem Innersten kommt.« — σπλάγχνα als körperliche Tiefe (»Eingeweide des Erbarmens«, im Griechischen sitzt die starke Empfindung im Bauch, nicht im Herzen); »tiefstes Innerstes« landet die Bewegung im Leib, nicht im Kopf.",
+        "tradeOff": "Luthers »herzliche Barmherzigkeit« oder die EÜ-»zärtliche Liebe« retten die Wärme, verlieren aber die körperliche Tiefe; »aus tiefstem Innersten« hält den Leib im Bild — der Preis: der vertraute Klang der Kirchenlieder klingt nicht mit.",
+        "confidence": 5
       },
       {
-        "term": "anatolē_ex_hypsous_dawn_breaking",
-        "rendering": "»Darum kommt er zu uns, der aus der Höhe aufgeht, einer, der über uns hereinbricht wie ein neuer Morgen« — the ambiguous ἀνατολή (rising star / branch / dawn) is rendered with the dawn image, doubled (»aufgeht«, »wie ein neuer Morgen«) so the poetry breaks open rather than reading as a flat metaphor.",
-        "tradeOff": "Closes off the »branch« reading (Jer 23:5 / Zech 3:8) in favor of the dawn reading that flows naturally into v79's »leuchtet … im Dunkeln«. A Bible-literate reader loses the Davidic-branch echo.",
+        "term": "anatolē",
+        "rendering": "»Mit ihm wird uns der Aufgang aus der Höhe erreichen« — »Aufgang« hält beides zugleich: das Aufgehen der Sonne (dawn, Mal 3:20 LXX) und das Aufgehen eines Pflanztriebs (messianischer Spross Davids, Jer 23:5; Sach 3:8; 6:12).",
+        "tradeOff": "Der Entwurf schlug »das Licht aus der Höhe« vor (klarer Sonnen-Ton); die Livefassung wählt »Aufgang«, weil das deutsche Wort die doppelte Referenz (Sonnenaufgang + Pflanzenaustrieb) präzise mitträgt — der Preis ist ein leicht altertümlicher Klang.",
         "confidence": 4
+      }
+    ],
+    "79": [
+      {
+        "term": "eirēnē",
+        "rendering": "»Frieden.« — als letztes Wort des Benedictus, ohne Verb danach, ohne Relativsatz. Schalom im hebräischen Sinn: nicht Abwesenheit von Konflikt, sondern Ganzheit, Gesundheit, Richtigkeit der Verhältnisse.",
+        "tradeOff": "none — jede Verlängerung (»Frieden mit Gott«, »zum Frieden«) würde den Landepunkt des Liedes verwässern; das Wort muss allein am Ende stehen.",
+        "confidence": 5
       }
     ],
     "80": [
       {
-        "term": "wilderness_growth_summary",
-        "rendering": "»Das Kind wuchs heran, und Gottes Geist machte es stark. Johannes lebte fern von allem, draußen in der Einöde, bis zu dem Tag, an dem er offen vor Israel hervortrat.« — a single-sentence summary that leaves the rationale's »What will this child become?« open into chapter 3, with plain modern vocabulary throughout.",
-        "tradeOff": "none — the verse is a transition and does not need amplification.",
+        "term": "ēuxanen_kai_ekrataiouto",
+        "rendering": "»Das Kind wuchs heran und reifte innerlich.« — ἐκραταιοῦτο als innere Formung, nicht muskulöse Stärke.",
+        "tradeOff": "»wurde stark am Geist« (Luther) trägt eine bestimmte Nuance, klingt im modernen Deutsch aber missverständlich (Geist als geistige Fähigkeit); »reifte innerlich« hält die geistige Reifung — verliert dafür den Nachhall der Lutherformel.",
+        "confidence": 5
+      },
+      {
+        "term": "tais_erēmois",
+        "rendering": "»Es lebte in der Wüste, \\add dort, wo Israels Propheten gereift sind\\add*« — »Wüste« trägt die prophetische Resonanz (Mose, Elija, Israel); die \\add-Linie macht sie für den heutigen Leser hörbar.",
+        "tradeOff": "none — »in der Einöde« oder »in Einsamkeit« hätte den prophetischen Traditionsort verloren.",
+        "confidence": 5
+      },
+      {
+        "term": "anadeixis_autou",
+        "rendering": "»bis zu dem Tag, an dem es öffentlich in Israel auftrat.« — die Erzählsuspension bleibt gewahrt: der Vorhang fällt hier und geht in Lk 3 wieder auf.",
+        "tradeOff": "none — »bis zu seinem Auftreten vor Israel« wäre knapper, hätte aber die suspenseartige Erzählpause weniger deutlich markiert.",
         "confidence": 5
       }
     ]

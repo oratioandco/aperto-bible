@@ -5,240 +5,522 @@
   "byVerse": {
     "1": [
       {
-        "term": "orderly_account_framing",
-        "rendering": "Rendered \"podjęło trud spisania po kolei tego wszystkiego, co dokonało się pośród nas i wypełniło do końca\" to carry both Luke's historiographic claim (orderly, sequential account) and the πεπληροφορημένων sense of events brought to fulfillment. \"Wypełniło do końca\" preserves the theological weight of completion that bare \"happened among us\" would flatten.",
-        "tradeOff": "Slightly longer than a clipped \"co się wypełniło\"; chose the doubled phrasing because the perfect-passive force in Greek implies divine bringing-to-fullness, not mere occurrence.",
+        "term": "peplerophoremenon",
+        "rendering": "Perfectum passivum oddajemy jako 'dokonało się i wypełniło'. Podwojony czasownik oddaje aspekt dokonany i wskazuje na Boże sprawstwo — nie o same przypadkowe wydarzenia, lecz o wypełnienie Bożego planu.",
+        "tradeOff": "Płacimy pewną obfitością słów tam, gdzie po grecku wystarczał jeden imiesłów; zyskujemy jednak teologiczną wyrazistość Bożego dokonania i naturalną polszczyznę.",
+        "confidence": 4
+      },
+      {
+        "term": "diegesis",
+        "rendering": "Oddajemy jako 'uporządkowana relacja' — literacki termin z historiografii antycznej, w rejestrze formalnym odpowiednim dla PL-Pr1.",
+        "tradeOff": "Rezygnujemy z krótszego 'opowieść' czy 'sprawozdanie', które gubiłyby literacką staranność Łukasza; w zamian polski czytelnik odbiera dedykację jako świadomie skomponowaną prozę historyczną.",
+        "confidence": 4
+      }
+    ],
+    "2": [
+      {
+        "term": "autoptai",
+        "rendering": "'Naoczni świadkowie' — naturalne polskie sformułowanie, które zachowuje techniczny sens antycznej historiografii: świadek, który widział na własne oczy.",
+        "tradeOff": "Nie próbujemy oddawać greckiego terminu technicznego kalką; zyskujemy zdanie, które współczesny czytelnik odbiera jako zwykłą polszczyznę, tracimy jednak niuans specjalistycznego słownika Polibiusza (przypis to kompensuje).",
+        "confidence": 4
+      },
+      {
+        "term": "hyperetai_tou_logou",
+        "rendering": "Oddajemy jako 'sługami tego słowa' — formalny rejestr służby, zachowujący ładunek okołodiakonalny (διακονέω).",
+        "tradeOff": "Rezygnujemy z bezpośrednich terminów kościelnych typu 'diakoni'; zachowujemy jednak formalny ton i wskazanie na służbę słowu.",
         "confidence": 4
       }
     ],
     "3": [
       {
-        "term": "kratiste_theophile_patron",
-        "rendering": "Rendered κράτιστε Θεόφιλε as \"dostojny Teofilu, którego hojności dzieło to wiele zawdzięcza\" — the honorific \"dostojny\" carries the high-status κράτιστε, and the added clause makes the patronage transaction visible in the running text so a modern reader feels the social weight (this was a funded dedication, not a private letter).",
-        "tradeOff": "Adds material not in the Greek; without it the patron-client dynamic disappears entirely for a modern reader who reads \"Theophilus\" as just a name. The must-land friction (honor/shame, patronage as social transaction) justified the amplification.",
+        "term": "kratiste",
+        "rendering": "'Dostojny Teofilu' — polski honoryfikator zachowujący rzymski oficjalny ton bez anachronizmu.",
+        "tradeOff": "Odrzucamy 'ekscelencjo' (zbyt współczesno-urzędowe) i 'szanowny' (zbyt ogólne); 'dostojny' oddaje oficjalną godność bez modernizacji.",
+        "confidence": 5
+      },
+      {
+        "term": "akribos",
+        "rendering": "'Dokładnie' — oddajemy precyzję prowadzonego dochodzenia.",
+        "tradeOff": "none — zwykłe, bezstratne oddanie leksykalne.",
+        "confidence": 5
+      },
+      {
+        "term": "kathexes",
+        "rendering": "'Po kolei' — naturalna polszczyzna zachowująca sens metodyczności bez akademickiej sztywności.",
+        "tradeOff": "Rezygnujemy z bardziej naukowego 'w porządku' czy 'sekwencyjnie'; zyskujemy prostotę odbioru.",
+        "confidence": 4
+      }
+    ],
+    "4": [
+      {
+        "term": "asfaleia",
+        "rendering": "'Pewny grunt' — ugruntowana pewność, coś, na czym można stanąć. Etymologia (a-sfallō, 'nie poślizgnąć się') wspiera obraz twardego gruntu pod stopami.",
+        "tradeOff": "Nie oddajemy jako 'dowód' czy 'niezbita pewność' — Łukasz nie chce agresywnej pewności zamykającej pytania, lecz solidne oparcie dla dalszego szukania.",
+        "confidence": 5
+      },
+      {
+        "term": "katechethes",
+        "rendering": "'Czego cię nauczono' — wcześniejsza formalna instrukcja; rdzeń 'katechezy' pozostaje słyszalny etymologicznie.",
+        "tradeOff": "none — naturalna polszczyzna zachowująca sens uprzedniego kształcenia.",
         "confidence": 4
       }
     ],
     "5": [
       {
-        "term": "herod_brutal_regime",
-        "rendering": "Expanded \"za czasów Heroda, króla Judei\" with \"gdy nad krajem ciążyła jego podejrzliwa, brutalna władza\" — sets the political atmosphere of fear that frames the whole infancy narrative, so the angelic \"do not be afraid\" lands against a real backdrop rather than a neutral date-stamp.",
-        "tradeOff": "Heavier opening than the Greek's bare temporal marker; chose to let modern readers feel the menace that first-century hearers would have heard in \"Herod\" alone.",
-        "confidence": 3
+        "term": "egeneto_en_tais_hemerais",
+        "rendering": "'Za panowania Heroda...' — natychmiastowe zakotwiczenie w politycznej rzeczywistości; panowanie Heroda staje się temporalnym punktem odniesienia. Przełom z rejestru prologu do narracji historycznej.",
+        "tradeOff": "Rezygnujemy z septuagintalnego 'I stało się w owe dni'; przełom oddajemy przez konkretne polityczne nazwanie, nie przez archaiczną formułę.",
+        "confidence": 5
       },
       {
-        "term": "priestly_courses_explained",
-        "rendering": "Added \"jednej z dwudziestu czterech zmian, które po kolei pełniły służbę w świątyni\" inline to explain ἐφημερίας Ἀβιά rather than footnote it. Without this, the lottery in v.9 has no context — readers cannot feel how rare Zechariah's selection was.",
-        "tradeOff": "Inline explanation lengthens v.5; chose this over a footnote because it sets up the once-in-a-lifetime weight of v.9.",
+        "term": "efemeria_abia",
+        "rendering": "'Zmiana Abiasza' — 'zmiana' (kolej służby) jest naturalna w polszczyźnie; przypis wyjaśnia system podziału na 24 kapłańskie zmiany.",
+        "tradeOff": "none — techniczny termin oddany zrozumiale, szczegóły w przypisie.",
         "confidence": 4
+      }
+    ],
+    "6": [
+      {
+        "term": "dikaioi_amemptoi",
+        "rendering": "'Żyli przed Bogiem sprawiedliwie, i nikt nie mógłby im niczego zarzucić' — przymierzowa wierność oddana przysłówkowo; ἄμεμπτοι rozwinięte w zdanie względne oddające sens forensyczny (nie da się postawić zarzutu).",
+        "tradeOff": "Rozbijamy grecką parę przymiotników na dwie różne konstrukcje; zyskujemy naturalną polszczyznę i uwypuklamy różnicę między dwoma słowami.",
+        "confidence": 4
+      }
+    ],
+    "7": [
+      {
+        "term": "steira",
+        "rendering": "'Bezdzietna' — stan społeczny, nie diagnoza medyczna.",
+        "tradeOff": "Odrzucamy medyczne 'bezpłodna'; w kulturze I wieku było to piętno społeczne, nie kliniczna kategoria.",
+        "confidence": 5
       }
     ],
     "9": [
       {
-        "term": "once_in_lifetime_lot",
-        "rendering": "Closed v.9 with \"Taki zaszczyt spotykał kapłana raz w życiu, jeśli w ogóle\" — landing the must-land friction that being chosen by lot for the incense offering was the apex of a priest's career, often never reached. The \"jeśli w ogóle\" carries the bitterness that for many priests it never came.",
-        "tradeOff": "Explicit gloss inside the verse rather than a footnote; the offense (this was THE moment of Zechariah's life) must be felt, and modern readers have no cultural frame for temple lotteries.",
-        "confidence": 5
+        "term": "elache",
+        "rendering": "'Wyciągnięto losy – i jemu wypadło' — Boże wybranie przez los. Dwuetapowe oddanie zachowuje rytualny akt losowania i wypadnięcia losu jako opatrznościowe wybranie.",
+        "tradeOff": "Odrzucamy sugestię ślepego trafu ('padło na niego przypadkiem'); podkreślamy opatrznościowe wybranie ukryte w losowaniu.",
+        "confidence": 4
+      },
+      {
+        "term": "thymiasai",
+        "rendering": "'Złożyć ofiarę z kadzidła' — jednorazowa zaszczytna funkcja; 'ofiara z kadzidła' brzmi po polsku naturalnie i sygnalizuje kapłański akt.",
+        "tradeOff": "none — tradycyjne polskie wyrażenie liturgiczne, zrozumiałe dla czytelnika.",
+        "confidence": 4
+      }
+    ],
+    "12": [
+      {
+        "term": "fobos_epepesen",
+        "rendering": "'Strach ogarnął Zachariasza' — WISCERALNE; strach chwyta go z zewnątrz. Przypis zachowuje obraz 'spadł na niego' bez kalkowania go do tekstu głównego.",
+        "tradeOff": "Rezygnujemy z kalki 'strach spadł'; zyskujemy naturalną polszczyznę, gdzie strach jest reakcją, ale przypis zachowuje obraz zewnętrznego, obezwładniającego ciężaru.",
+        "confidence": 4
       }
     ],
     "13": [
       {
-        "term": "prayer_heard_perfect",
-        "rendering": "Kept \"Twoja modlitwa została wysłuchana\" — neutral perfect-passive that does not specify which prayer (for a son, or for Israel's redemption). Polish εἰσηκούσθη maps cleanly here without amplification.",
-        "tradeOff": "None — the ambiguity is in the Greek and should remain in the Polish.",
+        "term": "eisekousthe_he_deesis",
+        "rendering": "'Twoja modlitwa została wysłuchana' — passivum divinum: to Bóg usłyszał; drzwi, które wydawały się na zawsze zamknięte.",
+        "tradeOff": "none — standardowe passivum divinum oddane naturalnie.",
         "confidence": 5
       }
     ],
     "15": [
       {
-        "term": "nazirite_no_amplification",
-        "rendering": "Rendered \"Nie będzie pił wina ani niczego mocnego\" without explicit Nazirite labeling. The dietary prohibition signals the consecration; Polish \"niczego mocnego\" covers σίκερα (strong drink) without a loanword.",
-        "tradeOff": "Readers who know the Nazirite vow will catch it; others will read consecration without the technical category. Acceptable since John's prophetic identity is carried by the Elijah comparison in v.17.",
+        "term": "oinon_kai_sikera",
+        "rendering": "'Wina ani niczego mocnego' — echo ślubów nazirejskich (Lb 6,3); przypis eksplikuje związek. 'Niczego mocnego' brzmi po polsku naturalniej niż 'mocnego napoju'.",
+        "tradeOff": "Rozszerzamy nieco pole znaczeniowe ponad wąskie 'mocny napój'; ryzykujemy delikatną nieostrość, ale zyskujemy naturalny polski idiom.",
         "confidence": 4
       }
     ],
     "17": [
       {
-        "term": "elijah_reconciliation",
-        "rendering": "Rendered \"przywrócić sposób myślenia ludzi prawych\" for ἐν φρονήσει δικαίων — \"sposób myślenia\" carries φρόνησις (practical wisdom/disposition) better than the wooden \"mądrość\"; \"ludzi prawych\" carries δικαίων as a human category rather than abstract justice.",
-        "tradeOff": "Longer than a clipped \"do mądrości sprawiedliwych\"; chose precision over compression because the Malachi 4 allusion's force is in changed disposition, not just \"wisdom.\"",
+        "term": "pneumati_kai_dynamei_eliou",
+        "rendering": "'W duchu i mocy Eliasza' — prorocka ciągłość; przypis wskazuje na Malachiasza 3,23–24.",
+        "tradeOff": "none — bezstratne oddanie z zabezpieczeniem odniesienia w przypisie.",
+        "confidence": 5
+      }
+    ],
+    "19": [
+      {
+        "term": "parestekos_enopion_tou_theou",
+        "rendering": "'Stoję przed Bogiem' — poświadczenie Gabriela; hierarchia aniołów, język sali tronowej.",
+        "tradeOff": "none — zachowujemy majestat obrazu bez modyfikacji.",
         "confidence": 4
       }
     ],
     "20": [
       {
-        "term": "silencing_as_sign",
-        "rendering": "\"Oniemiejesz i nie będziesz mógł wymówić ani słowa\" — doubled phrasing carries the κωφός + μὴ δυνάμενος λαλῆσαι intensification (mute AND unable to speak), preserving the sign-as-discipline weight that a single \"zaniemówisz\" would soften.",
-        "tradeOff": "Slight redundancy; chose it because the punishment-for-doubt is the must-land tension that resolves only in v.64.",
+        "term": "siopon_me_dynamenos_lalesai",
+        "rendering": "'Będziesz milczał, niezdolny do mówienia' — dyscyplina, nie potępienie. Dziewięć miesięcy ucieleśnionego milczenia; czas przyszły zachowuje zapowiedziany charakter tej ciszy.",
+        "tradeOff": "Odrzucamy sugestię kary; ryzykujemy, że czytelnik początkowo odbierze niemowę jako arbitralną sankcję, ale przypis rozjaśnia, że to przygotowanie, nie sankcja.",
         "confidence": 4
-      }
-    ],
-    "25": [
-      {
-        "term": "social_shame_vindicated",
-        "rendering": "\"Zdjął ze mnie hańbę, którą musiałam znosić w oczach ludzi\" — \"musiałam znosić\" carries the long endurance, and \"w oczach ludzi\" locates the shame socially (where it belongs) rather than theologically. Honors the harm-history note: barrenness is never moral failure in the text.",
-        "tradeOff": "\"Musiałam znosić\" adds duration not strictly in the Greek; chose it so the reader feels Elizabeth's years of stigma, not a momentary embarrassment.",
-        "confidence": 5
       }
     ],
     "26": [
       {
-        "term": "nazareth_obscurity",
-        "rendering": "\"Nazaretu, małej wioski w Galilei, o której świat nigdy nie słyszał\" — landing the class/reversal friction inline. Without the gloss, Nazareth reads to modern Polish readers as a known biblical place; the original force (nowhere village) is lost.",
-        "tradeOff": "Explicit editorial framing; chose it because the reversal theme (peasant girl from nowhere receives royal promise) starts here and must be felt, not footnoted.",
+        "term": "parthenos",
+        "rendering": "'Dziewczyny' — opisowe, nie tytularne. NIE 'Dziewica' (anachroniczny tytuł maryjny, który wprowadza późniejszą dogmatykę). Opisowe 'dziewczyna' pozwala wersetowi 34 nieść jednoznaczne potwierdzenie dziewictwa; przypis wyjaśnia motywację.",
+        "tradeOff": "Rezygnujemy z liturgicznej ekwiwalencji Tysiąclatki; ryzykujemy zderzenie z pobożnym przyzwyczajeniem czytelnika, ale zyskujemy wierność strukturze narracyjnej tekstu.",
         "confidence": 5
       }
     ],
     "27": [
       {
-        "term": "betrothal_legal_danger",
-        "rendering": "Expanded the bare \"zaręczonej z mężczyzną\" with the full inline explanation of betrothal-as-binding and the capital-offense danger of perceived adultery. The original audience knew this; modern Polish readers do not, and the rest of the pericope (Mary's question in v.34, her courage in v.38) is unreadable without it.",
-        "tradeOff": "Significant amplification — the longest single expansion in the chapter. Chose it because betrothal customs are the load-bearing context for Mary's risk; demoting this to a footnote guts the must-land friction (Mary's yes was socially dangerous, potentially fatal).",
+        "term": "memnesteumenen",
+        "rendering": "'Zaręczonej' — prawnie wiążące uzgodnienie; jeszcze nie małżeństwo. Śródtekstowa wstawka uczula czytelnika na prawną wagę tego statusu.",
+        "tradeOff": "none — 'zaręczyny' oddają sens, a wstawka i przypis dopełniają realia kulturowo-prawne.",
+        "confidence": 4
+      }
+    ],
+    "28": [
+      {
+        "term": "chaire_kecharitomene",
+        "rendering": "'Bóg spojrzał na ciebie z niezwykłą przychylnością. Jest przy tobie.' — pozdrowienie i perfectum passivum oddajemy razem jako dokonane i trwające działanie Boga. NIE 'Bądź pozdrowiona' (liturgiczne Tysiąclatki), NIE 'Zdrowaś' (odruch Ave Maria), NIE 'pełna łaski' (importuje późniejszy dogmat). Ostrość pada na to, co BÓG uczynił i nadal czyni — nie na stan bytowy Marii ani na tytularną formułę.",
+        "tradeOff": "Rezygnujemy z rozpoznawalnej liturgicznej kadencji Tysiąclatki i z tradycji katolickiego czytania jako tytułu maryjnego; zyskujemy wierność perfectum passivum jako Bożemu, dokonanemu i trwającemu działaniu.",
         "confidence": 5
       }
     ],
-    "34": [
+    "29": [
       {
-        "term": "mary_question_social_force",
-        "rendering": "\"Jak to się stanie? ... Gdybym teraz zaszła w ciążę, wzięto by mnie za cudzołożnicę.\" Amplified Mary's question to make explicit what the Greek implies through the betrothal context already set up in v.27 — her objection is not just biological but social/legal.",
-        "tradeOff": "Adds content beyond the Greek's compact ἐπεὶ ἄνδρα οὐ γινώσκω. Justified because the must-land friction (capital danger) lands in Mary's own voice rather than as narrator commentary.",
+        "term": "dietarachthe",
+        "rendering": "'Te słowa nią wstrząsnęły' — WISCERALNE; głębokie wstrząśnięcie, poruszenie do samej głębi. NIE 'zaniepokoiła się' (zbyt łagodne). Mocniejszy czasownik niż użyty wobec Zachariasza w w. 12.",
+        "tradeOff": "Odrzucamy łagodniejsze 'zaniepokoiła się' i 'zdziwiła się'; ryzykujemy pewną gwałtowność, ale zachowujemy zaplanowaną przez Łukasza różnicę siły wobec Zachariasza.",
         "confidence": 4
+      }
+    ],
+    "32": [
+      {
+        "term": "hyios_hypsistou",
+        "rendering": "'Synem Najwyższego' — tytuł chrystologiczny; ogromne roszczenie w żydowskim monoteizmie.",
+        "tradeOff": "none — standardowy zapis tytułu w polskiej tradycji biblijnej.",
+        "confidence": 5
+      },
+      {
+        "term": "thronon_dauid_basileusei",
+        "rendering": "'Tron Jego ojca, Dawida... Będzie panował' — dawidowa obietnica mesjańska; polityczno-teologiczny dynamit. Nazwanie Dawida jako 'ojca' wzmacnia dynastyczne powiązanie.",
+        "tradeOff": "none — wierne oddanie z akcentem na dynastyczną ciągłość.",
+        "confidence": 5
+      }
+    ],
+    "33": [
+      {
+        "term": "thronon_dauid_basileusei",
+        "rendering": "'Tron Jego ojca, Dawida... Będzie panował' — dawidowa obietnica mesjańska; polityczno-teologiczny dynamit. Nazwanie Dawida jako 'ojca' wzmacnia dynastyczne powiązanie.",
+        "tradeOff": "none — wierne oddanie z akcentem na dynastyczną ciągłość.",
+        "confidence": 5
       }
     ],
     "35": [
       {
-        "term": "shekinah_overshadow",
-        "rendering": "Added \"jak obłok kiedyś okrył namiot spotkania\" inline for ἐπισκιάσει — the LXX echo (Exod 40:35) is the whole theological weight of the verb. Polish \"okryje\" alone would read as physical covering; the inline gloss surfaces the Shekinah allusion.",
-        "tradeOff": "Explicit OT cross-reference inside the running text; chose it because the verb's force is the temple-glory echo and Polish lacks a verb that carries it on its own.",
+        "term": "episkiasei",
+        "rendering": "'Osłoni' — echo Szekiny/Namiotu Spotkania (Wj 40,35). NIE 'zstąpi na ciebie' (zbyt agresywne). Osłona jest ochronna, stwórcza — jak obłok nad Namiotem. Śródtekstowa wstawka ('tak, jak obłok kiedyś okrył Namiot Spotkania') czyni echo starotestamentowe słyszalnym.",
+        "tradeOff": "Odrzucamy sugestię seksualnej lub agresywnej ingerencji obecną w innych oddaniach; zyskujemy teologicznie precyzyjny język świątyni.",
+        "confidence": 5
+      },
+      {
+        "term": "to_gennomenon_hagion",
+        "rendering": "'To, co się narodzi – święte – będzie nazwane Synem Bożym' — Święty rodzący się to passivum divinum. Myślniki wydzielają 'święte' tak, by świętość była odczytana jako predykowana, a nie jako właściwość podmiotu.",
+        "tradeOff": "Zyskujemy interpunkcyjną precyzję teologiczną; ryzykujemy odbiorczą trudność składniową, którą przypis dopełnia.",
         "confidence": 4
       }
     ],
     "38": [
       {
-        "term": "mary_yes_servant",
-        "rendering": "\"Należę do Pana\" for ἰδοὺ ἡ δούλη κυρίου — chose \"należę\" over the more literal \"jestem służebnicą\" to land the costly self-handing-over without the diminutive softness \"służebnica\" can carry in Polish. \"Należę\" carries belonging-under-authority.",
-        "tradeOff": "Loses the explicit \"servant\" word that has liturgical resonance; chose force-of-commitment over title because the must-land point is Mary's faith-response, not a title.",
+        "term": "doule_kyriou",
+        "rendering": "'Należę do Pana' — samo-wybrana radykalna dyspozycyjność wobec Boga. NIE niewolnicza uległość ludziom, NIE liturgiczne 'służebnica Pańska' (brzmi jak formuła z modlitewnika). 'Należę do Pana' oddaje totalną przynależność implikowaną przez δούλη, brzmiąc jak konkretna młoda kobieta w konkretnej godzinie. Przypis zachowuje dosłowne 'niewolnica/służebnica' dla czytelników szukających literalnej wagi.",
+        "tradeOff": "Rezygnujemy z rozpoznawalnej liturgicznej formuły Tysiąclatki; zyskujemy osobową ostrość i unikamy narzucania obrazu pobożnej służebności modlitewnikowej.",
+        "confidence": 5
+      },
+      {
+        "term": "genoito_moi",
+        "rendering": "'Niech tak się stanie, jak powiedziałeś' — optativus = zgoda dobrowolna. Aktywne, odważne TAK. Fraza 'jak powiedziałeś' zakotwicza zgodę w konkretnym zwiastowaniu Gabriela, nie w losie w ogóle.",
+        "tradeOff": "Odrzucamy bierne 'niech mi się stanie'; ryzykujemy pewne rozbudowanie, ale zyskujemy aktywność i konkretność zgody.",
+        "confidence": 5
+      }
+    ],
+    "39": [
+      {
+        "term": "meta_spoudes",
+        "rendering": "'Spiesznie' — pilność; wielodniowa podróż przez judzkie góry. 'Spiesznie' jest zwięźlejsze niż 'z pośpiechem' i pasuje do tempa narracji.",
+        "tradeOff": "none — leksykalna oszczędność bez utraty sensu.",
         "confidence": 4
+      }
+    ],
+    "41": [
+      {
+        "term": "eskirtesen_to_brefos",
+        "rendering": "'Dziecko poruszyło się w niej gwałtownie' — FIZYCZNE; mocny, nagły ruch płodu. NIE gołe 'poruszyło się'. Przypis zachowuje intensywność skaczących baranków i septuagintalne echo tańczących gór.",
+        "tradeOff": "Rezygnujemy z leksykalnie krótszej wersji; zyskujemy wisceralność zgodną z siłą greckiego czasownika.",
+        "confidence": 5
       }
     ],
     "42": [
       {
-        "term": "elizabeth_public_acclamation",
-        "rendering": "\"Wydała głośny okrzyk i zawołała na cały dom\" for ἀνεφώνησεν κραυγῇ μεγάλῃ — doubled phrasing carries the prophetic, public force; \"na cały dom\" makes the publicness audible. The honor/shame inversion (elder priest's wife defers to peasant girl) needs the volume to land.",
-        "tradeOff": "Slight redundancy of \"głośny okrzyk\" + \"zawołała\"; chose it because the prophetic outburst is the point — Elizabeth is not whispering.",
+        "term": "anefonesen_krauge_megale",
+        "rendering": "'Zawołała donośnym głosem' — prorocka intensywność; Elżbieta KRZYCZY. NIE nieśmiały szept.",
+        "tradeOff": "none — wierne oddanie prorockiej siły.",
+        "confidence": 5
+      },
+      {
+        "term": "eulogemene_en_gynaixin",
+        "rendering": "'Błogosławiona jesteś między kobietami' — zachowujemy 'kobietami' (nie archaiczne 'niewiastami'). Polski czytelnik zna tę frazę dobrze — niech wybrzmi.",
+        "tradeOff": "Odrzucamy archaiczne 'niewiasty'; ryzykujemy pewne obniżenie liturgicznej podniosłości, ale zyskujemy współczesny polski rejestr.",
         "confidence": 4
       }
     ],
     "43": [
       {
-        "term": "elizabeth_unworthiness",
-        "rendering": "\"Czym ja na to zasłużyłam\" for πόθεν μοι τοῦτο — the Polish idiom carries the \"how did I deserve this\" reversal-of-status more naturally than \"skąd mi to.\" Lands the inversion: the older, higher-status woman acknowledging the younger as superior.",
-        "tradeOff": "Slight shift from \"whence\" to \"by what merit\"; chose the idiomatic Polish because the social reversal is the must-land point and the literal \"skąd\" reads flat.",
+        "term": "meter_tou_kyriou_mou",
+        "rendering": "'Matka mojego Pana' — chrystologiczne wyznanie; ziarno tytułu Theotokos. Ogromnie znaczące w polskiej kulturze katolickiej.",
+        "tradeOff": "none — literalne oddanie z pełnym ładunkiem chrystologicznym.",
+        "confidence": 5
+      }
+    ],
+    "45": [
+      {
+        "term": "makaria_he_pisteusasa",
+        "rendering": "'Masz szczęście, że uwierzyłaś' — beatytudyczna forma adresowana bezpośrednio do Marii. Implikowany kontrast z wątpieniem Zachariasza. 'Masz szczęście' doręcza makaryzm jako realny zwrot w drugiej osobie, nie jako trzecioosobową formułę, zachowując sens szczęśliwości μακάριος.",
+        "tradeOff": "Odrzucamy formalne 'błogosławiona, która uwierzyła'; ryzykujemy rejestr bliższy potocznemu, ale zyskujemy bezpośredniość adresu i różnicę leksykalną wobec εὐλογημένη z w. 42.",
         "confidence": 4
       }
     ],
     "46": [
       {
-        "term": "magnificat_personal_opening",
-        "rendering": "\"Wszystko we mnie wielbi Pana\" for μεγαλύνει ἡ ψυχή μου τὸν κύριον — \"wszystko we mnie\" carries the totality of ψυχή better than the wooden \"moja dusza,\" and avoids the cold archaism that would distance modern Polish readers from Mary's voice. Echoes the personal-praise opening that Bock identifies (vv.46-50).",
-        "tradeOff": "Loses the explicit \"soul\" word with its liturgical weight; chose immediacy over liturgical familiarity because this is a young woman speaking from her gut, not chanting Vespers.",
-        "confidence": 4
+        "term": "megalynei_he_psyche_mou",
+        "rendering": "'Wszystko we mnie – wszystko! – wielbi Pana' — POEZJA, nie liturgiczna formuła. PL-P1 Ironiczna Mądrość — dobitne, bezpośrednie. Podwojone 'wszystko' z myślnikami otwiera pieśń ucieleśnioną totalnością zamiast liturgiczną kadencją Tysiąclatki.",
+        "tradeOff": "Zrywamy z rozpoznawalną liturgiczną formułą 'Wielbi dusza moja Pana'; zyskujemy poetycką dobitność, ryzykując szok czytelnika obeznanego z tradycyjnym Magnificat.",
+        "confidence": 5
+      }
+    ],
+    "47": [
+      {
+        "term": "egalliasen_to_pneuma_mou",
+        "rendering": "'Mój duch wybucha radością' — WISCERALNE uniesienie, nie grzeczne szczęście. 'Wybucha' niesie wybuchowy sens ἀγαλλιάω bez brzmienia reklamowego.",
+        "tradeOff": "Rezygnujemy z eleganckiego 'raduje się mój duch'; zyskujemy siłę greckiej ekstazy.",
+        "confidence": 5
       }
     ],
     "48": [
       {
-        "term": "tapeinosin_from_bottom",
-        "rendering": "\"Na nikogo, na dziewczynę z samego dołu\" for ἐπὶ τὴν ταπείνωσιν — \"z samego dołu\" lands the class/economic force (peasant from the bottom of the social ladder) that \"uniżenie\" or \"pokorę\" would moralize. The reversal theme requires economic specificity.",
-        "tradeOff": "Sacrifices the spiritual-humility reading that \"uniżenie\" carries; chose social-class force because the Magnificat's center (vv.51-53) is explicitly economic/political reversal, not interior virtue.",
+        "term": "tapeinosin_tes_doules",
+        "rendering": "'Spojrzał na mnie. Mnie – niezauważoną, nikomu nieznaną' — LOKALIZACJA SPOŁECZNA, nie cnota. Maria jest niskiego statusu — młoda, kobieta, wieśniaczka z nieistotnego Nazaretu. Fragmentaryczne powtórzenie ('Mnie – niezauważoną') nazywa dokładnie to, co widziało w niej jej społeczeństwo.",
+        "tradeOff": "Odrzucamy interpretację ταπείνωσις jako cnoty pokory; zyskujemy społeczno-strukturalną prawdę tekstu, ryzykując zderzenie z pobożną tradycją odczytu.",
         "confidence": 5
+      }
+    ],
+    "49": [
+      {
+        "term": "ho_dynatos",
+        "rendering": "'Ten Mocny' — moc Boga; osobista, niemal nazwa własna. Kapitalizacja 'T' traktuje wyrażenie jako designację, a nie generyczny przymiotnik.",
+        "tradeOff": "none — designacja podkreślona typograficznie bez modyfikacji leksykalnej.",
+        "confidence": 4
       }
     ],
     "51": [
       {
-        "term": "god_s_arm_visible",
-        "rendering": "\"Pokazał, jak silne jest Jego ramię\" — kept the Hebraism \"ramię\" with the visible-demonstration gloss, so the cosmic-reversal section (vv.51-53) opens with God's power made manifest, matching the rationale's note that the child in Mary's womb is the agent of the reversal — God's \"arm\" made visible.",
-        "tradeOff": "Slight expansion of ἐποίησεν κράτος; chose it so the section's pivot from personal praise to cosmic action is unmissable.",
+        "term": "kratos_en_brachioni",
+        "rendering": "'Pokazał, co umie. Ramieniem.' — fizyczne, ucieleśnione — ramię Boga. Dwuczłonowe oddanie dostarcza wojenny gest z poetycką siłą zamiast narracyjnej gładkości.",
+        "tradeOff": "Zrywamy z konwencjonalną gramatyką pełnego zdania; zyskujemy poetycką dobitność fragmentu, ryzykując pewną obcość składniową.",
+        "confidence": 5
+      },
+      {
+        "term": "dieskorpisen_hyperephanous",
+        "rendering": "'Rozproszył pyszniących się – w samych ich własnych planach' — rozproszył aroganckich, a fraza przyimkowa lokuje rozproszenie wewnątrz ich własnych intryg, wyostrzając ironię.",
+        "tradeOff": "none — struktura wiernie oddaje grecki sens ironicznego rozproszenia.",
         "confidence": 4
       }
     ],
     "52": [
       {
-        "term": "thrones_economic_reversal",
-        "rendering": "\"Władców zrzucił z tronów, a tych z samego dołu podniósł wysoko\" — \"władców\" carries δυνάστας as political rulers (not abstract \"the mighty\"); \"z samego dołu\" echoes v.48's class language to bind Mary's experience to the universal pattern.",
-        "tradeOff": "None — the political/economic reversal is must-land friction; softening it (\"możnych,\" \"pokornych\") would moralize what the Greek leaves concrete and material.",
+        "term": "katheilen_dynastas",
+        "rendering": "'Władców – z tronów.' — POLITYCZNE odwrócenie. To nie metafora — to prorocka zapowiedź. Skompresowana forma z myślnikiem ląduje jako wyrok, a nie zdanie. Polski historyczny rezonans (zabory, obce rządy) rezonuje bez wymuszania paraleli.",
+        "tradeOff": "Rezygnujemy z pełnego zdania na rzecz fragmentu; zyskujemy siłę prorockiego wyroku, ryzykując trudność składniową.",
+        "confidence": 5
+      },
+      {
+        "term": "hypsosen_tapeinous",
+        "rendering": "'Tych z dołu – w górę.' — poniżeni zostają wywyższeni; społeczne odwrócenie. Skompresowany paralelizm do poprzedniej linii — ta sama forma składniowa oddaje inwersję.",
+        "tradeOff": "none — paralelna forma poetycka wzmacnia odwrócenie.",
         "confidence": 5
       }
     ],
     "53": [
       {
-        "term": "hungry_filled_rich_empty",
-        "rendering": "\"Głodnych nasycił dobrem, a bogatych odprawił z pustymi rękami\" — kept the stark economic contrast. \"Z pustymi rękami\" carries κενούς with maximum bite; no softening to \"odesłał ich\" or similar.",
-        "tradeOff": "None — the must-land friction is the concrete economic reversal; any abstraction (\"those who are full,\" \"those in need\") guts it.",
+        "term": "peinontas_eneplesen_agathon",
+        "rendering": "'Głodnych – do syta.' — głodni SYCENI — materialnie, nie tylko duchowo. Fragment zachowuje prorocki skrót.",
+        "tradeOff": "Odrzucamy pełne zdanie; zyskujemy prorockie skrótowe uderzenie, ryzykując obcość składniową.",
+        "confidence": 5
+      },
+      {
+        "term": "plutountas_exapesteilen_kenous",
+        "rendering": "'Bogatych odprawił. Z niczym.' — bogaci odesłani PUŚCI — druzgocące odwrócenie. Kończące 'Z niczym.' stoi samotnie, robiąc dokładnie to, co opisuje.",
+        "tradeOff": "Rezygnujemy z pełnej gramatyki na rzecz izolowanego zdania; zyskujemy wykonawczą siłę fragmentu.",
+        "confidence": 5
+      }
+    ],
+    "54": [
+      {
+        "term": "eleos_v54",
+        "rendering": "'Miłosierdzie' — חֶסֶד: wierność przymierza. 'Miłosierdzie' jest w polskim głębsze niż 'litość'.",
+        "tradeOff": "Odrzucamy 'litość' jako zbyt płytką; zyskujemy przymierzowy ładunek chesed.",
+        "confidence": 5
+      }
+    ],
+    "55": [
+      {
+        "term": "to_abraam_eis_aiona",
+        "rendering": "'Abrahamowi i jego potomstwu. Na zawsze.' — kotwica przymierza z Abrahamem; obietnica trwa. 'Na zawsze' jako samodzielna linia zamykająca daje wiecznemu wymiarowi własny takt.",
+        "tradeOff": "none — poetycki układ, w którym izolacja końcowego słowa daje mu wagę.",
+        "confidence": 5
+      }
+    ],
+    "58": [
+      {
+        "term": "emegalynen_kyrios_to_eleos",
+        "rendering": "'Pan obszedł się z nią tak hojnie' — miłosierdzie Boga uczynione widocznym, publicznym. 'Obszedł się... hojnie' personalizuje publiczny akt wokół Elżbiety; przypis zachowuje echo μεγαλύνω z otwarcia Magnificat.",
+        "tradeOff": "Odrzucamy literalne 'uczynił wielkim swoje miłosierdzie'; zyskujemy naturalną polszczyznę i podkreślamy społeczny wymiar, tracąc bezpośrednie leksykalne echo z 1,46 (przypis kompensuje).",
+        "confidence": 4
+      }
+    ],
+    "59": [
+      {
+        "term": "peritemein",
+        "rendering": "'Obrzezaniu' — standardowe oddanie; przypis wyjaśnia znak przymierza i towarzyszący zwyczaj nadania imienia.",
+        "tradeOff": "none — techniczny termin z niezbędnym przypisem kulturowym.",
         "confidence": 5
       }
     ],
     "60": [
       {
-        "term": "elizabeth_naming_authority",
-        "rendering": "\"Nie. Będzie się nazywał Jan\" — the bare \"Nie\" at the start carries Elizabeth's authoritative break from custom. A woman overriding patriarchal naming was the shock; the curt \"Nie\" lands the surprise that v.61 then voices.",
-        "tradeOff": "More abrupt than a smooth \"Nie, będzie nazywał się Jan\"; chose the staccato so readers feel the social rupture (women did not typically control naming).",
-        "confidence": 4
+        "term": "ouchi_alla_kletesetai_ioannes",
+        "rendering": "'Nie. Będzie nazywał się Jan.' — sprzeciw Elżbiety wobec konwencji nazewnictwa. Kończąca kropka po 'Nie' jest emfatyczna w swej powściągliwości — płaska odmowa, nie krzyk.",
+        "tradeOff": "Rezygnujemy z rozwiniętego 'nie tak, ma się nazywać Jan'; zyskujemy dobitność jednosylabowej odmowy.",
+        "confidence": 5
       }
     ],
     "63": [
       {
-        "term": "father_yields_to_mother",
-        "rendering": "\"I wszyscy oniemieli, że ojciec przyznał rację matce\" — added gloss for ἐθαύμασαν πάντες. The astonishment is not generic; it is specifically that the patriarch backed the mother's break with naming custom. Without the gloss, modern readers miss why everyone is amazed.",
-        "tradeOff": "Editorial amplification of a single verb; chose it because the gender-and-authority friction is must-land — Elizabeth's insistence + Zechariah's agreement is the resolution of the muteness-as-discipline arc.",
+        "term": "ioannes_estin_onoma_autou",
+        "rendering": "'Jan ma na imię' — orzeczenie w czasie teraźniejszym: to JEST jego imię, nie propozycja. 'Ma na imię' jest naturalną polską konstrukcją oddającą stanowczą siłę ἐστίν.",
+        "tradeOff": "Odrzucamy 'Jan będzie miał na imię' czy 'niech się nazywa Jan'; zyskujemy dokonaną stanowczość obwieszczenia.",
         "confidence": 4
       }
     ],
     "64": [
       {
-        "term": "speech_restored_immediate",
-        "rendering": "\"W tej samej chwili otworzyły mu się usta, odzyskał mowę\" — doubled the action (mouth opened + speech returned) to carry ἀνεῴχθη ... καὶ ἡ γλῶσσα αὐτοῦ. The two-verb structure matches the Greek's emphasis on the dual reversal of the v.20 silencing.",
-        "tradeOff": "Slight redundancy; chose it because the symmetry with v.20's doubled muteness (\"oniemiejesz i nie będziesz mógł wymówić ani słowa\") is structurally important.",
+        "term": "aneochthe_to_stoma",
+        "rendering": "'Odzyskał mowę. Mówił.' — dziewięć miesięcy milczenia przerwane — pierwsze słowa są CHWAŁĄ. Podwojona klauzula pozwala odzyskaniu i natychmiastowemu aktowi mówienia wylądować osobno.",
+        "tradeOff": "Rezygnujemy z jednego zdania na rzecz dwuczłonu; zyskujemy poetyckie oddanie rozdziału między odzyskaniem zdolności a jej użyciem.",
+        "confidence": 5
+      }
+    ],
+    "66": [
+      {
+        "term": "cheir_kyriou_en_metautou",
+        "rendering": "'Bo Pan był z nim' — powierzchnia oddaje siłę idiomu ('ręka Pana była z nim') w czystej polszczyźnie; przypis zachowuje dosłowne 'ręka Pana' i jego starotestamentowe tło. Odbiera dwuznaczność na powierzchni, zachowuje hebrajski smak pod spodem.",
+        "tradeOff": "Odrzucamy kalkę idiomu w tekście głównym; zyskujemy klarowność, ryzykując utratę idiomatycznego kolorytu, który przywraca przypis.",
+        "confidence": 4
+      }
+    ],
+    "68": [
+      {
+        "term": "eulogetos_kyrios",
+        "rendering": "'Błogosławiony Pan, Bóg Izraela' — otwarcie beraki; żydowska forma liturgiczna. Polski czytelnik zna to z modlitwy porannej/laudesów.",
+        "tradeOff": "none — tradycyjne otwarcie zachowane w rozpoznawalnej formie.",
+        "confidence": 5
+      },
+      {
+        "term": "epeskepsato",
+        "rendering": "'Przyszedł do swego ludu' — Bóg czynnie idzie do swojego ludu — hebrajskie פָּקַד niesie interwencję, nie przypadkową wizytę. Powierzchnia oddaje bezpośrednio wymiar aktywnego przyjścia; przypis udostępnia lekturę 'nawiedził' czytelnikom obeznanym ze starszą dykcją.",
+        "tradeOff": "Odrzucamy tradycyjne 'nawiedził' na powierzchni jako mniej czytelne dla współczesnego ucha; zyskujemy siłę interwencji, przypis kompensuje utratę starszej dykcji.",
+        "confidence": 4
+      },
+      {
+        "term": "lytrosis",
+        "rendering": "'Wykupił' — język wyjściowego odkupienia; okup/wyzwolenie oddane jako czasownik Bożego działania.",
+        "tradeOff": "Odrzucamy rzeczownikowe 'odkupienie'; zyskujemy dynamikę aktu Boga.",
         "confidence": 4
       }
     ],
     "69": [
       {
-        "term": "horn_as_mighty_savior",
-        "rendering": "\"Wzbudził dla nas potężnego Wybawcę\" for κέρας σωτηρίας — replaced the dead metaphor (\"róg zbawienia\" reads as nonsense in Polish) with its meaning. The horn-image conveyed power/salvation to ancient hearers; modern Polish readers need the force, not the image.",
-        "tradeOff": "Loses the OT horn-metaphor that connects to Davidic/messianic texts; chose comprehension because the metaphor is dead in Polish and would create friction in the wrong place (incomprehension rather than wonder).",
+        "term": "keras_soterias",
+        "rendering": "'Potężnego wybawcę' — dostarcza sens siły-i-wyzwolenia współczesnemu czytelnikowi bez obrazu byczego rogu, który blokowałby lekturę; przypis zachowuje starotestamentowy idiom i jego polityczny ciężar.",
+        "tradeOff": "Rezygnujemy z konkretnego obrazu 'rogu zbawienia' w tekście głównym; ryzykujemy utratę starotestamentowej metafory, którą przypis przywraca.",
         "confidence": 4
       }
     ],
     "71": [
       {
-        "term": "enemies_political_force",
-        "rendering": "\"Ocali od wrogów, wyrwie z rąk wszystkich, którzy nas nienawidzą\" — kept the doubled enemy-language without softening to spiritual abstraction. The must-land friction is that first-century Jews heard this against Roman occupation; the language must remain political/material.",
-        "tradeOff": "Modern Polish readers may import contemporary political enemies; accepted that risk because the Benedictus's force is liberation-language, not interior-spiritual rescue.",
-        "confidence": 4
+        "term": "soterian_ex_echthron",
+        "rendering": "'Ratunek od naszych wrogów' — polityczne + duchowe wybawienie; nie uduchawiać. 'Ratunek' jest konkretny, fizyczny.",
+        "tradeOff": "Odrzucamy 'zbawienie' jako zbyt uduchowione; zyskujemy fizyczną konkretność sytuacji politycznej okupacji.",
+        "confidence": 5
+      }
+    ],
+    "72": [
+      {
+        "term": "eleos_v72",
+        "rendering": "'Miłosierdzie' — wierność przymierza (חֶסֶד).",
+        "tradeOff": "none — standardowe oddanie chesed w polskim rejestrze.",
+        "confidence": 5
+      }
+    ],
+    "76": [
+      {
+        "term": "profetes_hypsistou",
+        "rendering": "'Prorokiem Najwyższego' — prorocze powołanie Jana; Zachariasz mówi teraz to, za co został uciszony za zwątpienie.",
+        "tradeOff": "none — literalne oddanie tytułu z narracyjną ironią.",
+        "confidence": 5
       }
     ],
     "78": [
       {
-        "term": "splanchna_visceral_mercy",
-        "rendering": "\"Z trzewi Bożego miłosierdzia, które wzbiera w Nim nad nami\" for διὰ σπλάγχνα ἐλέους — kept \"trzewi\" (guts/bowels) for σπλάγχνα. Polish \"trzewi\" is the right word: visceral, embodied, not the sanitized \"serce.\" \"Wzbiera\" carries the welling-up motion that the Greek's seat-of-compassion implies.",
-        "tradeOff": "\"Trzewi\" may feel jarring or earthy to liturgical ears; chose it because σπλάγχνα is precisely an earthy, gut-level word, and softening it to \"serce\" or \"miłosierdzie\" alone loses the bodily force.",
+        "term": "splanchna_eleous",
+        "rendering": "'Z głębi czułości naszego Boga' — WISCERALNE — dosłownie 'wnętrzności miłosierdzia'. 'Czułość' oddaje afektywny, trzewiowy wymiar σπλάγχνα bez anatomii; 'z głębi' zachowuje głębokość. Przypis przywraca dosłowne trzewia dla czytelników, którzy ich szukają.",
+        "tradeOff": "Odrzucamy anatomiczną kalkę 'wnętrzności'; zyskujemy afektywną naturalność, przypis zachowuje pełnię obrazu.",
+        "confidence": 5
+      },
+      {
+        "term": "anatole_ex_hypsous",
+        "rendering": "'Świt z wysoka' — tytuł mesjański; obrazy słońca + latorośli (Jr 23,5 LXX). 'Świt' zachowuje obrazowość światła; kapitałowe 'Ś' sygnalizuje mesjański tytuł i pozwala podwójnemu ładunkowi (wschód słońca + odrośl Dawidowa) być czytanemu jako jeden obraz.",
+        "tradeOff": "Rezygnujemy z rozdzielenia dwóch obrazów na dwa słowa; zyskujemy poetycką zwartość tytułu, ryzykując wyraźność obrazu Dawidowej latorośli (dopełnianej w przypisie).",
         "confidence": 5
       }
     ],
     "79": [
       {
-        "term": "way_of_peace_closing",
-        "rendering": "\"Poprowadzić nasze kroki na drogę pokoju\" — kept the gentle Isaianic close as the final word of the Benedictus, honoring the rationale's note that the path of peace is the final word, balancing the reversal language of vv.51-53.",
-        "tradeOff": "None — the closing's tonal shift from liberation-language to peace is intentional and must remain.",
+        "term": "skotei_kai_skia_thanatou",
+        "rendering": "'W ciemności i w cieniu śmierci' — echo Psalmu 23,4 — zachować związek. Standardowa polska fraza, dobrze znana czytelnikowi.",
+        "tradeOff": "none — znana polska fraza psalmowa zachowana bez modyfikacji.",
+        "confidence": 5
+      },
+      {
+        "term": "hodon_eirenes",
+        "rendering": "'Drogę pokoju' — שָׁלוֹם — pełnia dobrostanu, nie tylko brak konfliktu. Cel hymnu: pokój. Końcowe izolowane 'Pokoju.' stoi samotnie jako końcowy takt.",
+        "tradeOff": "none — tradycyjne oddanie z poetycką izolacją końcowego słowa dającą mu wagę.",
         "confidence": 5
       }
     ],
     "80": [
       {
-        "term": "wilderness_summary",
-        "rendering": "\"Rósł i nabierał siły ducha. Mieszkał na pustkowiu\" — kept the bare summary; the unanswered tension (\"what then will this child become?\" from v.66) is meant to hang. No amplification, because the chapter's deliberate closure is to leave John offstage until chapter 3.",
-        "tradeOff": "None — restraint is the point. Adding anticipatory color would prematurely close the gap Luke intentionally leaves open.",
-        "confidence": 5
+        "term": "euxane_kai_ekrataiouto_pneumati",
+        "rendering": "'Rosło i nabierało mocy ducha' — ciągły wzrost (imperfectum); Boże wzmocnienie oddane jako stopniowe zdobywanie 'mocy ducha' zamiast biernego 'umacniał się' — konkretniej.",
+        "tradeOff": "Odrzucamy tradycyjne 'wzrastało i umacniało się w duchu'; zyskujemy konkretność stopniowego procesu.",
+        "confidence": 4
+      },
+      {
+        "term": "en_tais_eremois",
+        "rendering": "'Na pustkowiach' — liczba mnoga: 'miejsca pustynne' — Jan wędrował. NIE pojedyncza pustynia. Liczba mnoga 'pustkowia' oddaje wędrówkę po dzikich terenach, nie pojedynczą Saharę.",
+        "tradeOff": "Odrzucamy liczbę pojedynczą i sugestię jednego pustynnego miejsca; zyskujemy realistyczny obraz wędrówki po wielu bezludnych miejscach.",
+        "confidence": 4
+      },
+      {
+        "term": "anadeixis",
+        "rendering": "'Ukazał się Izraelowi' — formalne powołanie; publiczne pojawienie się przed Izraelem. Forma czasownikowa ('ukazał się') oddaje czynne rozpoczęcie służby.",
+        "tradeOff": "Odrzucamy rzeczownikowe 'objawienie'; zyskujemy dynamikę czynnego początku posługi.",
+        "confidence": 4
       }
     ]
   }

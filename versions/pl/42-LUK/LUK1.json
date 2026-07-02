@@ -4,11 +4,11 @@
   "lang": "AB-PL",
   "versions": [
     {
-      "id": "1a971fbbd56a",
-      "label": "2026-06-22 — publish: 5 updated",
-      "date": "2026-06-22T13:10:55+00:00",
-      "source_usfm_version": "v5.0.1",
-      "aperto_bible_sha": "1a971fbbd56a287d100237d1d107c77cb3d63f29",
+      "id": "db6cfb40b21e",
+      "label": "2026-07-02 — publish: 21 updated",
+      "date": "2026-07-02T12:29:56Z",
+      "source_usfm_version": "v5.3.0",
+      "aperto_bible_sha": "db6cfb40b21e3301fc4b7ee8a1f74c5a28ed457e",
       "current": true,
       "passages": [
         {
@@ -16,63 +16,237 @@
           "title": "Do Teofila",
           "verse_start": 1,
           "verse_end": 4,
-          "content_hash": "sha256:8c6a09e6a647dab48b41b4f490a6b39ac9186a124de9e97149d212e2e8772e12"
+          "content_hash": "sha256:891ad9f565e0ba3a019aa5585af180705a39e5f01e0611939e1ad5e2066900c5"
         },
         {
           "pericope_id": "luke_01_zechariah_announcement",
           "title": "Obietnica złożona staremu kapłanowi",
           "verse_start": 5,
           "verse_end": 25,
-          "content_hash": "sha256:abf1f566f3a6aca03dd3b199e01bcf47da9a5d6125580f80e32d71373ee8871b"
+          "content_hash": "sha256:db847f2c135474ee78224429f89cfcffaa279fe5a7387d5cee983753504385fe"
         },
         {
           "pericope_id": "luke_01_annunciation_to_mary",
           "title": "Zwiastowanie narodzin Jezusa",
           "verse_start": 26,
           "verse_end": 38,
-          "content_hash": "sha256:99ec58429601e3e8840b2716b1243816da4b3279961f866d246041087a30ddfb"
+          "content_hash": "sha256:e74a37486eeef41403b159820e4e68da7b690c63e4292e38ec6d941d4d6c6896"
         },
         {
           "pericope_id": "luke_01_visitation",
           "title": "Maria u Elżbiety",
           "verse_start": 39,
           "verse_end": 45,
-          "content_hash": "sha256:7204aa1ac655e4054a8468ab410ee925a903510dbea9b695e02f52cc657c14f9"
+          "content_hash": "sha256:9db82ac2deb2cd1075becbbfa72ac346e4dab38eef0fb9baa67ab11cecccdf2c"
         },
         {
           "pericope_id": "luke_01_magnificat",
           "title": "Pieśń Marii",
           "verse_start": 46,
           "verse_end": 56,
-          "content_hash": "sha256:56d2860039ede8f173f0703c9802c0bc147a5246302fc12a6eaed6c9b680c7ce"
+          "content_hash": "sha256:b2277db1589e3a4d9dae20c4a2287604fb4a580ddd7f343c29dc2a2669137879"
         },
         {
           "pericope_id": "luke_01_birth_and_naming",
           "title": "Narodziny Jana",
           "verse_start": 57,
           "verse_end": 66,
-          "content_hash": "sha256:d1c489c9de98ab3f867250ede4179331f0dab56eb2ce416625241c281b971b92"
+          "content_hash": "sha256:47a84f51de33c3c6b5b8e6cc3b3a00fd6f0a239b748c55ca5204077bff62c6ba"
         },
         {
           "pericope_id": "luke_01_benedictus",
           "title": "Proroctwo Zachariasza",
           "verse_start": 67,
           "verse_end": 79,
-          "content_hash": "sha256:73fcf4c69eb6fd76c1b50c7859160be45368b44693a451b3c7efb28c6df7bcc5"
+          "content_hash": "sha256:7e83569f051e4f38a4ce75ae27a2cd4f09066909314f26dc38893e42b59d623c"
         },
         {
           "pericope_id": "luke_01_coda",
           "title": "Dorastanie na pustkowiu",
           "verse_start": 80,
           "verse_end": 80,
-          "content_hash": "sha256:2e4a1a9bcd13df8ffd831869dfa6753a00d7ffb0aa52313ac512860ee6cfc853"
+          "content_hash": "sha256:3b46aae88a1082f0c88ef1e305272c09aff2bce4b8770378084bc4f2282ea15a"
+        }
+      ]
+    },
+    {
+      "id": "8fe9934255a3",
+      "label": "2026-07-01 — publish: 24 updated",
+      "date": "2026-07-01T04:08:48Z",
+      "source_usfm_version": "v5.2.0",
+      "aperto_bible_sha": "8fe9934255a30fd4d91d993fbd39ca95a378cc62",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_01_prologue",
+          "title": "Do Teofila",
+          "verse_start": 1,
+          "verse_end": 4
+        },
+        {
+          "pericope_id": "luke_01_zechariah_announcement",
+          "title": "Obietnica złożona staremu kapłanowi",
+          "verse_start": 5,
+          "verse_end": 25
+        },
+        {
+          "pericope_id": "luke_01_annunciation_to_mary",
+          "title": "Zwiastowanie narodzin Jezusa",
+          "verse_start": 26,
+          "verse_end": 38
+        },
+        {
+          "pericope_id": "luke_01_visitation",
+          "title": "Maria u Elżbiety",
+          "verse_start": 39,
+          "verse_end": 45
+        },
+        {
+          "pericope_id": "luke_01_magnificat",
+          "title": "Pieśń Marii",
+          "verse_start": 46,
+          "verse_end": 56
+        },
+        {
+          "pericope_id": "luke_01_birth_and_naming",
+          "title": "Narodziny Jana",
+          "verse_start": 57,
+          "verse_end": 66
+        },
+        {
+          "pericope_id": "luke_01_benedictus",
+          "title": "Proroctwo Zachariasza",
+          "verse_start": 67,
+          "verse_end": 79
+        },
+        {
+          "pericope_id": "luke_01_coda",
+          "title": "Dorastanie na pustkowiu",
+          "verse_start": 80,
+          "verse_end": 80
+        }
+      ]
+    },
+    {
+      "id": "77fb655d48b3",
+      "label": "2026-06-30 — publish: 3 updated",
+      "date": "2026-06-30T14:17:44Z",
+      "source_usfm_version": "v5.1.0",
+      "aperto_bible_sha": "77fb655d48b3f3392ed8e4c59279a0f9aa04f588",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_01_prologue",
+          "title": "Do Teofila",
+          "verse_start": 1,
+          "verse_end": 4
+        },
+        {
+          "pericope_id": "luke_01_zechariah_announcement",
+          "title": "Obietnica złożona staremu kapłanowi",
+          "verse_start": 5,
+          "verse_end": 25
+        },
+        {
+          "pericope_id": "luke_01_annunciation_to_mary",
+          "title": "Zwiastowanie narodzin Jezusa",
+          "verse_start": 26,
+          "verse_end": 38
+        },
+        {
+          "pericope_id": "luke_01_visitation",
+          "title": "Maria u Elżbiety",
+          "verse_start": 39,
+          "verse_end": 45
+        },
+        {
+          "pericope_id": "luke_01_magnificat",
+          "title": "Pieśń Marii",
+          "verse_start": 46,
+          "verse_end": 56
+        },
+        {
+          "pericope_id": "luke_01_birth_and_naming",
+          "title": "Narodziny Jana",
+          "verse_start": 57,
+          "verse_end": 66
+        },
+        {
+          "pericope_id": "luke_01_benedictus",
+          "title": "Proroctwo Zachariasza",
+          "verse_start": 67,
+          "verse_end": 79
+        },
+        {
+          "pericope_id": "luke_01_coda",
+          "title": "Dorastanie na pustkowiu",
+          "verse_start": 80,
+          "verse_end": 80
+        }
+      ]
+    },
+    {
+      "id": "1a971fbbd56a",
+      "label": "2026-06-22 — publish: 5 updated",
+      "date": "2026-06-22T13:10:55Z",
+      "source_usfm_version": "v5.0.1",
+      "aperto_bible_sha": "1a971fbbd56a287d100237d1d107c77cb3d63f29",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "luke_01_prologue",
+          "title": "Do Teofila",
+          "verse_start": 1,
+          "verse_end": 4
+        },
+        {
+          "pericope_id": "luke_01_zechariah_announcement",
+          "title": "Obietnica złożona staremu kapłanowi",
+          "verse_start": 5,
+          "verse_end": 25
+        },
+        {
+          "pericope_id": "luke_01_annunciation_to_mary",
+          "title": "Zwiastowanie narodzin Jezusa",
+          "verse_start": 26,
+          "verse_end": 38
+        },
+        {
+          "pericope_id": "luke_01_visitation",
+          "title": "Maria u Elżbiety",
+          "verse_start": 39,
+          "verse_end": 45
+        },
+        {
+          "pericope_id": "luke_01_magnificat",
+          "title": "Pieśń Marii",
+          "verse_start": 46,
+          "verse_end": 56
+        },
+        {
+          "pericope_id": "luke_01_birth_and_naming",
+          "title": "Narodziny Jana",
+          "verse_start": 57,
+          "verse_end": 66
+        },
+        {
+          "pericope_id": "luke_01_benedictus",
+          "title": "Proroctwo Zachariasza",
+          "verse_start": 67,
+          "verse_end": 79
+        },
+        {
+          "pericope_id": "luke_01_coda",
+          "title": "Dorastanie na pustkowiu",
+          "verse_start": 80,
+          "verse_end": 80
         }
       ]
     },
     {
       "id": "7b02926ffe18",
       "label": "2026-06-21 — publish: 2 updated",
-      "date": "2026-06-21T21:03:42+00:00",
+      "date": "2026-06-21T21:03:42Z",
       "source_usfm_version": "v5.0.1",
       "aperto_bible_sha": "7b02926ffe18b36b948fe5ec8a6f4283c03e80d5",
       "current": false,
@@ -130,7 +304,7 @@
     {
       "id": "a4d72abee605",
       "label": "2026-06-21 — publish: 2 updated",
-      "date": "2026-06-21T19:07:30+00:00",
+      "date": "2026-06-21T19:07:30Z",
       "source_usfm_version": "v5.0.1",
       "aperto_bible_sha": "a4d72abee605bc395b8da6d5ae5bd27a69f76b9b",
       "current": false,
@@ -188,7 +362,7 @@
     {
       "id": "4dc6f715fb98",
       "label": "2026-06-21 — publish: 2 updated",
-      "date": "2026-06-21T17:09:04+00:00",
+      "date": "2026-06-21T17:09:04Z",
       "source_usfm_version": "v5.0.1",
       "aperto_bible_sha": "4dc6f715fb986d42d04ed323c07456b62b38853c",
       "current": false,
@@ -246,7 +420,7 @@
     {
       "id": "f94d0332f007",
       "label": "2026-06-21 — publish: 4 updated",
-      "date": "2026-06-21T16:19:29+00:00",
+      "date": "2026-06-21T16:19:29Z",
       "source_usfm_version": "v5.0.1",
       "aperto_bible_sha": "f94d0332f00704785e550982ba730f23c6d9de34",
       "current": false,
@@ -304,7 +478,7 @@
     {
       "id": "f4b334cdaa9a",
       "label": "2026-06-21 — publish: 7 updated",
-      "date": "2026-06-21T14:55:54+00:00",
+      "date": "2026-06-21T14:55:54Z",
       "source_usfm_version": "v5.0.1",
       "aperto_bible_sha": "f4b334cdaa9a6e644415b802763b8425228061a3",
       "current": false,
@@ -362,7 +536,7 @@
     {
       "id": "6b9ddd1c1d70",
       "label": "2026-06-21 — publish: 10 updated",
-      "date": "2026-06-21T11:39:06+00:00",
+      "date": "2026-06-21T11:39:06Z",
       "source_usfm_version": "v5.0.1",
       "aperto_bible_sha": "6b9ddd1c1d7010abaf51087420e74983228b4066",
       "current": false,
@@ -420,7 +594,7 @@
     {
       "id": "bd8d4f60d326",
       "label": "2026-06-16 — publish: 1 updated",
-      "date": "2026-06-16T17:46:10+00:00",
+      "date": "2026-06-16T17:46:10Z",
       "source_usfm_version": "v5.0.1",
       "aperto_bible_sha": "bd8d4f60d32678400da1f384db46e3e43a4a2b34",
       "current": false,
@@ -478,7 +652,7 @@
     {
       "id": "99d86020d8bb",
       "label": "2026-06-13 — publish: 5 updated",
-      "date": "2026-06-13T14:58:15+00:00",
+      "date": "2026-06-13T14:58:15Z",
       "source_usfm_version": "v4.9.2",
       "aperto_bible_sha": "99d86020d8bbc7353153ce04fabe46e9a0574da4",
       "current": false,
@@ -536,7 +710,7 @@
     {
       "id": "0cdab3d5ca17",
       "label": "2026-06-13 — publish: 5 updated",
-      "date": "2026-06-13T10:28:03+00:00",
+      "date": "2026-06-13T10:28:03Z",
       "source_usfm_version": "v4.9.1",
       "aperto_bible_sha": "0cdab3d5ca177ba6ab4fe1609858f7dff1ec6812",
       "current": false,

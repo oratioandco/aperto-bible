@@ -6,7 +6,7 @@
     {
       "id": "1a971fbbd56a",
       "label": "2026-06-22 — publish: 5 updated",
-      "date": "2026-06-22T13:10:55+00:00",
+      "date": "2026-06-22T13:10:55Z",
       "source_usfm_version": "v4.7.0",
       "aperto_bible_sha": "1a971fbbd56a287d100237d1d107c77cb3d63f29",
       "current": true,
@@ -30,14 +30,14 @@
           "title": "Die verlorene Drachme",
           "verse_start": 8,
           "verse_end": 10,
-          "content_hash": "sha256:ddbc1fe6090741fafd7fa9dbeb95b097cf5fc7ba87c2840d5b24e6b21d02bdab"
+          "content_hash": "sha256:e0f5acaa8e988e66288e1a00cb8b7ede0de7bdd78d2a52c10f427e732395235b"
         },
         {
           "pericope_id": "luke_15_prodigal_younger_son",
           "title": "Der jüngere Sohn",
           "verse_start": 11,
           "verse_end": 24,
-          "content_hash": "sha256:0e71d74907d817d89db6efb84f51dd7a65ae9363ad8a81de49a5c47a10f1663e"
+          "content_hash": "sha256:c22adddda946dd9d6410b69e12b14821eeaf3f47878bdf91bbb564138452e749"
         },
         {
           "pericope_id": "luke_15_prodigal_elder_son",
@@ -51,7 +51,7 @@
     {
       "id": "7e8b6a9cc252",
       "label": "2026-06-22 — publish: 9 updated",
-      "date": "2026-06-22T04:18:17+00:00",
+      "date": "2026-06-22T04:18:17Z",
       "source_usfm_version": "v4.7.0",
       "aperto_bible_sha": "7e8b6a9cc252e01fcf784f2bd8da4c4c08cc2495",
       "current": false,
@@ -91,7 +91,7 @@
     {
       "id": "33005039537a",
       "label": "2026-06-21 — publish: 5 updated",
-      "date": "2026-06-21T05:40:36+00:00",
+      "date": "2026-06-21T05:40:36Z",
       "source_usfm_version": "v4.7.0",
       "aperto_bible_sha": "33005039537a7577362cd1e26bc32faebb973e0d",
       "current": false,
@@ -131,7 +131,7 @@
     {
       "id": "174b204bf799",
       "label": "2026-06-18 — publish: 2 updated",
-      "date": "2026-06-18T16:09:13+00:00",
+      "date": "2026-06-18T16:09:13Z",
       "source_usfm_version": "v4.7.0",
       "aperto_bible_sha": "174b204bf79959abf8a531c0d8a3e63444551e6b",
       "current": false,

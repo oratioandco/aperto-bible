@@ -4,11 +4,11 @@
   "lang": "AB-DE",
   "versions": [
     {
-      "id": "bb03f8f24d0d",
-      "label": "2026-07-09 — publish: 19 updated",
-      "date": "2026-07-09T18:57:23Z",
-      "source_usfm_version": "v5.0.0",
-      "aperto_bible_sha": "bb03f8f24d0d1b6225ff4b1b1407c70e06cef93c",
+      "id": "4334ba76bc0b",
+      "label": "2026-06-24 — publish: 3 added, 30 updated",
+      "date": "2026-06-24T15:12:52+00:00",
+      "source_usfm_version": "v4.5.0",
+      "aperto_bible_sha": "4334ba76bc0bda4d2892c2493491b90a7f2d58bb",
       "current": true,
       "passages": [
         {
@@ -21,25 +21,9 @@
       ]
     },
     {
-      "id": "4334ba76bc0b",
-      "label": "2026-06-24 — publish: 3 added, 30 updated",
-      "date": "2026-06-24T15:12:52Z",
-      "source_usfm_version": "v4.5.0",
-      "aperto_bible_sha": "4334ba76bc0bda4d2892c2493491b90a7f2d58bb",
-      "current": false,
-      "passages": [
-        {
-          "pericope_id": "psalms_23_001",
-          "title": "Psalms 23",
-          "verse_start": 1,
-          "verse_end": 6
-        }
-      ]
-    },
-    {
       "id": "33005039537a",
       "label": "2026-06-21 — publish: 5 updated",
-      "date": "2026-06-21T05:40:36Z",
+      "date": "2026-06-21T05:40:36+00:00",
       "source_usfm_version": "v4.5.0",
       "aperto_bible_sha": "33005039537a7577362cd1e26bc32faebb973e0d",
       "current": false,
@@ -53,43 +37,11 @@
       ]
     },
     {
-      "id": "7da2101f6c62",
-      "label": "2026-06-11 — Publish: 165 file(s) updated, 165 changed",
-      "date": "2026-06-11T17:22:07+02:00",
+      "id": "4bf0d77f95ac",
+      "label": "2026-06-14 — Add workflow_dispatch trigger to validate-usfm.yml",
+      "date": "2026-06-14T06:26:01+02:00",
       "source_usfm_version": "v4.5.0",
-      "aperto_bible_sha": "7da2101f6c6288ba6b882f69552f506a3701a362",
-      "current": false,
-      "passages": [
-        {
-          "pericope_id": "psalms_23_001",
-          "title": "Psalms 23",
-          "verse_start": 1,
-          "verse_end": 6
-        }
-      ]
-    },
-    {
-      "id": "c4761e699390",
-      "label": "2026-06-05 — Publish validated sampler (de/en/pl): Luke 1, Luke 15, Ps 23",
-      "date": "2026-06-05T17:36:54+02:00",
-      "source_usfm_version": "v4.5",
-      "aperto_bible_sha": "c4761e6993906062d136642b611c34c234b9edba",
-      "current": false,
-      "passages": [
-        {
-          "pericope_id": "psalms_23_001",
-          "title": "Psalms 23",
-          "verse_start": 1,
-          "verse_end": 6
-        }
-      ]
-    },
-    {
-      "id": "b1b85f87042a",
-      "label": "2026-04-29 — Initial release: Aperto Bible — Luke in 3 languages + 28 tra",
-      "date": "2026-04-29T12:21:13+02:00",
-      "source_usfm_version": "v4.3",
-      "aperto_bible_sha": "b1b85f87042a8eac92e95acdee70f88950c14bf6",
+      "aperto_bible_sha": "4bf0d77f95ac42a772be779470a490cee26f705a",
       "current": false,
       "passages": [
         {

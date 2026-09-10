@@ -4,11 +4,11 @@
   "lang": "AB-EN",
   "versions": [
     {
-      "id": "49c1d8267375",
-      "label": "2026-06-22 — publish: 9 updated",
-      "date": "2026-06-22T18:50:54+00:00",
+      "id": "4334ba76bc0b",
+      "label": "2026-06-24 — publish: 3 added, 30 updated",
+      "date": "2026-06-24T15:12:52Z",
       "source_usfm_version": "v4.7.3",
-      "aperto_bible_sha": "49c1d8267375f79661b3c789cb896c1e95aa913e",
+      "aperto_bible_sha": "4334ba76bc0bda4d2892c2493491b90a7f2d58bb",
       "current": true,
       "passages": [
         {
@@ -37,14 +37,48 @@
           "title": "The Speech on the Areopagus",
           "verse_start": 22,
           "verse_end": 34,
-          "content_hash": "sha256:02b3d09f49129891bf8e605e17cf2ae110804a92ea4e4d3710d23597a011603b"
+          "content_hash": "sha256:14d3c35cefb55702c514a71be2f25a994c2653057986b06c75e67f84688d77e9"
+        }
+      ]
+    },
+    {
+      "id": "49c1d8267375",
+      "label": "2026-06-22 — publish: 9 updated",
+      "date": "2026-06-22T18:50:54Z",
+      "source_usfm_version": "v4.7.3",
+      "aperto_bible_sha": "49c1d8267375f79661b3c789cb896c1e95aa913e",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "acts_17_thessalonica_beroea",
+          "title": "Uproar in Thessalonica",
+          "verse_start": 1,
+          "verse_end": 9
+        },
+        {
+          "pericope_id": "acts_17_ii_beroea",
+          "title": "Beroea: A People Who Examined Day by Day",
+          "verse_start": 10,
+          "verse_end": 15
+        },
+        {
+          "pericope_id": "acts_17_athens_agora_frame",
+          "title": "Paul in Athens",
+          "verse_start": 16,
+          "verse_end": 21
+        },
+        {
+          "pericope_id": "acts_17_areopagus_speech",
+          "title": "The Speech on the Areopagus",
+          "verse_start": 22,
+          "verse_end": 34
         }
       ]
     },
     {
       "id": "99d86020d8bb",
       "label": "2026-06-13 — publish: 5 updated",
-      "date": "2026-06-13T14:58:15+00:00",
+      "date": "2026-06-13T14:58:15Z",
       "source_usfm_version": "v4.7.3",
       "aperto_bible_sha": "99d86020d8bbc7353153ce04fabe46e9a0574da4",
       "current": false,
@@ -78,7 +112,7 @@
     {
       "id": "0cdab3d5ca17",
       "label": "2026-06-13 — publish: 5 updated",
-      "date": "2026-06-13T10:28:03+00:00",
+      "date": "2026-06-13T10:28:03Z",
       "source_usfm_version": "v4.7.2",
       "aperto_bible_sha": "0cdab3d5ca177ba6ab4fe1609858f7dff1ec6812",
       "current": false,
@@ -112,7 +146,7 @@
     {
       "id": "f89f9221f1b2",
       "label": "2026-06-13 — publish: 4 updated",
-      "date": "2026-06-13T04:29:04+00:00",
+      "date": "2026-06-13T04:29:04Z",
       "source_usfm_version": "v4.7.1",
       "aperto_bible_sha": "f89f9221f1b2ca939759d9afea46e76f1a74609d",
       "current": false,
@@ -146,7 +180,7 @@
     {
       "id": "295c7e481f65",
       "label": "2026-06-12 — publish: 3 added, 160 pruned",
-      "date": "2026-06-12T04:36:47+00:00",
+      "date": "2026-06-12T04:36:47Z",
       "source_usfm_version": "v4.7.0",
       "aperto_bible_sha": "295c7e481f65bb50542dacd5a24598bd679c9c27",
       "current": false,

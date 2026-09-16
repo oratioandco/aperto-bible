@@ -4,11 +4,11 @@
   "lang": "AB-PL",
   "versions": [
     {
-      "id": "f4b334cdaa9a",
-      "label": "2026-06-21 — publish: 7 updated",
-      "date": "2026-06-21T14:55:54+00:00",
-      "source_usfm_version": "v4.5.1",
-      "aperto_bible_sha": "f4b334cdaa9a6e644415b802763b8425228061a3",
+      "id": "58d1a549fa7b",
+      "label": "2026-09-16 — publish: 22 updated, 2 pruned",
+      "date": "2026-09-16T09:46:14+02:00",
+      "source_usfm_version": "v4.6.1",
+      "aperto_bible_sha": "58d1a549fa7b8e414e40918a5ccce8a31ef01e06",
       "current": true,
       "passages": [
         {
@@ -16,14 +16,30 @@
           "title": "Psalms 23",
           "verse_start": 1,
           "verse_end": 6,
-          "content_hash": "sha256:1aee1d003959b5918b3a259607cf33b399fd2912d9cd0b3d78493a5039cd6d85"
+          "content_hash": "sha256:cc46b51ae1f1ff7ba1d242a5e367f653789c1c604d80fcbe697088245e9f8b11"
+        }
+      ]
+    },
+    {
+      "id": "f4b334cdaa9a",
+      "label": "2026-06-21 — publish: 7 updated",
+      "date": "2026-06-21T14:55:54Z",
+      "source_usfm_version": "v4.5.1",
+      "aperto_bible_sha": "f4b334cdaa9a6e644415b802763b8425228061a3",
+      "current": false,
+      "passages": [
+        {
+          "pericope_id": "psalms_23_001",
+          "title": "Psalms 23",
+          "verse_start": 1,
+          "verse_end": 6
         }
       ]
     },
     {
       "id": "6b9ddd1c1d70",
       "label": "2026-06-21 — publish: 10 updated",
-      "date": "2026-06-21T11:39:06+00:00",
+      "date": "2026-06-21T11:39:06Z",
       "source_usfm_version": "v4.5.1",
       "aperto_bible_sha": "6b9ddd1c1d7010abaf51087420e74983228b4066",
       "current": false,
@@ -39,7 +55,7 @@
     {
       "id": "99d86020d8bb",
       "label": "2026-06-13 — publish: 5 updated",
-      "date": "2026-06-13T14:58:15+00:00",
+      "date": "2026-06-13T14:58:15Z",
       "source_usfm_version": "v4.5.1",
       "aperto_bible_sha": "99d86020d8bbc7353153ce04fabe46e9a0574da4",
       "current": false,

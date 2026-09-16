@@ -6,7 +6,7 @@
     {
       "id": "f4b334cdaa9a",
       "label": "2026-06-21 — publish: 7 updated",
-      "date": "2026-06-21T14:55:54+00:00",
+      "date": "2026-06-21T14:55:54Z",
       "source_usfm_version": "v4.6.1",
       "aperto_bible_sha": "f4b334cdaa9a6e644415b802763b8425228061a3",
       "current": true,
@@ -51,7 +51,7 @@
     {
       "id": "6b9ddd1c1d70",
       "label": "2026-06-21 — publish: 10 updated",
-      "date": "2026-06-21T11:39:06+00:00",
+      "date": "2026-06-21T11:39:06Z",
       "source_usfm_version": "v4.6.1",
       "aperto_bible_sha": "6b9ddd1c1d7010abaf51087420e74983228b4066",
       "current": false,
@@ -91,7 +91,7 @@
     {
       "id": "0cdab3d5ca17",
       "label": "2026-06-13 — publish: 5 updated",
-      "date": "2026-06-13T10:28:03+00:00",
+      "date": "2026-06-13T10:28:03Z",
       "source_usfm_version": "v4.6.1",
       "aperto_bible_sha": "0cdab3d5ca177ba6ab4fe1609858f7dff1ec6812",
       "current": false,

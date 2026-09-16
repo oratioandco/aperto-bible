@@ -4,11 +4,11 @@
   "lang": "AB-EN",
   "versions": [
     {
-      "id": "4334ba76bc0b",
-      "label": "2026-06-24 — publish: 3 added, 30 updated",
-      "date": "2026-06-24T15:12:52Z",
+      "id": "7da2101f6c62",
+      "label": "2026-06-11 — Publish: 165 file(s) updated, 165 changed",
+      "date": "2026-06-11T17:22:07+02:00",
       "source_usfm_version": "v4.5.0",
-      "aperto_bible_sha": "4334ba76bc0bda4d2892c2493491b90a7f2d58bb",
+      "aperto_bible_sha": "7da2101f6c6288ba6b882f69552f506a3701a362",
       "current": true,
       "passages": [
         {
@@ -17,22 +17,6 @@
           "verse_start": 1,
           "verse_end": 9,
           "content_hash": "sha256:e61df5acfac6aaa30f6e2319cf8178b1b748545a0ddfc1af3f60485dd1b90468"
-        }
-      ]
-    },
-    {
-      "id": "7da2101f6c62",
-      "label": "2026-06-11 — Publish: 165 file(s) updated, 165 changed",
-      "date": "2026-06-11T17:22:07+02:00",
-      "source_usfm_version": "v4.5.0",
-      "aperto_bible_sha": "7da2101f6c6288ba6b882f69552f506a3701a362",
-      "current": false,
-      "passages": [
-        {
-          "pericope_id": "psalms_137_001",
-          "title": "Psalms 137",
-          "verse_start": 1,
-          "verse_end": 9
         }
       ]
     },
